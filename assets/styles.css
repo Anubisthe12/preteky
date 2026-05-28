@@ -1,0 +1,233 @@
+:root {
+  --bg: #12151f;
+  --card: #1e2534;
+  --panel: #19202c;
+  --text: #e7ebf5;
+  --muted: #9aa4c1;
+  --accent: #e63946;
+  --accent-2: #3d90ff;
+  --border: rgba(255,255,255,0.08);
+  --shadow: 0 18px 50px rgba(0,0,0,0.35);
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Inter, system-ui, sans-serif;
+  color: var(--text);
+  background: radial-gradient(circle at top left, rgba(68, 153, 255, 0.12), transparent 20%),
+              radial-gradient(circle at bottom right, rgba(230, 57, 70, 0.10), transparent 18%),
+              var(--bg);
+}
+header {
+  padding: 32px 24px 12px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+h1 {
+  margin: 0 0 8px;
+  font-size: clamp(2rem, 2.8vw, 3rem);
+  letter-spacing: -0.04em;
+}
+p.lead {
+  margin: 0;
+  color: var(--muted);
+  max-width: 760px;
+  line-height: 1.7;
+}
+.layout {
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr);
+  gap: 24px;
+  max-width: 1280px;
+  margin: 24px auto 40px;
+  padding: 0 24px 32px;
+}
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  padding: 22px;
+  box-shadow: var(--shadow);
+}
+.panel h2 {
+  margin: 0 0 18px;
+  font-size: 1.1rem;
+  color: var(--text);
+}
+.filter-toggle {
+  display: none;
+}
+.panel-body {
+  display: contents;
+}
+.field {
+  display: grid;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+.field label {
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+.field input,
+.field select,
+.checkbox-list {
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: #161c2d;
+}
+.field input,
+.field select {
+  color: var(--text);
+  padding: 12px 14px;
+  font-size: 0.96rem;
+}
+.checkbox-list {
+  display: grid;
+  gap: 10px;
+  padding: 12px 14px;
+}
+.checkbox-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--text);
+  font-size: 0.95rem;
+}
+.checkbox-item input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--accent);
+}
+.field small {
+  color: var(--muted);
+  line-height: 1.4;
+}
+.button-row {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+.button {
+  border: none;
+  border-radius: 14px;
+  padding: 12px 18px;
+  cursor: pointer;
+  font-weight: 600;
+  color: white;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.button:hover { transform: translateY(-1px); }
+.button.primary { background: var(--accent); box-shadow: 0 12px 24px rgba(230,57,70,0.24); }
+.button.secondary { background: rgba(255,255,255,0.08); color: var(--text); }
+.layout > section {
+  min-width: 0;
+}
+.cards {
+  overflow-x: auto;
+}
+.race-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+}
+.race-table thead th {
+  background: var(--panel);
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 9px 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+.race-table tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background 0.12s;
+}
+.race-table tbody tr:hover {
+  background: rgba(255,255,255,0.04);
+}
+.race-table td {
+  padding: 7px 10px;
+  color: var(--text);
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.race-table td.td-date {
+  color: var(--accent);
+  font-weight: 600;
+}
+.race-table td.td-name {
+  white-space: normal;
+  min-width: 160px;
+}
+.race-table td.td-name a {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 500;
+}
+.race-table td.td-name a:hover {
+  color: var(--accent-2);
+  text-decoration: underline;
+}
+.note {
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-top: 6px;
+}
+.status {
+  margin: 0 0 18px;
+  font-size: 0.98rem;
+  color: var(--muted);
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    padding: 0 12px 24px;
+    margin-top: 12px;
+  }
+  header { padding: 16px 12px 6px; }
+  h1 { font-size: 1.5rem; }
+
+  .panel { padding: 0; border-radius: 16px; overflow: hidden; }
+
+  .filter-toggle {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 16px;
+    background: none;
+    border: none;
+    color: var(--text);
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: left;
+  }
+  .toggle-icon { font-size: 1rem; transition: transform 0.2s; }
+  .filter-toggle[aria-expanded="true"] .toggle-icon { transform: rotate(180deg); }
+
+  .panel-body {
+    display: none;
+    padding: 0 16px 16px;
+  }
+  .panel-body.is-open { display: block; }
+
+  .field { margin-bottom: 12px; }
+  .button-row { gap: 8px; }
+  .button { flex: 1; text-align: center; }
+  .col-optional { display: none; }
+  .race-table td { white-space: normal; }
+  .race-table td.td-name { min-width: 0; }
+}
