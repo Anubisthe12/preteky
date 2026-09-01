@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Normalizuje all_preteky.json na konzistentné schéma:
+Normalizuje data/all_preteky.json na konzistentné schéma:
 
   nazov        str   - názov pretekov
   zdroj        str   - zdrojový portál
@@ -14,13 +14,16 @@ Normalizuje all_preteky.json na konzistentné schéma:
   organizator  str   - organizátor; "" ak neznámy
   popis        str   - krátky popis (bez kontaktov)
 
-Vstup:  all_preteky.json
-Výstup: all_preteky_norm.json
+Vstup:  data/all_preteky.json
+Výstup: data/all_preteky_norm.json
 """
 
 import json
 import re
 from html import unescape
+from pathlib import Path
+
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 MONTHS_SK = {
     "jan": 1, "feb": 2, "mar": 3, "apr": 4,
@@ -263,7 +266,7 @@ def normalize(r: dict) -> dict:
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    with open("all_preteky.json", encoding="utf-8") as f:
+    with open(DATA_DIR / "all_preteky.json", encoding="utf-8") as f:
         data = json.load(f)
 
     normalized = [normalize(r) for r in data]
@@ -271,13 +274,13 @@ def main():
     # Zoraď: najprv záznamy s dátumom, potom bez
     normalized.sort(key=lambda r: r["datum"] or "0000", reverse=True)
 
-    out = "all_preteky_norm.json"
+    out = DATA_DIR / "all_preteky_norm.json"
     with open(out, "w", encoding="utf-8") as f:
         json.dump(normalized, f, ensure_ascii=False, indent=2)
 
     # Filtered — len záznamy s minimálnymi poľami
     filtered = [r for r in normalized if r["nazov"] and r["dlzka"] and r["mesto"]]
-    filtered_out = "preteky_filtered.json"
+    filtered_out = DATA_DIR / "preteky_filtered.json"
     with open(filtered_out, "w", encoding="utf-8") as f:
         json.dump(filtered, f, ensure_ascii=False, indent=2)
 

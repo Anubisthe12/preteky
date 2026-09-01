@@ -6,8 +6,9 @@ Zdroje:
   pretekaj.sk     — HTML Bootstrap karty, ?perpage=50
   hrdosport.sk    — HTML ASP.NET tabuľka, ?SelectedYear=YYYY (roky 2014-2027)
   registrujsa.sk  — HTML SSR Bootstrap karty, ?rok=YYYY (roky 2019-2026)
+  vsetkybehy.sk   — HTML Laravel/Tailwind karty, ?page=N (/ = nadchádzajúce, /archiv)
 
-Výstup: multi_preteky.json
+Výstup: data/multi_preteky.json
 """
 
 import json
@@ -15,8 +16,11 @@ import re
 import sys
 import time
 from html import unescape
+from pathlib import Path
 from urllib.request import urlopen, Request
 from urllib.error import URLError, HTTPError
+
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 DELAY = 0.4
 
@@ -98,7 +102,7 @@ def scrape_pretekaj() -> list[dict]:
 
 # ── hrdosport.sk ────────────────────────────────────────────────────────────
 
-def _parse_hrdosport_table(html: str, year: int) -> list[dict]:
+def _parse_hrdosport_table(html: str, year: int, month: int) -> list[dict]:
     races = []
     tables = re.findall(r"<table[^>]*>(.*?)</table>", html, re.DOTALL)
     if not tables:
@@ -120,7 +124,7 @@ def _parse_hrdosport_table(html: str, year: int) -> list[dict]:
         races.append({
             "zdroj": "hrdosport.sk",
             "nazov": nazov,
-            "url": f"https://www.hrdosport.sk/Events?SelectedYear={year}",
+            "url": f"https://www.hrdosport.sk/Events?SelectedYear={year}&SelectedMonth={month}",
             "datum": datum_raw,
             "mesto": mesto,
             "info": {
@@ -133,25 +137,29 @@ def _parse_hrdosport_table(html: str, year: int) -> list[dict]:
 
 def scrape_hrdosport() -> list[dict]:
     """
-    Zdroj: https://www.hrdosport.sk/Events?SelectedYear=YYYY
+    Zdroj: https://www.hrdosport.sk/Events?SelectedYear=YYYY&SelectedMonth=M
     Stránka: Bootstrap + ASP.NET MVC tabuľka
       td[1] → dátum  td[2] → názov  td[3] → mesto
       PDF linky na propozície a výsledky
-    Roky: 2014–2027
+    Roky: 2014–2027. SelectedMonth je povinný — bez neho stránka
+    vráti iba aktuálny mesiac, preto iterujeme rok × mesiac.
     """
     print("hrdosport.sk …")
     all_races: list[dict] = []
     for year in range(2014, 2028):
-        time.sleep(DELAY)
-        url = f"https://www.hrdosport.sk/Events?SelectedYear={year}"
-        try:
-            html = fetch(url)
-            batch = _parse_hrdosport_table(html, year)
-            if batch:
+        year_count = 0
+        for month in range(1, 13):
+            time.sleep(DELAY)
+            url = f"https://www.hrdosport.sk/Events?SelectedYear={year}&SelectedMonth={month}"
+            try:
+                html = fetch(url)
+                batch = _parse_hrdosport_table(html, year, month)
                 all_races.extend(batch)
-                print(f"  {year}: {len(batch)} pretekov")
-        except (URLError, HTTPError) as e:
-            print(f"  {year}: chyba — {e}", file=sys.stderr)
+                year_count += len(batch)
+            except (URLError, HTTPError) as e:
+                print(f"  {year}-{month:02d}: chyba — {e}", file=sys.stderr)
+        if year_count:
+            print(f"  {year}: {year_count} pretekov")
     return all_races
 
 
@@ -236,6 +244,151 @@ def scrape_registrujsa() -> list[dict]:
         return []
 
 
+# ── vsetkybehy.sk ───────────────────────────────────────────────────────────
+
+VB_BASE = "https://vsetkybehy.sk"
+VB_RE = re.escape(VB_BASE)
+VB_MAX_PAGES = 60
+
+
+def _vb_year(slug: str) -> str:
+    """Rok zo slugu: 'ms-hamburg-74-2026'→'2026', 'dojcanska-9-2026-2'→'2026'."""
+    m = re.search(r"(20\d{2})(?:-\d+)?$", slug)
+    return m.group(1) if m else ""
+
+
+def _vb_dlzky(discipliny: list[str]) -> str:
+    """Vytiahne km z názvov disciplín: 'Maratón (42.2 km)'→'42.2 km', '10 km'→'10 km'."""
+    out: list[str] = []
+    for d in discipliny:
+        m = re.search(r"\(([\d.,]+)\s*km\)", d) or re.search(r"([\d.,]+)\s*km", d)
+        if not m:
+            continue
+        km = f"{m.group(1).replace(',', '.')} km"
+        if km not in out:
+            out.append(km)
+    return ", ".join(out)
+
+
+def _parse_vsetkybehy(html: str) -> list[dict]:
+    races = []
+    starts = [m.start() for m in re.finditer(r'\sdata-event-name="', html)]
+
+    for i, start in enumerate(starts):
+        blk = html[start : starts[i + 1] if i + 1 < len(starts) else len(html)]
+
+        name_m = re.match(r'\sdata-event-name="([^"]*)"', blk)
+        slug_m = re.search(r'data-event-slug="([^"]+)"', blk)
+        if not name_m or not slug_m:
+            continue
+        slug = slug_m.group(1)
+
+        # Dátum: deň + skratka mesiaca z karty ("30 AUG"), rok zo slugu
+        day_m = re.search(r'class="text-sm font-bold">\s*(\d{1,2})\s+([^\s<]+)\s*<', blk)
+        rok = _vb_year(slug)
+        datum = ""
+        if day_m and rok:
+            datum = f"{rok}-{_month_num(day_m.group(2))}-{day_m.group(1).zfill(2)}"
+
+        cas_m = re.search(r'class="text-\[11px\] opacity-80">[^\d<]*(\d{1,2}:\d{2})', blk)
+
+        # Miesto: odkaz na Google Maps nesie GPS, presné miesto (title) aj mesto (text)
+        loc_m = re.search(
+            r'href="https://www\.google\.com/maps/search/\?api=1&amp;query='
+            r'([-\d.]+),([-\d.]+)"[^>]*title="([^"]*)"[^>]*>\s*([^<]+?)\s*</a>',
+            blk,
+        )
+        kraj_m = re.search(rf'href="{VB_RE}/kraj/([a-z-]+)"', blk)
+        seria_m = re.search(
+            rf'href="{VB_RE}/seria/([a-z0-9-]+)"[^>]*>.*?</svg>\s*([^<]+?)\s*</a>', blk, re.DOTALL
+        )
+
+        # Disciplíny — chip odkazy /preteky/<typ>; trieda ich odlíši od odkazov v navigácii
+        discipliny = [
+            unescape(d).strip()
+            for d in re.findall(
+                rf'href="{VB_RE}/preteky/[a-z0-9-]+"\s*'
+                r'class="hover:underline underline-offset-2">([^<]+)</a>',
+                blk,
+            )
+        ]
+
+        # Externé odkazy (karta ich renderuje 2× — mobil + desktop, berieme prvý)
+        odkazy: dict[str, str] = {}
+        for href, kind in re.findall(
+            r'href="([^"]+)"[^>]*data-analytics-event='
+            r'"(registration|official_site|propositions|results)_click"',
+            blk,
+        ):
+            odkazy.setdefault(kind, unescape(href))
+
+        races.append({
+            "zdroj": "vsetkybehy.sk",
+            "nazov": unescape(name_m.group(1)).strip(),
+            "url": f"{VB_BASE}/podujatie/{slug}",
+            "datum": datum,
+            "mesto": unescape(loc_m.group(4)) if loc_m else "",
+            "popis": ", ".join(discipliny)[:300],
+            "info": {
+                "Miesto": unescape(loc_m.group(3)) if loc_m else "",
+                "Dĺžka trate": _vb_dlzky(discipliny),
+                "Štart": cas_m.group(1) if cas_m else "",
+                "kraj": kraj_m.group(1) if kraj_m else "",
+                "gps": f"{loc_m.group(1)},{loc_m.group(2)}" if loc_m else "",
+                "seria": unescape(seria_m.group(2)) if seria_m else "",
+                "disciplíny": discipliny,
+                "registracia": odkazy.get("registration", ""),
+                "web": odkazy.get("official_site", ""),
+                "propozicie": odkazy.get("propositions", ""),
+                "vysledky": odkazy.get("results", ""),
+            },
+        })
+
+    return races
+
+
+def _scrape_vb_listing(path: str, label: str) -> list[dict]:
+    """Prejde stránkovaný výpis kým vracia karty (25 na stranu)."""
+    races: list[dict] = []
+    for page in range(1, VB_MAX_PAGES + 1):
+        sep = "&" if "?" in path else "?"
+        try:
+            time.sleep(DELAY)
+            html = fetch(f"{VB_BASE}{path}{sep}page={page}")
+        except HTTPError as e:
+            # za poslednou stranou vracia Laravel 404 — normálny koniec stránkovania
+            if e.code != 404:
+                print(f"  {label} str. {page}: chyba — {e}", file=sys.stderr)
+            break
+        except URLError as e:
+            print(f"  {label} str. {page}: chyba — {e}", file=sys.stderr)
+            break
+        batch = _parse_vsetkybehy(html)
+        if not batch:
+            break
+        races.extend(batch)
+        print(f"  {label} str. {page}: {len(batch)} pretekov")
+    return races
+
+
+def scrape_vsetkybehy() -> list[dict]:
+    """
+    Zdroj: https://vsetkybehy.sk/ (nadchádzajúce) + /archiv (odbehnuté), ?page=N
+    Stránka: Laravel/Livewire + Tailwind karty, 25 na stranu
+      [data-event-name] + [data-event-slug]  → názov + URL slug (rok je v slugu)
+      .text-sm.font-bold                     → deň + skratka mesiaca ("30 AUG")
+      odkaz na Google Maps                   → GPS, presné miesto (title) + mesto
+      /kraj/<slug>, /seria/<slug>            → kraj a bežecká séria
+      /preteky/<typ> chipy                   → disciplíny vrátane vzdialeností
+      [data-analytics-event]                 → registrácia, web, propozície, výsledky
+    """
+    print("vsetkybehy.sk …")
+    races = _scrape_vb_listing("/", "nadchádzajúce")
+    races += _scrape_vb_listing("/archiv", "archív")
+    print(f"  {len(races)} pretekov")
+    return races
+
+
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
@@ -243,6 +396,7 @@ def main():
     all_races.extend(scrape_pretekaj())
     all_races.extend(scrape_hrdosport())
     all_races.extend(scrape_registrujsa())
+    all_races.extend(scrape_vsetkybehy())
 
     # Deduplikácia: pre hrdosport (URL nie je unikátna per event) použijem nazov+datum+zdroj
     seen: set[str] = set()
@@ -257,7 +411,7 @@ def main():
     for r in unique:
         by_source[r["zdroj"]] = by_source.get(r["zdroj"], 0) + 1
 
-    out = "multi_preteky.json"
+    out = DATA_DIR / "multi_preteky.json"
     with open(out, "w", encoding="utf-8") as f:
         json.dump(unique, f, ensure_ascii=False, indent=2)
 

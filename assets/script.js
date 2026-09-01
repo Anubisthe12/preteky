@@ -340,35 +340,28 @@ function loadRacesFromJson(data) {
     status.textContent = `${races.length} pretekov načítaných.`;
     applyFilters();
   } catch (error) {
-    status.textContent = 'Neplatný JSON súbor. Skontroluj obsah `all_preteky_norm.json`.';
+    status.textContent = 'Neplatný JSON súbor. Skontroluj obsah `data/all_preteky_norm.json`.';
     cards.innerHTML = `<p class="note">${error.message}</p>`;
   }
 }
 
-async function loadData() {
-  const dataScript = document.getElementById('pretek-data');
-  status.textContent = 'Načítavam all_preteky_norm.json...';
-  try {
-    const response = await fetch('all_preteky_norm.json');
-    if (!response.ok) throw new Error('JSON nenájdený');
-    const data = await response.json();
-    loadRacesFromJson(data);
-    return;
-  } catch (error) {
-    if (dataScript) {
-      try {
-        const data = JSON.parse(dataScript.textContent);
-        loadRacesFromJson(data);
-        return;
-      } catch (fallbackError) {
-        status.textContent = 'Automatické načítanie zlyhalo a fallback tiež zlyhal.';
-        cards.innerHTML = `<p class="note">${error.message}<br/>${fallbackError.message}</p>`;
-        return;
-      }
-    }
+const DATA_URL = 'data/all_preteky_norm.json';
 
-    status.textContent = 'Automatické načítanie zlyhalo. Skontroluj, či je all_preteky_norm.json dostupný.';
-    cards.innerHTML = `<p class="note">${error.message}</p>`;
+async function loadData() {
+  status.textContent = `Načítavam ${DATA_URL}…`;
+  try {
+    const response = await fetch(DATA_URL);
+    if (!response.ok) throw new Error(`HTTP ${response.status} – ${DATA_URL} nenájdený`);
+    loadRacesFromJson(await response.json());
+  } catch (error) {
+    status.textContent = `Nepodarilo sa načítať ${DATA_URL}.`;
+    // file:// blokuje fetch kvôli CORS — stránka musí bežať cez HTTP server
+    const note = location.protocol === 'file:'
+      ? 'Stránka je otvorená cez <code>file://</code>, kde prehliadač fetch blokuje. '
+        + 'Spusť v adresári projektu <code>python3 -m http.server 8000</code> '
+        + 'a otvor <code>http://localhost:8000/</code>.'
+      : `Skontroluj, či <code>${DATA_URL}</code> existuje a je čitateľný.`;
+    cards.innerHTML = `<p class="note">${note}<br/><br/>${error.message}</p>`;
   }
 }
 

@@ -3,7 +3,7 @@
 Scraper pre beh.sk — bezecke preteky
 Scrapuje /terminy/ (stránky 1..N) + /starsie-terminy/ (archív).
 
-Výstup: preteky.json
+Výstup: data/preteky.json
 """
 
 import json
@@ -11,8 +11,11 @@ import re
 import sys
 import time
 from html import unescape
+from pathlib import Path
 from urllib.request import urlopen, Request
 from urllib.error import URLError, HTTPError
+
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 BASE_URL = "https://beh.sk"
 DELAY = 0.4  # sekundy medzi requestmi
@@ -153,7 +156,7 @@ def main():
 
     unique.sort(key=lambda r: r.get("datum", ""), reverse=True)
 
-    out = "preteky.json"
+    out = DATA_DIR / "preteky.json"
     with open(out, "w", encoding="utf-8") as f:
         json.dump(unique, f, ensure_ascii=False, indent=2)
 
