@@ -378,3 +378,15 @@ if (filterToggle && panelBody) {
 }
 
 loadData();
+
+fetch('data/last_update.txt')
+  .then(r => r.ok ? r.text() : null)
+  .then(ts => {
+    if (!ts) return;
+    const d = new Date(ts.trim());
+    if (!isNaN(d)) {
+      document.getElementById('lastUpdate').textContent =
+        'Posledná aktualizácia: ' + d.toLocaleDateString('sk-SK') + ' ' + d.toLocaleTimeString('sk-SK', { hour: '2-digit', minute: '2-digit' });
+    }
+  })
+  .catch(() => {});

@@ -25,6 +25,9 @@ jobs:
           python scripts/merge.py
           python scripts/normalize.py
 
+      - name: Write last update timestamp
+        run: date -u +%Y-%m-%dT%H:%M:%SZ > data/last_update.txt
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
