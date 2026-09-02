@@ -1,5 +1,21 @@
 [
   {
+    "nazov": "Night Run Liptovský Mikuláš",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/night-run-liptovsky-mikulas-14/",
+    "datum": "2027-08-21",
+    "datum_do": "",
+    "mesto": "Liptovský Mikuláš",
+    "dlzka": "10 km, 5 km",
+    "povrch": "asfalt, betón, dlažba",
+    "start_cas": "18:00 hod. - Žiaci, 19:30 hod. 10 km + štafeta 4 x 2,5 km, 20:15 hod. 5 km",
+    "organizator": "Player, s.r.o., Ski Academy Bežkárik o.z.",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Lukačovská 5",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/3-rocnik-lukacovska-5-2027",
@@ -615,21 +631,36 @@
     "popis": ""
   },
   {
-    "nazov": "Beh Jastrabskými vŕškami - memoriál Jána Dobáka",
+    "nazov": "Beh na Husárik – o pohár primátora mesta Čadca",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-na-husarik-2026",
+    "datum": "2026-11-15",
+    "datum_do": "",
+    "mesto": "Čadca",
+    "dlzka": "4 km",
+    "povrch": "",
+    "start_cas": "11:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh na Husárik (4 km)"
+  },
+  {
+    "nazov": "Beh jastrabskými vŕškami - memoriál Jána Dobáka",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/beh-jastrabskymi-vrskami-memorial-jana-dobaka-2026",
     "datum": "2026-11-15",
     "datum_do": "",
     "mesto": "Šarišské Jastrabie",
-    "dlzka": "10 km, 5 km",
+    "dlzka": "10.89 km, 5 km",
     "povrch": "",
     "start_cas": "14:00",
     "organizator": "",
     "tagy": [
-      "ultra",
-      "teren"
+      "beh"
     ],
-    "popis": "Trail 10 km, Hobby beh (5 km), Detské behy"
+    "popis": "Beh jastrabskými vŕškami (10.89 km), Hobby beh (5 km), 5 km"
   },
   {
     "nazov": "Zemplínsky extrém – Beh v múzeu",
@@ -662,22 +693,6 @@
       "beh"
     ],
     "popis": "Minčol (6 km)"
-  },
-  {
-    "nazov": "Zemplínsky extrém: Beh v múzeu jeseň",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/zemplinsky-extrem-beh-v-muzeu-2026",
-    "datum": "2026-11-14",
-    "datum_do": "",
-    "mesto": "Michalovce",
-    "dlzka": "6 km",
-    "povrch": "",
-    "start_cas": "11:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "6 km, Detské behy, 6 km Nordic Walking"
   },
   {
     "nazov": "Beh oslobodenia mesta Strážske",
@@ -728,7 +743,7 @@
     "popis": ""
   },
   {
-    "nazov": "Challenge Airport Run",
+    "nazov": "Airport Challenge Run",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/challenge-airport-run-2026",
     "datum": "2026-11-07",
@@ -1501,6 +1516,22 @@
       "asfalt"
     ],
     "popis": "Beh na 6 km, Detské behy"
+  },
+  {
+    "nazov": "Memoriál MuDr. Dušana Zibolena",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/memorial-mudr-dusana-zibolena-2026",
+    "datum": "2026-10-11",
+    "datum_do": "",
+    "mesto": "Vrútky",
+    "dlzka": "4.7 km",
+    "povrch": "",
+    "start_cas": "11:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "4.7 km"
   },
   {
     "nazov": "GARMIN Beh Súľovskými skalami",
@@ -2568,6 +2599,23 @@
     "popis": ""
   },
   {
+    "nazov": "Beh ulicami obce Smižany 2026",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-ulicami-obce-smizany-2026",
+    "datum": "2026-09-23",
+    "datum_do": "",
+    "mesto": "Smižany",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "14:15",
+    "organizator": "",
+    "tagy": [
+      "beh",
+      "asfalt"
+    ],
+    "popis": "10 km, 5 km, Detské behy"
+  },
+  {
     "nazov": "Bešeňovský charitatívny beh pre MAPENZI",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/besenovsky-charitativny-beh-pre-mapenzi-4/",
@@ -3488,6 +3536,22 @@
     "popis": ""
   },
   {
+    "nazov": "Beh Tekvičiarov",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-tekviciarov-6/",
+    "datum": "2026-09-12",
+    "datum_do": "",
+    "mesto": "Žarnovica",
+    "dlzka": "8 km",
+    "povrch": "asfalt",
+    "start_cas": "9:40 hod. hl. kategórie, 9:00 hod. detské kategórie",
+    "organizator": "OZ Žarnovickí bežci, ON POINT o.z.",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Beh v Sečovskej Polianke pre školu v Zambii",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/beh-secovska-polianka",
@@ -3647,6 +3711,22 @@
       "beh"
     ],
     "popis": "Hobby beh (4 km), Detské behy"
+  },
+  {
+    "nazov": "Majstrovstvá Slovenskej republiky mužov, žien, juniorov a junioriek, veteránov a veteránok a družstiev v cestnom behu na 10 km",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/majstrovstva-sr-v-behu-na-10-km-na-ceste-muzov-zien-juniorov-junioriek-a-veteranov-bp-saz-2026",
+    "datum": "2026-09-12",
+    "datum_do": "",
+    "mesto": "Prievidza",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "19:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Majstrovstvá SR v cestnom behu (10 km)"
   },
   {
     "nazov": "Večerný beh Ružomberok",
@@ -3825,6 +3905,22 @@
     "popis": "Hlavná trať (9 km), Hobby (4.37 km), 4.37 km, Detské behy"
   },
   {
+    "nazov": "Draždiak Run",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/drazdiak-run-2026",
+    "datum": "2026-09-06",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "11:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh (5 km), 5 km, Detské behy"
+  },
+  {
     "nazov": "6 hodinovka pod Šarišským hradom",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/6-hodinovka-pod-sarisskym-hradom-2/",
@@ -3886,22 +3982,6 @@
     "organizator": "Občianske združenie Horský kros Gerlach v spolupráci s obcou Gerlachov, mestom Vysoké Tatry a Správou TANAP-u",
     "tagy": [
       "kros"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh za Tatry",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-za-tatry-13/",
-    "datum": "2026-09-05",
-    "datum_do": "",
-    "mesto": "Štrbské Pleso, Vysoké Tatry",
-    "dlzka": "7,3 km, 3,65 km",
-    "povrch": "prírodný na brehu jazera Štrbské pleso a na bežeckých (lyžiarskych) tratiach Š.P.",
-    "start_cas": "14:00 hod. deti, 16:00 hod. dospelí",
-    "organizator": "Barbora a Slavomír Ogurčákovci v spolupráci s občianskym združením Žiť Tatry",
-    "tagy": [
-      "beh"
     ],
     "popis": ""
   },
@@ -4344,50 +4424,18 @@
     "popis": ""
   },
   {
-    "nazov": "Draždiak Run",
+    "nazov": "Beh za Tatry – Virtuálny beh",
     "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/drazdiak-run-2/",
-    "datum": "2026-08-30",
+    "url": "https://beh.sk/pretek/beh-za-tatry-13/",
+    "datum": "2026-09-01",
     "datum_do": "",
-    "mesto": "Bratislava - Petržalka",
-    "dlzka": "5 km",
-    "povrch": "štrkový chodník, turistický chodník",
-    "start_cas": "10:00 deti, 11:30 hod. hlavný beh",
-    "organizator": "Športová Nadácia Kotrmelec",
+    "mesto": "kdekoľvek",
+    "dlzka": "7,3 km, 3,65 km",
+    "povrch": "akýkoľvek",
+    "start_cas": "od 1.5. do 13.9.2026",
+    "organizator": "ELCOP Plus, s.r.o.,",
     "tagy": [
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh pod Sninským kameňom",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-pod-sninskym-kamenom-8/",
-    "datum": "2026-08-30",
-    "datum_do": "",
-    "mesto": "Snina",
-    "dlzka": "6 km",
-    "povrch": "asfalt",
-    "start_cas": "15:00 hod.  - Deti.; 16:00 hod. - Hlavná kategórie",
-    "organizator": "BehajmeSpolu o.z., Mesto Snina",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Goral marathon",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/international-goral-marathon-13/",
-    "datum": "2026-08-30",
-    "datum_do": "",
-    "mesto": "Čierne pri Čadci",
-    "dlzka": "50 km, 26,6 km, 6,8 km",
-    "povrch": "lesné a poľné cesty (plus asfalt)",
-    "start_cas": "9:00 hod. maratón a nordic walking polmaratón, 10:00 hod. ostatné disciplíny",
-    "organizator": "ŠKP Čadca, Euroregión Beskydy",
-    "tagy": [
-      "maraton"
     ],
     "popis": ""
   },
@@ -4408,180 +4456,36 @@
     "popis": "Maratón (42.2 km), Polmaratón (21.1 km)"
   },
   {
-    "nazov": "Prešov Half Marathon",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/presov-half-marathon-5/",
-    "datum": "2026-08-29",
+    "nazov": "Goral Marathon",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/goral-marathon-2026",
+    "datum": "2026-08-30",
     "datum_do": "",
-    "mesto": "Prešov",
-    "dlzka": "21 km, 10 km; 5 km",
-    "povrch": "asfalt",
-    "start_cas": "9:00 hod.",
-    "organizator": "Prešov Running, o.z.",
+    "mesto": "Čierne",
+    "dlzka": "50 km",
+    "povrch": "",
+    "start_cas": "09:00",
+    "organizator": "",
     "tagy": [
       "maraton"
     ],
-    "popis": ""
+    "popis": "Maratón (50 km), Detské behy"
   },
   {
-    "nazov": "Beh v srdci SNP",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-v-srdci-snp-14/",
-    "datum": "2026-08-29",
+    "nazov": "Beh pod Sninským kameňom",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-pod-sninskym-kamenom-2026",
+    "datum": "2026-08-30",
     "datum_do": "",
-    "mesto": "Sučany,, okr. Martin",
-    "dlzka": "17,5 km, 7 km",
-    "povrch": "asfalt",
-    "start_cas": "10:00 hod. hlavné kat., 10.15 hod.  žiaci",
-    "organizator": "Obce Sučany, Sklabiňa, Turčianska Štiavnička, Sklabinský  Podzámok a KBL ŠKP Martin v spolupráci s UNITOP SR",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh Hrdinov SNP – strážcov tatranských dolín",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-hrdinov-snp/",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "mesto": "Vysoké Tatry – Tatranská Lomnica",
-    "dlzka": "11,6 km, prev. 0,90 km",
+    "mesto": "Snina",
+    "dlzka": "6 km",
     "povrch": "",
-    "start_cas": "8:15 hod.",
-    "organizator": "Zipserland",
+    "start_cas": "16:30",
+    "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": ""
-  },
-  {
-    "nazov": "Dolnoorešanskými vinohradmi",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/oresanskymi-vinohradmi-14/",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "mesto": "Dolné Orešany okr. Trnava",
-    "dlzka": "13 km, Hobby - 4 km",
-    "povrch": "asfalt + terén",
-    "start_cas": "9:30 hod. - deti, 11:00 hod. - hl. kat.",
-    "organizator": "KRB Dolné Orešany a Obec Dolné Orešany",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh pod hviezdami",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-pod-hviezdami/",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "mesto": "Kechnec",
-    "dlzka": "5 km, 2,5 km",
-    "povrch": "asfalt",
-    "start_cas": "19:00 hod. - deti, 20:00 hod. - hl. kategorie",
-    "organizator": "OZ Team Kechnec",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh vďaky Senica – Prietrž – pamätník SNP u Rehušov",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/senica-prietrz-pamatnik-snp-u-rehusov-10/",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "mesto": "Senica",
-    "dlzka": "11,1 km (celk. prev. cca 0,30 km)",
-    "povrch": "asfalt",
-    "start_cas": "10:00 hod. hl. kat., 09:00 hod. deti, 10:10 - Beh Zdravia ( pri pamätníku SNP u Rehušov )",
-    "organizator": "Turistický klub Prietrž, Obec Prietrž",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "OSA Nočný beh mestom",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/osa-nocny-beh-mestom-6/",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "mesto": "Nová Dubnica",
-    "dlzka": "10 km",
-    "povrch": "asfalt",
-    "start_cas": "17:00 hod. kategórie OSA mini, 20:00 hod. ŠTART kategórie HARD  20:10 hod. ŠTART kategórie HOBBY, 20:20 hod. ŠTART kategórie FAMILY",
-    "organizator": "OSA –ŠPORTOVÁ AKADÉMIA, o. z.",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Novotský okruh",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/novotsky-okruh-2/",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "mesto": "Novoť",
-    "dlzka": "10,4 km, 5 km",
-    "povrch": "",
-    "start_cas": "16:05 - žiaci, 17:05 - hl. katgórie",
-    "organizator": "Obec Novoť a DHZ Novoť",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh o pohár starostu Záhorskej Bystrice",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-o-pohar-starostu-zahorskej-bystrice-4/",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "mesto": "Bratislava – Záhorská Bystrica",
-    "dlzka": "4,8 km",
-    "povrch": "asfalt",
-    "start_cas": "detí a mládeže od 9:30 hod., Kategórie dospelých o 10:30 hod.",
-    "organizator": "Miestny úrad Mestskej časti Bratislava - Záhorská Bystrica, WinTeam o.z.",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Vertikal Ploská",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/vertikal-ploska-5-2/",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "mesto": "Liptovské Revúce",
-    "dlzka": "5,2 km (výškové metre: 0,82 km)",
-    "povrch": "",
-    "start_cas": "9:30 hod. hl. kat., 10:00 hod. deti",
-    "organizator": "Malinô SkiAlp Team, Obec Liptovské Revúce, Chata HOREC, Horská záchranná služba",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh pre mobilný hospic",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-pre-mobilny-hospic-3/",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "mesto": "Prievidza",
-    "dlzka": "5 km",
-    "povrch": "spevnený, miestami neudržiavaný lesný povrch",
-    "start_cas": "10:10 hod. - 5 km, 11:00 hod - Medzigeneračný beh na 1 km",
-    "organizator": "Sv. Lujza, n. o., - Mobilný hospic",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
+    "popis": "Beh na 6 km, Detské behy"
   },
   {
     "nazov": "Garmin Prešov Half Marathon",
@@ -4600,6 +4504,54 @@
     "popis": "Polmaratón (21.1 km), Štvrťmaratón (10 km), Mini marathon (4.5 km)"
   },
   {
+    "nazov": "Vertikál Ploská",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/vertikal-ploska-2026",
+    "datum": "2026-08-29",
+    "datum_do": "",
+    "mesto": "Liptovské Revúce",
+    "dlzka": "5.2 km",
+    "povrch": "",
+    "start_cas": "09:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Vertikál (5.2 km), Detské behy"
+  },
+  {
+    "nazov": "Beh pre mobilný hospic",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-pre-mobilny-hospic-2026",
+    "datum": "2026-08-29",
+    "datum_do": "",
+    "mesto": "Prievidza",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "10:10",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh na 5 km"
+  },
+  {
+    "nazov": "Beh o pohár starostu Záhorskej Bystrice",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-o-pohar-starostu-z-bystrice-2026",
+    "datum": "2026-08-29",
+    "datum_do": "",
+    "mesto": "Záhorská Bystrica",
+    "dlzka": "4.8 km",
+    "povrch": "",
+    "start_cas": "10:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh o pohár starostu (4.8 km), Detské behy"
+  },
+  {
     "nazov": "Beh SNP s úsmevom a pre radosť",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/beh-snp-s-usmevom-a-pre-radost-2026",
@@ -4614,6 +4566,70 @@
       "beh"
     ],
     "popis": "Cestný beh (5 km), Detské behy"
+  },
+  {
+    "nazov": "Dolnoorešanskými vinohradmi",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/dolnooresanskymi-vinohradmi-2026",
+    "datum": "2026-08-29",
+    "datum_do": "",
+    "mesto": "Dolné Orešany",
+    "dlzka": "4 km",
+    "povrch": "",
+    "start_cas": "11:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Hobby beh (4 km), Detské behy"
+  },
+  {
+    "nazov": "Novotský okruh",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/novotsky-okruh-2026",
+    "datum": "2026-08-29",
+    "datum_do": "",
+    "mesto": "Novoť",
+    "dlzka": "10.4 km, 10 km, 5 km",
+    "povrch": "",
+    "start_cas": "17:05",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Dlhá trať (10.4 km), Canicross (10 km), Krátka trať (5 km), Detské behy"
+  },
+  {
+    "nazov": "Beh pod hviezdami",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-pod-hviezdami-2026",
+    "datum": "2026-08-29",
+    "datum_do": "",
+    "mesto": "Kechnec",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "20:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh (5 km), Detské behy"
+  },
+  {
+    "nazov": "OSA Nočný beh mestom",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/osa-nocny-beh-mestom-2026",
+    "datum": "2026-08-29",
+    "datum_do": "",
+    "mesto": "Nová Dubnica",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "20:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "HARD (10 km), HOBBY (5 km), Detské behy"
   },
   {
     "nazov": "K500 august",
