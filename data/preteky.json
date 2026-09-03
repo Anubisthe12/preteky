@@ -14,6 +14,20 @@
     }
   },
   {
+    "datum": "2027-07-18",
+    "url": "https://beh.sk/pretek/bancanska-desiatka-19/",
+    "nazov": "Bančanská desiatka",
+    "mesto": "Banské okr. Vranov nad Topľou",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt",
+      "Štart": "9:00 hod. Deti, 11:00 hod. Dospelí",
+      "Miesto": "Banské okr. Vranov nad Topľou, pred Kultúrnym domom",
+      "Organizátor": "Športový klub Banské, Obecný úrad Banské",
+      "Informácie": "Bc. Michal Ivančo, 094 12 Banské 324, tel.: 0905 654 004, e-mail: michalivanco@gmail.com"
+    }
+  },
+  {
     "datum": "2027-05-22",
     "url": "https://beh.sk/pretek/memorial-frantiska-danisa-cezpolny-beh-18/",
     "nazov": "Memoriál Františka Daniša – cezpoľný beh",
@@ -359,6 +373,19 @@
     }
   },
   {
+    "datum": "2026-11-07",
+    "url": "https://beh.sk/pretek/runway-trail-run-surany/",
+    "nazov": "Runway Trail Run Šurany",
+    "mesto": "Šurany",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "9:00 hod. detské behy, 10:00 hod. 10 km, 5 km, NW",
+      "Miesto": "Šurany, Airport Golf Club Šurany",
+      "Organizátor": "GOLF AIRPORT, s.r.o.",
+      "Informácie": "Maroš Očadlík, tel.: +421905421997, e-mail: info@airportgolf.sk"
+    }
+  },
+  {
     "datum": "2026-10-31",
     "url": "https://beh.sk/pretek/sninsky-cross-5/",
     "nazov": "Sninsky Cross",
@@ -451,20 +478,6 @@
       "Miesto": "Bojničky, Bojničky, kultúrny dom - pri kostole",
       "Organizátor": "Atletický klub Bojničky, Obec Bojničky, Ing. Ivan Pavelka, Ján Šiška",
       "Informácie": "Ing. Ivan Pavelka, tel.: 0905 236 204, e-mail: ivan.pavelka67@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/beh-hrebenom-cergova-9/",
-    "nazov": "Beh hrebeňom Čergova",
-    "mesto": "Kamenica, okres Sabinov",
-    "info": {
-      "Dĺžka trate": "32 km/ 1 413 m+",
-      "Povrch": "Lesný turistický chodník",
-      "Štart": "9:00 hod.",
-      "Miesto": "Kamenica, okres Sabinov, Kamenica - Drienica",
-      "Organizátor": "OZ Čergovrun",
-      "Informácie": "Lukáš Višňovský, tel.: 00421 944 001 353, e-mail: visnovskylukas@gmail.com"
     }
   },
   {
@@ -625,9 +638,9 @@
     "info": {
       "Dĺžka trate": "12 km, 6 km",
       "Povrch": "asfalt",
-      "Štart": "11:00 hod. - 6 km a 12 km, 10:45 hod. detské",
+      "Štart": "11:10 hod. - 6 km a 12 km, 10:45 hod. detské",
       "Miesto": "Rozhanovce, areál amfiteátra Rozhanovce",
-      "Organizátor": "Obec Rozhanovce, Občianske združenie KŠK Rozhanovce",
+      "Organizátor": "samospráva obce Rozhanovce",
       "Informácie": "Ing. Matúš Adamčík, tel.: +421 908 909 779, e-mail: starosta@rozhanovce.com"
     }
   },
@@ -1354,6 +1367,20 @@
     }
   },
   {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/mocensky-jesenny-beh-8/",
+    "nazov": "Močenský jesenný beh",
+    "mesto": "Močenok, okr. Šaľa",
+    "info": {
+      "Dĺžka trate": "6 km, 3 km",
+      "Povrch": "asfalt 80%, trávnik 20%",
+      "Štart": "13:00 hod. - Detský beh, 15:00 hod. - Hlavný beh",
+      "Miesto": "Močenok, okr. Šaľa, Futbalový štadión",
+      "Organizátor": "Obec Močenok (usporiadateľ: Matej Šimko)",
+      "Informácie": "e-mail: nickeeer@gmail.com"
+    }
+  },
+  {
     "datum": "2026-09-25",
     "url": "https://beh.sk/pretek/beh-tokajskymi-vinicami-14/",
     "nazov": "Beh Tokajskými vinicami",
@@ -1874,19 +1901,6 @@
   },
   {
     "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/runway-trail-run-surany/",
-    "nazov": "Runway Trail Run Šurany",
-    "mesto": "Šurany",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "9:00 hod. detské behy, 10:00 hod. 10 km, 5 km, NW",
-      "Miesto": "Šurany, Airport Golf Club Šurany",
-      "Organizátor": "GOLF AIRPORT, s.r.o.",
-      "Informácie": "Maroš Očadlík, tel.: +421905421997, e-mail: info@airportgolf.sk"
-    }
-  },
-  {
-    "datum": "2026-09-12",
     "url": "https://beh.sk/pretek/beh-pezinkom-15/",
     "nazov": "GW Beh Pezinkom",
     "mesto": "Pezinok",
@@ -1935,6 +1949,19 @@
       "Miesto": "Žarnovica, Mestský športový areál Žarnovica",
       "Organizátor": "OZ Žarnovickí bežci, ON POINT o.z.",
       "Informácie": "e-mail: info@marathonbb.com"
+    }
+  },
+  {
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/runway-trail-run-surany-b/",
+    "nazov": "Runway Trail Run Šurany",
+    "mesto": "Šurany",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "9:00 hod. detské behy, 10:00 hod. 10 km, 5 km, NW",
+      "Miesto": "Šurany, Airport Golf Club Šurany",
+      "Organizátor": "GOLF AIRPORT, s.r.o.",
+      "Informácie": "Maroš Očadlík, tel.: +421905421997, e-mail: info@airportgolf.sk"
     }
   },
   {
@@ -2359,20 +2386,6 @@
       "Štart": "18:30 hod.",
       "Miesto": "Piešťany, Dom umenia",
       "Organizátor": "Gabriela"
-    }
-  },
-  {
-    "datum": "2026-09-01",
-    "url": "https://beh.sk/pretek/beh-za-tatry-13/",
-    "nazov": "Beh za Tatry – Virtuálny beh",
-    "mesto": "kdekoľvek",
-    "info": {
-      "Dĺžka trate": "7,3 km, 3,65 km",
-      "Povrch": "akýkoľvek",
-      "Štart": "od 1.5. do 13.9.2026",
-      "Miesto": "kdekoľvek, kdekoľvek",
-      "Organizátor": "ELCOP Plus, s.r.o.,",
-      "Informácie": "tel.: +421 905 478 024, e-mail: office@elcop.sk"
     }
   }
 ]
