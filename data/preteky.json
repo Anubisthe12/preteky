@@ -482,6 +482,20 @@
   },
   {
     "datum": "2026-10-24",
+    "url": "https://beh.sk/pretek/beh-hrebenom-cergova-9/",
+    "nazov": "Beh hrebeňom Čergova",
+    "mesto": "Kamenica, okres Sabinov",
+    "info": {
+      "Dĺžka trate": "32 km/ 1 413 m+",
+      "Povrch": "Lesný turistický chodník",
+      "Štart": "9:00 hod.",
+      "Miesto": "Kamenica, okres Sabinov, Kamenica - Drienica",
+      "Organizátor": "OZ Čergovrun",
+      "Informácie": "Lukáš Višňovský, tel.: 00421 944 001 353, e-mail: visnovskylukas@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-24",
     "url": "https://beh.sk/pretek/ruzinska-desiatka-5/",
     "nazov": "Ružínska desiatka",
     "mesto": "Jaklovce okr. Gelnica",
@@ -948,6 +962,34 @@
     }
   },
   {
+    "datum": "2026-10-10",
+    "url": "https://beh.sk/pretek/beh-hornoveskym-chotarom-12/",
+    "nazov": "Beh Hornoveským chotárom",
+    "mesto": "Horná Ves, okr. Prievidza",
+    "info": {
+      "Dĺžka trate": "7 km/cca 250m prevýšenie",
+      "Povrch": "asfalt + lesná cesta",
+      "Štart": "12:45 hod. - Junior (všetky kategórie do 15 rokov), 14:00 hod. – beh dorast, dospelí a seniori",
+      "Miesto": "Horná Ves, okr. Prievidza, Kultúrny dom",
+      "Organizátor": "Obec Horná Ves",
+      "Informácie": "Jozef Hrotek, tel.: 0905 606 207, e-mail: mariana.mesarosova@gmail.com , Patrik Hrotek, tel.: 0911 207 613, e-mail: patrikhrotek@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-10",
+    "url": "https://beh.sk/pretek/cea-beneficny-beh-kolacinskymi-cestickami/",
+    "nazov": "CEA benefičný beh kolačínskymi cestičkami",
+    "mesto": "Nová Dubnica – Kolačín",
+    "info": {
+      "Dĺžka trate": "10 km; 8,2 km; 5 km",
+      "Povrch": "asfalt, terén",
+      "Štart": "od 10:00 hod.",
+      "Miesto": "Nová Dubnica – Kolačín, areál reklamnej a eventovej agentúry CEA EUROPE.SK",
+      "Organizátor": "CEA EUROPE.SK",
+      "Informácie": "Jozef Matejčík, tel.: 0905 661 589, e-mail: jozef.matejcik@dwmic.sk"
+    }
+  },
+  {
     "datum": "2026-10-04",
     "url": "https://beh.sk/pretek/medzinarodny-maraton-mieru-17/",
     "nazov": "Medzinárodný maratón mieru",
@@ -1081,6 +1123,20 @@
       "Miesto": "Streženice, okr. Púchov, pred obecným úradom",
       "Organizátor": "OZ Klub bežcov a priateľov športu v Púchove",
       "Informácie": "Peter Deneš, tel.: 0902 134 871   Darina Denešová, tel.: 0949 191 699"
+    }
+  },
+  {
+    "datum": "2026-10-03",
+    "url": "https://beh.sk/pretek/nova-9ka-3-2/",
+    "nazov": "Nová 9ka",
+    "mesto": "Nová Dedinka",
+    "info": {
+      "Dĺžka trate": "9 km",
+      "Povrch": "asfalt",
+      "Štart": "09:30 hod. deti, cca o 10:30 hod. ostatné kategórie",
+      "Miesto": "Nová Dedinka, Areál voľného času, Nábrežie Čiernej Vody",
+      "Organizátor": "ATHLETIA o.z. a obec Nová Dedinka",
+      "Informácie": "Vladimír Eckert, tel.: 0903 604 360, e‐mail: eckert.vladimir@gmail.com"
     }
   },
   {
@@ -1446,6 +1502,20 @@
       "Miesto": "Trnava, Kamenný Mlyn",
       "Organizátor": "Za ruku, o.z.",
       "Informácie": "Michaela Bročková, e-mail: oz.zaruku@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-09-20",
+    "url": "https://beh.sk/pretek/drahovska-desiatka-15/",
+    "nazov": "Drahovská desiatka",
+    "mesto": "Drahovce okr. Piešťany",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt",
+      "Štart": "14:00 hod. detské kat., 15:20 hod. dospelí a dorast",
+      "Miesto": "Drahovce okr. Piešťany, štadión OFK Drahovce",
+      "Organizátor": "Obec Drahovce",
+      "Informácie": "Majtán Martin, tel.: 0910 193 602, e-mail: martinmajtan@obecdrahovce.sk"
     }
   },
   {
@@ -2165,7 +2235,7 @@
       "Dĺžka trate": "10 km",
       "Povrch": "pevný povrch",
       "Štart": "20:00 hod.",
-      "Miesto": "Bratislava, Eurovea – Pribinova ulica",
+      "Miesto": "Bratislava, Aupark – Einsteinova 18",
       "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Mestská časť Bratislava – Staré mesto, Mestská časť Petržalka, Bratislavský samosprávny kraj",
       "Informácie": "tel.:  00421/904 404 638, e-mail: info@becool.sk"
     }
@@ -2179,7 +2249,7 @@
       "Dĺžka trate": "300 m - 800 m",
       "Povrch": "asfalt, dlažba",
       "Štart": "17:00 hod.",
-      "Miesto": "Bratislava, Aupark",
+      "Miesto": "Bratislava, Aupark – Einsteinova 18",
       "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Mestská časť Bratislava – Staré mesto, Mestská časť Petržalka, Bratislavský samosprávny kraj",
       "Informácie": "tel.:  00421/904 404 638, e-mail: info@becool.sk"
     }
@@ -2374,18 +2444,6 @@
       "Miesto": "Dolný Kubín, Námestie P. O. Hviezdoslava",
       "Organizátor": "Mesto Dolný Kubín, Hviezda Dolný Kubín, Bežecký klub Dolný Kubín, OK Orava, Kajo Metal",
       "Informácie": "Ing. Štefan Belvončík, tel.: 0915 847 514, e-mail: stefan.belvoncik1@gmail.com   Miroslav Hrabal, tel.: 0908 499 183, e-mail: runclubdk@gmail.com  Ing. Michal Strežo, tel.: 0902 488 196"
-    }
-  },
-  {
-    "datum": "2026-09-02",
-    "url": "https://beh.sk/pretek/komunitny-beh-piestany/",
-    "nazov": "Komunitný beh Piešťany",
-    "mesto": "Piešťany",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Štart": "18:30 hod.",
-      "Miesto": "Piešťany, Dom umenia",
-      "Organizátor": "Gabriela"
     }
   }
 ]
