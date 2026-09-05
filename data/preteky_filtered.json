@@ -1825,6 +1825,22 @@
     "popis": ""
   },
   {
+    "nazov": "Tokaj Wine Run",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/tokaj-wine-run/",
+    "datum": "2026-09-26",
+    "datum_do": "",
+    "mesto": "Malá Tŕňa",
+    "dlzka": "6 km, 3 km",
+    "povrch": "",
+    "start_cas": "10>00 hod.",
+    "organizator": "Ing. Michal Majcher,",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Senecký beh okolo Slnečných jazier",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/senecky-beh-okolo-slnecnych-jazier-11/",
@@ -3220,6 +3236,22 @@
     "dlzka": "42,2 km",
     "povrch": "",
     "start_cas": "07:00",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Legendárna 5-ka, bežecké preteky maratónca Ondreja Pózmana (15:34,0)",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/legendarna-5-ka-bezecke-preteky-maratonca-ondreja-pozmana-15340-datum-2026",
+    "datum": "2026-09-05",
+    "datum_do": "",
+    "mesto": "Krásnohorské Podhradie",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "11:00",
     "organizator": "",
     "tagy": [
       "maraton"

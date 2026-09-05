@@ -192,7 +192,7 @@
     "mesto": "Kojšovská hoľa",
     "dlzka": "",
     "povrch": "",
-    "start_cas": "",
+    "start_cas": "08:00",
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
@@ -602,6 +602,24 @@
     "popis": ""
   },
   {
+    "nazov": "Telgárt Spartan Trail",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/telgart-spartan-trail-2026",
+    "datum": "2026-11-28",
+    "datum_do": "",
+    "mesto": "Telgárt",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "09:00",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "ultra",
+      "teren"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Parádny nočný beh – Humenné",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/paradny-nocny-beh-humenne-2026",
@@ -615,24 +633,6 @@
     "tagy": [
       "neznama_dlzka",
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Telgárt Spartan Trail",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/telgart-spartan-trail-2026",
-    "datum": "2026-11-28",
-    "datum_do": "",
-    "mesto": "Telgárt",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "ultra",
-      "teren"
     ],
     "popis": ""
   },
@@ -3218,12 +3218,11 @@
     "datum": "2026-09-26",
     "datum_do": "",
     "mesto": "Malá Tŕňa",
-    "dlzka": "",
+    "dlzka": "6 km, 3 km",
     "povrch": "",
-    "start_cas": "",
-    "organizator": "",
+    "start_cas": "10>00 hod.",
+    "organizator": "Ing. Michal Majcher,",
     "tagy": [
-      "neznama_dlzka",
       "beh"
     ],
     "popis": ""
@@ -5639,23 +5638,6 @@
     "popis": "4. ročník pretekov organizovaný OZ Zorovčan v spolupráci s obcou Veľké Ozorovce."
   },
   {
-    "nazov": "Majstrovstvá SR v letnom biatlone 2026",
-    "zdroj": "hrdosport.sk",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
-    "datum": "2026-09-05",
-    "datum_do": "2026-09-06",
-    "mesto": "Vyhne",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Kokava Trail",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/kokava-trail-2026",
@@ -5811,6 +5793,22 @@
     "popis": ""
   },
   {
+    "nazov": "Legendárna 5-ka, bežecké preteky maratónca Ondreja Pózmana (15:34,0)",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/legendarna-5-ka-bezecke-preteky-maratonca-ondreja-pozmana-15340-datum-2026",
+    "datum": "2026-09-05",
+    "datum_do": "",
+    "mesto": "Krásnohorské Podhradie",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "11:00",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Beh Ľubeľou",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/beh-lubelou-2026",
@@ -5910,23 +5908,6 @@
     "popis": ""
   },
   {
-    "nazov": "Z Ľubotína na hrad Plaveč 2026",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/lubotinplavec2026",
-    "datum": "2026-09-04",
-    "datum_do": "",
-    "mesto": "Ľubotín",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": "7 kilometrový beh od Železničnej stanice v Ľubotíne na hrad Plaveč"
-  },
-  {
     "nazov": "Bežecké povstanie",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/bezecke-povstanie-2026",
@@ -5936,6 +5917,23 @@
     "dlzka": "",
     "povrch": "",
     "start_cas": "10:00",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Beh za Tatry – Virtuálny beh",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-za-tatry-virtualny-beh-2026",
+    "datum": "2026-09-01",
+    "datum_do": "",
+    "mesto": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
@@ -7108,6 +7106,24 @@
     "tagy": [
       "neznama_dlzka",
       "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Beh zdravia ulicami Červeníka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-zdravia-ulicami-cervenika-2026",
+    "datum": "2026-08-08",
+    "datum_do": "",
+    "mesto": "Červeník",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "17:30",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh",
+      "asfalt"
     ],
     "popis": ""
   },
@@ -9073,6 +9089,23 @@
     "dlzka": "",
     "povrch": "",
     "start_cas": "08:30",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "K500 jún",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-06-25",
+    "datum_do": "",
+    "mesto": "Nová Polhora",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "19:30",
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
@@ -11650,23 +11683,6 @@
     "popis": ""
   },
   {
-    "nazov": "K500 jún",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-05-28",
-    "datum_do": "",
-    "mesto": "Nová Polhora",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "19:30",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Detský maratón Dunajská Streda",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/detsky-maraton-dunajska-streda-2026",
@@ -14017,23 +14033,6 @@
     "datum": "2026-05-01",
     "datum_do": "",
     "mesto": "Dubnica nad Váhom",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh za Tatry – Virtuálny beh",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/beh-za-tatry-virtualny-beh-2026",
-    "datum": "2026-05-01",
-    "datum_do": "",
-    "mesto": "",
     "dlzka": "",
     "povrch": "",
     "start_cas": "",

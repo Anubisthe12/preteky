@@ -109,9 +109,9 @@
       "gps": "48.1486000,17.1077000",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://therun.sk/auth/register?category=soloultra",
+      "registracia": "https://therun.sk/auth/register?category=ladiesrun",
       "web": "https://therun.sk",
-      "propozicie": "https://therun.fra1.cdn.digitaloceanspaces.com/media/files/trs_race-manual_sk.pdf",
+      "propozicie": "https://therun.sk/o-pretekoch",
       "vysledky": ""
     }
   },
@@ -220,13 +220,13 @@
     "info": {
       "Miesto": "Kojšovská hoľa – Kojšovská hoľa",
       "Dĺžka trate": "",
-      "Štart": "",
+      "Štart": "08:00",
       "kraj": "kosicky",
       "gps": "48.7812003,20.9723538",
       "seria": "",
       "disciplíny": [],
       "registracia": "https://sk.spartan.com/sk/race/detail/10912/overview",
-      "web": "https://www.google.com/maps/place/48%C2%B046'52.3%22N+20%C2%B058'20.5%22E/@48.7819159,20.9707007,15.25z/data=!4m4!3m3!8m2!3d48.7812003!4d20.9723538?entry=ttu&g_ep=EgoyMDI0MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+      "web": "https://www.spartantrail.com/kojsovska-hola/",
       "propozicie": "",
       "vysledky": ""
     }
@@ -658,6 +658,27 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Telgárt Spartan Trail",
+    "url": "https://vsetkybehy.sk/podujatie/telgart-spartan-trail-2026",
+    "datum": "2026-11-28",
+    "mesto": "Telgárt",
+    "popis": "",
+    "info": {
+      "Miesto": "Telgárt – Ski Telgárt",
+      "Dĺžka trate": "",
+      "Štart": "09:00",
+      "kraj": "banskobystricky",
+      "gps": "48.8462340,20.2118881",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "https://sk.spartan.com/sk/race/detail/11367/overview",
+      "web": "https://www.spartantrail.com/es/telgart/",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Parádny nočný beh – Humenné",
     "url": "https://vsetkybehy.sk/podujatie/paradny-nocny-beh-humenne-2026",
     "datum": "2026-11-28",
@@ -673,27 +694,6 @@
       "disciplíny": [],
       "registracia": "",
       "web": "https://www.radioparada.sk",
-      "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Telgárt Spartan Trail",
-    "url": "https://vsetkybehy.sk/podujatie/telgart-spartan-trail-2026",
-    "datum": "2026-11-28",
-    "mesto": "Telgárt",
-    "popis": "",
-    "info": {
-      "Miesto": "Telgárt – Ski Telgárt",
-      "Dĺžka trate": "",
-      "Štart": "",
-      "kraj": "banskobystricky",
-      "gps": "48.8462340,20.2118881",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "https://sk.spartan.com/sk/race/detail/11367/overview",
-      "web": "https://www.google.com/maps/place/Ski+Telgart/@48.8506837,20.2030735,695m/data=!3m1!1e3!4m6!3m5!1s0x473fccf9f83ab981:0xf655b78507095868!8m2!3d48.8496397!4d20.2046171!16s%2Fg%2F1tl4bt8w?entry=ttu&g_ep=EgoyMDI2MDcxMy4wIKXMDSoASAFQAw%3D%3D",
       "propozicie": "",
       "vysledky": ""
     }
@@ -2108,7 +2108,7 @@
       "gps": "49.1257070,18.8810660",
       "seria": "",
       "disciplíny": [],
-      "registracia": "",
+      "registracia": "https://www.terminovka.sk/podujatie/memorial-mudr-dusana-zibolena",
       "web": "https://activeteam.sk/",
       "propozicie": "",
       "vysledky": ""
@@ -3295,7 +3295,11 @@
     "nazov": "Tokaj Wine Run",
     "mesto": "Malá Tŕňa",
     "info": {
-      "Miesto": "Malá Tŕňa,"
+      "Dĺžka trate": "6 km, 3 km",
+      "Štart": "10>00 hod.",
+      "Miesto": "Malá Tŕňa,",
+      "Organizátor": "Ing. Michal Majcher,",
+      "Informácie": "Ing. Michal Majcher, tel: 0915 895 860, e-mail: spoznajtvbehom@centrum.sk"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -5676,17 +5680,6 @@
     "popis": "4. ročník pretekov organizovaný OZ Zorovčan v spolupráci s obcou Veľké Ozorovce."
   },
   {
-    "zdroj": "hrdosport.sk",
-    "nazov": "Majstrovstvá SR v letnom biatlone 2026",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
-    "datum": "05.09.2026 - 06.09.2026",
-    "mesto": "Vyhne",
-    "info": {
-      "propozicie": "https://www.hrdosport.sk/Content/results/2026/9/PROP1011.pdf",
-      "vysledky": ""
-    }
-  },
-  {
     "zdroj": "vsetkybehy.sk",
     "nazov": "Kokava Trail",
     "url": "https://vsetkybehy.sk/podujatie/kokava-trail-2026",
@@ -5701,7 +5694,7 @@
       "gps": "48.5707960,19.8410530",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://www.terminovka.sk/podujatie/kokava-trail",
+      "registracia": "",
       "web": "https://www.kokavatrail.sk/",
       "propozicie": "https://www.slovakultratrail.sk/news/kokava-trail1/",
       "vysledky": ""
@@ -5722,7 +5715,7 @@
       "gps": "48.9238000,19.6032000",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://www.leitnersport.sk/podujatie/marathon-chopok-592026/registracia",
+      "registracia": "",
       "web": "https://www.skymarathon.sk/sk",
       "propozicie": "https://www.leitnersport.sk/podujatie/marathon-chopok-592026#propozicie",
       "vysledky": ""
@@ -5743,7 +5736,7 @@
       "gps": "48.2472000,17.6197000",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://my.raceresult.com/409619/registration",
+      "registracia": "",
       "web": "https://abrahamska-litacka.webnode.sk/",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/07/PropoAbLi26.pdf",
       "vysledky": "https://my.raceresult.com/409619/results"
@@ -5764,7 +5757,7 @@
       "gps": "48.7416413,21.2558721",
       "seria": "Beh na 2 míle Košice · 9. kolo",
       "disciplíny": [],
-      "registracia": "https://my.raceresult.com/377448/registration",
+      "registracia": "",
       "web": "https://cs.srichinmoyraces.org/Beh2MileKosice",
       "propozicie": "https://my.raceresult.com/377448/txt",
       "vysledky": "https://my.raceresult.com/377448/results"
@@ -5785,10 +5778,10 @@
       "gps": "48.9497106,21.3533711",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://racetime.sk/reg/single-trail-run-30-slanske-2026",
+      "registracia": "",
       "web": "",
       "propozicie": "https://racetime.sk/uploads/propozicie/str30-slanske-2026.pdf",
-      "vysledky": ""
+      "vysledky": "https://racetime.sk/vysledok/single-trail-run-30-slanske-2026"
     }
   },
   {
@@ -5806,10 +5799,10 @@
       "gps": "48.4194000,17.1194000",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://registracia.misosport.sk/beh-pre-tobiho-2026",
+      "registracia": "",
       "web": "",
-      "propozicie": "",
-      "vysledky": ""
+      "propozicie": "https://misosport.sk/pretek/beh-pre-tobiho-2026",
+      "vysledky": "https://misosport.sk/vysledky/beh-pre-tobiho-2026"
     }
   },
   {
@@ -5827,7 +5820,7 @@
       "gps": "49.1420430,18.7191877",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://casomierapt.com/event/beh-slnecnymi-skalami-2026/#tab-registracia",
+      "registracia": "",
       "web": "",
       "propozicie": "https://casomierapt.com/event/beh-slnecnymi-skalami-2026/#tab-propozicie",
       "vysledky": ""
@@ -5848,7 +5841,7 @@
       "gps": "49.0455000,19.8340000",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://my.raceresult.com/416667/registration",
+      "registracia": "",
       "web": "https://vpohybe.hybe.sk/",
       "propozicie": "https://my.raceresult.com/416667/txt",
       "vysledky": "https://my.raceresult.com/416667/results"
@@ -5869,10 +5862,31 @@
       "gps": "48.8630680,19.9710850",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://pretekaj.sk/sk/podujatia/helpianskykros2026/registration",
+      "registracia": "",
       "web": "",
       "propozicie": "https://pretekaj.sk/sk/podujatia/helpianskykros2026/info/propozicie",
       "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Legendárna 5-ka, bežecké preteky maratónca Ondreja Pózmana (15:34,0)",
+    "url": "https://vsetkybehy.sk/podujatie/legendarna-5-ka-bezecke-preteky-maratonca-ondreja-pozmana-15340-datum-2026",
+    "datum": "2026-09-05",
+    "mesto": "Krásnohorské Podhradie",
+    "popis": "",
+    "info": {
+      "Miesto": "Krásnohorské Podhradie – Krásnohorské Podhradie",
+      "Dĺžka trate": "",
+      "Štart": "11:00",
+      "kraj": "kosicky",
+      "gps": "48.6532000,20.5979000",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "https://my.raceresult.com/420930/txt",
+      "vysledky": "https://my.raceresult.com/420930/results"
     }
   },
   {
@@ -5890,7 +5904,7 @@
       "gps": "49.0521869,19.4812436",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://www.terminovka.sk/podujatie/beh-lubelou",
+      "registracia": "",
       "web": "https://www.lubela.sk/udalosti-v-obci/kalendar-akcii/beh-lubelou-394_51sk.html",
       "propozicie": "https://www.terminovka.sk/podujatie/beh-lubelou",
       "vysledky": ""
@@ -5911,7 +5925,7 @@
       "gps": "48.1559180,17.1313540",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://register.hakuapp.com/?event=4c0e21c5fa748f24e119",
+      "registracia": "",
       "web": "https://bratislavamarathon.sk/event/telekom-night-run/",
       "propozicie": "https://bratislavamarathon.sk/events/telekom-night-run/propozicie/#4",
       "vysledky": ""
@@ -5932,7 +5946,7 @@
       "gps": "49.1261400,20.0621000",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://www.inviton.eu/e-21260/beh-za-tatry-2026",
+      "registracia": "",
       "web": "https://behzatatry.sk/",
       "propozicie": "https://behzatatry.sk/propozicie/",
       "vysledky": ""
@@ -5986,14 +6000,6 @@
     "popis": ""
   },
   {
-    "zdroj": "pretekaj.sk",
-    "nazov": "Z Ľubotína na hrad Plaveč 2026",
-    "url": "https://pretekaj.sk/lubotinplavec2026",
-    "datum": "04.09.2026",
-    "mesto": "Ľubotín",
-    "popis": "7 kilometrový beh od Železničnej stanice v Ľubotíne na hrad Plaveč"
-  },
-  {
     "zdroj": "vsetkybehy.sk",
     "nazov": "Bežecké povstanie",
     "url": "https://vsetkybehy.sk/podujatie/bezecke-povstanie-2026",
@@ -6011,6 +6017,27 @@
       "registracia": "",
       "web": "https://newfaces.sk/",
       "propozicie": "",
+      "vysledky": "https://vysledky.vysledkovyservis.sk/results.aspx?CId=16625&RId=1438"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh za Tatry – Virtuálny beh",
+    "url": "https://vsetkybehy.sk/podujatie/beh-za-tatry-virtualny-beh-2026",
+    "datum": "2026-09-01",
+    "mesto": "",
+    "popis": "",
+    "info": {
+      "Miesto": "",
+      "Dĺžka trate": "",
+      "Štart": "",
+      "kraj": "",
+      "gps": "",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "https://www.behzatatry.sk",
+      "propozicie": "https://behzatatry.sk/propozicie/",
       "vysledky": ""
     }
   },
@@ -7421,6 +7448,27 @@
       "web": "https://www.zemplinskyextrem.sk/",
       "propozicie": "",
       "vysledky": "https://racetime.sk/vysledok/hamorska-20-2026"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh zdravia ulicami Červeníka",
+    "url": "https://vsetkybehy.sk/podujatie/beh-zdravia-ulicami-cervenika-2026",
+    "datum": "2026-08-08",
+    "mesto": "Červeník",
+    "popis": "",
+    "info": {
+      "Miesto": "Červeník – Pred Reštauráciou Miháliková, centrum obce Červeník",
+      "Dĺžka trate": "",
+      "Štart": "17:30",
+      "kraj": "trnavsky",
+      "gps": "48.9588310,21.9164460",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "https://vysledkovyservis.sk/en/81-beh-zdravia-ulicami-cervenika",
+      "propozicie": "https://vysledkovyservis.sk/beh-zdravia-ulicami-cervenika-propozicie",
+      "vysledky": ""
     }
   },
   {
@@ -9781,6 +9829,27 @@
       "web": "https://www.cvclm.sk/podujatia/kalendar-akcii/beh-olympijskeho-dna-502_245sk.html",
       "propozicie": "https://statistika.atletika.sk/admin/media/propozice/LM.pdf",
       "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "K500 jún",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-06-25",
+    "mesto": "Nová Polhora",
+    "popis": "",
+    "info": {
+      "Miesto": "Nová Polhora – STK Nová Polhora",
+      "Dĺžka trate": "",
+      "Štart": "19:30",
+      "kraj": "kosicky",
+      "gps": "48.8256155,21.3153215",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://zasrun.sk/preteky/k500-maj-2026/vysledky"
     }
   },
   {
@@ -12760,27 +12829,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "K500 jún",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-05-28",
-    "mesto": "Nová Polhora",
-    "popis": "",
-    "info": {
-      "Miesto": "Nová Polhora – STK Nová Polhora",
-      "Dĺžka trate": "",
-      "Štart": "19:30",
-      "kraj": "kosicky",
-      "gps": "48.8256155,21.3153215",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "",
-      "web": "",
-      "propozicie": "",
-      "vysledky": "https://zasrun.sk/preteky/k500-maj-2026/vysledky"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Detský maratón Dunajská Streda",
     "url": "https://vsetkybehy.sk/podujatie/detsky-maraton-dunajska-streda-2026",
     "datum": "2026-05-28",
@@ -15447,27 +15495,6 @@
     "info": {
       "propozicie": "https://www.hrdosport.sk/Content/results/2026/5/PROP1027.pdf",
       "vysledky": "https://www.hrdosport.sk/Content/results/2026/5/VYS1027.pdf"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Beh za Tatry – Virtuálny beh",
-    "url": "https://vsetkybehy.sk/podujatie/beh-za-tatry-virtualny-beh-2026",
-    "datum": "2026-05-01",
-    "mesto": "",
-    "popis": "",
-    "info": {
-      "Miesto": "",
-      "Dĺžka trate": "",
-      "Štart": "",
-      "kraj": "bratislavsky",
-      "gps": "",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "",
-      "web": "https://www.behzatatry.sk",
-      "propozicie": "https://behzatatry.sk/propozicie/",
-      "vysledky": ""
     }
   },
   {
@@ -18635,7 +18662,7 @@
       "disciplíny": [],
       "registracia": "",
       "web": "https://www.hostie.sk/obec-106/aktuality/memorial-m-jurku-a-m-olejara-2026-vysledky-1098sk.html",
-      "propozicie": "https://beh.sk/wp-content/uploads/2026/01/260118_mem_jurku_olejara_p.pdf",
+      "propozicie": "https://registrace.sportsoft.cz/_data/3474/pro_hostie26.pdf",
       "vysledky": "https://vysledky.sportsoft.cz/race/851"
     }
   },
