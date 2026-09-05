@@ -303,14 +303,18 @@ def _parse_vsetkybehy(html: str) -> list[dict]:
             rf'href="{VB_RE}/seria/([a-z0-9-]+)"[^>]*>.*?</svg>\s*([^<]+?)\s*</a>', blk, re.DOTALL
         )
 
-        # Disciplíny — chip odkazy /preteky/<typ>; trieda ich odlíši od odkazov v navigácii
+        # Disciplíny — odznaky (chipy) v karte. Kategorizovaná disciplína je odkaz
+        # na /preteky/<typ>, nekategorizovaná (názov zhodný s podujatím, napr. keď
+        # nemá vlastnú kategóriu) je obyčajný <span> bez odkazu. Obe majú triedu
+        # "rounded-full", čo ich odlíši od odkazov v navigácii/pätičke stránky.
         discipliny = [
             unescape(d).strip()
             for d in re.findall(
                 rf'href="{VB_RE}/preteky/[a-z0-9-]+"\s*'
-                r'class="hover:underline underline-offset-2">([^<]+)</a>',
+                r'class="[^"]*rounded-full[^"]*"\s*>([^<]+)</a>',
                 blk,
             )
+            + re.findall(r'<span class="[^"]*rounded-full[^"]*">([^<]+)</span>', blk)
         ]
 
         # Externé odkazy (karta ich renderuje 2× — mobil + desktop, berieme prvý)
