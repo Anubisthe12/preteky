@@ -1455,6 +1455,20 @@
     }
   },
   {
+    "datum": "2026-09-23",
+    "url": "https://beh.sk/pretek/beh-ulicami-obce-smizany-18/",
+    "nazov": "Beh ulicami obce Smižany",
+    "mesto": "Smižany okr. Spišská Nová Ves",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt",
+      "Štart": "16:30 hod. - hl. kat.; 14:15 hod. - detské kat.",
+      "Miesto": "Smižany okr. Spišská Nová Ves, Nám. M. Pajdušáka pred ZUŠ Dezidera Štraucha Smižany",
+      "Organizátor": "Obec Smižany, CVČ Adam SNV, Olympijský klub SPIŠ, Mišo s.r.o., OKC Smižany, ZŠ Komenského Smižany, ZUŠ Smižany, ZŠ Povýšenia sv. Kríža, Smižany",
+      "Informácie": "PaedDr. Andrea Baluchová, OŠaSŠÚ Smižany, Nám. M. Pajdušáka, 053 11 Smižany, tel.: 053/443 14 83 (kl. 214), mobil: 0918 963 798, e-mail: andrea.baluchova@smizany.sk"
+    }
+  },
+  {
     "datum": "2026-09-20",
     "url": "https://beh.sk/pretek/besenovsky-charitativny-beh-pre-mapenzi-4/",
     "nazov": "Bešeňovský charitatívny beh pre MAPENZI",
@@ -2148,6 +2162,20 @@
     }
   },
   {
+    "datum": "2026-09-06",
+    "url": "https://beh.sk/pretek/wolfstahlsky-beh/",
+    "nazov": "Wolfstahlský beh",
+    "mesto": "Wolfstahl",
+    "info": {
+      "Dĺžka trate": "9 km, 4,37 km",
+      "Povrch": "asfalt",
+      "Štart": "9:00 hod. deti, 10:00 hod. dospelí",
+      "Miesto": "Wolfstahl, Tennisclub Wolfstahl",
+      "Organizátor": "Tennis-Club Wolfstha",
+      "Informácie": "tel.:+43 676 5336117"
+    }
+  },
+  {
     "datum": "2026-09-05",
     "url": "https://beh.sk/pretek/6-hodinovka-pod-sarisskym-hradom-2/",
     "nazov": "6 hodinovka pod Šarišským hradom",
@@ -2420,6 +2448,19 @@
       "Štart": "9.00 hod. - štart zmiešaných kategórií muži a ženy  10.00 hod. - štart zmiešaných kategórií deti a juniori do 16 rokov",
       "Miesto": "Abrahám, futbalové ihrisko",
       "Organizátor": "občianske združenie Cez prekážky"
+    }
+  },
+  {
+    "datum": "2026-09-05",
+    "url": "https://beh.sk/pretek/single-trail-run-30-4/",
+    "nazov": "Single-Trail run 30",
+    "mesto": "Ruská Nová Ves",
+    "info": {
+      "Dĺžka trate": "35 km, 17 km",
+      "Štart": "10:00 hod.",
+      "Miesto": "Ruská Nová Ves, Hostinec pod zámkom (/budova obecného úradu)",
+      "Organizátor": "O.z. Single-Trail Run 30",
+      "Informácie": "Lukáš Ferenc, tel.: 0908 377 354  Peter Kačmár, tel.: 0948 031 072  Filip Kušnír, tel.: 0948 687 449"
     }
   }
 ]

@@ -3922,29 +3922,20 @@
     }
   },
   {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Beh ulicami obce Smižany",
-    "url": "https://vsetkybehy.sk/podujatie/beh-ulicami-obce-smizany-2026",
     "datum": "2026-09-23",
-    "mesto": "Smižany",
-    "popis": "Hlavné preteky – muži (10 km), Hlavné preteky – ženy (5 km), Detské behy",
+    "url": "https://beh.sk/pretek/beh-ulicami-obce-smizany-18/",
+    "nazov": "Beh ulicami obce Smižany",
+    "mesto": "Smižany okr. Spišská Nová Ves",
     "info": {
-      "Miesto": "Smižany – Námestie M. Pajdušáka pred ZUŠ Smižany",
       "Dĺžka trate": "10 km, 5 km",
-      "Štart": "14:15",
-      "kraj": "kosicky",
-      "gps": "48.9585000,20.5195000",
-      "seria": "",
-      "disciplíny": [
-        "Hlavné preteky – muži (10 km)",
-        "Hlavné preteky – ženy (5 km)",
-        "Detské behy"
-      ],
-      "registracia": "https://my.raceresult.com/419511/registration",
-      "web": "https://www.smizany.sk/beh-ulicami-obce-smizany.html",
-      "propozicie": "https://my.raceresult.com/419511/txt",
-      "vysledky": "https://my.raceresult.com/419511/results"
-    }
+      "Povrch": "asfalt",
+      "Štart": "16:30 hod. - hl. kat.; 14:15 hod. - detské kat.",
+      "Miesto": "Smižany okr. Spišská Nová Ves, Nám. M. Pajdušáka pred ZUŠ Dezidera Štraucha Smižany",
+      "Organizátor": "Obec Smižany, CVČ Adam SNV, Olympijský klub SPIŠ, Mišo s.r.o., OKC Smižany, ZŠ Komenského Smižany, ZUŠ Smižany, ZŠ Povýšenia sv. Kríža, Smižany",
+      "Informácie": "PaedDr. Andrea Baluchová, OŠaSŠÚ Smižany, Nám. M. Pajdušáka, 053 11 Smižany, tel.: 053/443 14 83 (kl. 214), mobil: 0918 963 798, e-mail: andrea.baluchova@smizany.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
   },
   {
     "zdroj": "hrdosport.sk",
@@ -5669,15 +5660,20 @@
     "popis": ""
   },
   {
-    "zdroj": "hrdosport.sk",
-    "nazov": "4. kolo M-SsAZ družstiev staršieho žiactva",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
-    "datum": "06.09.2026",
-    "mesto": "Martin",
+    "datum": "2026-09-06",
+    "url": "https://beh.sk/pretek/wolfstahlsky-beh/",
+    "nazov": "Wolfstahlský beh",
+    "mesto": "Wolfstahl",
     "info": {
-      "propozicie": "https://www.hrdosport.sk/Content/results/2026/9/PROP1056.pdf",
-      "vysledky": ""
-    }
+      "Dĺžka trate": "9 km, 4,37 km",
+      "Povrch": "asfalt",
+      "Štart": "9:00 hod. deti, 10:00 hod. dospelí",
+      "Miesto": "Wolfstahl, Tennisclub Wolfstahl",
+      "Organizátor": "Tennis-Club Wolfstha",
+      "Informácie": "tel.:+43 676 5336117"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
   },
   {
     "zdroj": "vsetkybehy.sk",
@@ -5697,7 +5693,7 @@
         "Polmaratón (21,1 km)",
         "Mitická štafeta (21,1 km)"
       ],
-      "registracia": "https://www.vysledkovyservis.sk/trenciansky-polmaraton-prihlaska",
+      "registracia": "",
       "web": "https://www.trencianskypolmaraton.sk/",
       "propozicie": "https://www.trencianskypolmaraton.sk/bezecke-podujatia/trenciansky-polmaraton/lugera-trenciansky-polmaraton/",
       "vysledky": ""
@@ -5721,7 +5717,7 @@
         "Detské behy",
         "Beh 2 míle (3,22 km)"
       ],
-      "registracia": "https://cs.srichinmoyraces.org/beh-2-m%C3%ADle-bratislava",
+      "registracia": "",
       "web": "https://cs.srichinmoyraces.org/beh-2-m%C3%ADle-bratislava",
       "propozicie": "",
       "vysledky": "https://cs.srichinmoyraces.org/files/cs/result-pdfs/2026/Kuchajda8kolo2026.xlsx"
@@ -5744,36 +5740,10 @@
       "disciplíny": [
         "7 km"
       ],
-      "registracia": "https://registracia.misosport.sk/novohradsky-pohar-nordic-walking-2026",
+      "registracia": "",
       "web": "",
       "propozicie": "https://misosport.sk/pretek/novohradsky-pohar-nordic-walking-2026",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Wolfstahlský beh",
-    "url": "https://vsetkybehy.sk/podujatie/wolfstahlsky-beh-2026",
-    "datum": "2026-09-06",
-    "mesto": "Wolfsthal",
-    "popis": "Hlavná trať (9 km), Hobby (4,37 km), 4,37 km, Detské behy",
-    "info": {
-      "Miesto": "Wolfsthal – Tennis-Club Wolfsthal",
-      "Dĺžka trate": "9 km, 4.37 km",
-      "Štart": "10:00",
-      "kraj": "bratislavsky",
-      "gps": "48.1980650,17.0360800",
-      "seria": "",
-      "disciplíny": [
-        "Hlavná trať (9 km)",
-        "Hobby (4,37 km)",
-        "4,37 km",
-        "Detské behy"
-      ],
-      "registracia": "https://www.terminovka.sk/podujatie/wolfsthalsky-beh",
-      "web": "https://www.terminovka.sk/podujatie/wolfsthalsky-beh",
-      "propozicie": "",
-      "vysledky": "https://www.racemeter.sk/vysledky/wolfstahlsky-beh-2026-nordic-walking"
+      "vysledky": "https://misosport.sk/vysledky/novohradsky-pohar-nordic-walking-2026"
     }
   },
   {
@@ -5796,10 +5766,10 @@
         "4,37 km",
         "Detské behy"
       ],
-      "registracia": "https://www.terminovka.sk/podujatie/wolfsthalsky-beh",
+      "registracia": "",
       "web": "",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://www.racemeter.sk/vysledky/wolfsthalsky-beh-2026-nordic-walking"
     }
   },
   {
@@ -6118,28 +6088,19 @@
     "popis": ""
   },
   {
-    "zdroj": "pretekaj.sk",
-    "nazov": "Horský kros Gerlach - XXXIII. ročník",
-    "url": "https://pretekaj.sk/horskykros2026",
-    "datum": "05.09.2026",
-    "mesto": "Gerlachov",
-    "popis": "33. ročník pretekov v 8400 metrov dlhom behu do vrchu z podtatranskej obce Gerlachov cez Velickú dolinu k Horskému hotelu Sliezsky dom."
-  },
-  {
-    "zdroj": "pretekaj.sk",
-    "nazov": "Heľpiansky kros - 11. ročník Memoriálu Štefana Bošeľu",
-    "url": "https://pretekaj.sk/helpianskykros2026",
-    "datum": "05.09.2026",
-    "mesto": "Heľpa",
-    "popis": "11. ročník krosového behu, ktorý sa 5. septembra 2026 uskutoční v obci Heľpa na Horehroní."
-  },
-  {
-    "zdroj": "pretekaj.sk",
-    "nazov": "Ozorovská dvanástka 2026",
-    "url": "https://pretekaj.sk/ozorovce2026",
-    "datum": "05.09.2026",
-    "mesto": "Veľké Ozorovce",
-    "popis": "4. ročník pretekov organizovaný OZ Zorovčan v spolupráci s obcou Veľké Ozorovce."
+    "datum": "2026-09-05",
+    "url": "https://beh.sk/pretek/single-trail-run-30-4/",
+    "nazov": "Single-Trail run 30",
+    "mesto": "Ruská Nová Ves",
+    "info": {
+      "Dĺžka trate": "35 km, 17 km",
+      "Štart": "10:00 hod.",
+      "Miesto": "Ruská Nová Ves, Hostinec pod zámkom (/budova obecného úradu)",
+      "Organizátor": "O.z. Single-Trail Run 30",
+      "Informácie": "Lukáš Ferenc, tel.: 0908 377 354  Peter Kačmár, tel.: 0948 031 072  Filip Kušnír, tel.: 0948 687 449"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
   },
   {
     "zdroj": "vsetkybehy.sk",
@@ -6410,7 +6371,7 @@
       "registracia": "",
       "web": "https://bratislavamarathon.sk/event/telekom-night-run/",
       "propozicie": "https://bratislavamarathon.sk/events/telekom-night-run/propozicie/#4",
-      "vysledky": ""
+      "vysledky": "https://vysledky.sportsoft.cz/race/947"
     }
   },
   {
@@ -10967,30 +10928,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "K500 jún",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-06-25",
-    "mesto": "Nová Polhora",
-    "popis": "10 km, 5 km",
-    "info": {
-      "Miesto": "Nová Polhora – STK Nová Polhora",
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "19:30",
-      "kraj": "kosicky",
-      "gps": "48.8256155,21.3153215",
-      "seria": "",
-      "disciplíny": [
-        "10 km",
-        "5 km"
-      ],
-      "registracia": "",
-      "web": "",
-      "propozicie": "",
-      "vysledky": "https://zasrun.sk/preteky/k500-maj-2026/vysledky"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Diskokilometer",
     "url": "https://vsetkybehy.sk/podujatie/diskokilometer-2026",
     "datum": "2026-06-24",
@@ -14447,6 +14384,30 @@
       "Miesto": "Nová Polhora – STK Nová Polhora",
       "Dĺžka trate": "10 km, 5 km",
       "Štart": "19:00",
+      "kraj": "kosicky",
+      "gps": "48.8256155,21.3153215",
+      "seria": "",
+      "disciplíny": [
+        "10 km",
+        "5 km"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://zasrun.sk/preteky/k500-maj-2026/vysledky"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "K500 jún",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-05-28",
+    "mesto": "Nová Polhora",
+    "popis": "10 km, 5 km",
+    "info": {
+      "Miesto": "Nová Polhora – STK Nová Polhora",
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "19:30",
       "kraj": "kosicky",
       "gps": "48.8256155,21.3153215",
       "seria": "",
@@ -19679,7 +19640,7 @@
       "Miesto": "Slovensko",
       "Dĺžka trate": "",
       "Štart": "",
-      "kraj": "bratislavsky",
+      "kraj": "",
       "gps": "48.7411520,19.4528650",
       "seria": "",
       "disciplíny": [

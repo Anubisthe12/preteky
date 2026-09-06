@@ -3469,20 +3469,20 @@
   },
   {
     "nazov": "Beh ulicami obce Smižany",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/beh-ulicami-obce-smizany-2026",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-ulicami-obce-smizany-18/",
     "datum": "2026-09-23",
     "datum_do": "",
-    "mesto": "Smižany",
+    "mesto": "Smižany okr. Spišská Nová Ves",
     "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "14:15",
-    "organizator": "",
+    "povrch": "asfalt",
+    "start_cas": "16:30 hod. - hl. kat.; 14:15 hod. - detské kat.",
+    "organizator": "Obec Smižany, CVČ Adam SNV, Olympijský klub SPIŠ, Mišo s.r.o., OKC Smižany, ZŠ Komenského Smižany, ZUŠ Smižany, ZŠ Povýšenia sv. Kríža, Smižany",
     "tagy": [
       "beh",
       "asfalt"
     ],
-    "popis": "Hlavné preteky – muži (10 km), Hlavné preteky – ženy (5 km), Detské behy"
+    "popis": ""
   },
   {
     "nazov": "Turčianská žiacka liga 2026",
@@ -5097,18 +5097,17 @@
     "popis": ""
   },
   {
-    "nazov": "4. kolo M-SsAZ družstiev staršieho žiactva",
-    "zdroj": "hrdosport.sk",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
+    "nazov": "Wolfstahlský beh",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/wolfstahlsky-beh/",
     "datum": "2026-09-06",
     "datum_do": "",
-    "mesto": "Martin",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
+    "mesto": "Wolfstahl",
+    "dlzka": "9 km, 4,37 km",
+    "povrch": "asfalt",
+    "start_cas": "9:00 hod. deti, 10:00 hod. dospelí",
+    "organizator": "Tennis-Club Wolfstha",
     "tagy": [
-      "neznama_dlzka",
       "beh"
     ],
     "popis": ""
@@ -5160,22 +5159,6 @@
       "beh"
     ],
     "popis": "7 km"
-  },
-  {
-    "nazov": "Wolfstahlský beh",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/wolfstahlsky-beh-2026",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "mesto": "Wolfsthal",
-    "dlzka": "9 km, 4.37 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Hlavná trať (9 km), Hobby (4,37 km), 4,37 km, Detské behy"
   },
   {
     "nazov": "Wolfsthalský beh / Wolfsthaler Lauf",
@@ -5518,55 +5501,21 @@
     "popis": ""
   },
   {
-    "nazov": "Horský kros Gerlach - XXXIII. ročník",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/horskykros2026",
+    "nazov": "Single-Trail run 30",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/single-trail-run-30-4/",
     "datum": "2026-09-05",
     "datum_do": "",
-    "mesto": "Gerlachov",
-    "dlzka": "",
+    "mesto": "Ruská Nová Ves",
+    "dlzka": "35 km, 17 km",
     "povrch": "",
-    "start_cas": "",
-    "organizator": "",
+    "start_cas": "10:00 hod.",
+    "organizator": "O.z. Single-Trail Run 30",
     "tagy": [
-      "neznama_dlzka",
-      "kros"
+      "ultra",
+      "teren"
     ],
-    "popis": "33. ročník pretekov v 8400 metrov dlhom behu do vrchu z podtatranskej obce Gerlachov cez Velickú dolinu k Horskému hotelu Sliezsky dom."
-  },
-  {
-    "nazov": "Heľpiansky kros - 11. ročník Memoriálu Štefana Bošeľu",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/helpianskykros2026",
-    "datum": "2026-09-05",
-    "datum_do": "",
-    "mesto": "Heľpa",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "kros"
-    ],
-    "popis": "11. ročník krosového behu, ktorý sa 5. septembra 2026 uskutoční v obci Heľpa na Horehroní."
-  },
-  {
-    "nazov": "Ozorovská dvanástka 2026",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/ozorovce2026",
-    "datum": "2026-09-05",
-    "datum_do": "",
-    "mesto": "Veľké Ozorovce",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": "4. ročník pretekov organizovaný OZ Zorovčan v spolupráci s obcou Veľké Ozorovce."
+    "popis": ""
   },
   {
     "nazov": "Kokava Trail",
@@ -8852,22 +8801,6 @@
     "popis": "Detské behy"
   },
   {
-    "nazov": "K500 jún",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-06-25",
-    "datum_do": "",
-    "mesto": "Nová Polhora",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "19:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "10 km, 5 km"
-  },
-  {
     "nazov": "Diskokilometer",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/diskokilometer-2026",
@@ -11335,6 +11268,22 @@
     "dlzka": "10 km, 5 km",
     "povrch": "",
     "start_cas": "19:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km, 5 km"
+  },
+  {
+    "nazov": "K500 jún",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-05-28",
+    "datum_do": "",
+    "mesto": "Nová Polhora",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "19:30",
     "organizator": "",
     "tagy": [
       "beh"
