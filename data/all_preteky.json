@@ -79,7 +79,7 @@
       "registracia": "https://nevergiveuprun.eu/registracia/",
       "web": "https://nevergiveuprun.eu/24-hour-race/",
       "propozicie": "",
-      "vysledky": "https://racemeter.sk/vysledky/24h-okolo-7-platanov-stafety-2027"
+      "vysledky": ""
     }
   },
   {
@@ -127,7 +127,7 @@
       ],
       "registracia": "https://therun.sk/auth/register?category=soloultra",
       "web": "https://therun.sk",
-      "propozicie": "https://therun.sk/o-pretekoch",
+      "propozicie": "https://therun.fra1.cdn.digitaloceanspaces.com/media/files/trs_race-manual_sk.pdf",
       "vysledky": ""
     }
   },
@@ -349,7 +349,7 @@
       "registracia": "https://www.terminovka.sk/podujatie/raciansky-kros-zima",
       "web": "https://www.racianskykros.sk/zima/",
       "propozicie": "",
-      "vysledky": "https://www.racemeter.sk/vysledky/raciansky-kros-zima-2027-9km"
+      "vysledky": ""
     }
   },
   {
@@ -838,7 +838,7 @@
       "registracia": "",
       "web": "https://nevergiveuprun.eu/",
       "propozicie": "",
-      "vysledky": "https://racemeter.sk/vysledky/gobala-polmaraton-2026"
+      "vysledky": ""
     }
   },
   {
@@ -1313,7 +1313,7 @@
       "registracia": "https://my.raceresult.com/385835/",
       "web": "",
       "propozicie": "https://www.rozbehajsa.sk/nase-behy/night-run-nitra/night-run-nitra-propozicie/",
-      "vysledky": "https://my.raceresult.com/385835/results"
+      "vysledky": ""
     }
   },
   {
@@ -1549,7 +1549,7 @@
       "registracia": "https://www.terminovka.sk/podujatie/nivy-tower-run",
       "web": "",
       "propozicie": "",
-      "vysledky": "https://www.racemeter.sk/vysledky/polus-tower-run-phz-2026"
+      "vysledky": ""
     }
   },
   {
@@ -1573,7 +1573,7 @@
       "registracia": "https://my.raceresult.com/395599/registration",
       "web": "",
       "propozicie": "https://my.raceresult.com/395599/info",
-      "vysledky": "https://my.raceresult.com/395599/results"
+      "vysledky": ""
     }
   },
   {
@@ -1746,7 +1746,7 @@
       "registracia": "",
       "web": "https://cs.srichinmoyraces.org/beh-2-m%C3%ADle-bratislava",
       "propozicie": "",
-      "vysledky": "https://cs.srichinmoyraces.org/files/cs/result-pdfs/2026/Kuchajda7kolo2026.xlsx"
+      "vysledky": ""
     }
   },
   {
@@ -1770,7 +1770,7 @@
       "registracia": "https://pretekaj.sk/sk/podujatia/sbl2026/preteky/3031/registration/competitors",
       "web": "https://3klubsamorin.sk/",
       "propozicie": "https://pretekaj.sk/sk/podujatia/sbl2026/info/propozicie",
-      "vysledky": "https://pretekaj.sk/sk/vysledky/sbl2026/3031?category=categories"
+      "vysledky": ""
     }
   },
   {
@@ -1795,7 +1795,7 @@
       "registracia": "",
       "web": "https://www.behamesrdcom.sk/",
       "propozicie": "",
-      "vysledky": "https://www.racemeter.sk/vysledky/behame-srdcom-v-moste-pri-bratislave-2026"
+      "vysledky": ""
     }
   },
   {
@@ -2583,7 +2583,7 @@
       "registracia": "https://my.raceresult.com/400739/registration",
       "web": "https://behneporazenych.sk/",
       "propozicie": "https://behneporazenych.sk/propozicie/",
-      "vysledky": "https://my.raceresult.com/400739/results"
+      "vysledky": ""
     }
   },
   {
@@ -2658,7 +2658,7 @@
       "registracia": "https://my.raceresult.com/387537/registration",
       "web": "https://bachledka.sk/night-run-bachledka",
       "propozicie": "https://my.raceresult.com/387537/txt",
-      "vysledky": "https://my.raceresult.com/387537/results"
+      "vysledky": ""
     }
   },
   {
@@ -3035,7 +3035,7 @@
       "registracia": "https://zasrun.sk/preteky/372/prihlaska",
       "web": "https://www.upjs.sk/aktuality/uspesne-sme-odstartovali-prvy-rocnik-upjs-run/",
       "propozicie": "",
-      "vysledky": "https://zasrun.sk/preteky/upjs-run-2026/vysledky"
+      "vysledky": ""
     }
   },
   {
@@ -3272,7 +3272,7 @@
       "registracia": "https://my.raceresult.com/420004/registration",
       "web": "https://snowparadise.sk/",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/09/PropoVeRa26v2.pdf",
-      "vysledky": "https://my.raceresult.com/420004/results"
+      "vysledky": ""
     }
   },
   {
@@ -3346,7 +3346,7 @@
       "registracia": "https://pretekaj.sk/sk/podujatia/sbl2026/preteky/3030/registration",
       "web": "https://3klubsamorin.sk/samorinska-bezecka-liga/",
       "propozicie": "https://pretekaj.sk/sk/podujatia/sbl2026/info/propozicie",
-      "vysledky": "https://pretekaj.sk/sk/vysledky/sbl2026/3030?category=categories"
+      "vysledky": ""
     }
   },
   {
@@ -3397,7 +3397,7 @@
       "registracia": "https://zasrun.sk/preteky/371/prihlaska",
       "web": "https://www.liecebnavranov.sk/aktuality/beh-za-filomenu",
       "propozicie": "",
-      "vysledky": "https://zasrun.sk/preteky/beh-za-filomenu-2026/vysledky"
+      "vysledky": ""
     }
   },
   {
@@ -3670,7 +3670,7 @@
       "registracia": "https://my.raceresult.com/400087/registration",
       "web": "https://www.mestokrasno.sk/novinky-zo-sportu/2025/pozvanka-na-mk-tech-kysuce-trail.html",
       "propozicie": "",
-      "vysledky": "https://my.raceresult.com/400087/"
+      "vysledky": ""
     }
   },
   {
@@ -3694,7 +3694,7 @@
       "registracia": "https://my.raceresult.com/416871/registration",
       "web": "",
       "propozicie": "https://my.raceresult.com/416871/rozpis",
-      "vysledky": "https://my.raceresult.com/416871/results"
+      "vysledky": ""
     }
   },
   {
@@ -3821,7 +3821,7 @@
       "registracia": "https://my.raceresult.com/418730/registration",
       "web": "https://www.spisskebystre.sk/zivot-v-obci/kubasska-10/",
       "propozicie": "https://my.raceresult.com/418730/txt",
-      "vysledky": "https://my.raceresult.com/418730/results"
+      "vysledky": ""
     }
   },
   {
@@ -4090,7 +4090,7 @@
       "registracia": "https://race.madonan.sk/registracia",
       "web": "https://race.madonan.sk/",
       "propozicie": "https://race.madonan.sk/assets/legal/Madonan_Race_Propozicie_2026.pdf",
-      "vysledky": "https://www.racemeter.sk/vysledky/madonan-race-xtrem-2026-theseus-ocr-profi"
+      "vysledky": ""
     }
   },
   {
@@ -4415,7 +4415,7 @@
       "registracia": "https://sk.spartan.com/sk/race/detail/11456/overview",
       "web": "https://www.google.com/maps/place/48%C2%B046'26.9%22N+18%C2%B035'55.1%22E/@48.7741415,18.5964521,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc6e0db234357e1c!8m2!3d48.7741415!4d18.5986408",
       "propozicie": "",
-      "vysledky": "https://www.racemeter.sk/vysledky/spartan-workout-prievidza-2026"
+      "vysledky": ""
     }
   },
   {
@@ -4515,7 +4515,7 @@
       "registracia": "https://my.raceresult.com/413824/registration",
       "web": "",
       "propozicie": "https://my.raceresult.com/413824/txt",
-      "vysledky": "https://my.raceresult.com/413824/results"
+      "vysledky": ""
     }
   },
   {
@@ -4542,7 +4542,7 @@
       "registracia": "https://pretekaj.sk/sk/podujatia/klacianska10/registration",
       "web": "https://klacianska-desiatka.webnode.sk/",
       "propozicie": "https://cdn.pretekaj.sk/events/2026/klacianska10/DEF20260109_49125.jpg",
-      "vysledky": "https://www.racemeter.sk/vysledky/klacianska-desiatka-2026-starsie-ziacky"
+      "vysledky": ""
     }
   },
   {
@@ -4720,7 +4720,7 @@
       "registracia": "https://my.raceresult.com/414626/registration",
       "web": "",
       "propozicie": "https://www.rozbehajsa.sk/nase-behy/night-run-nitra/night-run-nitra-propozicie/",
-      "vysledky": "https://my.raceresult.com/414626/results"
+      "vysledky": ""
     }
   },
   {
@@ -4745,7 +4745,7 @@
       "registracia": "https://my.raceresult.com/410427/registration",
       "web": "https://www.behzubrohlava.sk/",
       "propozicie": "https://my.raceresult.com/410427/txt",
-      "vysledky": "https://my.raceresult.com/410427/results"
+      "vysledky": ""
     }
   },
   {
@@ -5190,7 +5190,7 @@
       "registracia": "https://my.raceresult.com/415064/registration",
       "web": "https://behdochoca.com/",
       "propozicie": "https://my.raceresult.com/415064/txt",
-      "vysledky": "https://my.raceresult.com/415064/results"
+      "vysledky": ""
     }
   },
   {
@@ -5216,7 +5216,7 @@
       "registracia": "https://my.raceresult.com/416655/registration",
       "web": "",
       "propozicie": "https://my.raceresult.com/416655/txt",
-      "vysledky": "https://my.raceresult.com/416655/results"
+      "vysledky": ""
     }
   },
   {
@@ -5313,7 +5313,7 @@
       "registracia": "https://my.raceresult.com/414577/registration",
       "web": "",
       "propozicie": "https://my.raceresult.com/414577/txt",
-      "vysledky": "https://my.raceresult.com/414577/results"
+      "vysledky": ""
     }
   },
   {
@@ -5435,7 +5435,7 @@
       "registracia": "https://my.raceresult.com/412122/registration",
       "web": "https://www.towerrunningcup.sk/urban-bell-tower-run/",
       "propozicie": "",
-      "vysledky": "https://my.raceresult.com/412122/results"
+      "vysledky": ""
     }
   },
   {
@@ -5459,7 +5459,7 @@
       "registracia": "https://my.raceresult.com/413612/registration",
       "web": "",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/07/PropoBVK26.pdf",
-      "vysledky": "https://my.raceresult.com/413612/results"
+      "vysledky": ""
     }
   },
   {
@@ -5500,7 +5500,7 @@
       "registracia": "https://my.raceresult.com/416889/registration",
       "web": "https://www.ruzomberok.sk/podujatia/ix-vecerny-beh/",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/08/PropoVeBe26v2.pdf",
-      "vysledky": "https://my.raceresult.com/416889/results"
+      "vysledky": ""
     }
   },
   {
@@ -5525,7 +5525,7 @@
       "registracia": "https://my.raceresult.com/420016/registration",
       "web": "",
       "propozicie": "https://my.raceresult.com/420016/txt",
-      "vysledky": "https://my.raceresult.com/420016/results"
+      "vysledky": ""
     }
   },
   {
@@ -5676,6 +5676,17 @@
     "popis": ""
   },
   {
+    "zdroj": "hrdosport.sk",
+    "nazov": "4. kolo M-SsAZ družstiev staršieho žiactva",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
+    "datum": "06.09.2026",
+    "mesto": "Martin",
+    "info": {
+      "propozicie": "https://www.hrdosport.sk/Content/results/2026/9/PROP1056.pdf",
+      "vysledky": ""
+    }
+  },
+  {
     "zdroj": "vsetkybehy.sk",
     "nazov": "Lugera Trenčiansky polmaratón",
     "url": "https://vsetkybehy.sk/podujatie/lugera-trenciansky-polmaraton-2026",
@@ -5696,7 +5707,7 @@
       "registracia": "",
       "web": "https://www.trencianskypolmaraton.sk/",
       "propozicie": "https://www.trencianskypolmaraton.sk/bezecke-podujatia/trenciansky-polmaraton/lugera-trenciansky-polmaraton/",
-      "vysledky": ""
+      "vysledky": "https://vysledky.vysledkovyservis.sk/results.aspx?CId=16625&RId=10024"
     }
   },
   {
@@ -5773,334 +5784,15 @@
     }
   },
   {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/6-hodinovka-pod-sarisskym-hradom-2/",
-    "nazov": "6 hodinovka pod Šarišským hradom",
-    "mesto": "Veľký Šariš okr. Prešov",
+    "zdroj": "hrdosport.sk",
+    "nazov": "Majstrovstvá SR v letnom biatlone 2026",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
+    "datum": "05.09.2026 - 06.09.2026",
+    "mesto": "Vyhne",
     "info": {
-      "Dĺžka trate": "6 hod.,",
-      "Povrch": "asfalt",
-      "Štart": "8:00 hod.",
-      "Miesto": "Veľký Šariš okr. Prešov, Ul. Doliny",
-      "Organizátor": "Gejza Sabanoš, Ondrej Fedor",
-      "Informácie": "Gejza Sabanoš, tel.: 0948 491 021, e-mail: gejzasabanos@gmail.com  Ondrej Fedor, tel.: 0908 339 536"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/beh-novoveskou-hutou-18/",
-    "nazov": "Beh Novoveskou Hutou",
-    "mesto": "Novoveská Huta okr. Spišská Nová Ves",
-    "info": {
-      "Dĺžka trate": "12,2 km",
-      "Povrch": "asfalt",
-      "Štart": "13:00 hod. deti, 15:00 hod. dospelí, dorast, pre zdravie",
-      "Miesto": "Novoveská Huta okr. Spišská Nová Ves, námestie v Novoveskej Hute",
-      "Organizátor": "Občianske združenie Novoveská Huta a Mesto Spišská Nová Ves",
-      "Informácie": "Jitka Nováková, tel.: 0918 994 867, e-mail: oznovoveskahuta@gmail.com  Ján Novák, tel.: 0905 872 562, e-mail: novakjan7411@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/ozorovska-dvanastka-5/",
-    "nazov": "Ozorovská dvanástka",
-    "mesto": "Veľké Ozorovce",
-    "info": {
-      "Dĺžka trate": "12 km, 6 km",
-      "Štart": "9:00 hod. deti, 10:00 hod. Dospelí",
-      "Miesto": "Veľké Ozorovce, Parkovisko pred KD",
-      "Organizátor": "Obec Veľké Ozorovce v spolupráci s OZ Zorovčan",
-      "Informácie": "František Korytko, tel.: 0903 239 558, e-mail: františek.korytko@gmail.com  Peter Buc, tel.: 0905 299 189, e-mail: peter.buc1959@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/horsky-kros-gerlach-17/",
-    "nazov": "Horský kros Gerlach",
-    "mesto": "Gerlachov okr. Poprad",
-    "info": {
-      "Dĺžka trate": "8,4 km, prevýšenie 879 m",
-      "Povrch": "Vysokohoské turistické chodníky, asfalt",
-      "Štart": "10:05 hod.  muži, ženy, juniori, juniorky  (8 400 m)",
-      "Miesto": "Gerlachov okr. Poprad, Gerlachov od pomníka ( Prezentácia: Obecný úrad Gerlachov )",
-      "Organizátor": "Občianske združenie Horský kros Gerlach v spolupráci s obcou Gerlachov, mestom Vysoké Tatry a Správou TANAP-u",
-      "Informácie": "Ing. Martin Mlynár : tel.: 0904 548 260, e-mail: info@horskykrosgerlach.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/velatsky-lesny-beh-12/",
-    "nazov": "Veľatský lesný beh",
-    "mesto": "Veľaty",
-    "info": {
-      "Dĺžka trate": "16 km, 11 km, 6 km",
-      "Povrch": "Asfalt – 10%, spevnená cesta – 20%, lesná cesta – 70%",
-      "Štart": "10:00 hod.",
-      "Miesto": "Veľaty, ihrisko FK Veľaty",
-      "Organizátor": "OZ Stopa a Obec Veľaty",
-      "Informácie": "e-mail : kontakt@ozstopa.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/tatravagonka-v-pohybe-2/",
-    "nazov": "Tatravagónka v pohybe",
-    "mesto": "Poprad",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "99% lesná a poľná cesta, 1 % asfalt",
-      "Štart": "09:30 hod. hlavný beh, 10:00 hod.  NW, 11:00 hod. detské behy",
-      "Miesto": "Poprad, Stredná športová škola",
-      "Organizátor": "SPK MEDVEĎ, o.z., Kollárova 2558/10, 052 01 Spišská Nová Ves, v zastúpení: Ing. Branislav Toporcer, predseda o.z.",
-      "Informácie": "tel.: +421 918 735 290, e-mail: spkmedved@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/telekom-night-run-13/",
-    "nazov": "Telekom Night run",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Povrch": "pevný povrch",
-      "Štart": "20:00 hod.",
-      "Miesto": "Bratislava, Aupark – Einsteinova 18",
-      "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Mestská časť Bratislava – Staré mesto, Mestská časť Petržalka, Bratislavský samosprávny kraj",
-      "Informácie": "tel.:  00421/904 404 638, e-mail: info@becool.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/turbo-tv-detske-behy-4/",
-    "nazov": "Turbo TV detské behy",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "300 m - 800 m",
-      "Povrch": "asfalt, dlažba",
-      "Štart": "17:00 hod.",
-      "Miesto": "Bratislava, Aupark – Einsteinova 18",
-      "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Mestská časť Bratislava – Staré mesto, Mestská časť Petržalka, Bratislavský samosprávny kraj",
-      "Informácie": "tel.:  00421/904 404 638, e-mail: info@becool.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/branovsky-beh-o-pohar-starostky-obce-8/",
-    "nazov": "Branovský beh",
-    "mesto": "Branovo, okr. Nové Zámky",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt, poľná cesta",
-      "Štart": "09:15 hod. detské behy, 10:20 hod. hlavný beh",
-      "Miesto": "Branovo, okr. Nové Zámky, pred Kultúrnym domom",
-      "Organizátor": "Obec Branovo, Občianske združenie Breznovčan a Bežecký klub Branovo",
-      "Informácie": "Katarína Musilová, tel.: 0908 748 330, e-mail:  holubova.katarina192@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/beh-hubovskym-okruhom-3/",
-    "nazov": "Beh Hubovským okruhom",
-    "mesto": "Hubová, okr. Ružomberok",
-    "info": {
-      "Dĺžka trate": "10,1 km, prev. 500 m, 5,5 km",
-      "Povrch": "lesná cesta, horský chodník",
-      "Štart": "10:00 hod. hlavný beh, 10:15 hod. detské behy",
-      "Miesto": "Hubová, okr. Ružomberok, areál futbalového ihriska",
-      "Organizátor": "Turistický klub Tramp Hubová a obec Hubová",
-      "Informácie": "Ing. Martin Kuniak, tel.l: 0918 337 452, e-mail: martin.kuniak@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/bucansky-beh-4/",
-    "nazov": "Bučánsky beh",
-    "mesto": "Bučany, okr. Trnava",
-    "info": {
-      "Dĺžka trate": "10 600 m, hobby beh 5 300 m",
-      "Povrch": "asfalt, trávnatý povrch",
-      "Štart": "17:00 hod. -  dospelí,  15:30 hod. - detské kategórie",
-      "Miesto": "Bučany, okr. Trnava, Futbalový štadión OFK Bučany",
-      "Organizátor": "Obec Bučany ,OFK Bučany, DHZ Bučany, OZ Robus",
-      "Informácie": "Ing. Jozef Valášek, tel.: 0904 789 885, e-mail: : bucanskybeh@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/zakopecka-cezpolna-20-tka-6/",
-    "nazov": "Zakopecká cezpoľná 20-tka",
-    "mesto": "Zákopčie, okr. Čadca",
-    "info": {
-      "Dĺžka trate": "20 900 m",
-      "Povrch": "asfaltový, hornatý, kamenistý",
-      "Štart": "10:00 hod.",
-      "Miesto": "Zákopčie, okr. Čadca, Zákopčie – Fľašík, futbalové ihrisko pri Základnej škole",
-      "Organizátor": "Obec Zákopčie",
-      "Informácie": "Ján Slaninák – starosta obce Zákopčie, tel.: 0911 270 159, e-mail: jan.slaninak@zakopcie.sk   Golis Vladimír, tel.: 0904 651 106, e-mail: infozakopcie@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/tajchova-osmicka-13/",
-    "nazov": "Tajchová osmička",
-    "mesto": "Nová Baňa",
-    "info": {
-      "Dĺžka trate": "8 km (5,52 km, 21,33 km )",
-      "Povrch": "asfalt, terén",
-      "Štart": "10:45 hod. - Štart kategórií G1 – G3 (21,33 km) 11:00 hod. – detské; 12:00 hod. Hlavný pretek A1 – A3, B1 – B2 a C1 – C3, 13:00 hod.",
-      "Miesto": "Nová Baňa, rekreačné stredisko Tajch Nová Baňa",
-      "Organizátor": "Mesto Nová Baňa, Zvonička, o.z. a nadšenci behu",
-      "Informácie": "Dagmar Lachká MBA – Mestský úrad Nová Baňa – Oddelenie kultúry, športu a mestskej knižnice, tel.: 045/678 28 85, e-mail: kultura@novabana.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/inovecky-vybeh-do-kopca-15/",
-    "nazov": "Inovecký výbeh do kopca",
-    "mesto": "Chata pod Inovcom",
-    "info": {
-      "Dĺžka trate": "1 400 m, prevýšenie 257 m",
-      "Povrch": "terén",
-      "Štart": "10:00 hod.",
-      "Miesto": "Chata pod Inovcom, Chata pod Inovcom",
-      "Organizátor": "DIVO o.z., Klub Polar Alpin Trenčín",
-      "Informácie": "tel.: 0905 723 975, 0905 162 841"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/rbeh-na-horky-14/",
-    "nazov": "Beh na Hôrky",
-    "mesto": "Benice (okr. Martin)",
-    "info": {
-      "Dĺžka trate": "10 km (9 960 m), prevýšenie 226 metrov, 5 km",
-      "Povrch": "lúka/lesný terén",
-      "Štart": "10:10 hod. - NW; 10:15 hod. -  Deti a Junior/ky; 10:30 hod. - dospelí",
-      "Miesto": "Benice (okr. Martin), Centrum obce Benice",
-      "Organizátor": "Občianske združenie R.T.T. Klub",
-      "Informácie": "R.T.T. KLUB, Benice 69, tel.: 0914 327 484, e-mail: rtt@rtt-klub.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/cestny-beh-sabinov-lipany/",
-    "nazov": "Cestný beh Sabinov-Lipany",
-    "mesto": "Sabinov",
-    "info": {
-      "Dĺžka trate": "13 km",
-      "Štart": "10:00 hod.",
-      "Miesto": "Sabinov, futbalový štadión"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/lesny-beh-lyziarov-o-putovny-pohar-starostu-obce-hybe-18/",
-    "nazov": "Lesný beh o putovný pohár starostu obce Hybe",
-    "mesto": "Hybe okr. Lipt. Mikuláš",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "travnaty-lesne chodniky",
-      "Štart": "10:00 hod. žiactvo; 11:00 hod. dospelí, 12:00 hod. beh na boso",
-      "Miesto": "Hybe okr. Lipt. Mikuláš, Areál bežeckého lyžovania– Koliesko - Hybe",
-      "Organizátor": "OZ v POHYBE, KBBL TJ Tatran Hybe a Obec Hybe",
-      "Informácie": "Ing. Peter Lehotský, tel.:  0905 234 878, e-mail: vpohybe@hybe.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/sky-marathon-chopok-11/",
-    "nazov": "Sky Marathon Chopok",
-    "mesto": "Srdiečko - Chopok",
-    "info": {
-      "Dĺžka trate": "43 km a 2600 m prevýšenie",
-      "Povrch": "poľná cesta alebo turistický chodník, krátko asfalt",
-      "Štart": "7:00 hod.",
-      "Miesto": "Srdiečko - Chopok, Srdiečko - Nízke Tatry Juh",
-      "Organizátor": "LeitnerSport",
-      "Informácie": "tel.: 0903 445 791, e-mail: office@leitnersport.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/jasna-trail-5/",
-    "nazov": "Sky Race Jasná Trail",
-    "mesto": "Srdiečko - Chopok Juh",
-    "info": {
-      "Dĺžka trate": "21 km prevýšenie 1400 m",
-      "Povrch": "poľná cesta alebo turistický chodník, krátko asfalt",
-      "Štart": "10:00 hod.",
-      "Miesto": "Srdiečko - Chopok Juh, Kosodrevina - Nízke Tatry Juh",
-      "Organizátor": "LeitnerSport",
-      "Informácie": "tel.: 0903 445 791, e-mail: office@leitnersport.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/abrahamska-litacka-3/",
-    "nazov": "Abrahámska lítačka",
-    "mesto": "Abrahám",
-    "info": {
-      "Dĺžka trate": "3,3 km, počet prekážok > 10,",
-      "Povrch": "Povrch trate: tráva, orná pôda, vodný tok, asfalt",
-      "Štart": "9.00 hod. - štart zmiešaných kategórií muži a ženy  10.00 hod. - štart zmiešaných kategórií deti a juniori do 16 rokov",
-      "Miesto": "Abrahám, futbalové ihrisko",
-      "Organizátor": "občianske združenie Cez prekážky"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/single-trail-run-30-4/",
-    "nazov": "Single-Trail run 30",
-    "mesto": "Ruská Nová Ves",
-    "info": {
-      "Dĺžka trate": "35 km, 17 km",
-      "Štart": "10:00 hod.",
-      "Miesto": "Ruská Nová Ves, Hostinec pod zámkom (/budova obecného úradu)",
-      "Organizátor": "O.z. Single-Trail Run 30",
-      "Informácie": "Lukáš Ferenc, tel.: 0908 377 354  Peter Kačmár, tel.: 0948 031 072  Filip Kušnír, tel.: 0948 687 449"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
+      "propozicie": "https://www.hrdosport.sk/Content/results/2026/9/PROP1011.pdf",
+      "vysledky": "https://www.hrdosport.sk/Content/results/2026/9/SL1011.pdf"
+    }
   },
   {
     "zdroj": "vsetkybehy.sk",
@@ -6153,6 +5845,53 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "6 hodinovka pod Šarišským hradom",
+    "url": "https://vsetkybehy.sk/podujatie/6-hodinovka-pod-sarisskym-hradom-2026",
+    "datum": "2026-09-05",
+    "mesto": "Veľký Šariš",
+    "popis": "6 hodinovka (6 h)",
+    "info": {
+      "Miesto": "Veľký Šariš – Funpark Doliny",
+      "Dĺžka trate": "",
+      "Štart": "08:00",
+      "kraj": "presovsky",
+      "gps": "49.0406390,21.1972710",
+      "seria": "",
+      "disciplíny": [
+        "6 hodinovka (6 h)"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "https://zasrun.sk/preteky/329/propozicie.pdf",
+      "vysledky": "https://zasrun.sk/preteky/6-hodinovka-pod-sarisskym-hradom-2026/vysledky"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Abrahámska lítačka",
+    "url": "https://vsetkybehy.sk/podujatie/abrahamska-litacka-2026",
+    "datum": "2026-09-05",
+    "mesto": "Abrahám",
+    "popis": "Detské behy, Abrahámska lítačka (3,3 km)",
+    "info": {
+      "Miesto": "Abrahám – Futbalové ihrisko Abrahám",
+      "Dĺžka trate": "3.3 km",
+      "Štart": "09:00",
+      "kraj": "trnavsky",
+      "gps": "48.2472000,17.6197000",
+      "seria": "",
+      "disciplíny": [
+        "Detské behy",
+        "Abrahámska lítačka (3,3 km)"
+      ],
+      "registracia": "",
+      "web": "https://abrahamska-litacka.webnode.sk/",
+      "propozicie": "https://casomierapt.com/wp-content/uploads/2026/07/PropoAbLi26.pdf",
+      "vysledky": "https://my.raceresult.com/409619/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh na 2 míle Košice",
     "url": "https://vsetkybehy.sk/podujatie/beh-na-2-mile-kosice-9-kolo-2026",
     "datum": "2026-09-05",
@@ -6197,6 +5936,57 @@
       "web": "",
       "propozicie": "https://racetime.sk/uploads/propozicie/str30-slanske-2026.pdf",
       "vysledky": "https://racetime.sk/vysledok/single-trail-run-30-slanske-2026"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Tatravagónka v pohybe",
+    "url": "https://vsetkybehy.sk/podujatie/tatravagonka-v-pohybe-2026",
+    "datum": "2026-09-05",
+    "mesto": "Poprad",
+    "popis": "Hlavný beh (10 km), Beh/prechádzka pre zdravie (5 km), 5 km, Detské behy",
+    "info": {
+      "Miesto": "Poprad – Stredná športová škola",
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "09:30",
+      "kraj": "presovsky",
+      "gps": "49.0514826,20.2788702",
+      "seria": "",
+      "disciplíny": [
+        "Hlavný beh (10 km)",
+        "Beh/prechádzka pre zdravie (5 km)",
+        "5 km",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://spk-medved.webnode.sk/",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh Hubovským okruhom",
+    "url": "https://vsetkybehy.sk/podujatie/beh-hubovskym-okruhom-2026",
+    "datum": "2026-09-05",
+    "mesto": "Hubová",
+    "popis": "Hlavný beh (10,1 km), Kratší beh (5,5 km), Detské behy",
+    "info": {
+      "Miesto": "Hubová – Areál futbalového ihriska TJ Poľana Hubová",
+      "Dĺžka trate": "10.1 km, 5.5 km",
+      "Štart": "10:00",
+      "kraj": "zilinsky",
+      "gps": "49.1174450,19.1848080",
+      "seria": "Šípsko-Fatranské behy · 4. kolo",
+      "disciplíny": [
+        "Hlavný beh (10,1 km)",
+        "Kratší beh (5,5 km)",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://tramphubova.sk/",
+      "propozicie": "https://www.ruzomberok.sk/wp-content/uploads/2026/02/Propozicie_beh_hubovskym_okruhom2026.pdf",
+      "vysledky": "https://my.raceresult.com/410081/results"
     }
   },
   {
@@ -6250,6 +6040,52 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Cestný beh Sabinov-Lipany",
+    "url": "https://vsetkybehy.sk/podujatie/cestny-beh-sabinov-lipany-2026",
+    "datum": "2026-09-05",
+    "mesto": "Sabinov",
+    "popis": "Cestný beh (13 km)",
+    "info": {
+      "Miesto": "Sabinov – Futbalový štadión Sabinov",
+      "Dĺžka trate": "13 km",
+      "Štart": "10:00",
+      "kraj": "presovsky",
+      "gps": "49.0972131,21.1003267",
+      "seria": "",
+      "disciplíny": [
+        "Cestný beh (13 km)"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "https://zasrun.sk/preteky/cestny-beh-sabinov-lipany/propozicie.pdf",
+      "vysledky": "https://zasrun.sk/preteky/cestny-beh-sabinov-lipany/vysledky"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Inovecký výbeh do kopca",
+    "url": "https://vsetkybehy.sk/podujatie/inovecky-vybeh-do-kopca-2026",
+    "datum": "2026-09-05",
+    "mesto": "Inovce",
+    "popis": "Beh do vrchu (1,4 km)",
+    "info": {
+      "Miesto": "Inovce – Chata pod Inovcom",
+      "Dĺžka trate": "1.4 km",
+      "Štart": "10:00",
+      "kraj": "kosicky",
+      "gps": "48.8231270,22.3576720",
+      "seria": "",
+      "disciplíny": [
+        "Beh do vrchu (1,4 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.divozdruzenie.sk/",
+      "propozicie": "https://beh.sk/wp-content/uploads/2026/07/260905_inovecky_vybeh_p.png",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Lesný beh lyžiarov o putovný pohár starostu obce Hybe",
     "url": "https://vsetkybehy.sk/podujatie/lesny-beh-lyziarov-o-putovny-pohar-starostu-obce-hybe-42-rocnik-2026",
     "datum": "2026-09-05",
@@ -6273,6 +6109,155 @@
       "web": "https://vpohybe.hybe.sk/",
       "propozicie": "https://my.raceresult.com/416667/txt",
       "vysledky": "https://my.raceresult.com/416667/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Ozorovská dvanástka",
+    "url": "https://vsetkybehy.sk/podujatie/ozorovska-dvanastka-2026",
+    "datum": "2026-09-05",
+    "mesto": "Malé Ozorovce",
+    "popis": "6 km trať, Detské behy, 12 km trať",
+    "info": {
+      "Miesto": "Malé Ozorovce – Parkovisko pred KD",
+      "Dĺžka trate": "6 km, 12 km",
+      "Štart": "10:00",
+      "kraj": "nitriansky",
+      "gps": "48.6820640,21.6139680",
+      "seria": "",
+      "disciplíny": [
+        "6 km trať",
+        "Detské behy",
+        "12 km trať"
+      ],
+      "registracia": "",
+      "web": "https://www.obecmaleozorovce.sk/beh-ozorovska-dvanastka---1-rocnik-g28-354",
+      "propozicie": "https://storage.googleapis.com/cdn.pretekaj.sk/events/2026/ozorovce2026/PROG20260112_49140.pdf",
+      "vysledky": "https://pretekaj.sk/sk/vysledky/ozorovce2026/3224"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Veľatský lesný beh",
+    "url": "https://vsetkybehy.sk/podujatie/velatsky-lesny-beh-2026",
+    "datum": "2026-09-05",
+    "mesto": "Veľaty",
+    "popis": "11 km trať, Do lesa a z lesa (6 km), Detské behy, Hlavná trať (16 km)",
+    "info": {
+      "Miesto": "Veľaty – Ihrisko FK Veľaty",
+      "Dĺžka trate": "11 km, 6 km, 16 km",
+      "Štart": "10:00",
+      "kraj": "kosicky",
+      "gps": "48.5238680,21.6580020",
+      "seria": "",
+      "disciplíny": [
+        "11 km trať",
+        "Do lesa a z lesa (6 km)",
+        "Detské behy",
+        "Hlavná trať (16 km)"
+      ],
+      "registracia": "",
+      "web": "https://ozstopa.sk/lesny_beh/velatsky-lesny-beh-2026/",
+      "propozicie": "",
+      "vysledky": "https://zasrun.sk/preteky/velatsky-lesny-beh-2026/vysledky"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Zakopecká cezpoľná 20-tka",
+    "url": "https://vsetkybehy.sk/podujatie/zakopecka-cezpolna-20-tka-2026",
+    "datum": "2026-09-05",
+    "mesto": "Zákopčie",
+    "popis": "Zakopecká cezpoľná 20-tka (20,9 km)",
+    "info": {
+      "Miesto": "Zákopčie – Futbalové ihrisko pri Základnej škole, Zákopčie – Fľašík",
+      "Dĺžka trate": "20.9 km",
+      "Štart": "10:00",
+      "kraj": "zilinsky",
+      "gps": "49.4064260,18.7306000",
+      "seria": "",
+      "disciplíny": [
+        "Zakopecká cezpoľná 20-tka (20,9 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.zakopcie.sk/beh/",
+      "propozicie": "https://www.zakopcie.sk/e_download.php?file=%2Fdata%2Fmultipage%2Feditor%2Feditor-20-93-sk_1.pdf&original=propozicie.pdf",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Horský kros Gerlach",
+    "url": "https://vsetkybehy.sk/podujatie/horsky-kros-gerlach-2026",
+    "datum": "2026-09-05",
+    "mesto": "Gerlachov",
+    "popis": "Beh na Sliezsky dom (8,4 km)",
+    "info": {
+      "Miesto": "Gerlachov – Pri pomníku v Gerlachove",
+      "Dĺžka trate": "8.4 km",
+      "Štart": "10:05",
+      "kraj": "presovsky",
+      "gps": "49.3207510,21.1096090",
+      "seria": "",
+      "disciplíny": [
+        "Beh na Sliezsky dom (8,4 km)"
+      ],
+      "registracia": "",
+      "web": "https://horskykrosgerlach.sk/",
+      "propozicie": "https://horskykrosgerlach.sk/propozicie/",
+      "vysledky": "https://horskykrosgerlach.sk/vysledky/?rok=2026"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Branovský beh",
+    "url": "https://vsetkybehy.sk/podujatie/branovsky-beh-2026",
+    "datum": "2026-09-05",
+    "mesto": "Branovo",
+    "popis": "Hlavný beh (10 km), Hlavný beh (5 km), Detské behy, Juniorský beh (1,5 km)",
+    "info": {
+      "Miesto": "Branovo – Park pri Obecnom úrade v Branove",
+      "Dĺžka trate": "10 km, 5 km, 1.5 km",
+      "Štart": "10:20",
+      "kraj": "nitriansky",
+      "gps": "48.0260360,18.3091590",
+      "seria": "",
+      "disciplíny": [
+        "Hlavný beh (10 km)",
+        "Hlavný beh (5 km)",
+        "Detské behy",
+        "Juniorský beh (1,5 km)"
+      ],
+      "registracia": "",
+      "web": "https://branovo.sk/",
+      "propozicie": "https://beh.sk/wp-content/uploads/2026/05/260905_branovsky_beh_p.pdf",
+      "vysledky": "https://my.raceresult.com/393710/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh na Hôrky",
+    "url": "https://vsetkybehy.sk/podujatie/beh-na-horky-2026",
+    "datum": "2026-09-05",
+    "mesto": "Benice",
+    "popis": "Beh 10 km (9,96 km), Beh 5 km, 9,96 km, Detské behy",
+    "info": {
+      "Miesto": "Benice – Centrum obce Benice",
+      "Dĺžka trate": "9.96 km, 5 km",
+      "Štart": "10:30",
+      "kraj": "zilinsky",
+      "gps": "48.9948280,18.8710680",
+      "seria": "",
+      "disciplíny": [
+        "Beh 10 km (9,96 km)",
+        "Beh 5 km",
+        "9,96 km",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://www.rtt-klub.sk",
+      "propozicie": "https://beh.sk/wp-content/uploads/2026/07/260905_beh_na_horky_p.doc",
+      "vysledky": "https://my.raceresult.com/413508/results"
     }
   },
   {
@@ -6302,6 +6287,32 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Tajchová osmička",
+    "url": "https://vsetkybehy.sk/podujatie/tajchova-osmicka-2026",
+    "datum": "2026-09-05",
+    "mesto": "Nová Baňa",
+    "popis": "Horský polmaratón (21,33 km), Krátka trasa (5,52 km), Detské behy, Dlhá trasa (8 km)",
+    "info": {
+      "Miesto": "Nová Baňa – Rekreačný areál Tajch – amfiteáter a cyklochodník pri jazere",
+      "Dĺžka trate": "21.33 km, 5.52 km, 8 km",
+      "Štart": "10:45",
+      "kraj": "banskobystricky",
+      "gps": "48.4245994,18.6413651",
+      "seria": "",
+      "disciplíny": [
+        "Horský polmaratón (21,33 km)",
+        "Krátka trasa (5,52 km)",
+        "Detské behy",
+        "Dlhá trasa (8 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.tajchovaosmicka.sk/",
+      "propozicie": "https://beh.sk/wp-content/uploads/2026/06/260905_tajchova8_p.pdf",
+      "vysledky": "https://my.raceresult.com/406466/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Legendárna 5-ka, bežecké preteky maratónca Ondreja Pózmana (15:34,0)",
     "url": "https://vsetkybehy.sk/podujatie/legendarna-5-ka-bezecke-preteky-maratonca-ondreja-pozmana-15340-datum-2026",
     "datum": "2026-09-05",
@@ -6321,6 +6332,32 @@
       "web": "",
       "propozicie": "https://my.raceresult.com/420930/txt",
       "vysledky": "https://my.raceresult.com/420930/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh Novoveskou Hutou",
+    "url": "https://vsetkybehy.sk/podujatie/beh-novoveskou-hutou-2026",
+    "datum": "2026-09-05",
+    "mesto": "Spišská Nová Ves",
+    "popis": "Beh pre zdravie (5 km), Detské behy, Beh Novoveskou Hutou (12,2 km), Dorast (12,2 km)",
+    "info": {
+      "Miesto": "Spišská Nová Ves – Námestie v Novoveskej Hute",
+      "Dĺžka trate": "5 km, 12.2 km",
+      "Štart": "15:00",
+      "kraj": "kosicky",
+      "gps": "48.9026790,20.5175441",
+      "seria": "",
+      "disciplíny": [
+        "Beh pre zdravie (5 km)",
+        "Detské behy",
+        "Beh Novoveskou Hutou (12,2 km)",
+        "Dorast (12,2 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.oznovoveskahuta.eu/",
+      "propozicie": "https://beh.sk/wp-content/uploads/2026/01/260905_novoveskou_hutou_p.docx",
+      "vysledky": "https://misosport.sk/vysledky/beh-novoveskou-hutou-2026"
     }
   },
   {
@@ -6346,6 +6383,55 @@
       "web": "https://www.lubela.sk/udalosti-v-obci/kalendar-akcii/beh-lubelou-394_51sk.html",
       "propozicie": "https://www.terminovka.sk/podujatie/beh-lubelou",
       "vysledky": "https://www.terminovka.sk/podujatie/vysledky/beh-lubelou/current"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Bučánsky beh",
+    "url": "https://vsetkybehy.sk/podujatie/bucansky-beh-2026",
+    "datum": "2026-09-05",
+    "mesto": "Bučany",
+    "popis": "Hlavný profi beh (10,6 km), Hobby beh (5,3 km), 5,3 km, Detské behy",
+    "info": {
+      "Miesto": "Bučany – Futbalový štadión OFK Bučany",
+      "Dĺžka trate": "10.6 km, 5.3 km",
+      "Štart": "17:00",
+      "kraj": "trnavsky",
+      "gps": "48.4190410,17.6991710",
+      "seria": "",
+      "disciplíny": [
+        "Hlavný profi beh (10,6 km)",
+        "Hobby beh (5,3 km)",
+        "5,3 km",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://www.bucany.sk/aktuality/akcie-a-podujatia/bucansky-beh-2026-452_59sk.html",
+      "propozicie": "https://beh.sk/wp-content/uploads/2026/06/260905_bucansky_beh_p.pdf",
+      "vysledky": "https://my.raceresult.com/398856/"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Turbo TV detské behy",
+    "url": "https://vsetkybehy.sk/podujatie/turbo-tv-detske-behy-2026",
+    "datum": "2026-09-05",
+    "mesto": "Bratislava",
+    "popis": "Detské behy",
+    "info": {
+      "Miesto": "Bratislava – Aupark, Sad Janka Kráľa – Viedenská cesta",
+      "Dĺžka trate": "",
+      "Štart": "17:00",
+      "kraj": "bratislavsky",
+      "gps": "48.1559180,17.1313540",
+      "seria": "",
+      "disciplíny": [
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://bratislavamarathon.sk/event/telekom-night-run",
+      "propozicie": "https://bratislavamarathon.sk/events/telekom-night-run/propozicie/#4",
+      "vysledky": "https://vysledky.sportsoft.cz/race/946"
     }
   },
   {
