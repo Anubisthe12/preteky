@@ -375,6 +375,22 @@
     "popis": "Maratón (42,2 km), Polmaratón (21,1 km), Detské behy, Stredná trať (8,3 km)"
   },
   {
+    "nazov": "Mikulášsky beh na Tancovú",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/mikulassky-beh-na-tancovu-3/",
+    "datum": "2026-12-12",
+    "datum_do": "",
+    "mesto": "Bytča",
+    "dlzka": "12 km",
+    "povrch": "asfaltová cesta cez les, lúka",
+    "start_cas": "11:00 hod.",
+    "organizator": "Behači Bytča a okolie",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Tony Treadmill Run",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/tony-treadmill-run-2026",
@@ -389,22 +405,6 @@
       "beh"
     ],
     "popis": "Beh na bežeckom páse (5 km)"
-  },
-  {
-    "nazov": "Mikulášsky beh na Tancovú",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/mikulassky-beh-na-tancovu-2026",
-    "datum": "2026-12-12",
-    "datum_do": "",
-    "mesto": "Bytča",
-    "dlzka": "5 km, 12 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Rodinný nesúťažný beh (5 km), 5 km, Beh 12 km, Beh trojíc (12 km)"
   },
   {
     "nazov": "Beh 2 míle Bratislava – 12. kolo",
@@ -597,6 +597,22 @@
     "povrch": "lesné cesty - 85%, asfalt - 15%",
     "start_cas": "13:00 hod.",
     "organizator": "Klub orientačného behu Kysak, Obec Kysak",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Slepčianska pätnástka",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/slepcianska-patnastka-19/",
+    "datum": "2026-11-21",
+    "datum_do": "",
+    "mesto": "Slepčany okr. Zlaté Moravce",
+    "dlzka": "15 km; 7,5 km",
+    "povrch": "asfalt",
+    "start_cas": "12:00 hod. - detské kategórie, 13:00 hod. - dospelí",
+    "organizator": "OÚ Slepčany",
     "tagy": [
       "beh"
     ],
@@ -1150,6 +1166,22 @@
     "popis": ""
   },
   {
+    "nazov": "Beh na Ščob",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-na-scob/",
+    "datum": "2026-10-24",
+    "datum_do": "",
+    "mesto": "Stropkov",
+    "dlzka": "0,80 km,, prevýšenie 0,18 km",
+    "povrch": "",
+    "start_cas": "18:30 hod.",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Beh Rematskou dolinou",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/beh-rematskou-dolinou-2026",
@@ -1309,22 +1341,6 @@
       "beh"
     ],
     "popis": "Beh dospelých (5 km), Detské behy"
-  },
-  {
-    "nazov": "Beháme srdcom v Moste pri Bratislave",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/behame-srdcom-v-moste-pri-bratislave-2026",
-    "datum": "2026-10-18",
-    "datum_do": "",
-    "mesto": "Most pri Bratislave",
-    "dlzka": "4.5 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Hlavný beh (4,5 km), 4,5 km, Detské behy"
   },
   {
     "nazov": "Podvihorlatský kros",
@@ -2524,6 +2540,22 @@
     "popis": ""
   },
   {
+    "nazov": "Beh Slnečnicami",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-slnecnicami-2/",
+    "datum": "2026-09-27",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "21,1 km; 10 km, 6 km",
+    "povrch": "",
+    "start_cas": "10:00 hod. detské behy, 11:40 hod. 6-km, 13:45 hod. polmaratón, 14:15 hod. 10 km",
+    "organizator": "Nebuď jeleň, občianske združenie",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Lesný beh okolo Poludnice",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/lesny-beh-okolo-poludnice-56-rocnik-2026",
@@ -2604,22 +2636,6 @@
       "beh"
     ],
     "popis": "Detské behy, Hlavný beh (3 km)"
-  },
-  {
-    "nazov": "Beh Slnečnicami",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/beh-slnecnicami-2026",
-    "datum": "2026-09-27",
-    "datum_do": "",
-    "mesto": "Bratislava",
-    "dlzka": "21 km, 10 km, 6 km, 3 km",
-    "povrch": "",
-    "start_cas": "13:40",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": "Polmaratón (21 km), Desinka (10 km), 6-ka (6 km), Detské behy, BUDDY beh (3 km)"
   },
   {
     "nazov": "Beh za Filoménu",
@@ -2825,6 +2841,22 @@
     "povrch": "asfalt 80%, trávnik 20%",
     "start_cas": "13:00 hod. - Detský beh, 15:00 hod. - Hlavný beh",
     "organizator": "Obec Močenok (usporiadateľ: Matej Šimko)",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "RAKYTA Run",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/rakyta-run-2/",
+    "datum": "2026-09-26",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "1 km",
+    "povrch": "",
+    "start_cas": "09:30 hod. - detské behy, 10:30 hod. - M-AZB na 1 míľu",
+    "organizator": "BE COOL, s.r.o.,",
     "tagy": [
       "beh"
     ],
@@ -4219,134 +4251,6 @@
     "popis": "10 km, 4,2 km, 4.2 km NORDIC WALK"
   },
   {
-    "nazov": "Beh 2 míle Bratislava – 9. kolo",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-2-mile-bratislava-9-kolo-16/",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "mesto": "Bratislava",
-    "dlzka": "2 míle (3.218 km), deti cca 0,20 km",
-    "povrch": "",
-    "start_cas": "10:00 hod.",
-    "organizator": "Sri Chinmoy Marathon Team",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Dukelský beh mieru",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/dukelsky-beh-mieru-18/",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "mesto": "Svidník",
-    "dlzka": "19 km",
-    "povrch": "asfalt",
-    "start_cas": "9:00 hod. lezúni, 09:15 hod. MBZ, 09:30 hod. VBZ, 10:30 hod. hlavný beh,",
-    "organizator": "Mesto Svidník",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kláštorný beh",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/klastorny-beh-5/",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "mesto": "Nitra",
-    "dlzka": "10,5 km, 7 km",
-    "povrch": "lesný terén",
-    "start_cas": "10:20 hod. - deti,, 11:00 hod. - dospelí 11:10 hod. - mládež, juniori, hobby",
-    "organizator": "Zoborský skrášľovací spolok, Mesto Nitra",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Manínsky Partizán",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/maninsky-partizan-2/",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "mesto": "Manínska Tiesňava",
-    "dlzka": "9 km, prevýšenie 0,30 km",
-    "povrch": "horský terén",
-    "start_cas": "9:30 hod.  Štartovať sa bude v 1 až 2 min. intervaloch v skupinách po 15 až 20 pretekárov, 14:30 hod. detti",
-    "organizator": "Active Process o.z. a mesto Považská Bystrica",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Septembrový beh Raslavice – Memoriál Jozefa Kovalčína",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/septembrovy-beh-raslavice-memorial-jozefa-kovalcina/",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "mesto": "Raslavice",
-    "dlzka": "10 km, 5 km",
-    "povrch": "členitý terén / asfalt",
-    "start_cas": "10:00 hod.",
-    "organizator": "Ján Matys, Obec Raslavice",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Ľubotická desiatka",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/luboticka-desiatka-11/",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "mesto": "Ľubotice, okr. Prešov",
-    "dlzka": "10 km, (5 km)",
-    "povrch": "asfalt a poľná cesta",
-    "start_cas": "10:30 hod. hl. kat.; 9:00 hod. detské.; 10:30 hod. NW",
-    "organizator": "Obec Ľubotice a TJ Sokol Ľubotice - Bežecký klub",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Poltársky beh",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/poltarsky-beh-3/",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "mesto": "Poltár",
-    "dlzka": "10 km, 4,5 km",
-    "povrch": "",
-    "start_cas": "11:00 hod.",
-    "organizator": "Katarína Strmenová",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Wolfstahlský beh",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/wolfstahlsky-beh/",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "mesto": "Wolfstahl",
-    "dlzka": "9 km, 4,37 km",
-    "povrch": "asfalt",
-    "start_cas": "9:00 hod. deti, 10:00 hod. dospelí",
-    "organizator": "Tennis-Club Wolfstha",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Lugera Trenčiansky polmaratón",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/lugera-trenciansky-polmaraton-2026",
@@ -4395,6 +4299,22 @@
     "popis": "7 km"
   },
   {
+    "nazov": "Wolfstahlský beh",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/wolfstahlsky-beh-2026",
+    "datum": "2026-09-06",
+    "datum_do": "",
+    "mesto": "Wolfsthal",
+    "dlzka": "9 km, 4.37 km",
+    "povrch": "",
+    "start_cas": "10:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Hlavná trať (9 km), Hobby (4,37 km), 4,37 km, Detské behy"
+  },
+  {
     "nazov": "Wolfsthalský beh / Wolfsthaler Lauf",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/wolfsthalsky-beh-2026",
@@ -4409,6 +4329,70 @@
       "beh"
     ],
     "popis": "Hlavná trať (9 km), Hobby (4,37 km), 4,37 km, Detské behy"
+  },
+  {
+    "nazov": "Dukelský beh mieru",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/dukelsky-beh-mieru-2026",
+    "datum": "2026-09-06",
+    "datum_do": "",
+    "mesto": "Svidník",
+    "dlzka": "19 km, 6.5 km, 1.2 km",
+    "povrch": "",
+    "start_cas": "10:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Detské behy, Hlavný beh Dukla – Svidník (19 km), Veľký beh zdravia (6,5 km), Veľký beh zdravia in-line (6,5 km), Malý beh zdravia (1,2 km)"
+  },
+  {
+    "nazov": "Ľubotická desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/12-rocnik-luboticka-desiatka-2026",
+    "datum": "2026-09-06",
+    "datum_do": "",
+    "mesto": "Ľubotice",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "10:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Ľubotická desiatka (10 km), 5 km beh, 5 km, Detské behy"
+  },
+  {
+    "nazov": "Kláštorný beh",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/klastorny-beh-2026",
+    "datum": "2026-09-06",
+    "datum_do": "",
+    "mesto": "Nitra",
+    "dlzka": "10.5 km, 7 km, 3.5 km",
+    "povrch": "",
+    "start_cas": "11:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh na 10,5 km, Detské behy, Beh na 7 km, Mládež, juniori a hobby beh (3,5 km)"
+  },
+  {
+    "nazov": "Poltársky beh",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/poltarsky-beh-2026",
+    "datum": "2026-09-06",
+    "datum_do": "",
+    "mesto": "Poltár",
+    "dlzka": "9.2 km, 4.5 km",
+    "povrch": "",
+    "start_cas": "11:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Hlavný beh (9,2 km), Hobby beh (4,5 km), 4,5 km, Detské behy"
   },
   {
     "nazov": "Kokava Trail",

@@ -249,6 +249,14 @@
   },
   {
     "zdroj": "pretekaj.sk",
+    "nazov": "Beháme srdcom v Moste pri Bratislave",
+    "url": "https://pretekaj.sk/energiapreteba2026",
+    "datum": "18.10.2026",
+    "mesto": "Most pri Bratislave",
+    "popis": "Energia pre teba 2026. Charitatívne športové podujatie so štartom na futbalovom ihrisku v Moste pri Bratislave na podporu zdravotne znevýhodnenej recipientke Alicke."
+  },
+  {
+    "zdroj": "pretekaj.sk",
     "nazov": "Black Stork Nordic Walking - 1. ročník",
     "url": "https://pretekaj.sk/blackstorknordicwalking",
     "datum": "25.10.2026",
@@ -10195,17 +10203,6 @@
   },
   {
     "zdroj": "hrdosport.sk",
-    "nazov": "2. kolo M-SsAZ najmladšieho žiactva skupina 3",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
-    "datum": "08.09.2026",
-    "mesto": "Žilina",
-    "info": {
-      "propozicie": "https://www.hrdosport.sk/Content/results/2026/9/PROP1052.pdf",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "hrdosport.sk",
     "nazov": "2. kolo M-SsAZ najmladšieho žiactva skupina 4",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
     "datum": "09.09.2026",
@@ -11682,7 +11679,7 @@
       "Štart": "11:00",
       "kraj": "banskobystricky",
       "gps": "48.1564993,19.3605502",
-      "seria": "",
+      "seria": "Krtíšska bežecká liga",
       "disciplíny": [
         "Hlavný beh (10 km)",
         "Hobby beh (5 km)",
@@ -14096,7 +14093,7 @@
       "Štart": "10:00",
       "kraj": "banskobystricky",
       "gps": "48.2093430,19.3490370",
-      "seria": "",
+      "seria": "Krtíšska bežecká liga",
       "disciplíny": [
         "Duatlon (22 km)",
         "Detské behy",
@@ -16019,9 +16016,9 @@
       "disciplíny": [
         "Cesta (534 km)"
       ],
-      "registracia": "https://therun.sk/auth/register?category=soloultra",
+      "registracia": "https://therun.sk/auth/register?category=ladiesrun",
       "web": "https://therun.sk",
-      "propozicie": "https://therun.fra1.cdn.digitaloceanspaces.com/media/files/trs_race-manual_sk.pdf",
+      "propozicie": "https://therun.sk/o-pretekoch",
       "vysledky": ""
     }
   },
@@ -16267,7 +16264,7 @@
       "registracia": "",
       "web": "https://www.terminovka.sk/podujatie/wolfsthalsky-beh",
       "propozicie": "",
-      "vysledky": "https://www.racemeter.sk/vysledky/wolfstahlsky-beh-2026-nordic-walking"
+      "vysledky": "https://www.racemeter.sk/vysledky/wolfsthalsky-beh-2026-nordic-walking"
     }
   },
   {
@@ -17968,7 +17965,7 @@
       "Štart": "11:00",
       "kraj": "banskobystricky",
       "gps": "48.2406030,19.3340850",
-      "seria": "",
+      "seria": "Krtíšska bežecká liga · 4. kolo",
       "disciplíny": [
         "Hlavný pretek (10 km)",
         "Hobby pretek (5 km)",
@@ -18103,7 +18100,7 @@
       ],
       "registracia": "",
       "web": "https://www.raztocno.sk/",
-      "propozicie": "https://www.raztocno.sk/download_file_f.php?id=2456226",
+      "propozicie": "",
       "vysledky": "https://www.raztocno.sk/vysledky-xxxii--rocnika-behu-snp-ulicami-obce-raztocno-oznam/mid/514136/.html#m_514136"
     }
   },
@@ -18479,7 +18476,7 @@
       "registracia": "",
       "web": "https://odvazne-labky.sk/",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/416313/results"
     }
   },
   {
@@ -18649,7 +18646,7 @@
       "registracia": "",
       "web": "https://www.kralovastudna.eu",
       "propozicie": "https://beh.sk/wp-content/uploads/2024/02/240811_kralova_studna_p.pdf",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/kralovastudna2026/3188"
     }
   },
   {
@@ -18947,7 +18944,7 @@
       "registracia": "",
       "web": "https://www.spartan.com/en/race/detail/10695/overview",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://sk.spartan.com/sk/race/past-results/10695"
     }
   },
   {
@@ -19045,7 +19042,7 @@
         "Detské behy"
       ],
       "registracia": "",
-      "web": "https://www.podbiel.sk/udalosti-v-obci/aktuality/pozvanka-beh-snp-rohace-podbiel-2026-tvoja-vyzva-v-srdci-oravy-1686sk.html",
+      "web": "",
       "propozicie": "https://www.vysledkovyservis.sk/data/propozicie/cestny-beh-rohace-podbiel-propozicie-2026.pdf",
       "vysledky": "https://vysledky.vysledkovyservis.sk/results.aspx?CId=16625&RId=6291"
     }
@@ -19167,7 +19164,7 @@
       ],
       "registracia": "",
       "web": "https://www.islandgladiator.sk/",
-      "propozicie": "https://www.islandgladiator.sk/wp-content/uploads/2026/03/Propozicie-Island-Gladiator-Slovakia-2026.pdf",
+      "propozicie": "",
       "vysledky": "https://my.raceresult.com/413391/"
     }
   },
@@ -19293,7 +19290,7 @@
       ],
       "registracia": "",
       "web": "https://www.slovakman.sk/charity-run",
-      "propozicie": "https://registrace.sportsoft.cz/_data/3603/pro_hope26.pdf",
+      "propozicie": "",
       "vysledky": "https://www.slovakman.sk/226/vysledky"
     }
   },
@@ -19413,7 +19410,7 @@
       "registracia": "",
       "web": "https://www.presovrunning.sk/",
       "propozicie": "https://storage.googleapis.com/cdn.pretekaj.sk/events/2026/tatryairportrun/PROG20260083_48744.pdf",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/tatryairportrun/3134"
     }
   },
   {
@@ -19464,7 +19461,7 @@
       "registracia": "",
       "web": "https://maratonfurca.sk/certifikat-trate-extrem-2/",
       "propozicie": "https://zasrun.sk/preteky/355",
-      "vysledky": ""
+      "vysledky": "https://zasrun.sk/preteky/extrem-maraton-2026-maraton-polmaraton-stafetovy-beh/vysledky"
     }
   },
   {
@@ -19732,7 +19729,7 @@
       "registracia": "",
       "web": "https://www.333extreme.sk/",
       "propozicie": "https://www.333extreme.sk/wp-content/uploads/propozicie-333-2026.pdf",
-      "vysledky": ""
+      "vysledky": "https://misosport.sk/vysledky/spisskych-333-extreme-2026"
     }
   },
   {
@@ -20132,7 +20129,7 @@
       "registracia": "",
       "web": "https://www.maraton.skstrba.sk",
       "propozicie": "https://maraton.skstrba.sk/propozicie",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/msm48/2961"
     }
   },
   {
@@ -20518,7 +20515,7 @@
       "registracia": "",
       "web": "https://pretekaj.sk/kidrace",
       "propozicie": "https://cdn.pretekaj.sk/events/2026/kidrace/PROG20260081_47901.jpg",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/kidrace?category=categories"
     }
   },
   {
@@ -20567,7 +20564,7 @@
       "registracia": "",
       "web": "https://sipskofatranskebehy.sk/",
       "propozicie": "https://beh.sk/wp-content/uploads/2026/02/260705_zaskov_p.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/395485/results"
     }
   },
   {
@@ -20616,7 +20613,7 @@
       "registracia": "",
       "web": "https://www.obeckolonica.sk/",
       "propozicie": "https://beh.sk/wp-content/uploads/2026/03/070526_kolonica_p.pdf",
-      "vysledky": "https://beh.sk/wp-content/uploads/2026/03/260705_cmb_kolonica_v.xls"
+      "vysledky": ""
     }
   },
   {
@@ -20642,7 +20639,7 @@
       "registracia": "",
       "web": "https://www.spartan.com/en/race/detail/9972/overview",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://sk.spartan.com/sk/race/past-results/9972"
     }
   },
   {
@@ -20740,7 +20737,7 @@
       "registracia": "",
       "web": "https://matusovbeh.sk/",
       "propozicie": "https://matusovbeh.sk/propozicie/",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/behprematuska2026/3088"
     }
   },
   {
@@ -21515,7 +21512,7 @@
       "Štart": "08:45",
       "kraj": "banskobystricky",
       "gps": "48.0898531,19.1545637",
-      "seria": "",
+      "seria": "Krtíšska bežecká liga · 3. kolo",
       "disciplíny": [
         "Hlavný beh (11 km)",
         "Detské behy",
@@ -21703,7 +21700,7 @@
       "registracia": "",
       "web": "https://poharbodvy.sk/",
       "propozicie": "https://poharbodvy.sk/propozicie-2026",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/400219/results"
     }
   },
   {
@@ -21854,7 +21851,7 @@
       "registracia": "",
       "web": "https://dobyvezu.sk/",
       "propozicie": "https://dobyvezu.sk/propozicie/",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/406986/results"
     }
   },
   {
@@ -21931,7 +21928,7 @@
       "registracia": "",
       "web": "https://www.presovrunning.sk/",
       "propozicie": "https://pretekaj.sk/opalrun/propozicie.pdf",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/opalrun/3095"
     }
   },
   {
@@ -22838,7 +22835,7 @@
       "registracia": "",
       "web": "https://www.behnazelenepleso.sk/",
       "propozicie": "https://beh.sk/wp-content/uploads/2026/03/260613_zelene_pleso_u.pdf",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/zelenepleso/2929"
     }
   },
   {
@@ -22863,7 +22860,7 @@
       "registracia": "",
       "web": "https://domovina-no.sk/",
       "propozicie": "https://beh.sk/wp-content/uploads/2026/01/260613_hodkovskym_parkom_p.docx",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/hodkovskypark2026/2995"
     }
   },
   {
@@ -23226,7 +23223,7 @@
       "registracia": "",
       "web": "https://www.3klubsamorin.sk",
       "propozicie": "https://pretekaj.sk/kvetoslavovska5/info/propozicie",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/kvetoslavovska5?category=categories"
     }
   },
   {
@@ -23302,7 +23299,7 @@
       "registracia": "",
       "web": "https://3klubsamorin.sk/",
       "propozicie": "https://pretekaj.sk/sk/podujatia/kvetoslavovska5/info/propozicie",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/kvetoslavovska5?category=categories"
     }
   },
   {
@@ -23924,7 +23921,7 @@
       "registracia": "",
       "web": "https://www.presovrunning.sk",
       "propozicie": "https://pretekaj.sk/runset",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/runset?category=categories"
     }
   },
   {
@@ -24016,7 +24013,7 @@
       "registracia": "",
       "web": "https://www.leitnersport.sk/podujatie/beh-pohanskym-3152026",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://www.leitnersport.sk/podujatie/beh-pohanskym-3152026/vysledky"
     }
   },
   {
@@ -24041,7 +24038,7 @@
       "registracia": "",
       "web": "https://www.obecklastor.sk/novinky",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/02/PropoBeZn26.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/382674/results"
     }
   },
   {
@@ -24189,7 +24186,7 @@
       "registracia": "",
       "web": "https://www.ladce.sk/novinky/",
       "propozicie": "https://www.vysledkovyservis.sk/ladecky-beh-deti-propozicie",
-      "vysledky": ""
+      "vysledky": "https://vysledky.vysledkovyservis.sk/results.aspx?CId=16625&RId=540"
     }
   },
   {
@@ -24242,7 +24239,7 @@
       "registracia": "",
       "web": "https://cs.srichinmoyraces.org/6h-12h-100km",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/372687/results"
     }
   },
   {
@@ -24318,7 +24315,7 @@
       "registracia": "",
       "web": "https://skoladolnastrehova.edupage.org/news/?eqa=bmV3c2FyY2hpdmVmPTIwMjYtMDU%3D",
       "propozicie": "https://my.raceresult.com/397913/txt",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/397913/results"
     }
   },
   {
@@ -25090,7 +25087,7 @@
       "registracia": "",
       "web": "https://www.tomasov.sk/oznamy/oznamy/bezecke-preteky-v-obci-tomasov-1998sk.html",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/03/PropoHUOdTo26.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/387182/results"
     }
   },
   {
@@ -25115,7 +25112,7 @@
       "registracia": "",
       "web": "https://www.podolinec.eu/",
       "propozicie": "https://cdn.pretekaj.sk/events/2026/soviapolana2026/PROG20260043_47083.pdf",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/soviapolana2026"
     }
   },
   {
@@ -25312,7 +25309,7 @@
       "registracia": "",
       "web": "https://sipskofatranskebehy.sk/lubochna/",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/05/PropoBeLu26.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/396600/results"
     }
   },
   {
@@ -25402,7 +25399,7 @@
       "Štart": "11:00",
       "kraj": "banskobystricky",
       "gps": "48.1245541,19.3527584",
-      "seria": "",
+      "seria": "Krtíšska bežecká liga",
       "disciplíny": [
         "Hobby beh (5 km)",
         "5 km",
@@ -25412,7 +25409,7 @@
       "registracia": "",
       "web": "",
       "propozicie": "https://beh.sk/wp-content/uploads/2026/04/260523_zelovska3000_p.docx",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/395373/results"
     }
   },
   {
@@ -25436,7 +25433,7 @@
       "registracia": "",
       "web": "https://www.miloslavov.sk/kalendar/47680/svetovy-den-zdravia-miloslavovsky-beh",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/04/PropoMiBe26.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/395871/results"
     }
   },
   {
@@ -25607,7 +25604,7 @@
       "registracia": "",
       "web": "https://www.kopanka.sk/10-stredisko/868-saleziansky-beh-kopankou",
       "propozicie": "https://beh.sk/wp-content/uploads/2026/04/260523_saleziansky_kopankou_tt_p.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/400957/results"
     }
   },
   {
@@ -25653,7 +25650,7 @@
       "registracia": "",
       "web": "https://zsvydrnik.edupage.org/news/?newid=1244",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/vydrnickykros/3114?category=categories"
     }
   },
   {
@@ -26047,7 +26044,7 @@
       "registracia": "",
       "web": "",
       "propozicie": "https://beh.sk/wp-content/uploads/2026/02/260516_revuckym_chotarom_p.docx",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/383204/results"
     }
   },
   {
@@ -26223,7 +26220,7 @@
       "registracia": "",
       "web": "https://strachanresort.sk/akcie-a-podujatia/strachan-run-2026-na-strednici/",
       "propozicie": "https://my.raceresult.com/379913/info",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/379913/results"
     }
   },
   {
@@ -26324,7 +26321,7 @@
       "registracia": "",
       "web": "https://www.rozbehajsa.sk/nase-behy/martin-night-run/",
       "propozicie": "https://www.rozbehajsa.sk/nase-behy/martin-night-run/martin-night-run-propozicie/",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/385836/results"
     }
   },
   {
@@ -26349,7 +26346,7 @@
       "registracia": "",
       "web": "https://www.veredasport.sk/vereda-night-run",
       "propozicie": "https://www.veredasport.sk/vereda-night-run-2026-propozicie",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/380990/results"
     }
   },
   {
@@ -26398,7 +26395,7 @@
       "registracia": "",
       "web": "https://www.janrun.sk/udalosti/833/beh_do_strecnianskych_hradnych_schodov",
       "propozicie": "https://www.saus.sk/wp-content/uploads/2026/04/Strecnianske-hradne-schody_propozicie_2026.docx",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/391464/results"
     }
   },
   {
@@ -26618,7 +26615,7 @@
       "registracia": "",
       "web": "https://www.cyklohe.sk/",
       "propozicie": "https://racetime.sk/uploads/propozicie/svetovy-den-pohybu-2026.pdf",
-      "vysledky": ""
+      "vysledky": "https://racetime.sk/vysledok/svetovy-den-pohybu-2026"
     }
   },
   {
@@ -26790,7 +26787,7 @@
       "registracia": "",
       "web": "https://www.chataziar.sk/akcie/den-vitazstva-endorfun-trail/",
       "propozicie": "https://docs.google.com/document/d/1eyRrMNnMDeMWDDCRLyJcXW7a9yXirZfI7JFI27nPdpY/edit?tab=t.0",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/385745/results"
     }
   },
   {
@@ -27116,7 +27113,7 @@
       "registracia": "",
       "web": "",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/380933/results"
     }
   },
   {
@@ -27413,7 +27410,7 @@
       "registracia": "",
       "web": "https://cs.srichinmoyraces.org/Beh2MileKosice",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/397299/results"
     }
   },
   {
@@ -27866,7 +27863,7 @@
       "registracia": "",
       "web": "https://casomierapt.com/event/charitativny-beh-liskovskym-chotarom-2026/",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/03/PropoLiCho26.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/387366/results"
     }
   },
   {
@@ -27988,7 +27985,7 @@
       "registracia": "",
       "web": "https://www.goralmarathon.com/sk/goralman",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/390196/results"
     }
   },
   {
@@ -28011,7 +28008,7 @@
       "registracia": "",
       "web": "https://www.goralmarathon.com/sk/goralman",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/390196/results"
     }
   },
   {
@@ -28505,7 +28502,7 @@
       "registracia": "",
       "web": "https://obl.sk/event/beh-na-brabirku-2026/",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/393280/results"
     }
   },
   {
@@ -28554,7 +28551,7 @@
       "registracia": "",
       "web": "https://www.presovrunning.sk/",
       "propozicie": "https://www.presovrunning.sk/wp-content/uploads/2026/03/Propozicie-Presov-Stars-Run-2026.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/395307/results"
     }
   },
   {
@@ -28580,7 +28577,7 @@
       "registracia": "",
       "web": "https://www.rozbehajsa.sk/nase-behy/night-run-nitra/",
       "propozicie": "https://www.rozbehajsa.sk/nase-behy/night-run-nitra/night-run-nitra-propozicie/",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/385835/results"
     }
   },
   {
@@ -28629,7 +28626,7 @@
       "registracia": "",
       "web": "https://www.redscrewtrainings.com/",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/385076/results"
     }
   },
   {
@@ -28652,7 +28649,7 @@
       "registracia": "",
       "web": "https://uniba.sk/spravodajsky-portal/detail-aktuality/back_to_page/univerzita-komenskeho/article/comenius-run/",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/393904/results"
     }
   },
   {
@@ -28937,7 +28934,7 @@
       "Štart": "11:00",
       "kraj": "banskobystricky",
       "gps": "48.2493565,19.4905854",
-      "seria": "",
+      "seria": "Krtíšska bežecká liga · 1. kolo",
       "disciplíny": [
         "Hobby pretek (4,4 km)",
         "Juniori (4,4 km)",
@@ -29473,7 +29470,7 @@
       "registracia": "",
       "web": "https://www.sosos-trnava.sk/galerie/sportove-akcie/lomonoskarska-sestka-1006sk.html",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/390582/results"
     }
   },
   {
@@ -29572,7 +29569,7 @@
       "registracia": "",
       "web": "https://cs.srichinmoyraces.org/Beh2MileKosice",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/391874/results"
     }
   },
   {
@@ -30309,7 +30306,7 @@
       "registracia": "",
       "web": "https://misosport.sk/pretek/raksiansky-crossik-2026",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://misosport.sk/vysledky/raksiansky-crossik-2026"
     }
   },
   {
@@ -30428,7 +30425,7 @@
       "registracia": "",
       "web": "https://cs.srichinmoyraces.org/Beh2MileKosice",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/388476/results"
     }
   },
   {
@@ -30796,7 +30793,7 @@
       "registracia": "",
       "web": "https://pretekaj.sk/pieninywinter26",
       "propozicie": "https://pretekaj.sk/sk/podujatia/pieninywinter26/info/propozicie",
-      "vysledky": ""
+      "vysledky": "https://pretekaj.sk/sk/vysledky/pieninywinter26"
     }
   },
   {
@@ -30867,7 +30864,7 @@
       "registracia": "",
       "web": "https://cs.srichinmoyraces.org/Beh2MileKosice",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/382685/results"
     }
   },
   {
@@ -31323,7 +31320,7 @@
       "registracia": "",
       "web": "https://cs.srichinmoyraces.org/beh2milekosice",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/379028/results"
     }
   },
   {
@@ -31370,7 +31367,7 @@
       "registracia": "",
       "web": "https://asktt.sk/trnavsky-novorocny-beh-2026-propozicie/",
       "propozicie": "https://beh.sk/wp-content/uploads/2025/12/260101_tbt_tnb_p.docx",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/377332/results"
     }
   }
 ]
