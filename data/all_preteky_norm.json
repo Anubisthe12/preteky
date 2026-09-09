@@ -1369,6 +1369,22 @@
     "popis": "Beh s prekážkami (19 prekážok), Detské behy"
   },
   {
+    "nazov": "Night run Šaštínskými bormi",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/night-run-sastinskymi-bormi-2026",
+    "datum": "2026-10-24",
+    "datum_do": "",
+    "mesto": "Šaštín-Stráže",
+    "dlzka": "10.5 km, 5.7 km",
+    "povrch": "",
+    "start_cas": "19:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh – muži 20–64 rokov (10,5 km), Beh – ženy, muži od 65 rokov, juniori a dorastenci (5,7 km), 5,7 km"
+  },
+  {
     "nazov": "Krahule Beast/Sprint/Kids",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/spartan-krahule-beastsprintkids-2026",
@@ -1889,6 +1905,22 @@
     "popis": "Hlavná kategória (10 km), Rekreačná kategória (5 km), Detské behy"
   },
   {
+    "nazov": "Večerný beh Moldavou",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/6-rocnik-vecerny-beh-moldavou-2026",
+    "datum": "2026-10-17",
+    "datum_do": "",
+    "mesto": "Moldava nad Bodvou",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "17:45",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km, 5 km"
+  },
+  {
     "nazov": "Horský maratón bratstva - Jesenný polmaratón",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/horsky-maraton-bratstva-jesenny-polmaraton-2026",
@@ -1920,6 +1952,23 @@
       "casova"
     ],
     "popis": ""
+  },
+  {
+    "nazov": "Prešovská hodinovka na velodrome",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/presovska-hodinovka-na-velodrome-2rocnik-2026",
+    "datum": "2026-10-15",
+    "datum_do": "",
+    "mesto": "Prešov",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "17:00",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": "Hodinovka (1 h)"
   },
   {
     "nazov": "Beh za zdravie – Kuchajda",
@@ -2570,23 +2619,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Jarabský polmaratón 2025",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/jaraba26",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "21.8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "BEŽECKÁ VÝZVA V SRDCI NÍZKYCH TATIER\nTento trailový pretek (Sky Race) s dĺžkou 21,8 km nie je len o výkone, ale aj o zážitku. Náročná trasa plná stúpaní, klesaní a technického terénu preverí každého bežca - no zároveň každého odmení nezabudnuteľnými "
   },
   {
     "nazov": "Majstrovstvá SR družstiev staršieho žiactva",
@@ -4089,6 +4121,23 @@
     "popis": "Hlavný beh (10 km), Hobby beh (5 km), Detské behy, Dorastenci a dorastenkyne (2,5 km), 2,5 km"
   },
   {
+    "nazov": "Rescue Lesnica Memorial Run",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/rescue-lesnica-memorial-run-2026",
+    "datum": "2026-09-17",
+    "datum_do": "",
+    "mesto": "Ždiar",
+    "dlzka": "4.5 km",
+    "povrch": "",
+    "start_cas": "16:30",
+    "organizator": "",
+    "tagy": [
+      "beh",
+      "teren"
+    ],
+    "popis": "Memoriál Run (4,5 km)"
+  },
+  {
     "nazov": "Malý Pieninský maratón – mem. Bohuša Ježíka",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/maly-pieninsky-maraton-mem-bohusa-jezika-10-2/",
@@ -4249,23 +4298,6 @@
       "beh"
     ],
     "popis": "Mesto Spišské Podhradie pozýva všetkých bežcov na XVII. ročník Behu okolo Spišského hradu."
-  },
-  {
-    "nazov": "Útek do divočiny",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/divocina2026",
-    "datum": "2026-09-13",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "11 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Útek do divočiny je obľúbený horský trailový beh, ktorý sa každoročne koná v okolí Brezna (štart pri OD Kaufland). Ide o: Dĺžku trate: približne 11 km Prevýšenie: asi 550 m Typ terénu: poľné cesty, lesné chodníky a spevnené turistické chodníky Trasa "
   },
   {
     "nazov": "Vrakunský beh",
@@ -4707,23 +4739,6 @@
     "popis": "Levoča Nordic Centrum a Zväz slovenského lyžovania Vás pozývajú na preteky v behu na kolieskových lyžiach."
   },
   {
-    "nazov": "Beh Tekvičiarov 2026",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/beh-tekviciarov-2026",
-    "datum": "2026-09-12",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh",
-      "asfalt"
-    ],
-    "popis": "Šiesty ročník zážitkového 8km cestného behu so štartom na plochodrážnom ovále Mestského športového areálu v Žarnovici. POZOR! Štartujeme originál plochodrážnym štartovacím zariadením. 8km trasa behu vedie prímestskými komunikáciami s nenáročným profi"
-  },
-  {
     "nazov": "2.kolo TIPOS pohár v letnom biatlone na KL 2026, 1.kolo Biatloncrossu",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
@@ -4854,22 +4869,6 @@
     "popis": "11 km, Hobby beh (5,5 km), Detské behy"
   },
   {
-    "nazov": "Petržalská 10 (P-10)",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/petrzalska-10-p-10-2026",
-    "datum": "2026-09-12",
-    "datum_do": "",
-    "mesto": "Bratislava",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "11:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Beh na 10 km, Detské behy"
-  },
-  {
     "nazov": "Beh Pezinkom",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/gw-beh-pezinkom-2026",
@@ -4952,6 +4951,22 @@
     "popis": "Detské behy, Branný viacboj kynológov (3 prekážok)"
   },
   {
+    "nazov": "Petržalská 10 (P-10)",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/petrzalska-10-p-10-2026",
+    "datum": "2026-09-12",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "11:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh na 10 km, Detské behy"
+  },
+  {
     "nazov": "Večerný beh Ružomberok",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/vecerny-beh-ruzomberok-9/",
@@ -5000,12 +5015,12 @@
     "popis": "10 km, 4,2 km, 4.2 km NORDIC WALK"
   },
   {
-    "nazov": "2. kolo M-SsAZ najmladšieho žiactva skupina 4",
+    "nazov": "2. kolo M-SsAZ najmladšieho žiactva skupina 3",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
-    "datum": "2026-09-09",
+    "datum": "2026-09-08",
     "datum_do": "",
-    "mesto": "Dubnica nad Váhom",
+    "mesto": "Žilina",
     "dlzka": "",
     "povrch": "",
     "start_cas": "",
@@ -7075,22 +7090,6 @@
     "popis": "Detské behy, Hodinovka (1 h), Nordic Walking 60 min (1 h)"
   },
   {
-    "nazov": "Donovalský Drapák",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/drapak26",
-    "datum": "2026-08-01",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": "DONOVALSKÝ DRAPÁK: RUN & BIKE SHOW DONOVALY 2026 Vyber si RUN alebo BIKE a postav sa tratiam, na ktorých sa ukáže, čo je v tebe. RUN: DRAPÁK BEH (10km) DRAPÁK BEH (20km) BIKE: DRAPÁK MARATÓN (50km) DRAPÁK HOBBY (22,5km) DRAPÁČIK JUNIORI (1,5km, 2,5km"
-  },
-  {
     "nazov": "Beh na 2 míle Košice",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/beh-na-2-mile-kosice-8-kolo-2026",
@@ -8472,23 +8471,6 @@
     "popis": "Beh údolím Idy (10 km)"
   },
   {
-    "nazov": "HLOBIŠOVSKÁ DEVIATKA 2026",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/hlobisov26",
-    "datum": "2026-06-27",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "8.6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Trailový beh v malebnom rozprávkovom prostredí Hájneho grúňa na upätí pohoria Poľana. Pripravili sme pre Vás trať 8,6 km s prevýšením 440m plnú nadherných technických chodníkov, horských luk a očarujucich výhladov na hrebeň Nízkych tatier. Miesto kon"
-  },
-  {
     "nazov": "1. kolo TIPOS pohár v letnom biatlone 2026",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=6",
@@ -8752,6 +8734,22 @@
       "beh"
     ],
     "popis": "Detské behy"
+  },
+  {
+    "nazov": "K500 jún",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-06-25",
+    "datum_do": "",
+    "mesto": "Nová Polhora",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "19:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km, 5 km"
   },
   {
     "nazov": "Diskokilometer",
@@ -10802,24 +10800,6 @@
     "popis": "Detské behy"
   },
   {
-    "nazov": "Jarný lesný beh v Michalovej XII ročník",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/mich26",
-    "datum": "2026-05-30",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh",
-      "teren"
-    ],
-    "popis": "Už XII. ročník populárneho Lesného behu v Michalovej, s online registráciou veverkovask"
-  },
-  {
     "nazov": "Memoriál Jozefa Gabčíka 2026",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=5",
@@ -11221,22 +11201,6 @@
     "dlzka": "10 km, 5 km",
     "povrch": "",
     "start_cas": "19:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "10 km, 5 km"
-  },
-  {
-    "nazov": "K500 jún",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-05-28",
-    "datum_do": "",
-    "mesto": "Nová Polhora",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "19:30",
     "organizator": "",
     "tagy": [
       "beh"
@@ -16382,23 +16346,6 @@
     "popis": "6 km, Detské behy"
   },
   {
-    "nazov": "Silvestrovský beh obce Michalová, XXVII. ročník",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/sbom25",
-    "datum": "2025-12-31",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": "XXVII. ročník populárneho Silvestrovského behu v Michalovej s online registráciou veverkovask"
-  },
-  {
     "nazov": "Silvestrovský beh na tartane - Memoriál Pavla Rajca",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=12",
@@ -16603,23 +16550,6 @@
     "popis": ""
   },
   {
-    "nazov": "Jarabský polmaratón 2025",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/jaraba25",
-    "datum": "2025-10-04",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "21.8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "BEŽECKÁ VÝZVA V SRDCI NÍZKYCH TATIER Tento trailový pretek (Sky Race) s dĺžkou 21,8 km nie je len o výkone, ale aj o zážitku. Náročná trasa plná stúpaní, klesaní a technického terénu preverí každého bežca - no zároveň každého odmení nezabudnuteľnými "
-  },
-  {
     "nazov": "Turčianská žiacka liga",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=10",
@@ -16737,23 +16667,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Útek do divočiny",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/divocina2025",
-    "datum": "2025-09-15",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "11 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Útek do divočiny je obľúbený horský trailový beh, ktorý sa každoročne koná v okolí Brezna (štart pri OD Kaufland). Ide o: Dĺžku trate: približne 11 km Prevýšenie: asi 550 m Typ terénu: poľné cesty, lesné chodníky a spevnené turistické chodníky Trasa "
   },
   {
     "nazov": "CERC a 1. kolo TIPOS pohár v letnom biatlone na KL 2025",
@@ -17113,23 +17026,6 @@
     "popis": ""
   },
   {
-    "nazov": "HLOBIŠOVSKÁ DEVIATKA 2025",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/hlobisov2025",
-    "datum": "2025-06-14",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "8.6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Trailový beh v malebnom rozprávkovom prostredí Hájneho grúňa na upätí pohoria Poľana. Pripravili sme pre Vás trať 8,6 km s prevýšením 440m plnú nadherných technických chodníkov, horských luk a očarujucich výhladov na hrebeň Nízkych tatier. Miesto kon"
-  },
-  {
     "nazov": "1. kolo TIPOS pohár v letnom biatlone 2025",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=6",
@@ -17281,24 +17177,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Jarný lesný beh v Michalovej XI ročník",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/mich25",
-    "datum": "2025-05-31",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh",
-      "teren"
-    ],
-    "popis": "Už XI. ročník populárneho Lesného behu v Michalovej, s online registráciou veverkovask"
   },
   {
     "nazov": "Memoriál Jozefa Gabčíka 2025",

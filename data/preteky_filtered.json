@@ -1198,6 +1198,22 @@
     "popis": "Dlhá trať (9 km), Krátka trať (5 km)"
   },
   {
+    "nazov": "Night run Šaštínskými bormi",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/night-run-sastinskymi-bormi-2026",
+    "datum": "2026-10-24",
+    "datum_do": "",
+    "mesto": "Šaštín-Stráže",
+    "dlzka": "10.5 km, 5.7 km",
+    "povrch": "",
+    "start_cas": "19:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh – muži 20–64 rokov (10,5 km), Beh – ženy, muži od 65 rokov, juniori a dorastenci (5,7 km), 5,7 km"
+  },
+  {
     "nazov": "Beh 2 míle Bratislava – 10. kolo",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/beh-2-mile-bratislava-10-kolo-16/",
@@ -1633,6 +1649,22 @@
     "popis": "Hlavná kategória (10 km), Rekreačná kategória (5 km), Detské behy"
   },
   {
+    "nazov": "Večerný beh Moldavou",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/6-rocnik-vecerny-beh-moldavou-2026",
+    "datum": "2026-10-17",
+    "datum_do": "",
+    "mesto": "Moldava nad Bodvou",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "17:45",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km, 5 km"
+  },
+  {
     "nazov": "Horský maratón bratstva - Jesenný polmaratón",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/horsky-maraton-bratstva-jesenny-polmaraton-2026",
@@ -1664,6 +1696,23 @@
       "casova"
     ],
     "popis": ""
+  },
+  {
+    "nazov": "Prešovská hodinovka na velodrome",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/presovska-hodinovka-na-velodrome-2rocnik-2026",
+    "datum": "2026-10-15",
+    "datum_do": "",
+    "mesto": "Prešov",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "17:00",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": "Hodinovka (1 h)"
   },
   {
     "nazov": "Beh za zdravie – Kuchajda",
@@ -3527,6 +3576,23 @@
     "popis": "Hlavný beh (10 km), Hobby beh (5 km), Detské behy, Dorastenci a dorastenkyne (2,5 km), 2,5 km"
   },
   {
+    "nazov": "Rescue Lesnica Memorial Run",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/rescue-lesnica-memorial-run-2026",
+    "datum": "2026-09-17",
+    "datum_do": "",
+    "mesto": "Ždiar",
+    "dlzka": "4.5 km",
+    "povrch": "",
+    "start_cas": "16:30",
+    "organizator": "",
+    "tagy": [
+      "beh",
+      "teren"
+    ],
+    "popis": "Memoriál Run (4,5 km)"
+  },
+  {
     "nazov": "Malý Pieninský maratón – mem. Bohuša Ježíka",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/maly-pieninsky-maraton-mem-bohusa-jezika-10-2/",
@@ -4139,22 +4205,6 @@
     "popis": "11 km, Hobby beh (5,5 km), Detské behy"
   },
   {
-    "nazov": "Petržalská 10 (P-10)",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/petrzalska-10-p-10-2026",
-    "datum": "2026-09-12",
-    "datum_do": "",
-    "mesto": "Bratislava",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "11:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Beh na 10 km, Detské behy"
-  },
-  {
     "nazov": "Beh Pezinkom",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/gw-beh-pezinkom-2026",
@@ -4201,6 +4251,22 @@
       "beh"
     ],
     "popis": "Hobby beh (4 km), Detské behy, Hlavný beh (12,5 km)"
+  },
+  {
+    "nazov": "Petržalská 10 (P-10)",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/petrzalska-10-p-10-2026",
+    "datum": "2026-09-12",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "11:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh na 10 km, Detské behy"
   },
   {
     "nazov": "Večerný beh Ružomberok",
@@ -7463,6 +7529,22 @@
     "popis": "Detské behy, Trail 6,7 km, Beh zdravia (3 km)"
   },
   {
+    "nazov": "K500 jún",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-06-25",
+    "datum_do": "",
+    "mesto": "Nová Polhora",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "19:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km, 5 km"
+  },
+  {
     "nazov": "Diskokilometer",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/diskokilometer-2026",
@@ -9299,22 +9381,6 @@
     "dlzka": "10 km, 5 km",
     "povrch": "",
     "start_cas": "19:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "10 km, 5 km"
-  },
-  {
-    "nazov": "K500 jún",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-05-28",
-    "datum_do": "",
-    "mesto": "Nová Polhora",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "19:30",
     "organizator": "",
     "tagy": [
       "beh"
