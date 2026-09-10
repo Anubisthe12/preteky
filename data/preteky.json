@@ -560,6 +560,20 @@
     }
   },
   {
+    "datum": "2026-10-24",
+    "url": "https://beh.sk/pretek/beh-rematskou-dolinou-2/",
+    "nazov": "Beh Rematskou dolinou",
+    "mesto": "Handlová – Remata",
+    "info": {
+      "Dĺžka trate": "5 km, 9 km",
+      "Povrch": "asfalt, les",
+      "Štart": "11:00 hod.",
+      "Miesto": "Handlová – Remata, Chata Ponilkec",
+      "Organizátor": "ŠK ACHILES Handlová o. z.",
+      "Informácie": "Ľubomír Blaho, tel.: 0905 426 592, email: achilleshandlova@gmail.com"
+    }
+  },
+  {
     "datum": "2026-10-18",
     "url": "https://beh.sk/pretek/beh-2-mile-bratislava-10-kolo-16/",
     "nazov": "Beh 2 míle Bratislava – 10. kolo",
@@ -866,19 +880,6 @@
   },
   {
     "datum": "2026-10-10",
-    "url": "https://beh.sk/pretek/spoznaj-trebisov-behom-night-run-3/",
-    "nazov": "Spoznaj Trebišov behom – Night RUN",
-    "mesto": "Trebišov",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Štart": "18:10 hod. detské kat., 18:45 hod. hlavné kategórie",
-      "Miesto": "Trebišov, námestie pod OD Billa",
-      "Organizátor": "Ing. Michal Majcher,",
-      "Informácie": "Ing. Michal Majcher, tel: 0915 895 860, e-mail: spoznajtvbehom@centrum.sk"
-    }
-  },
-  {
-    "datum": "2026-10-10",
     "url": "https://beh.sk/pretek/grand-prix-cabaj-capor-14/",
     "nazov": "Grand Prix – Cabaj-Čápor",
     "mesto": "Cabaj-Čápor",
@@ -1026,6 +1027,19 @@
       "Miesto": "Nová Dubnica – Kolačín, areál reklamnej a eventovej agentúry CEA EUROPE.SK",
       "Organizátor": "CEA EUROPE.SK",
       "Informácie": "Jozef Matejčík, tel.: 0905 661 589, e-mail: jozef.matejcik@dwmic.sk"
+    }
+  },
+  {
+    "datum": "2026-10-09",
+    "url": "https://beh.sk/pretek/spoznaj-trebisov-behom-night-run-3/",
+    "nazov": "Spoznaj Trebišov behom – Night RUN",
+    "mesto": "Trebišov",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Štart": "18:10 hod. detské kat., 18:45 hod. hlavné kategórie",
+      "Miesto": "Trebišov, námestie pod OD Billa",
+      "Organizátor": "Ing. Michal Majcher,",
+      "Informácie": "Ing. Michal Majcher, tel: 0915 895 860, e-mail: spoznajtvbehom@centrum.sk"
     }
   },
   {

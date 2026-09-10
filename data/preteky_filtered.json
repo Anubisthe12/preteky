@@ -1183,19 +1183,19 @@
   },
   {
     "nazov": "Beh Rematskou dolinou",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/beh-rematskou-dolinou-2026",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-rematskou-dolinou-2/",
     "datum": "2026-10-24",
     "datum_do": "",
-    "mesto": "Handlová",
-    "dlzka": "9 km, 5 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
+    "mesto": "Handlová – Remata",
+    "dlzka": "5 km, 9 km",
+    "povrch": "asfalt, les",
+    "start_cas": "11:00 hod.",
+    "organizator": "ŠK ACHILES Handlová o. z.",
     "tagy": [
       "beh"
     ],
-    "popis": "Dlhá trať (9 km), Krátka trať (5 km)"
+    "popis": ""
   },
   {
     "nazov": "Night run Šaštínskými bormi",
@@ -1845,22 +1845,6 @@
     "popis": ""
   },
   {
-    "nazov": "Spoznaj Trebišov behom – Night RUN",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/spoznaj-trebisov-behom-night-run-3/",
-    "datum": "2026-10-10",
-    "datum_do": "",
-    "mesto": "Trebišov",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "18:10 hod. detské kat., 18:45 hod. hlavné kategórie",
-    "organizator": "Ing. Michal Majcher,",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Grand Prix – Cabaj-Čápor",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/grand-prix-cabaj-capor-14/",
@@ -2136,6 +2120,38 @@
     "popis": "Trail 6 km, Detské behy, Trail 12 km"
   },
   {
+    "nazov": "Spoznaj Trebišov behom – Night RUN",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/spoznaj-trebisov-behom-night-run-2026",
+    "datum": "2026-10-10",
+    "datum_do": "",
+    "mesto": "Trebišov",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "18:45",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh (5 km), Detské behy"
+  },
+  {
+    "nazov": "Spoznaj Trebišov behom – Night RUN",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/spoznaj-trebisov-behom-night-run-3/",
+    "datum": "2026-10-09",
+    "datum_do": "",
+    "mesto": "Trebišov",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "18:10 hod. detské kat., 18:45 hod. hlavné kategórie",
+    "organizator": "Ing. Michal Majcher,",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Medzinárodný maratón mieru",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/medzinarodny-maraton-mieru-17/",
@@ -2377,6 +2393,23 @@
       "maraton"
     ],
     "popis": "Minimaratón (4,2 km)"
+  },
+  {
+    "nazov": "Beh o pohár starostky MČ Juh Košice",
+    "zdroj": "pretekaj.sk",
+    "url": "https://pretekaj.sk/juhkosice",
+    "datum": "2026-10-01",
+    "datum_do": "",
+    "mesto": "Košice",
+    "dlzka": "2.5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh",
+      "asfalt"
+    ],
+    "popis": "5 a 2,5 km beh so štartom a cieľom vo vnútrobloku Železníkov v mestskej časti Košice - Juh"
   },
   {
     "nazov": "Beh s medikmi",
