@@ -1540,6 +1540,14 @@
     "popis": ""
   },
   {
+    "zdroj": "pretekaj.sk",
+    "nazov": "Košickopolianská desiatka - 7. ročník",
+    "url": "https://pretekaj.sk/kosickapolianka2026",
+    "datum": "24.10.2026",
+    "mesto": "Košická Polianka",
+    "popis": "Štart aj cieľ je situovaný do priestoru pred kultúrnym domom v obci. Trasa pretekov vedie jedným menším okruhom po obci a dvoma väčšími okruhmi v smere na obec Sady nad Torysou časť Byster, kde je otočka a následne beh do obce a cieľa. Súčasťou podujatia sú aj preteky detí."
+  },
+  {
     "zdroj": "vsetkybehy.sk",
     "nazov": "Nivy Tower Run",
     "url": "https://vsetkybehy.sk/podujatie/nivy-tower-run-2026",
@@ -2313,7 +2321,7 @@
   },
   {
     "zdroj": "pretekaj.sk",
-    "nazov": "5. kolo SPP Slovenského pohára ZSL v behu na kolieskových lyžiach",
+    "nazov": "5. kolo SPP Slovenského pohára v behu na kolieskových lyžiach",
     "url": "https://pretekaj.sk/zavaznaporubarol2026",
     "datum": "11.10.2026",
     "mesto": "Závažná Poruba",
@@ -2470,8 +2478,8 @@
       "Povrch": "asfalt, lesný chodník, kamenistá zvážnica",
       "Štart": "10:10 hod.",
       "Miesto": "Pohorelá, Námestie v Pohorelej",
-      "Organizátor": "Občianske združenie Horské spoločenstvo",
-      "Informácie": "tel.: +421 901 705 062, e-mail: horehronskatrailovaliga@gmail.com"
+      "Organizátor": "Občianske združenie Horské spoločenstvo a Útulňa Andrejcová",
+      "Informácie": "e-mail: andrejcovavertikal@gmail.com"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -3078,6 +3086,22 @@
       "propozicie": "",
       "vysledky": ""
     }
+  },
+  {
+    "datum": "2026-10-01",
+    "url": "https://beh.sk/pretek/beh-o-pohar-starostky-mc-kosice-juh/",
+    "nazov": "Beh o pohár starostky MČ Košice – Juh",
+    "mesto": "Košice - Juh",
+    "info": {
+      "Dĺžka trate": "5 km, 2,5 km",
+      "Povrch": "miestne komunikácie, schody",
+      "Štart": "16:30 hod.",
+      "Miesto": "Košice - Juh, Vnútroblok Železníkov",
+      "Organizátor": "MČ Juh Košice starostka + team MČ",
+      "Informácie": "Mgr. Adriana Krausová, tel.: 0907 842 221, e-mail:  adriana.krausova@kosicejuh.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
   },
   {
     "zdroj": "pretekaj.sk",
@@ -3699,6 +3723,22 @@
     "popis": ""
   },
   {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/newton-run-3/",
+    "nazov": "Newton Run",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Povrch": "asfalt",
+      "Štart": "09:00 Detské behy, 10:00 hod. 5 km",
+      "Miesto": "Bratislava, Areál hier Radosť, Štrkovec",
+      "Organizátor": "Rozbehaj sa, Big-agency, Newton University, MČ Ružinov",
+      "Informácie": "Rozbehaj sa, E-mail: newtonrun@rozbehajsa.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "pretekaj.sk",
     "nazov": "Závadský štvanec 2026",
     "url": "https://pretekaj.sk/zavadskystvanec2026",
@@ -3724,31 +3764,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "FONČORDA dogmaratón/dogtrekking",
-    "url": "https://vsetkybehy.sk/podujatie/foncorda-dogmaraton-2026",
-    "datum": "2026-09-26",
-    "mesto": "Banská Bystrica",
-    "popis": "Fončorda HOBBY (11 km), Fončorda MID (45 km), Fončorda SHORT (24,7 km)",
-    "info": {
-      "Miesto": "Banská Bystrica – pod Suchým vrchom",
-      "Dĺžka trate": "11 km, 45 km, 24.7 km",
-      "Štart": "07:00",
-      "kraj": "banskobystricky",
-      "gps": "48.7279491,19.0845611",
-      "seria": "",
-      "disciplíny": [
-        "Fončorda HOBBY (11 km)",
-        "Fončorda MID (45 km)",
-        "Fončorda SHORT (24,7 km)"
-      ],
-      "registracia": "https://www.terminovka.sk/podujatie/foncorda-dogmaraton-dogtrekking",
-      "web": "https://skcsv-sk.webnode.sk/fondogtrek/",
-      "propozicie": "https://skcsv-sk.webnode.sk/kopia-propozicie22/",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "MK Tech Kysuce trail",
     "url": "https://vsetkybehy.sk/podujatie/mktech-kysuce-trail-2026",
     "datum": "2026-09-26",
@@ -3771,30 +3786,6 @@
       "registracia": "https://my.raceresult.com/400087/registration",
       "web": "https://www.mestokrasno.sk/novinky-zo-sportu/2025/pozvanka-na-mk-tech-kysuce-trail.html",
       "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "NEWTON Run",
-    "url": "https://vsetkybehy.sk/podujatie/newton-run-2026",
-    "datum": "2026-09-26",
-    "mesto": "Bratislava",
-    "popis": "Hobby beh (5 km), Detské behy",
-    "info": {
-      "Miesto": "Bratislava – Areál hier Radosť, Štrkovec",
-      "Dĺžka trate": "5 km",
-      "Štart": "10:00",
-      "kraj": "bratislavsky",
-      "gps": "48.1576570,17.1451360",
-      "seria": "",
-      "disciplíny": [
-        "Hobby beh (5 km)",
-        "Detské behy"
-      ],
-      "registracia": "https://my.raceresult.com/416871/registration",
-      "web": "",
-      "propozicie": "https://my.raceresult.com/416871/rozpis",
       "vysledky": ""
     }
   },
@@ -3946,6 +3937,31 @@
       "registracia": "https://docs.google.com/forms/d/e/1FAIpQLScDAmJD1X__UdKYLKYMBszlXem1p2cFPaiSx97hSCiT5gNg0Q/viewform",
       "web": "",
       "propozicie": "https://drive.google.com/file/d/1LaQYAD3eNdtEy1fqQnm7PEsftQzs42qO/view",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "FONČORDA dogmaratón/dogtrekking",
+    "url": "https://vsetkybehy.sk/podujatie/foncorda-dogmaraton-2026",
+    "datum": "2026-09-26",
+    "mesto": "Banská Bystrica",
+    "popis": "Fončorda HOBBY (11 km), Fončorda MID (45 km), Fončorda SHORT (24,7 km)",
+    "info": {
+      "Miesto": "Banská Bystrica – pod Suchým vrchom",
+      "Dĺžka trate": "11 km, 45 km, 24.7 km",
+      "Štart": "07:00",
+      "kraj": "banskobystricky",
+      "gps": "48.7279491,19.0845611",
+      "seria": "",
+      "disciplíny": [
+        "Fončorda HOBBY (11 km)",
+        "Fončorda MID (45 km)",
+        "Fončorda SHORT (24,7 km)"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
       "vysledky": ""
     }
   },
@@ -4121,8 +4137,24 @@
       "Povrch": "asfalt",
       "Štart": "14:00 hod. detské kat., 15:20 hod. dospelí a dorast",
       "Miesto": "Drahovce okr. Piešťany, štadión OFK Drahovce",
-      "Organizátor": "Obec Drahovce",
+      "Organizátor": "Obecný úrad Drahovce",
       "Informácie": "Majtán Martin, tel.: 0910 193 602, e-mail: martinmajtan@obecdrahovce.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-09-20",
+    "url": "https://beh.sk/pretek/vrakunsky-beh-10/",
+    "nazov": "Vrakunský beh",
+    "mesto": "Vrakuňa",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt, časť zámková dlažba, časť prírodný spevnený povrch",
+      "Štart": "9:00 hod. deti, 10:00 hod.  10 km a 5 km, 10:05 hod. NW",
+      "Miesto": "Vrakuňa, Nábrežie Malého Dunaja, Malodunajská ulica",
+      "Organizátor": "Občianske združenie Šport a zdravie, Big-agency, M.Č. Vrakuňa",
+      "Informácie": "OZ Šport a zdravie, e-mail: vrakunskybeh@rozbehajsa.sk"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -4367,12 +4399,12 @@
     "datum": "2026-09-19",
     "url": "https://beh.sk/pretek/pochotari-2/",
     "nazov": "Po Chotári",
-    "mesto": "Lúčky",
+    "mesto": "Lúčky pri Ružomberku",
     "info": {
       "Dĺžka trate": "8 km, 4 km",
       "Povrch": "Lesný chodník - 60%, Lúka - 30%, Asfalt -10%",
-      "Štart": "10:00 hod. deti, 11:20 hod. Hlavné kategórie+hobby+dorast",
-      "Miesto": "Lúčky, Futbalové ihrisko",
+      "Štart": "9:30 hod. deti, 10:45 hod. Hlavné kategórie+hobby+dorast",
+      "Miesto": "Lúčky pri Ružomberku, Futbalové ihrisko",
       "Organizátor": "Športový klub HAVKÁČI.",
       "Informácie": "tel.: 0917 679 840, e-mail: info.pochotari@gmail.com"
     },
@@ -5212,6 +5244,22 @@
     "popis": ""
   },
   {
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/ruzinovsky-kolotoc-7/",
+    "nazov": "Ružinovský kolotoč",
+    "mesto": "Bratislava - Ružinov",
+    "info": {
+      "Dĺžka trate": "11 km, 5,5 km",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod. - Detské behy, 11:00 hod. - hlavný beh",
+      "Miesto": "Bratislava - Ružinov, Park Ostredky",
+      "Organizátor": "Občianske združenie Šport a zdravie, Big-agency, MČ Ružinov",
+      "Informácie": "OZ Šport a zdravie, e-mail: ruzinovskykolotoc@rozbehajsa.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "pretekaj.sk",
     "nazov": "Beh v Sečovskej Polianke pre školu v Zambii",
     "url": "https://pretekaj.sk/beh-secovska-polianka",
@@ -5221,7 +5269,7 @@
   },
   {
     "zdroj": "pretekaj.sk",
-    "nazov": "SPP Slovenský pohár ZSL v behu na kolieskových lyžiach 2026",
+    "nazov": "SPP Slovenský pohár v behu na kolieskových lyžiach 2026",
     "url": "https://pretekaj.sk/zsl26rol",
     "datum": "12.09.2026 - 11.10.2026",
     "mesto": "Slovensko",
@@ -5406,31 +5454,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Ružinovský kolotoč",
-    "url": "https://vsetkybehy.sk/podujatie/ruzinovsky-kolotoc-2026",
-    "datum": "2026-09-12",
-    "mesto": "Bratislava",
-    "popis": "11 km, Hobby beh (5,5 km), Detské behy",
-    "info": {
-      "Miesto": "Bratislava – Park Ostredky",
-      "Dĺžka trate": "11 km, 5.5 km",
-      "Štart": "11:00",
-      "kraj": "bratislavsky",
-      "gps": "48.1616132,17.1685301",
-      "seria": "",
-      "disciplíny": [
-        "11 km",
-        "Hobby beh (5,5 km)",
-        "Detské behy"
-      ],
-      "registracia": "https://my.raceresult.com/414577/registration",
-      "web": "",
-      "propozicie": "https://my.raceresult.com/414577/txt",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh Pezinkom",
     "url": "https://vsetkybehy.sk/podujatie/gw-beh-pezinkom-2026",
     "datum": "2026-09-12",
@@ -5610,10 +5633,10 @@
         "Hlavná trať (6,9 km)",
         "Skrátená trať (3,45 km)"
       ],
-      "registracia": "https://my.raceresult.com/416889/registration",
+      "registracia": "",
       "web": "https://www.ruzomberok.sk/podujatia/ix-vecerny-beh/",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/08/PropoVeBe26v2.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/416889/results"
     }
   },
   {
@@ -5635,10 +5658,10 @@
         "4,2 km",
         "4.2 km NORDIC WALK"
       ],
-      "registracia": "https://my.raceresult.com/420016/registration",
+      "registracia": "",
       "web": "",
       "propozicie": "https://my.raceresult.com/420016/txt",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/420016/results"
     }
   },
   {

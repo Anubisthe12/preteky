@@ -1335,6 +1335,22 @@
     "popis": ""
   },
   {
+    "nazov": "Košickopolianská desiatka - 7. ročník",
+    "zdroj": "pretekaj.sk",
+    "url": "https://pretekaj.sk/kosickapolianka2026",
+    "datum": "2026-10-24",
+    "datum_do": "",
+    "mesto": "Košická Polianka",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Štart aj cieľ je situovaný do priestoru pred kultúrnym domom v obci. Trasa pretekov vedie jedným menším okruhom po obci a dvoma väčšími okruhmi v smere na obec Sady nad Torysou časť Byster, kde je otočka a následne beh do obce a cieľa. Súčasťou poduj"
+  },
+  {
     "nazov": "Nivy Tower Run",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/nivy-tower-run-2026",
@@ -2036,7 +2052,7 @@
     "popis": ""
   },
   {
-    "nazov": "5. kolo SPP Slovenského pohára ZSL v behu na kolieskových lyžiach",
+    "nazov": "5. kolo SPP Slovenského pohára v behu na kolieskových lyžiach",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/zavaznaporubarol2026",
     "datum": "2026-10-11",
@@ -2191,7 +2207,7 @@
     "dlzka": "5,1 km, prev.: 760+",
     "povrch": "asfalt, lesný chodník, kamenistá zvážnica",
     "start_cas": "10:10 hod.",
-    "organizator": "Občianske združenie Horské spoločenstvo",
+    "organizator": "Občianske združenie Horské spoločenstvo a Útulňa Andrejcová",
     "tagy": [
       "beh"
     ],
@@ -2751,6 +2767,22 @@
       "maraton"
     ],
     "popis": "Minimaratón (4,2 km)"
+  },
+  {
+    "nazov": "Beh o pohár starostky MČ Košice – Juh",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-o-pohar-starostky-mc-kosice-juh/",
+    "datum": "2026-10-01",
+    "datum_do": "",
+    "mesto": "Košice - Juh",
+    "dlzka": "5 km, 2,5 km",
+    "povrch": "miestne komunikácie, schody",
+    "start_cas": "16:30 hod.",
+    "organizator": "MČ Juh Košice starostka + team MČ",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
   },
   {
     "nazov": "Beh o pohár starostky MČ Juh Košice",
@@ -3338,6 +3370,22 @@
     "popis": ""
   },
   {
+    "nazov": "Newton Run",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/newton-run-3/",
+    "datum": "2026-09-26",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "5 km",
+    "povrch": "asfalt",
+    "start_cas": "09:00 Detské behy, 10:00 hod. 5 km",
+    "organizator": "Rozbehaj sa, Big-agency, Newton University, MČ Ružinov",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Závadský štvanec 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/zavadskystvanec2026",
@@ -3388,22 +3436,6 @@
     "popis": "BIATHLON MANIA CUP 2026"
   },
   {
-    "nazov": "FONČORDA dogmaratón/dogtrekking",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/foncorda-dogmaraton-2026",
-    "datum": "2026-09-26",
-    "datum_do": "",
-    "mesto": "Banská Bystrica",
-    "dlzka": "11 km, 45 km, 24.7 km",
-    "povrch": "",
-    "start_cas": "07:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": "Fončorda HOBBY (11 km), Fončorda MID (45 km), Fončorda SHORT (24,7 km)"
-  },
-  {
     "nazov": "MK Tech Kysuce trail",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/mktech-kysuce-trail-2026",
@@ -3419,22 +3451,6 @@
       "teren"
     ],
     "popis": "Detské behy, Hlavný beh (26 km), Beh so psom (7 km), 26 km, 7 km"
-  },
-  {
-    "nazov": "NEWTON Run",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/newton-run-2026",
-    "datum": "2026-09-26",
-    "datum_do": "",
-    "mesto": "Bratislava",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Hobby beh (5 km), Detské behy"
   },
   {
     "nazov": "Závadský štvanec",
@@ -3532,6 +3548,22 @@
       "beh"
     ],
     "popis": "Zátopkova desiatka (10 km), Detské behy"
+  },
+  {
+    "nazov": "FONČORDA dogmaratón/dogtrekking",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/foncorda-dogmaraton-2026",
+    "datum": "2026-09-26",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "11 km, 45 km, 24.7 km",
+    "povrch": "",
+    "start_cas": "07:00",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": "Fončorda HOBBY (11 km), Fončorda MID (45 km), Fončorda SHORT (24,7 km)"
   },
   {
     "nazov": "Beh Tokajskými vinicami",
@@ -3707,7 +3739,23 @@
     "dlzka": "10 km, 5 km",
     "povrch": "asfalt",
     "start_cas": "14:00 hod. detské kat., 15:20 hod. dospelí a dorast",
-    "organizator": "Obec Drahovce",
+    "organizator": "Obecný úrad Drahovce",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Vrakunský beh",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/vrakunsky-beh-10/",
+    "datum": "2026-09-20",
+    "datum_do": "",
+    "mesto": "Vrakuňa",
+    "dlzka": "10 km, 5 km",
+    "povrch": "asfalt, časť zámková dlažba, časť prírodný spevnený povrch",
+    "start_cas": "9:00 hod. deti, 10:00 hod.  10 km a 5 km, 10:05 hod. NW",
+    "organizator": "Občianske združenie Šport a zdravie, Big-agency, M.Č. Vrakuňa",
     "tagy": [
       "beh"
     ],
@@ -3932,10 +3980,10 @@
     "url": "https://beh.sk/pretek/pochotari-2/",
     "datum": "2026-09-19",
     "datum_do": "",
-    "mesto": "Lúčky",
+    "mesto": "Lúčky pri Ružomberku",
     "dlzka": "8 km, 4 km",
     "povrch": "Lesný chodník - 60%, Lúka - 30%, Asfalt -10%",
-    "start_cas": "10:00 hod. deti, 11:20 hod. Hlavné kategórie+hobby+dorast",
+    "start_cas": "9:30 hod. deti, 10:45 hod. Hlavné kategórie+hobby+dorast",
     "organizator": "Športový klub HAVKÁČI.",
     "tagy": [
       "beh"
@@ -4739,6 +4787,22 @@
     "popis": ""
   },
   {
+    "nazov": "Ružinovský kolotoč",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/ruzinovsky-kolotoc-7/",
+    "datum": "2026-09-12",
+    "datum_do": "",
+    "mesto": "Bratislava - Ružinov",
+    "dlzka": "11 km, 5,5 km",
+    "povrch": "asfalt",
+    "start_cas": "10:00 hod. - Detské behy, 11:00 hod. - hlavný beh",
+    "organizator": "Občianske združenie Šport a zdravie, Big-agency, MČ Ružinov",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Beh v Sečovskej Polianke pre školu v Zambii",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/beh-secovska-polianka",
@@ -4755,7 +4819,7 @@
     "popis": "Príďte si zabehať 12.9.2026 do Sečovskej Polianky a pomôžte deťom v Zambii. Čaká vás 5 km trať, rodinné olympijské hry, nesúťažná kategória (beh, chôdza) a sprievodný program. Štartovné 22 € uhradí náklady na stravovanie pre jedno dieťa na CELÝ ŠKOLS"
   },
   {
-    "nazov": "SPP Slovenský pohár ZSL v behu na kolieskových lyžiach 2026",
+    "nazov": "SPP Slovenský pohár v behu na kolieskových lyžiach 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/zsl26rol",
     "datum": "2026-09-12",
@@ -4918,22 +4982,6 @@
       "beh"
     ],
     "popis": "Beh"
-  },
-  {
-    "nazov": "Ružinovský kolotoč",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/ruzinovsky-kolotoc-2026",
-    "datum": "2026-09-12",
-    "datum_do": "",
-    "mesto": "Bratislava",
-    "dlzka": "11 km, 5.5 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "11 km, Hobby beh (5,5 km), Detské behy"
   },
   {
     "nazov": "Beh Pezinkom",

@@ -73,7 +73,7 @@
   },
   {
     "zdroj": "pretekaj.sk",
-    "nazov": "SPP Slovenský pohár ZSL v behu na kolieskových lyžiach 2026",
+    "nazov": "SPP Slovenský pohár v behu na kolieskových lyžiach 2026",
     "url": "https://pretekaj.sk/zsl26rol",
     "datum": "12.09.2026 - 11.10.2026",
     "mesto": "Slovensko",
@@ -217,7 +217,7 @@
   },
   {
     "zdroj": "pretekaj.sk",
-    "nazov": "5. kolo SPP Slovenského pohára ZSL v behu na kolieskových lyžiach",
+    "nazov": "5. kolo SPP Slovenského pohára v behu na kolieskových lyžiach",
     "url": "https://pretekaj.sk/zavaznaporubarol2026",
     "datum": "11.10.2026",
     "mesto": "Závažná Poruba",
@@ -262,6 +262,14 @@
     "datum": "18.10.2026",
     "mesto": "Most pri Bratislave",
     "popis": "Energia pre teba 2026. Charitatívne športové podujatie so štartom na futbalovom ihrisku v Moste pri Bratislave na podporu zdravotne znevýhodnenej recipientke Alicke."
+  },
+  {
+    "zdroj": "pretekaj.sk",
+    "nazov": "Košickopolianská desiatka - 7. ročník",
+    "url": "https://pretekaj.sk/kosickapolianka2026",
+    "datum": "24.10.2026",
+    "mesto": "Košická Polianka",
+    "popis": "Štart aj cieľ je situovaný do priestoru pred kultúrnym domom v obci. Trasa pretekov vedie jedným menším okruhom po obci a dvoma väčšími okruhmi v smere na obec Sady nad Torysou časť Byster, kde je otočka a následne beh do obce a cieľa. Súčasťou podujatia sú aj preteky detí."
   },
   {
     "zdroj": "pretekaj.sk",
@@ -10481,10 +10489,10 @@
         "Hlavná trať (6,9 km)",
         "Skrátená trať (3,45 km)"
       ],
-      "registracia": "https://my.raceresult.com/416889/registration",
+      "registracia": "",
       "web": "https://www.ruzomberok.sk/podujatia/ix-vecerny-beh/",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/08/PropoVeBe26v2.pdf",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/416889/results"
     }
   },
   {
@@ -10506,10 +10514,10 @@
         "4,2 km",
         "4.2 km NORDIC WALK"
       ],
-      "registracia": "https://my.raceresult.com/420016/registration",
+      "registracia": "",
       "web": "",
       "propozicie": "https://my.raceresult.com/420016/txt",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/420016/results"
     }
   },
   {
@@ -12256,31 +12264,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "FONČORDA dogmaratón/dogtrekking",
-    "url": "https://vsetkybehy.sk/podujatie/foncorda-dogmaraton-2026",
-    "datum": "2026-09-26",
-    "mesto": "Banská Bystrica",
-    "popis": "Fončorda HOBBY (11 km), Fončorda MID (45 km), Fončorda SHORT (24,7 km)",
-    "info": {
-      "Miesto": "Banská Bystrica – pod Suchým vrchom",
-      "Dĺžka trate": "11 km, 45 km, 24.7 km",
-      "Štart": "07:00",
-      "kraj": "banskobystricky",
-      "gps": "48.7279491,19.0845611",
-      "seria": "",
-      "disciplíny": [
-        "Fončorda HOBBY (11 km)",
-        "Fončorda MID (45 km)",
-        "Fončorda SHORT (24,7 km)"
-      ],
-      "registracia": "https://www.terminovka.sk/podujatie/foncorda-dogmaraton-dogtrekking",
-      "web": "https://skcsv-sk.webnode.sk/fondogtrek/",
-      "propozicie": "https://skcsv-sk.webnode.sk/kopia-propozicie22/",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "S Ankou za život",
     "url": "https://vsetkybehy.sk/podujatie/s-ankou-za-zivot-2026",
     "datum": "2026-09-26",
@@ -12756,6 +12739,31 @@
       "registracia": "https://docs.google.com/forms/d/e/1FAIpQLScDAmJD1X__UdKYLKYMBszlXem1p2cFPaiSx97hSCiT5gNg0Q/viewform",
       "web": "",
       "propozicie": "https://drive.google.com/file/d/1LaQYAD3eNdtEy1fqQnm7PEsftQzs42qO/view",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "FONČORDA dogmaratón/dogtrekking",
+    "url": "https://vsetkybehy.sk/podujatie/foncorda-dogmaraton-2026",
+    "datum": "2026-09-26",
+    "mesto": "Banská Bystrica",
+    "popis": "Fončorda HOBBY (11 km), Fončorda MID (45 km), Fončorda SHORT (24,7 km)",
+    "info": {
+      "Miesto": "Banská Bystrica – pod Suchým vrchom",
+      "Dĺžka trate": "11 km, 45 km, 24.7 km",
+      "Štart": "07:00",
+      "kraj": "banskobystricky",
+      "gps": "48.7279491,19.0845611",
+      "seria": "",
+      "disciplíny": [
+        "Fončorda HOBBY (11 km)",
+        "Fončorda MID (45 km)",
+        "Fončorda SHORT (24,7 km)"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
       "vysledky": ""
     }
   },

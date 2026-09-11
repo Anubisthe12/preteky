@@ -941,8 +941,8 @@
       "Povrch": "asfalt, lesný chodník, kamenistá zvážnica",
       "Štart": "10:10 hod.",
       "Miesto": "Pohorelá, Námestie v Pohorelej",
-      "Organizátor": "Občianske združenie Horské spoločenstvo",
-      "Informácie": "tel.: +421 901 705 062, e-mail: horehronskatrailovaliga@gmail.com"
+      "Organizátor": "Občianske združenie Horské spoločenstvo a Útulňa Andrejcová",
+      "Informácie": "e-mail: andrejcovavertikal@gmail.com"
     }
   },
   {
@@ -1190,6 +1190,20 @@
       "Miesto": "Nová Dedinka, Areál voľného času, Nábrežie Čiernej Vody",
       "Organizátor": "ATHLETIA o.z. a obec Nová Dedinka",
       "Informácie": "Vladimír Eckert, tel.: 0903 604 360, e‐mail: eckert.vladimir@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-01",
+    "url": "https://beh.sk/pretek/beh-o-pohar-starostky-mc-kosice-juh/",
+    "nazov": "Beh o pohár starostky MČ Košice – Juh",
+    "mesto": "Košice - Juh",
+    "info": {
+      "Dĺžka trate": "5 km, 2,5 km",
+      "Povrch": "miestne komunikácie, schody",
+      "Štart": "16:30 hod.",
+      "Miesto": "Košice - Juh, Vnútroblok Železníkov",
+      "Organizátor": "MČ Juh Košice starostka + team MČ",
+      "Informácie": "Mgr. Adriana Krausová, tel.: 0907 842 221, e-mail:  adriana.krausova@kosicejuh.sk"
     }
   },
   {
@@ -1520,6 +1534,20 @@
     }
   },
   {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/newton-run-3/",
+    "nazov": "Newton Run",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Povrch": "asfalt",
+      "Štart": "09:00 Detské behy, 10:00 hod. 5 km",
+      "Miesto": "Bratislava, Areál hier Radosť, Štrkovec",
+      "Organizátor": "Rozbehaj sa, Big-agency, Newton University, MČ Ružinov",
+      "Informácie": "Rozbehaj sa, E-mail: newtonrun@rozbehajsa.sk"
+    }
+  },
+  {
     "datum": "2026-09-25",
     "url": "https://beh.sk/pretek/beh-tokajskymi-vinicami-14/",
     "nazov": "Beh Tokajskými vinicami",
@@ -1611,8 +1639,22 @@
       "Povrch": "asfalt",
       "Štart": "14:00 hod. detské kat., 15:20 hod. dospelí a dorast",
       "Miesto": "Drahovce okr. Piešťany, štadión OFK Drahovce",
-      "Organizátor": "Obec Drahovce",
+      "Organizátor": "Obecný úrad Drahovce",
       "Informácie": "Majtán Martin, tel.: 0910 193 602, e-mail: martinmajtan@obecdrahovce.sk"
+    }
+  },
+  {
+    "datum": "2026-09-20",
+    "url": "https://beh.sk/pretek/vrakunsky-beh-10/",
+    "nazov": "Vrakunský beh",
+    "mesto": "Vrakuňa",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt, časť zámková dlažba, časť prírodný spevnený povrch",
+      "Štart": "9:00 hod. deti, 10:00 hod.  10 km a 5 km, 10:05 hod. NW",
+      "Miesto": "Vrakuňa, Nábrežie Malého Dunaja, Malodunajská ulica",
+      "Organizátor": "Občianske združenie Šport a zdravie, Big-agency, M.Č. Vrakuňa",
+      "Informácie": "OZ Šport a zdravie, e-mail: vrakunskybeh@rozbehajsa.sk"
     }
   },
   {
@@ -1700,12 +1742,12 @@
     "datum": "2026-09-19",
     "url": "https://beh.sk/pretek/pochotari-2/",
     "nazov": "Po Chotári",
-    "mesto": "Lúčky",
+    "mesto": "Lúčky pri Ružomberku",
     "info": {
       "Dĺžka trate": "8 km, 4 km",
       "Povrch": "Lesný chodník - 60%, Lúka - 30%, Asfalt -10%",
-      "Štart": "10:00 hod. deti, 11:20 hod. Hlavné kategórie+hobby+dorast",
-      "Miesto": "Lúčky, Futbalové ihrisko",
+      "Štart": "9:30 hod. deti, 10:45 hod. Hlavné kategórie+hobby+dorast",
+      "Miesto": "Lúčky pri Ružomberku, Futbalové ihrisko",
       "Organizátor": "Športový klub HAVKÁČI.",
       "Informácie": "tel.: 0917 679 840, e-mail: info.pochotari@gmail.com"
     }
@@ -2129,6 +2171,20 @@
       "Miesto": "Šurany, Airport Golf Club Šurany",
       "Organizátor": "GOLF AIRPORT, s.r.o.",
       "Informácie": "Maroš Očadlík, tel.: +421905421997, e-mail: info@airportgolf.sk"
+    }
+  },
+  {
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/ruzinovsky-kolotoc-7/",
+    "nazov": "Ružinovský kolotoč",
+    "mesto": "Bratislava - Ružinov",
+    "info": {
+      "Dĺžka trate": "11 km, 5,5 km",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod. - Detské behy, 11:00 hod. - hlavný beh",
+      "Miesto": "Bratislava - Ružinov, Park Ostredky",
+      "Organizátor": "Občianske združenie Šport a zdravie, Big-agency, MČ Ružinov",
+      "Informácie": "OZ Šport a zdravie, e-mail: ruzinovskykolotoc@rozbehajsa.sk"
     }
   },
   {
