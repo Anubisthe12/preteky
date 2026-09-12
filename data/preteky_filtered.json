@@ -164,6 +164,40 @@
     "popis": "Spartan Trail 50K (50 km), Spartan Trail 10K (10 km)"
   },
   {
+    "nazov": "Pavúčikova hodinovka a 12 minútovka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/pavucikova-hodinovka-a-12-minutovka-2027",
+    "datum": "2027-03-27",
+    "datum_do": "",
+    "mesto": "Levice",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "09:00",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": "12-minútovka (12 min), Hodinovka (1 h)"
+  },
+  {
+    "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/nitrianska-24-hodinovka-memorial-alexandra-bogiho-2027",
+    "datum": "2027-03-21",
+    "datum_do": "",
+    "mesto": "Nitra",
+    "dlzka": "24-hodinovka",
+    "povrch": "",
+    "start_cas": "10:00",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": "Beh na 12 hodín (12 h), Beh na 24 hodín (24 h), Beh na 6 hodín (6 h)"
+  },
+  {
     "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/nitrianska-24-hodinovka-4/",
@@ -1059,14 +1093,30 @@
     "datum": "2026-10-25",
     "datum_do": "",
     "mesto": "Košická Polianka",
-    "dlzka": "10 km",
+    "dlzka": "10 km, 5 km",
     "povrch": "asfalt",
-    "start_cas": "Hlavný pretek 13:00 hod. Deti 11:00 hod.",
+    "start_cas": "Hlavný pretek 13:00 hod. Deti 11:30 hod.",
     "organizator": "Obec Košická Polianka",
     "tagy": [
       "beh"
     ],
     "popis": ""
+  },
+  {
+    "nazov": "Košickopolianská desiatka - 7. ročník",
+    "zdroj": "pretekaj.sk",
+    "url": "https://pretekaj.sk/kosickapolianka2026",
+    "datum": "2026-10-25",
+    "datum_do": "",
+    "mesto": "Košická Polianka",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Štart aj cieľ je situovaný v priestore vedľa kultúrneho domu v obci. Trasa pretekov vedie pre 10km - 4 okruhmi a pre 5km - 2 okruhmi po obci v dĺžke 2,5 km na jeden okruh."
   },
   {
     "nazov": "Black Stork Nordic Walking",
@@ -1196,22 +1246,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Košickopolianská desiatka - 7. ročník",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/kosickapolianka2026",
-    "datum": "2026-10-24",
-    "datum_do": "",
-    "mesto": "Košická Polianka",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Štart aj cieľ je situovaný do priestoru pred kultúrnym domom v obci. Trasa pretekov vedie jedným menším okruhom po obci a dvoma väčšími okruhmi v smere na obec Sady nad Torysou časť Byster, kde je otočka a následne beh do obce a cieľa. Súčasťou poduj"
   },
   {
     "nazov": "Night run Šaštínskými bormi",
@@ -2038,6 +2072,23 @@
     "popis": ""
   },
   {
+    "nazov": "Lion Car Run Up",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/run-up-5/",
+    "datum": "2026-10-10",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "20. poschodí",
+    "povrch": "schody",
+    "start_cas": "intervalový štart od 15:00 hod., deti: ntervalový štart od 13:00 hod.,",
+    "organizator": "Europa Shopping Center, Marathon Banská Bystrica, s.r.o.",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Andrejcová Vertikal 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/andrejcova2026",
@@ -2068,6 +2119,23 @@
       "beh"
     ],
     "popis": "Javornícka stovka (104,69 km)"
+  },
+  {
+    "nazov": "Beh k Šikľavej skale",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-k-siklavej-skale-2026",
+    "datum": "2026-10-10",
+    "datum_do": "",
+    "mesto": "Matejovce nad Hornádom",
+    "dlzka": "4 km, 8.6 km",
+    "povrch": "",
+    "start_cas": "09:00",
+    "organizator": "",
+    "tagy": [
+      "ultra",
+      "teren"
+    ],
+    "popis": "Trail 4 km, Detské behy, Hlavná trať (8,6 km)"
   },
   {
     "nazov": "Beh Neporazených",
@@ -2137,22 +2205,6 @@
   },
   {
     "nazov": "Spoznaj Trebišov behom – Night RUN",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/spoznaj-trebisov-behom-night-run-2026",
-    "datum": "2026-10-10",
-    "datum_do": "",
-    "mesto": "Trebišov",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "18:45",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Beh (5 km), Detské behy"
-  },
-  {
-    "nazov": "Spoznaj Trebišov behom – Night RUN",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/spoznaj-trebisov-behom-night-run-3/",
     "datum": "2026-10-09",
@@ -2182,6 +2234,22 @@
       "maraton"
     ],
     "popis": ""
+  },
+  {
+    "nazov": "Beh na Malinné",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-na-malinne-2026",
+    "datum": "2026-10-04",
+    "datum_do": "",
+    "mesto": "Ružomberok",
+    "dlzka": "3.9 km, 2.5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Dlhá trať (3,9 km), Krátka trať (2,5 km)"
   },
   {
     "nazov": "Karpaty Run – Bratislava Trail Run Festival",
@@ -3639,6 +3707,22 @@
       "beh"
     ],
     "popis": "Hlavný beh (11 km), Detské behy, Hobby beh (3,5 km)"
+  },
+  {
+    "nazov": "Beh Lúčansko-Kalamickým chotárom - Po Chotári",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-lucansko-kalamickym-chotarom-po-chotari-2026",
+    "datum": "2026-09-19",
+    "datum_do": "",
+    "mesto": "Lúčky",
+    "dlzka": "4 km, 8 km",
+    "povrch": "",
+    "start_cas": "11:20",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Hobby (4 km), Detské behy, Hlavná trať (8 km)"
   },
   {
     "nazov": "Kľačianska desiatka",
@@ -7610,22 +7694,6 @@
     "popis": "Detské behy, Trail 6,7 km, Beh zdravia (3 km)"
   },
   {
-    "nazov": "K500 jún",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-06-25",
-    "datum_do": "",
-    "mesto": "Nová Polhora",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "19:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "10 km, 5 km"
-  },
-  {
     "nazov": "Diskokilometer",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/diskokilometer-2026",
@@ -9462,6 +9530,22 @@
     "dlzka": "10 km, 5 km",
     "povrch": "",
     "start_cas": "19:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km, 5 km"
+  },
+  {
+    "nazov": "K500 jún",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-05-28",
+    "datum_do": "",
+    "mesto": "Nová Polhora",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "19:30",
     "organizator": "",
     "tagy": [
       "beh"

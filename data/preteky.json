@@ -474,12 +474,12 @@
     "nazov": "Košickopolianska desiatka",
     "mesto": "Košická Polianka",
     "info": {
-      "Dĺžka trate": "10 km",
+      "Dĺžka trate": "10 km, 5 km",
       "Povrch": "asfalt",
-      "Štart": "Hlavný pretek 13:00 hod. Deti 11:00 hod.",
+      "Štart": "Hlavný pretek 13:00 hod. Deti 11:30 hod.",
       "Miesto": "Košická Polianka, pred kultúrnym domom",
       "Organizátor": "Obec Košická Polianka",
-      "Informácie": "Obec K.Polianka a zastupiteľstvo obce, tel.: 055/685 41 84. e-mail: sekretariat@kosickapolianka.sk  Daniel Lengyel, tel.: 0948 440 835, e-mail: lengyeldanko@gmail.com  Peter Buc, tel.: 0905 299 189, e-mail: peter.buc59@gmail.com"
+      "Informácie": "Obec Košická Polianka a zastupiteľstvo obce, tel.: 055/685 41 84. e-mail: sekretariat@kosickapolianka.sk  Daniel Lengyel, tel.: 0948 440 835, e-mail: lengyeldanko@gmail.com  Peter Buc, tel.: 0905 299 189, e-mail: peter.buc59@gmail.com"
     }
   },
   {
@@ -1027,6 +1027,20 @@
       "Miesto": "Nová Dubnica – Kolačín, areál reklamnej a eventovej agentúry CEA EUROPE.SK",
       "Organizátor": "CEA EUROPE.SK",
       "Informácie": "Jozef Matejčík, tel.: 0905 661 589, e-mail: jozef.matejcik@dwmic.sk"
+    }
+  },
+  {
+    "datum": "2026-10-10",
+    "url": "https://beh.sk/pretek/run-up-5/",
+    "nazov": "Lion Car Run Up",
+    "mesto": "Banská Bystrica",
+    "info": {
+      "Dĺžka trate": "20. poschodí",
+      "Povrch": "schody",
+      "Štart": "intervalový štart od 15:00 hod., deti: ntervalový štart od 13:00 hod.,",
+      "Miesto": "Banská Bystrica, Europa Shopping Center",
+      "Organizátor": "Europa Shopping Center, Marathon Banská Bystrica, s.r.o.",
+      "Informácie": "e-mail: info@marathonbb.com"
     }
   },
   {
