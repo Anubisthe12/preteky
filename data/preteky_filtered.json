@@ -4274,20 +4274,69 @@
     "popis": ""
   },
   {
-    "nazov": "Beh v Sečovskej Polianke pre školu v Zambii",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/beh-secovska-polianka",
+    "nazov": "Beh do Choča, memoriál Joža Čajku",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-do-choca-memorial-joza-cajku-17/",
     "datum": "2026-09-12",
     "datum_do": "",
-    "mesto": "Sečovská Polianka",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
+    "mesto": "Vyšný Kubín",
+    "dlzka": "6,5 km, (prevýšenie 1,09 km)",
+    "povrch": "Zvážnica, lesný chodník, horský skalnatý chodník",
+    "start_cas": "10:00 hod.",
+    "organizator": "Sport team Dolný Kubín",
     "tagy": [
       "beh"
     ],
-    "popis": "Príďte si zabehať 12.9.2026 do Sečovskej Polianky a pomôžte deťom v Zambii. Čaká vás 5 km trať, rodinné olympijské hry, nesúťažná kategória (beh, chôdza) a sprievodný program. Štartovné 22 € uhradí náklady na stravovanie pre jedno dieťa na CELÝ ŠKOLS"
+    "popis": ""
+  },
+  {
+    "nazov": "Beh s Hviezdou",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-s-hviezdou/",
+    "datum": "2026-09-12",
+    "datum_do": "",
+    "mesto": "Dunajská Streda",
+    "dlzka": "4 km, 6 km, -10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "MB Dunajská Streda a športový tím TopRunDS",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Beh na vežu",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-na-vezu-9/",
+    "datum": "2026-09-12",
+    "datum_do": "",
+    "mesto": "Levoča",
+    "dlzka": "216 schodov vo Veži Baziliky sv. Jakuba",
+    "povrch": "",
+    "start_cas": "od 13:00 hod.",
+    "organizator": "Mesto Levoča, Mestské kultúrne stredisko mesta Levoča,Občianske združenie Urban BellTower",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "FUN RUN – Beh pre radosť",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/fun-run-beh-pre-radost-10/",
+    "datum": "2026-09-12",
+    "datum_do": "",
+    "mesto": "Krupina",
+    "dlzka": "12,5 km, 4 km",
+    "povrch": "asfalt, prírodný terén",
+    "start_cas": "17:00 hod. detské, 17:30 hod. hlavné kategórie",
+    "organizator": "Občianske združenie FUN RUN",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
   },
   {
     "nazov": "Bežecký festival v Jasenove",
@@ -4322,20 +4371,20 @@
     "popis": "Beh do Choča (6,5 km)"
   },
   {
-    "nazov": "Beh s hviezdou",
+    "nazov": "Beh v Sečovskej Polianke pre školu v Zambii",
     "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/beh-s-hviezdou-2026",
+    "url": "https://vsetkybehy.sk/podujatie/beh-v-secovskej-polianke-pre-skolu-v-zambii-2026",
     "datum": "2026-09-12",
     "datum_do": "",
-    "mesto": "Dunajská Streda",
-    "dlzka": "10 km, 6 km, 4 km",
+    "mesto": "Sečovská Polianka",
+    "dlzka": "5 km, 3 km",
     "povrch": "",
     "start_cas": "10:00",
     "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": "10 km, 6 km, 4 km, Detské behy"
+    "popis": "Súťažný beh (5 km), Nesúťažný beh (3 km)"
   },
   {
     "nazov": "Keď chutí pomáhať – charitatívny beh pre deti s autizmom",
@@ -4400,54 +4449,6 @@
       "beh"
     ],
     "popis": "Dlhšia trať (10,4 km), Detské behy, Kratšia trať (6,4 km)"
-  },
-  {
-    "nazov": "FUN RUN - Beh pre radosť",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/fun-run-beh-pre-radost-2026",
-    "datum": "2026-09-12",
-    "datum_do": "",
-    "mesto": "Krupina",
-    "dlzka": "4 km, 12.5 km",
-    "povrch": "",
-    "start_cas": "17:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Hobby beh (4 km), Detské behy, Hlavný beh (12,5 km)"
-  },
-  {
-    "nazov": "Petržalská 10 (P-10)",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/petrzalska-10-p-10-2026",
-    "datum": "2026-09-12",
-    "datum_do": "",
-    "mesto": "Bratislava",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "11:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Beh na 10 km, Detské behy"
-  },
-  {
-    "nazov": "Večerný beh Ružomberok",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/vecerny-beh-ruzomberok-9/",
-    "datum": "2026-09-11",
-    "datum_do": "",
-    "mesto": "Ružomberok",
-    "dlzka": "6,9 km",
-    "povrch": "asfalt, dlažba, schody",
-    "start_cas": "16:00 hod - detské kategórie, 18:00 hod. - hlavné kategórie",
-    "organizator": "Mesto Ružomberok a OZ Ružomberok v pohybe",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
   },
   {
     "nazov": "Večerný beh",
@@ -7694,6 +7695,22 @@
     "popis": "Detské behy, Trail 6,7 km, Beh zdravia (3 km)"
   },
   {
+    "nazov": "K500 jún",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-06-25",
+    "datum_do": "",
+    "mesto": "Nová Polhora",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "19:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km, 5 km"
+  },
+  {
     "nazov": "Diskokilometer",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/diskokilometer-2026",
@@ -9530,22 +9547,6 @@
     "dlzka": "10 km, 5 km",
     "povrch": "",
     "start_cas": "19:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "10 km, 5 km"
-  },
-  {
-    "nazov": "K500 jún",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-05-28",
-    "datum_do": "",
-    "mesto": "Nová Polhora",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "19:30",
     "organizator": "",
     "tagy": [
       "beh"

@@ -125,9 +125,9 @@
       "disciplíny": [
         "Cesta (534 km)"
       ],
-      "registracia": "https://therun.sk/auth/register?category=soloultra",
+      "registracia": "https://therun.sk/auth/register?category=marathon",
       "web": "https://therun.sk",
-      "propozicie": "https://therun.sk/o-pretekoch",
+      "propozicie": "https://therun.fra1.cdn.digitaloceanspaces.com/media/files/trs_race-manual_sk.pdf",
       "vysledky": ""
     }
   },
@@ -306,7 +306,7 @@
       ],
       "registracia": "https://register.slovakman.sk/registracia",
       "web": "https://pobehni.sk/nitrianska-24-2027/",
-      "propozicie": "https://pobehni.sk/Pobehni.sk_cookies.pdf",
+      "propozicie": "https://pobehni.sk/assets/24hod27.pdf",
       "vysledky": ""
     }
   },
@@ -3207,7 +3207,7 @@
       "disciplíny": [
         "Beh na 60 m"
       ],
-      "registracia": "",
+      "registracia": "https://statistika.atletika.sk/prihlasky/zoznam-prihlasok/88772",
       "web": "",
       "propozicie": "",
       "vysledky": ""
@@ -4600,6 +4600,19 @@
     "popis": ""
   },
   {
+    "datum": "2026-09-19",
+    "url": "https://beh.sk/pretek/spartan-workout-prievidza/",
+    "nazov": "Spartan Workout Prievidza",
+    "mesto": "Prievidza",
+    "info": {
+      "Štart": "9:00 hod. Elite, 11:30 hod. Kids",
+      "Miesto": "Prievidza, Mestský park",
+      "Organizátor": "STG Prievidza"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "pretekaj.sk",
     "nazov": "Dobšinská desiatka 2026",
     "url": "https://pretekaj.sk/dobsinskadesiatka2026",
@@ -4649,30 +4662,6 @@
       "registracia": "https://www.avaibooksports.com/inscripcion/big-bear-s-ultra-2026/inscripcion_descuento/?cod_cuota=88741",
       "web": "https://www.bigbearsultra.sk/",
       "propozicie": "https://www.avaibooksports.com/inscripcion/big-bear-s-ultra-2026/ficheros/?filetype=reglamento&lang=en",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Spartan Workout Prievidza",
-    "url": "https://vsetkybehy.sk/podujatie/spartan-workout-prievidza-2026",
-    "datum": "2026-09-19",
-    "mesto": "Prievidza",
-    "popis": "Sprint (20 prekážok), Detské behy",
-    "info": {
-      "Miesto": "Prievidza – RM Sport Resort",
-      "Dĺžka trate": "",
-      "Štart": "09:00",
-      "kraj": "trenciansky",
-      "gps": "48.7741506,18.5986466",
-      "seria": "",
-      "disciplíny": [
-        "Sprint (20 prekážok)",
-        "Detské behy"
-      ],
-      "registracia": "https://sk.spartan.com/sk/race/detail/11456/overview",
-      "web": "https://www.google.com/maps/place/48%C2%B046'26.9%22N+18%C2%B035'55.1%22E/@48.7741415,18.5964521,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc6e0db234357e1c!8m2!3d48.7741415!4d18.5986408",
-      "propozicie": "",
       "vysledky": ""
     }
   },
@@ -5012,10 +5001,10 @@
         "5 km",
         "Detské behy"
       ],
-      "registracia": "https://my.raceresult.com/414626/registration",
+      "registracia": "",
       "web": "",
       "propozicie": "https://www.rozbehajsa.sk/nase-behy/night-run-nitra/night-run-nitra-propozicie/",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/414626/results"
     }
   },
   {
@@ -5037,10 +5026,10 @@
         "Trail 5 km",
         "Detské behy"
       ],
-      "registracia": "https://my.raceresult.com/410427/registration",
+      "registracia": "",
       "web": "https://www.behzubrohlava.sk/",
       "propozicie": "https://my.raceresult.com/410427/txt",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/410427/results"
     }
   },
   {
@@ -5060,7 +5049,7 @@
       "disciplíny": [
         "11 km beh"
       ],
-      "registracia": "https://registrace.sportsoft.cz/registration.aspx?e=3458",
+      "registracia": "",
       "web": "https://www.stupavskymaraton.sk/inpage/bystrica-run/",
       "propozicie": "",
       "vysledky": ""
@@ -5410,12 +5399,65 @@
     "popis": ""
   },
   {
-    "zdroj": "pretekaj.sk",
-    "nazov": "Beh v Sečovskej Polianke pre školu v Zambii",
-    "url": "https://pretekaj.sk/beh-secovska-polianka",
-    "datum": "12.09.2026",
-    "mesto": "Sečovská Polianka",
-    "popis": "Príďte si zabehať 12.9.2026 do Sečovskej Polianky a pomôžte deťom v Zambii. Čaká vás 5 km trať, rodinné olympijské hry, nesúťažná kategória (beh, chôdza) a sprievodný program. Štartovné 22 € uhradí náklady na stravovanie pre jedno dieťa na CELÝ ŠKOLSKÝ ROK."
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/beh-do-choca-memorial-joza-cajku-17/",
+    "nazov": "Beh do Choča, memoriál Joža Čajku",
+    "mesto": "Vyšný Kubín",
+    "info": {
+      "Dĺžka trate": "6,5 km, (prevýšenie 1 091 m)",
+      "Povrch": "Zvážnica, lesný chodník, horský skalnatý chodník",
+      "Štart": "10:00 hod.",
+      "Miesto": "Vyšný Kubín, od kostola vo Vyšnom Kubíne",
+      "Organizátor": "Sport team Dolný Kubín",
+      "Informácie": "Patrik Šoch tel.: 0905 174 213  e-mail: behdochoca@gmail.com  Adam Šoch tel.: 0908 456 653"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/beh-s-hviezdou/",
+    "nazov": "Beh s Hviezdou",
+    "mesto": "Dunajská Streda",
+    "info": {
+      "Dĺžka trate": "4 km, 6 km, -10 km",
+      "Miesto": "Dunajská Streda, MB Dunajská Streda, Cesta svätého Petra 8212/2",
+      "Organizátor": "MB Dunajská Streda a športový tím TopRunDS",
+      "Informácie": "Rebeca Kireth, 📞 0915 703 128 , 📨 e-mail: r.kireth@mbds.sk  Richard Nyáry, 📞 0903 439 751"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/beh-na-vezu-9/",
+    "nazov": "Beh na vežu",
+    "mesto": "Levoča",
+    "info": {
+      "Dĺžka trate": "216 schodov vo Veži Baziliky sv. Jakuba",
+      "Štart": "od 13:00 hod.",
+      "Miesto": "Levoča, veža Baziliky svätého Jakuba",
+      "Organizátor": "Mesto Levoča, Mestské kultúrne stredisko mesta Levoča,Občianske združenie Urban BellTower",
+      "Informácie": "viď propozicie"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/fun-run-beh-pre-radost-10/",
+    "nazov": "FUN RUN – Beh pre radosť",
+    "mesto": "Krupina",
+    "info": {
+      "Dĺžka trate": "12,5 km, 4 km",
+      "Povrch": "asfalt, prírodný terén",
+      "Štart": "17:00 hod. detské, 17:30 hod. hlavné kategórie",
+      "Miesto": "Krupina, pred Mestským úradom",
+      "Organizátor": "Občianske združenie FUN RUN",
+      "Informácie": "tel.: 0907 314 547, e-mail: funrunkrupina@gmail.com"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
   },
   {
     "zdroj": "pretekaj.sk",
@@ -5424,14 +5466,6 @@
     "datum": "12.09.2026 - 11.10.2026",
     "mesto": "Slovensko",
     "popis": ""
-  },
-  {
-    "zdroj": "pretekaj.sk",
-    "nazov": "SPP Slovenský pohár v behu na kolieskových lyžiach, 1. kolo",
-    "url": "https://pretekaj.sk/lncrol2026",
-    "datum": "12.09.2026",
-    "mesto": "Levoča Nordic Centrum",
-    "popis": "Levoča Nordic Centrum a Zväz slovenského lyžovania Vás pozývajú na preteky v behu na kolieskových lyžiach."
   },
   {
     "zdroj": "vsetkybehy.sk",
@@ -5484,28 +5518,26 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Beh s hviezdou",
-    "url": "https://vsetkybehy.sk/podujatie/beh-s-hviezdou-2026",
+    "nazov": "Beh v Sečovskej Polianke pre školu v Zambii",
+    "url": "https://vsetkybehy.sk/podujatie/beh-v-secovskej-polianke-pre-skolu-v-zambii-2026",
     "datum": "2026-09-12",
-    "mesto": "Dunajská Streda",
-    "popis": "10 km, 6 km, 4 km, Detské behy",
+    "mesto": "Sečovská Polianka",
+    "popis": "Súťažný beh (5 km), Nesúťažný beh (3 km)",
     "info": {
-      "Miesto": "Dunajská Streda – MB Dunajská Streda, Cesta svätého Petra 8212/2",
-      "Dĺžka trate": "10 km, 6 km, 4 km",
+      "Miesto": "Sečovská Polianka – Futbalové ihrisko, Školská",
+      "Dĺžka trate": "5 km, 3 km",
       "Štart": "10:00",
-      "kraj": "trnavsky",
-      "gps": "47.9928000,17.6172000",
+      "kraj": "presovsky",
+      "gps": "48.7837270,21.6800460",
       "seria": "",
       "disciplíny": [
-        "10 km",
-        "6 km",
-        "4 km",
-        "Detské behy"
+        "Súťažný beh (5 km)",
+        "Nesúťažný beh (3 km)"
       ],
       "registracia": "",
-      "web": "",
-      "propozicie": "https://my.raceresult.com/416655/txt",
-      "vysledky": "https://my.raceresult.com/416655/results"
+      "web": "https://secovskapolianka.sk/aktuality/oznamy/leto-2026-v-secovskej-polianke-kalendar-akcii/",
+      "propozicie": "https://cdn.pretekaj.sk/events/2026/nasytteskolu/PROG20260111_49128.pdf",
+      "vysledky": "https://pretekaj.sk/sk/vysledky/beh-secovska-polianka"
     }
   },
   {
@@ -5602,7 +5634,7 @@
       "registracia": "",
       "web": "https://www.behpezinkom.com",
       "propozicie": "https://www.behpezinkom.com/sk/beh-pezinkom-2026/propozicie",
-      "vysledky": ""
+      "vysledky": "https://vysledky.sportsoft.cz/race/1099"
     }
   },
   {
@@ -5632,54 +5664,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "FUN RUN - Beh pre radosť",
-    "url": "https://vsetkybehy.sk/podujatie/fun-run-beh-pre-radost-2026",
-    "datum": "2026-09-12",
-    "mesto": "Krupina",
-    "popis": "Hobby beh (4 km), Detské behy, Hlavný beh (12,5 km)",
-    "info": {
-      "Miesto": "Krupina – Svätotrojičné námestie pred Mestským úradom",
-      "Dĺžka trate": "4 km, 12.5 km",
-      "Štart": "17:30",
-      "kraj": "banskobystricky",
-      "gps": "48.1694950,18.8893680",
-      "seria": "",
-      "disciplíny": [
-        "Hobby beh (4 km)",
-        "Detské behy",
-        "Hlavný beh (12,5 km)"
-      ],
-      "registracia": "",
-      "web": "",
-      "propozicie": "https://misosport.sk/pretek/fun-run-beh-pre-radost-2026",
-      "vysledky": "https://misosport.sk/vysledky/fun-run-beh-pre-radost-2026"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Beh na vežu",
-    "url": "https://vsetkybehy.sk/podujatie/beh-na-vezu-2026",
-    "datum": "2026-09-12",
-    "mesto": "Levoča",
-    "popis": "Beh na vežu (216 schodov)",
-    "info": {
-      "Miesto": "Levoča – Veža Baziliky sv. Jakuba, Námestie Majstra Pavla 1",
-      "Dĺžka trate": "",
-      "Štart": "",
-      "kraj": "presovsky",
-      "gps": "49.0263360,20.5891405",
-      "seria": "",
-      "disciplíny": [
-        "Beh na vežu (216 schodov)"
-      ],
-      "registracia": "",
-      "web": "https://www.towerrunningcup.sk/urban-bell-tower-run/",
-      "propozicie": "",
-      "vysledky": "https://my.raceresult.com/412122/results"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Majstrovstvá Slovenska dospelých a mládeže v brannom viacboji kynológov",
     "url": "https://vsetkybehy.sk/podujatie/majstrovstva-sr-v-bvk-2026",
     "datum": "2026-09-12",
@@ -5701,46 +5685,6 @@
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/07/PropoBVK26.pdf",
       "vysledky": "https://my.raceresult.com/413612/results"
     }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Petržalská 10 (P-10)",
-    "url": "https://vsetkybehy.sk/podujatie/petrzalska-10-p-10-2026",
-    "datum": "2026-09-12",
-    "mesto": "Bratislava",
-    "popis": "Beh na 10 km, Detské behy",
-    "info": {
-      "Miesto": "Bratislava – Námestie Republiky, Bratislava-Petržalka",
-      "Dĺžka trate": "10 km",
-      "Štart": "11:30",
-      "kraj": "bratislavsky",
-      "gps": "48.1165323,17.1048741",
-      "seria": "",
-      "disciplíny": [
-        "Beh na 10 km",
-        "Detské behy"
-      ],
-      "registracia": "",
-      "web": "",
-      "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
-    "datum": "2026-09-11",
-    "url": "https://beh.sk/pretek/vecerny-beh-ruzomberok-9/",
-    "nazov": "Večerný beh Ružomberok",
-    "mesto": "Ružomberok",
-    "info": {
-      "Dĺžka trate": "6,9 km",
-      "Povrch": "asfalt, dlažba, schody",
-      "Štart": "16:00 hod - detské kategórie, 18:00 hod. - hlavné kategórie",
-      "Miesto": "Ružomberok, Park Štefana Hýroša",
-      "Organizátor": "Mesto Ružomberok a OZ Ružomberok v pohybe",
-      "Informácie": "Tomáš Gazdarica, tel.: 0905 315 201, e-mail: gazdarica@ruzomberok.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
   },
   {
     "zdroj": "vsetkybehy.sk",
@@ -6329,7 +6273,7 @@
       "registracia": "",
       "web": "",
       "propozicie": "https://casomierapt.com/event/beh-slnecnymi-skalami-2026/#tab-propozicie",
-      "vysledky": "https://my.raceresult.com/413219/"
+      "vysledky": "https://my.raceresult.com/413219/results"
     }
   },
   {
@@ -11286,6 +11230,30 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "K500 jún",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-06-25",
+    "mesto": "Nová Polhora",
+    "popis": "10 km, 5 km",
+    "info": {
+      "Miesto": "Nová Polhora – STK Nová Polhora",
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "19:30",
+      "kraj": "kosicky",
+      "gps": "48.8256155,21.3153215",
+      "seria": "",
+      "disciplíny": [
+        "10 km",
+        "5 km"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://zasrun.sk/preteky/k500-maj-2026/vysledky"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Diskokilometer",
     "url": "https://vsetkybehy.sk/podujatie/diskokilometer-2026",
     "datum": "2026-06-24",
@@ -14731,30 +14699,6 @@
       "Miesto": "Nová Polhora – STK Nová Polhora",
       "Dĺžka trate": "10 km, 5 km",
       "Štart": "19:00",
-      "kraj": "kosicky",
-      "gps": "48.8256155,21.3153215",
-      "seria": "",
-      "disciplíny": [
-        "10 km",
-        "5 km"
-      ],
-      "registracia": "",
-      "web": "",
-      "propozicie": "",
-      "vysledky": "https://zasrun.sk/preteky/k500-maj-2026/vysledky"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "K500 jún",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-05-28",
-    "mesto": "Nová Polhora",
-    "popis": "10 km, 5 km",
-    "info": {
-      "Miesto": "Nová Polhora – STK Nová Polhora",
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "19:30",
       "kraj": "kosicky",
       "gps": "48.8256155,21.3153215",
       "seria": "",
@@ -21560,7 +21504,7 @@
       ],
       "registracia": "",
       "web": "https://www.stupavskymaraton.sk",
-      "propozicie": "https://www.stupavskymaraton.sk/inpage/run-10-km/",
+      "propozicie": "https://www.stupavskymaraton.sk/inpage/run-25-km/",
       "vysledky": "https://vysledky.sportsoft.cz/race/760/competition/5026"
     }
   },
@@ -21644,7 +21588,7 @@
       ],
       "registracia": "",
       "web": "https://bratislavamarathon.sk/event/csob-zimna-seria/",
-      "propozicie": "https://bratislavamarathon.sk/events/csob-zimna-seria/propozicie/#",
+      "propozicie": "https://bratislavamarathon.sk/events/csob-zimna-seria/propozicie/",
       "vysledky": ""
     }
   },

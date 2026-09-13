@@ -1822,6 +1822,17 @@
     }
   },
   {
+    "datum": "2026-09-19",
+    "url": "https://beh.sk/pretek/spartan-workout-prievidza/",
+    "nazov": "Spartan Workout Prievidza",
+    "mesto": "Prievidza",
+    "info": {
+      "Štart": "9:00 hod. Elite, 11:30 hod. Kids",
+      "Miesto": "Prievidza, Mestský park",
+      "Organizátor": "STG Prievidza"
+    }
+  },
+  {
     "datum": "2026-09-15",
     "url": "https://beh.sk/pretek/maly-pieninsky-maraton-mem-bohusa-jezika-10-2/",
     "nazov": "Malý Pieninský maratón – mem. Bohuša Ježíka",
@@ -2202,17 +2213,56 @@
     }
   },
   {
-    "datum": "2026-09-11",
-    "url": "https://beh.sk/pretek/vecerny-beh-ruzomberok-9/",
-    "nazov": "Večerný beh Ružomberok",
-    "mesto": "Ružomberok",
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/beh-do-choca-memorial-joza-cajku-17/",
+    "nazov": "Beh do Choča, memoriál Joža Čajku",
+    "mesto": "Vyšný Kubín",
     "info": {
-      "Dĺžka trate": "6,9 km",
-      "Povrch": "asfalt, dlažba, schody",
-      "Štart": "16:00 hod - detské kategórie, 18:00 hod. - hlavné kategórie",
-      "Miesto": "Ružomberok, Park Štefana Hýroša",
-      "Organizátor": "Mesto Ružomberok a OZ Ružomberok v pohybe",
-      "Informácie": "Tomáš Gazdarica, tel.: 0905 315 201, e-mail: gazdarica@ruzomberok.sk"
+      "Dĺžka trate": "6,5 km, (prevýšenie 1 091 m)",
+      "Povrch": "Zvážnica, lesný chodník, horský skalnatý chodník",
+      "Štart": "10:00 hod.",
+      "Miesto": "Vyšný Kubín, od kostola vo Vyšnom Kubíne",
+      "Organizátor": "Sport team Dolný Kubín",
+      "Informácie": "Patrik Šoch tel.: 0905 174 213  e-mail: behdochoca@gmail.com  Adam Šoch tel.: 0908 456 653"
+    }
+  },
+  {
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/beh-s-hviezdou/",
+    "nazov": "Beh s Hviezdou",
+    "mesto": "Dunajská Streda",
+    "info": {
+      "Dĺžka trate": "4 km, 6 km, -10 km",
+      "Miesto": "Dunajská Streda, MB Dunajská Streda, Cesta svätého Petra 8212/2",
+      "Organizátor": "MB Dunajská Streda a športový tím TopRunDS",
+      "Informácie": "Rebeca Kireth, 📞 0915 703 128 , 📨 e-mail: r.kireth@mbds.sk  Richard Nyáry, 📞 0903 439 751"
+    }
+  },
+  {
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/beh-na-vezu-9/",
+    "nazov": "Beh na vežu",
+    "mesto": "Levoča",
+    "info": {
+      "Dĺžka trate": "216 schodov vo Veži Baziliky sv. Jakuba",
+      "Štart": "od 13:00 hod.",
+      "Miesto": "Levoča, veža Baziliky svätého Jakuba",
+      "Organizátor": "Mesto Levoča, Mestské kultúrne stredisko mesta Levoča,Občianske združenie Urban BellTower",
+      "Informácie": "viď propozicie"
+    }
+  },
+  {
+    "datum": "2026-09-12",
+    "url": "https://beh.sk/pretek/fun-run-beh-pre-radost-10/",
+    "nazov": "FUN RUN – Beh pre radosť",
+    "mesto": "Krupina",
+    "info": {
+      "Dĺžka trate": "12,5 km, 4 km",
+      "Povrch": "asfalt, prírodný terén",
+      "Štart": "17:00 hod. detské, 17:30 hod. hlavné kategórie",
+      "Miesto": "Krupina, pred Mestským úradom",
+      "Organizátor": "Občianske združenie FUN RUN",
+      "Informácie": "tel.: 0907 314 547, e-mail: funrunkrupina@gmail.com"
     }
   }
 ]
