@@ -247,6 +247,22 @@
     "popis": "Ultramaratón (50 km), Maratón (42,2 km)"
   },
   {
+    "nazov": "Majcichovská desiatka",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/majcichovska-desiatka-19/",
+    "datum": "2027-03-07",
+    "datum_do": "",
+    "mesto": "Majcichov, okr. Trnava",
+    "dlzka": "10 km",
+    "povrch": "asfalt",
+    "start_cas": "10:00 hod. - deti, 11:45 hod. - dospelí",
+    "organizator": "Obec Majcichov, Základná škola Jána Palárika v Majcichove, Materská škola v Majcichove, Obecný futbalový klub Majcichov, Slovenský Červený kríž v Majcichove, Slovenský bežecký spolok",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Račiansky kros ZIMA",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/raciansky-kros-zima-2027",
@@ -1360,6 +1376,22 @@
     "popis": ""
   },
   {
+    "nazov": "Trenčianská bežecká liga – 8. kolo",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-8-kolo-12/",
+    "datum": "2026-10-18",
+    "datum_do": "",
+    "mesto": "Trenčianske Teplice",
+    "dlzka": "9,72 km",
+    "povrch": "asfalt 30% / terén 70%",
+    "start_cas": "10:00 hod.",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Slaňaki Cup - 15. ročník",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/slanakicup2026",
@@ -1555,6 +1587,22 @@
     "popis": ""
   },
   {
+    "nazov": "Večerný beh Moldavou",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/vecerny-beh-moldavou-6/",
+    "datum": "2026-10-17",
+    "datum_do": "",
+    "mesto": "Moldava nad Bodvou",
+    "dlzka": "10 km, 5 km",
+    "povrch": "Asfalt 40%, Les 60%",
+    "start_cas": "18:00 hod.",
+    "organizator": "Athletic Legion club – Moldava nad Bodvou, Cirkevná spojená škola, Slovenský atletický zväz, Mestské kultúrne stredisko Moldava n/B",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Pieninská stopa 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/pieninskastopa",
@@ -1697,22 +1745,6 @@
       "maraton"
     ],
     "popis": "Hlavná kategória (10 km), Rekreačná kategória (5 km), Detské behy"
-  },
-  {
-    "nazov": "Večerný beh Moldavou",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/6-rocnik-vecerny-beh-moldavou-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "mesto": "Moldava nad Bodvou",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "17:45",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "10 km, 5 km"
   },
   {
     "nazov": "Horský maratón bratstva - Jesenný polmaratón",
@@ -2237,19 +2269,19 @@
   },
   {
     "nazov": "Beh na Malinné",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/beh-na-malinne-2026",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-na-malinne-14/",
     "datum": "2026-10-04",
     "datum_do": "",
     "mesto": "Ružomberok",
-    "dlzka": "3.9 km, 2.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
+    "dlzka": "3,9 km, prev. 0,64 km, (2,52 km, prev. 0,39 km)",
+    "povrch": "terén - lyžiarska zjazdovka",
+    "start_cas": "11:00 hod. trať 3,9 km, 11.05 hod. rať 2,5 km",
+    "organizator": "Róbert Kolár, Ľubomír Kubáň, Tomáš Gazdarica, Mária Hrnčiarová v spol. s o.z. Ružomberok v pohybe",
     "tagy": [
       "beh"
     ],
-    "popis": "Dlhá trať (3,9 km), Krátka trať (2,5 km)"
+    "popis": ""
   },
   {
     "nazov": "Karpaty Run – Bratislava Trail Run Festival",
@@ -3822,100 +3854,52 @@
     "popis": "Malý pieninský maratón (18 km), Malý pieninský maratón – štafety 9+9 km (18 km)"
   },
   {
-    "nazov": "Beh Ždaňou",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-zdanou-3/",
-    "datum": "2026-09-13",
-    "datum_do": "",
-    "mesto": "Ždaňa, okr. Košice okolie",
-    "dlzka": "5 km, 2,5 km",
-    "povrch": "",
-    "start_cas": "16:00 hod - deti, 17:00 hod. - hlavný beh",
-    "organizator": "obec Ždaňa",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Beh okolo Spišského hradu",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/20-mierovych-kilometrov-okolo-spisskeho-hradu-17/",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-okolo-spisskeho-hradu-2026",
     "datum": "2026-09-13",
     "datum_do": "",
     "mesto": "Spišské Podhradie",
-    "dlzka": "12 km, 19 km",
-    "povrch": "15,3 km je asfaltový povrch, 3,7 km je spevnená poľná cesta a trávnatý povrch",
-    "start_cas": "9:00 hod.",
-    "organizator": "Mesto Spišské Podhradie",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Trenčianská bežecká liga – 7. kolo",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-7-kolo-11/",
-    "datum": "2026-09-13",
-    "datum_do": "",
-    "mesto": "Svinná",
-    "dlzka": "7,77 km, prevýšenie 0,10 km",
-    "povrch": "asfalt 35%, terén 65%",
-    "start_cas": "10:00 hod.",
+    "dlzka": "19 km, 12 km",
+    "povrch": "",
+    "start_cas": "09:00",
     "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": ""
+    "popis": "Detské behy, Dlhá trať (19 km), Krátka trať (12 km)"
   },
   {
-    "nazov": "Beh okolo Sliačov",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-okolo-sliacov-17/",
-    "datum": "2026-09-13",
-    "datum_do": "",
-    "mesto": "Liptovské Sliače okr. Ružomberok",
-    "dlzka": "10 km a menej",
-    "povrch": "terén, asfalt",
-    "start_cas": "10:00 hod. mládežnícke kat., 10:30 hod. dospelí",
-    "organizator": "Obecný úrad, Základná škola s Materskou, školou Jozefa Hanulu, 1.OFC Liptovské Sliače, Olympijsky klub Liptova",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Fiľakovský hradný beh",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/filakovsky-hradny-beh-3/",
+    "nazov": "Fiľakovsky hradný beh",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/filakovsky-hradny-beh-2026",
     "datum": "2026-09-13",
     "datum_do": "",
     "mesto": "Fiľakovo",
     "dlzka": "10 km, 5 km",
     "povrch": "",
-    "start_cas": "9:00 hod. detské, 10:00 hod. 10 km, 10:02 hod. 5 km a NW",
-    "organizator": "ŠK Novohrad Fiľakovo, o. z.",
+    "start_cas": "10:00",
+    "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": ""
+    "popis": "Beh (10 km), Beh (5 km), 5 km, Detské behy"
   },
   {
-    "nazov": "Beh zubrohlavským chotárom – memoriál Peťa Stoklasu",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-zubrohlavskym-chotarom-memorial-peta-stoklasu-11/",
+    "nazov": "Trenčianská bežecká liga – 7. kolo",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/trencianska-bezecka-liga-svinna-2026",
     "datum": "2026-09-13",
     "datum_do": "",
-    "mesto": "Zubrohlava, okr. Námestovo",
-    "dlzka": "11 km; 5 km",
-    "povrch": "Zvážnica, lesný chodník (lesná cesta)",
-    "start_cas": "11:00 hod. 11 km; 11:05 hod. 5 km",
-    "organizator": "František Šturek, František Volf ml. v spolupráci s miestnym spolkom Slovenského červeného kríža a športovým klubom Oravaman",
+    "mesto": "Svinná",
+    "dlzka": "7.77 km",
+    "povrch": "",
+    "start_cas": "10:00",
+    "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": ""
+    "popis": "Detské behy, Hlavný beh (7,77 km)"
   },
   {
     "nazov": "Vrakunský beh",
@@ -3934,6 +3918,40 @@
     "popis": "Amatérsky beh – 2 × 5 km okruh (10 km), Amatérsky beh (5 km), 5 km, Detské behy"
   },
   {
+    "nazov": "Beh okolo Sliačov",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-okolo-sliacov-2026",
+    "datum": "2026-09-13",
+    "datum_do": "",
+    "mesto": "Liptovské Sliače",
+    "dlzka": "10 km, 7 km, 2.7 km",
+    "povrch": "",
+    "start_cas": "10:30",
+    "organizator": "",
+    "tagy": [
+      "ultra",
+      "teren"
+    ],
+    "popis": "Trail 10 km, Detské behy, Trail 7 km, Hobby beh (2,7 km)"
+  },
+  {
+    "nazov": "Beh zubrohlavským chotárom – Memoriál Peťa Stoklasu",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-zubrohlavskym-chotarom-memorial-peta-stoklasu-2026",
+    "datum": "2026-09-13",
+    "datum_do": "",
+    "mesto": "Zubrohlava",
+    "dlzka": "11 km, 5 km",
+    "povrch": "",
+    "start_cas": "11:30",
+    "organizator": "",
+    "tagy": [
+      "ultra",
+      "teren"
+    ],
+    "popis": "Trail 11 km, Trail 5 km, Detské behy"
+  },
+  {
     "nazov": "Bystrica RUN",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/bystrica-run-2026",
@@ -3948,6 +3966,22 @@
       "beh"
     ],
     "popis": "11 km beh"
+  },
+  {
+    "nazov": "Beh Ždaňou",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-zdanou-2026",
+    "datum": "2026-09-13",
+    "datum_do": "",
+    "mesto": "Ždaňa",
+    "dlzka": "5 km, 2.5 km",
+    "povrch": "",
+    "start_cas": "17:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh Ždaňou (5 km), Detské behy, Beh Ždaňou (2,5 km)"
   },
   {
     "nazov": "Bežecký festival v Jasenove",
