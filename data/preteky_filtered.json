@@ -942,6 +942,22 @@
     "popis": "Zaži unikátny beh so záťažovým vakom v areáli Vojenskej leteckej základne Prešov. Čakajú ťa trate 5 a 10 km, detské behy, armádna technika a originálna dog tag medaila."
   },
   {
+    "nazov": "Beh okolo Ľuborče – Memoriál Ondreja Húserku",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-okolo-luborce-56rocnik-memorial-ondreja-huserku-2026",
+    "datum": "2026-11-07",
+    "datum_do": "",
+    "mesto": "Ľuborča",
+    "dlzka": "4.2 km, 29 km, 7.5 km",
+    "povrch": "",
+    "start_cas": "08:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "4,2 km, Detské behy, 29 km, 7,5 km"
+  },
+  {
     "nazov": "Sky maratón Partizán",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/sky-maraton-partizan-2026",
@@ -1665,6 +1681,22 @@
       "beh"
     ],
     "popis": "Bronzová (9 km), Zlatá (36,6 km), Strieborná (28 km), 36,6 km"
+  },
+  {
+    "nazov": "Trnava Run",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/trnava-run-2026",
+    "datum": "2026-10-17",
+    "datum_do": "",
+    "mesto": "Trnava",
+    "dlzka": "6.2 km, 3.1 km",
+    "povrch": "",
+    "start_cas": "10:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Detské behy, Dlhá trať - 2 okruhy (6,2 km), Krátka trať - 1 okruh (3,1 km)"
   },
   {
     "nazov": "Tajovský beh",
@@ -2462,6 +2494,22 @@
     "popis": "12-hodinový beh (14,2 km)"
   },
   {
+    "nazov": "Beh na 2 míle Košice",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-na-2-mile-kosice-10-kolo-2026",
+    "datum": "2026-10-03",
+    "datum_do": "",
+    "mesto": "Košice",
+    "dlzka": "3.22 km",
+    "povrch": "",
+    "start_cas": "09:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Detské behy, 2 míle (3,22 km)"
+  },
+  {
     "nazov": "KarpatyRun - Bratislava Trail Run",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/karpatyrun-bratislava-trail-run-2026",
@@ -3093,6 +3141,22 @@
     "popis": ""
   },
   {
+    "nazov": "Kubašská 10°",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/kubasska-10-12/",
+    "datum": "2026-09-26",
+    "datum_do": "",
+    "mesto": "Spišské Bystré",
+    "dlzka": "10 km, 5 km",
+    "povrch": "asfalt 30%, trail 70%",
+    "start_cas": "13:30 hod.",
+    "organizator": "Obecný úrad Spišské Bystré v spolupráci s Klubom turistov Spišské Bystré, ZŠ s MŠ Spišské Bystré",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Závadský štvanec 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/zavadskystvanec2026",
@@ -3188,23 +3252,6 @@
       "beh"
     ],
     "popis": "Hlavný beh (10 km), Hobby beh (5 km), 5 km, Detské behy"
-  },
-  {
-    "nazov": "Kubašská 10°",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kubasska-10-11rocnik-2026",
-    "datum": "2026-09-26",
-    "datum_do": "",
-    "mesto": "Spišské Bystré",
-    "dlzka": "10 km, 5.4 km, 2 km",
-    "povrch": "",
-    "start_cas": "13:30",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Trail 10 km, 5 km (5,4 km), Detské behy, 2 km"
   },
   {
     "nazov": "Zátopkova desiatka",
@@ -3692,6 +3739,22 @@
     "popis": "LIV. ročník Kľačianskej desiatky bude 19.9.2026 v obci Kľačany v okrese Hlohovec. Pripravené sú trate na 10 km, 5 km, severská chôdza aj detské behy. Registrácia prebieha na mieste od 12:00. Príďte si zabehať a zasúťažiť!"
   },
   {
+    "nazov": "Karpatská vandrovka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/karpatska-vandrovka-2026",
+    "datum": "2026-09-19",
+    "datum_do": "",
+    "mesto": "Košice",
+    "dlzka": "50 km, 25 km",
+    "povrch": "",
+    "start_cas": "05:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Veľká trasa (50 km), Malá trasa (25 km)"
+  },
+  {
     "nazov": "Big Bear’s Ultra",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/big-bears-ultra-2026",
@@ -3820,22 +3883,6 @@
       "maraton"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Malý pieninský maratón 2026",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/mpm2026",
-    "datum": "2026-09-15",
-    "datum_do": "",
-    "mesto": "Červený Kláštor",
-    "dlzka": "18 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": "28. ročník pretekov na 18 km popri rieke Dunajec so štartom pri Kúpeloch Červený Kláštor Smerdžonka. Preteky sú Memoriálom Bohuša Ježíka."
   },
   {
     "nazov": "Malý pieninský maratón – memoriál Bohuša Ježíka",
@@ -4223,6 +4270,22 @@
       "beh"
     ],
     "popis": "Hlavný beh (10 km), Malá trať (6 km), Detské behy"
+  },
+  {
+    "nazov": "Bystrica RUN",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/stupava-trophy-bystrica-run-2026",
+    "datum": "2026-09-12",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "11 km",
+    "povrch": "",
+    "start_cas": "15:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Bystrica RUN (11 km)"
   },
   {
     "nazov": "Lemešanská bežecká liga 3. Jesenné kolo",
@@ -7599,22 +7662,6 @@
     "popis": "Detské behy, Trail 6,7 km, Beh zdravia (3 km)"
   },
   {
-    "nazov": "K500 jún",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-06-25",
-    "datum_do": "",
-    "mesto": "Nová Polhora",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "19:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "10 km, 5 km"
-  },
-  {
     "nazov": "Diskokilometer",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/diskokilometer-2026",
@@ -9451,6 +9498,22 @@
     "dlzka": "10 km, 5 km",
     "povrch": "",
     "start_cas": "19:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km, 5 km"
+  },
+  {
+    "nazov": "K500 jún",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-05-28",
+    "datum_do": "",
+    "mesto": "Nová Polhora",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "19:30",
     "organizator": "",
     "tagy": [
       "beh"

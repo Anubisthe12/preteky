@@ -73,14 +73,6 @@
   },
   {
     "zdroj": "pretekaj.sk",
-    "nazov": "Malý pieninský maratón 2026",
-    "url": "https://pretekaj.sk/mpm2026",
-    "datum": "15.09.2026",
-    "mesto": "Červený Kláštor",
-    "popis": "28. ročník pretekov na 18 km popri rieke Dunajec so štartom pri Kúpeloch Červený Kláštor Smerdžonka. Preteky sú Memoriálom Bohuša Ježíka."
-  },
-  {
-    "zdroj": "pretekaj.sk",
     "nazov": "Dobšinská desiatka 2026",
     "url": "https://pretekaj.sk/dobsinskadesiatka2026",
     "datum": "19.09.2026",
@@ -10360,30 +10352,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Malý pieninský maratón – memoriál Bohuša Ježíka",
-    "url": "https://vsetkybehy.sk/podujatie/maly-pieninsky-maraton-memorial-bohusa-jezika-2026",
-    "datum": "2026-09-15",
-    "mesto": "Červený Kláštor",
-    "popis": "Malý pieninský maratón (18 km), Malý pieninský maratón – štafety 9+9 km (18 km)",
-    "info": {
-      "Miesto": "Červený Kláštor – Rekreačné zariadenie Dunajec village / Kúpele Červený Kláštor Smerdžonka",
-      "Dĺžka trate": "18 km",
-      "Štart": "10:00",
-      "kraj": "presovsky",
-      "gps": "49.3897113,20.4215187",
-      "seria": "",
-      "disciplíny": [
-        "Malý pieninský maratón (18 km)",
-        "Malý pieninský maratón – štafety 9+9 km (18 km)"
-      ],
-      "registracia": "",
-      "web": "https://www.pieniny-mpm.sk/",
-      "propozicie": "https://cdn.pretekaj.sk/events/2026/mpm2026/PROG20260039_46843.pdf",
-      "vysledky": "https://pretekaj.sk/sk/vysledky/mpm2026"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Rescue Lesnica Memorial Run",
     "url": "https://vsetkybehy.sk/podujatie/rescue-lesnica-memorial-run-2026",
     "datum": "2026-09-17",
@@ -10394,7 +10362,7 @@
       "Dĺžka trate": "4.5 km",
       "Štart": "16:30",
       "kraj": "presovsky",
-      "gps": "49.2445730,20.2191760",
+      "gps": "49.2686812,20.2491825",
       "seria": "",
       "disciplíny": [
         "Memoriál Run (4,5 km)"
@@ -10402,6 +10370,30 @@
       "registracia": "https://www.rescuelesnica.sk/podujatie/test-zachrana-2026/registracia",
       "web": "https://www.rescuelesnica.sk/",
       "propozicie": "https://www.rescuelesnica.sk/podujatie/test-zachrana-2026/propositions",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Karpatská vandrovka",
+    "url": "https://vsetkybehy.sk/podujatie/karpatska-vandrovka-2026",
+    "datum": "2026-09-19",
+    "mesto": "Košice",
+    "popis": "Veľká trasa (50 km), Malá trasa (25 km)",
+    "info": {
+      "Miesto": "Košice – Areál Čičky, KVP (cieľ); štarty Kúpele Štós a Chata Erika pod Kojšovskou hoľou",
+      "Dĺžka trate": "50 km, 25 km",
+      "Štart": "05:00",
+      "kraj": "kosicky",
+      "gps": "48.7164000,21.2611000",
+      "seria": "",
+      "disciplíny": [
+        "Veľká trasa (50 km)",
+        "Malá trasa (25 km)"
+      ],
+      "registracia": "",
+      "web": "https://karpatskavandrovka.sk/",
+      "propozicie": "https://karpatskavandrovka.sk/podmienky-ucasti/",
       "vysledky": ""
     }
   },
@@ -11093,6 +11085,29 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Funny Road Runner Games",
+    "url": "https://vsetkybehy.sk/podujatie/funny-road-runner-race-1-2026",
+    "datum": "2026-09-21",
+    "mesto": "Piešťany",
+    "popis": "Detské behy",
+    "info": {
+      "Miesto": "Piešťany – ZŠ Brezová 19",
+      "Dĺžka trate": "",
+      "Štart": "16:00",
+      "kraj": "trnavsky",
+      "gps": "48.5895250,17.8213850",
+      "seria": "",
+      "disciplíny": [
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://funnyathletics.sk/",
+      "propozicie": "https://statistika.atletika.sk/admin/media/propozice/Funny_Road_Runner_Games_21.09.2026.pdf",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "IX. ZK - 12min.",
     "url": "https://vsetkybehy.sk/podujatie/ix-zk-12min-2026",
     "datum": "2026-09-22",
@@ -11165,6 +11180,29 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Detský maloidanský kros",
+    "url": "https://vsetkybehy.sk/podujatie/detsky-maloidansky-kros-2026",
+    "datum": "2026-09-25",
+    "mesto": "Malá Ida",
+    "popis": "Detské behy",
+    "info": {
+      "Miesto": "Malá Ida – ZŠ Školská 10, školské ihrisko",
+      "Dĺžka trate": "",
+      "Štart": "09:00",
+      "kraj": "kosicky",
+      "gps": "48.6765100,21.1688220",
+      "seria": "",
+      "disciplíny": [
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "https://statistika.atletika.sk/admin/media/propozice/12._SSAK_-_Detsky_maloidansky_kros,_25.9.2026.pdf",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh Tokajskými vinicami",
     "url": "https://vsetkybehy.sk/podujatie/beh-tokajskymi-vinicami-2026",
     "datum": "2026-09-25",
@@ -11231,7 +11269,7 @@
       ],
       "registracia": "https://pretekaj.sk/sk/podujatia/runsetzilina/registration",
       "web": "https://www.interun.sk",
-      "propozicie": "",
+      "propozicie": "https://pretekaj.sk/runsetzilina",
       "vysledky": ""
     }
   },
@@ -11987,6 +12025,29 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh na 60m v Ilave",
+    "url": "https://vsetkybehy.sk/podujatie/beh-na-60m-v-ilave-2026",
+    "datum": "2026-09-27",
+    "mesto": "Ilava",
+    "popis": "Beh na 60 m",
+    "info": {
+      "Miesto": "Ilava",
+      "Dĺžka trate": "",
+      "Štart": "14:00",
+      "kraj": "trenciansky",
+      "gps": "48.9985670,18.2307600",
+      "seria": "",
+      "disciplíny": [
+        "Beh na 60 m"
+      ],
+      "registracia": "https://statistika.atletika.sk/prihlasky/zoznam-prihlasok/88772",
+      "web": "",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh za Filoménu",
     "url": "https://vsetkybehy.sk/podujatie/beh-za-filomenu-2026",
     "datum": "2026-09-27",
@@ -12112,29 +12173,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Beh na 60m v Ilave",
-    "url": "https://vsetkybehy.sk/podujatie/beh-na-60m-v-ilave-2026",
-    "datum": "2026-09-30",
-    "mesto": "Ilava",
-    "popis": "Beh na 60 m",
-    "info": {
-      "Miesto": "Ilava",
-      "Dĺžka trate": "",
-      "Štart": "14:00",
-      "kraj": "trenciansky",
-      "gps": "48.9985670,18.2307600",
-      "seria": "",
-      "disciplíny": [
-        "Beh na 60 m"
-      ],
-      "registracia": "https://statistika.atletika.sk/prihlasky/zoznam-prihlasok/88772",
-      "web": "",
-      "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh s medikmi",
     "url": "https://vsetkybehy.sk/podujatie/beh-s-medikmi-2026",
     "datum": "2026-09-30",
@@ -12228,6 +12266,30 @@
       "registracia": "",
       "web": "https://www.evoxise.sk/s/",
       "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh na 2 míle Košice",
+    "url": "https://vsetkybehy.sk/podujatie/beh-na-2-mile-kosice-10-kolo-2026",
+    "datum": "2026-10-03",
+    "mesto": "Košice",
+    "popis": "Detské behy, 2 míle (3,22 km)",
+    "info": {
+      "Miesto": "Košice – Park Anička pri reštaurácii Ryba",
+      "Dĺžka trate": "3.22 km",
+      "Štart": "09:00",
+      "kraj": "kosicky",
+      "gps": "48.7200000,21.2630000",
+      "seria": "Beh na 2 míle Košice · 10. kolo",
+      "disciplíny": [
+        "Detské behy",
+        "2 míle (3,22 km)"
+      ],
+      "registracia": "https://my.raceresult.com/377448/registration",
+      "web": "https://cs.srichinmoyraces.org/beh2milekosice",
+      "propozicie": "https://my.raceresult.com/377448/txt",
       "vysledky": ""
     }
   },
@@ -13258,7 +13320,7 @@
       ],
       "registracia": "https://my.raceresult.com/358318/",
       "web": "",
-      "propozicie": "",
+      "propozicie": "https://my.raceresult.com/423066/txt",
       "vysledky": ""
     }
   },
@@ -13282,6 +13344,31 @@
       "registracia": "https://my.raceresult.com/417626/registration",
       "web": "https://oklm.webnode.sk/polmaraton/",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/08/PropoStSh26v2.pdf",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Trnava Run",
+    "url": "https://vsetkybehy.sk/podujatie/trnava-run-2026",
+    "datum": "2026-10-17",
+    "mesto": "Trnava",
+    "popis": "Detské behy, Dlhá trať - 2 okruhy (6,2 km), Krátka trať - 1 okruh (3,1 km)",
+    "info": {
+      "Miesto": "Trnava – AŠK Slávia Trnava, Hajdóczyho ulica",
+      "Dĺžka trate": "6.2 km, 3.1 km",
+      "Štart": "10:00",
+      "kraj": "trnavsky",
+      "gps": "48.3774000,17.5856000",
+      "seria": "",
+      "disciplíny": [
+        "Detské behy",
+        "Dlhá trať - 2 okruhy (6,2 km)",
+        "Krátka trať - 1 okruh (3,1 km)"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
       "vysledky": ""
     }
   },
@@ -13480,7 +13567,7 @@
         "Beh na prameň Slatina (16 km)",
         "Veľkočepčianska jedenástka (11,7 km)"
       ],
-      "registracia": "",
+      "registracia": "https://podmesahybat.sk/#registracia/bezimeVoVelkomCepcine",
       "web": "",
       "propozicie": "",
       "vysledky": ""
@@ -13579,6 +13666,29 @@
       ],
       "registracia": "",
       "web": "https://cs.srichinmoyraces.org/beh-2-m%C3%ADle-bratislava",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Trenčianska bežecká liga – 8. kolo",
+    "url": "https://vsetkybehy.sk/podujatie/trencianska-bezecka-liga-trencianske-teplice-2026",
+    "datum": "2026-10-18",
+    "mesto": "Trenčianske Teplice",
+    "popis": "Trail 9,72 km",
+    "info": {
+      "Miesto": "Trenčianske Teplice – Pódium na námestí T. G. Masaryka",
+      "Dĺžka trate": "9.72 km",
+      "Štart": "10:00",
+      "kraj": "trenciansky",
+      "gps": "48.9094450,18.1702980",
+      "seria": "Trenčianska bežecká liga · 8. kolo",
+      "disciplíny": [
+        "Trail 9,72 km"
+      ],
+      "registracia": "https://tbl.sk/8-kolo-2026/",
+      "web": "https://tbl.sk/",
       "propozicie": "",
       "vysledky": ""
     }
@@ -14036,9 +14146,35 @@
         "Trail 5,4 km",
         "Detské behy"
       ],
-      "registracia": "",
+      "registracia": "https://zasrun.sk/preteky/326/prihlaska",
       "web": "https://www.behajmespolu.sk/",
       "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh okolo Ľuborče – Memoriál Ondreja Húserku",
+    "url": "https://vsetkybehy.sk/podujatie/beh-okolo-luborce-56rocnik-memorial-ondreja-huserku-2026",
+    "datum": "2026-11-07",
+    "mesto": "Ľuborča",
+    "popis": "4,2 km, Detské behy, 29 km, 7,5 km",
+    "info": {
+      "Miesto": "Ľuborča – Štadión TJ Ľuborča",
+      "Dĺžka trate": "4.2 km, 29 km, 7.5 km",
+      "Štart": "08:00",
+      "kraj": "trenciansky",
+      "gps": "48.9596000,18.1064000",
+      "seria": "",
+      "disciplíny": [
+        "4,2 km",
+        "Detské behy",
+        "29 km",
+        "7,5 km"
+      ],
+      "registracia": "https://my.raceresult.com/422955/registration",
+      "web": "",
+      "propozicie": "https://my.raceresult.com/422955/txt",
       "vysledky": ""
     }
   },
@@ -14792,7 +14928,7 @@
       "Štart": "08:30",
       "kraj": "zilinsky",
       "gps": "49.2027400,18.8073440",
-      "seria": "",
+      "seria": "Bežecká liga Žiliny",
       "disciplíny": [
         "Maratón (42,2 km)",
         "Polmaratón (21,1 km)",
@@ -15001,6 +15137,30 @@
       ],
       "registracia": "https://www.terminovka.sk/podujatie/raciansky-kros-zima",
       "web": "https://www.racianskykros.sk/zima/",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Majcichovská desiatka",
+    "url": "https://vsetkybehy.sk/podujatie/majcichovska-desiatka-2027",
+    "datum": "2027-03-07",
+    "mesto": "Majcichov",
+    "popis": "Hlavný beh (10 km), Detské behy",
+    "info": {
+      "Miesto": "Majcichov – pred obecným úradom",
+      "Dĺžka trate": "10 km",
+      "Štart": "11:45",
+      "kraj": "trnavsky",
+      "gps": "48.2866560,17.6285480",
+      "seria": "",
+      "disciplíny": [
+        "Hlavný beh (10 km)",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://www.majcichov.sk/obec/sport/majcichovska-10/uvod/",
       "propozicie": "",
       "vysledky": ""
     }
@@ -15230,6 +15390,27 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Domaša Rumpeľ run - Memoriál Antóna Flešára",
+    "url": "https://vsetkybehy.sk/podujatie/domasa-rumpel-run-memorial-antona-flesara-2027",
+    "datum": "2027-05-29",
+    "mesto": "Bžany",
+    "popis": "",
+    "info": {
+      "Miesto": "Bžany – Pohostinstvo Rumpeľ, Valkov 100",
+      "Dĺžka trate": "",
+      "Štart": "",
+      "kraj": "presovsky",
+      "gps": "49.0909460,21.6390190",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Babylon Race",
     "url": "https://vsetkybehy.sk/podujatie/babylon-race-2027",
     "datum": "2027-06-05",
@@ -15353,6 +15534,27 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Mesciské pancaky",
+    "url": "https://vsetkybehy.sk/podujatie/mesciske-pancaky-2027",
+    "datum": "2027-07-17",
+    "mesto": "Mestisko",
+    "popis": "",
+    "info": {
+      "Miesto": "Mestisko – Futbalové ihrisko",
+      "Dĺžka trate": "",
+      "Štart": "",
+      "kraj": "presovsky",
+      "gps": "49.2580500,21.5845850",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Bančanská desiatka",
     "url": "https://vsetkybehy.sk/podujatie/32-rocnik-bancanskej-desiatky-2027",
     "datum": "2027-07-18",
@@ -15422,6 +15624,30 @@
       "web": "https://nightrunlm.sk/",
       "propozicie": "",
       "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Malý pieninský maratón – memoriál Bohuša Ježíka",
+    "url": "https://vsetkybehy.sk/podujatie/maly-pieninsky-maraton-memorial-bohusa-jezika-2026",
+    "datum": "2026-09-15",
+    "mesto": "Červený Kláštor",
+    "popis": "Malý pieninský maratón (18 km), Malý pieninský maratón – štafety 9+9 km (18 km)",
+    "info": {
+      "Miesto": "Červený Kláštor – Rekreačné zariadenie Dunajec village / Kúpele Červený Kláštor Smerdžonka",
+      "Dĺžka trate": "18 km",
+      "Štart": "10:00",
+      "kraj": "presovsky",
+      "gps": "49.3897113,20.4215187",
+      "seria": "",
+      "disciplíny": [
+        "Malý pieninský maratón (18 km)",
+        "Malý pieninský maratón – štafety 9+9 km (18 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.pieniny-mpm.sk/",
+      "propozicie": "https://cdn.pretekaj.sk/events/2026/mpm2026/PROG20260039_46843.pdf",
+      "vysledky": "https://pretekaj.sk/sk/vysledky/mpm2026"
     }
   },
   {
@@ -15496,7 +15722,7 @@
       "registracia": "",
       "web": "https://tbl.sk/7-kolo-2026/",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://beh.sk/wp-content/uploads/2026/06/260913_tnbl_7kolo_v.xlsx"
     }
   },
   {
@@ -15596,7 +15822,7 @@
       "registracia": "",
       "web": "https://www.stupavskymaraton.sk/inpage/bystrica-run/",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://vysledky.sportsoft.cz/race/951"
     }
   },
   {
@@ -15695,7 +15921,7 @@
       "registracia": "",
       "web": "https://registrujsa.sk/beh-tekviciarov-2026",
       "propozicie": "https://registrujsa.sk/downloads/prop26/propozicie_arnovica26.pdf",
-      "vysledky": ""
+      "vysledky": "https://registrujsa.sk/downloads/results26/vysledky_arnovica26.pdf"
     }
   },
   {
@@ -16035,6 +16261,29 @@
       "web": "https://www.behpezinkom.com",
       "propozicie": "https://www.behpezinkom.com/sk/beh-pezinkom-2026/propozicie",
       "vysledky": "https://vysledky.sportsoft.cz/race/1099"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Bystrica RUN",
+    "url": "https://vsetkybehy.sk/podujatie/stupava-trophy-bystrica-run-2026",
+    "datum": "2026-09-12",
+    "mesto": "Bratislava",
+    "popis": "Bystrica RUN (11 km)",
+    "info": {
+      "Miesto": "Bratislava – námestie Rodiny, Záhorská Bystrica",
+      "Dĺžka trate": "11 km",
+      "Štart": "15:00",
+      "kraj": "bratislavsky",
+      "gps": "48.2392354,17.0383612",
+      "seria": "",
+      "disciplíny": [
+        "Bystrica RUN (11 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.stupavskymaraton.sk/",
+      "propozicie": "https://www.stupavskymaraton.sk/inpage/bystrica-run/",
+      "vysledky": "https://vysledky.sportsoft.cz/race/951"
     }
   },
   {
@@ -21694,30 +21943,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "K500 jún",
-    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
-    "datum": "2026-06-25",
-    "mesto": "Nová Polhora",
-    "popis": "10 km, 5 km",
-    "info": {
-      "Miesto": "Nová Polhora – STK Nová Polhora",
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "19:30",
-      "kraj": "kosicky",
-      "gps": "48.8256155,21.3153215",
-      "seria": "",
-      "disciplíny": [
-        "10 km",
-        "5 km"
-      ],
-      "registracia": "",
-      "web": "",
-      "propozicie": "",
-      "vysledky": "https://zasrun.sk/preteky/k500-maj-2026/vysledky"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Diskokilometer",
     "url": "https://vsetkybehy.sk/podujatie/diskokilometer-2026",
     "datum": "2026-06-24",
@@ -24997,6 +25222,30 @@
       "Miesto": "Nová Polhora – STK Nová Polhora",
       "Dĺžka trate": "10 km, 5 km",
       "Štart": "19:00",
+      "kraj": "kosicky",
+      "gps": "48.8256155,21.3153215",
+      "seria": "",
+      "disciplíny": [
+        "10 km",
+        "5 km"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://zasrun.sk/preteky/k500-maj-2026/vysledky"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "K500 jún",
+    "url": "https://vsetkybehy.sk/podujatie/k500-jun-2026",
+    "datum": "2026-05-28",
+    "mesto": "Nová Polhora",
+    "popis": "10 km, 5 km",
+    "info": {
+      "Miesto": "Nová Polhora – STK Nová Polhora",
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "19:30",
       "kraj": "kosicky",
       "gps": "48.8256155,21.3153215",
       "seria": "",
