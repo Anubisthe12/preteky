@@ -1619,6 +1619,22 @@
     "popis": ""
   },
   {
+    "nazov": "onsemi Jesenný beh okolo Sĺňavy",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/jesenny-beh-okolo-slnavy-16/",
+    "datum": "2026-10-17",
+    "datum_do": "",
+    "mesto": "Piešťany - Sĺňava",
+    "dlzka": "12 km",
+    "povrch": "asfalt",
+    "start_cas": "11:00 hod. muži + ženy  + štafety, (žiaci majú štart po odštartovaní hl. kat.)",
+    "organizator": "OZ Sĺňava Piešťany spolu s Atletický oddielom TJ Družba Piešťany",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Pieninská stopa 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/pieninskastopa",
@@ -1888,6 +1904,22 @@
     "povrch": "asfalt, dlažba",
     "start_cas": "10:00 hod.",
     "organizator": "OZ Šišky",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Beh okolo Sidorova",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-okolo-sidorova-18/",
+    "datum": "2026-10-11",
+    "datum_do": "",
+    "mesto": "Ružomberok",
+    "dlzka": "13 km; 4,8 km",
+    "povrch": "terén, asfalt (300 m)",
+    "start_cas": "detské kategórie 9:15 hod., hlavné kategórie 10:30 hod.",
+    "organizator": "Bežecký spolok Ruža Ružomberok a CVC Elán za podpory mesta  Ružomberok",
     "tagy": [
       "beh"
     ],
@@ -3707,6 +3739,22 @@
     "popis": ""
   },
   {
+    "nazov": "Kľačianska desiatka",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/klacianska-desiatka-18/",
+    "datum": "2026-09-19",
+    "datum_do": "",
+    "mesto": "Kľačany okr. Hlohovec",
+    "dlzka": "10 km, 5 km",
+    "povrch": "asfalt",
+    "start_cas": "14:30 hod. predškolský vek a žiacke, 18:20 hod. NW, 16:00 hod. dorast a dospelí",
+    "organizator": "Bežecký klub 2000 Kľačany, Obec Kľačany, ZŠ a MŠ Kľačany, Obecný futbalový klub, Slovnaft a. s.",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Dobšinská desiatka 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/dobsinskadesiatka2026",
@@ -3836,22 +3884,6 @@
     "popis": "Hobby (4 km), Detské behy, Hlavná trať (8 km)"
   },
   {
-    "nazov": "Kľačianska desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/klacianska-desiatka-2026",
-    "datum": "2026-09-19",
-    "datum_do": "",
-    "mesto": "Kľačany",
-    "dlzka": "10 km, 5 km, 2.5 km",
-    "povrch": "",
-    "start_cas": "16:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Hlavný beh (10 km), Hobby beh (5 km), Detské behy, Dorastenci a dorastenkyne (2,5 km), 2,5 km"
-  },
-  {
     "nazov": "Rescue Lesnica Memorial Run",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/rescue-lesnica-memorial-run-2026",
@@ -3867,22 +3899,6 @@
       "teren"
     ],
     "popis": "Memoriál Run (4,5 km)"
-  },
-  {
-    "nazov": "Malý Pieninský maratón – mem. Bohuša Ježíka",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/maly-pieninsky-maraton-mem-bohusa-jezika-10-2/",
-    "datum": "2026-09-15",
-    "datum_do": "",
-    "mesto": "Červený Kláštor okr. Kežmarok",
-    "dlzka": "18 km",
-    "povrch": "asfalt, pevná lesná cesta",
-    "start_cas": "10:00 hod.",
-    "organizator": "Malý pieninský maratón o. z.,",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
   },
   {
     "nazov": "Malý pieninský maratón – memoriál Bohuša Ježíka",
@@ -4270,22 +4286,6 @@
       "beh"
     ],
     "popis": "Hlavný beh (10 km), Malá trať (6 km), Detské behy"
-  },
-  {
-    "nazov": "Bystrica RUN",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/stupava-trophy-bystrica-run-2026",
-    "datum": "2026-09-12",
-    "datum_do": "",
-    "mesto": "Bratislava",
-    "dlzka": "11 km",
-    "povrch": "",
-    "start_cas": "15:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Bystrica RUN (11 km)"
   },
   {
     "nazov": "Lemešanská bežecká liga 3. Jesenné kolo",

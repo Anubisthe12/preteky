@@ -10367,7 +10367,7 @@
       "disciplíny": [
         "Memoriál Run (4,5 km)"
       ],
-      "registracia": "https://www.rescuelesnica.sk/podujatie/test-zachrana-2026/registracia",
+      "registracia": "",
       "web": "https://www.rescuelesnica.sk/",
       "propozicie": "https://www.rescuelesnica.sk/podujatie/test-zachrana-2026/propositions",
       "vysledky": ""
@@ -11642,7 +11642,7 @@
       "Dĺžka trate": "10 km, 5 km, 3 km",
       "Štart": "14:30",
       "kraj": "zilinsky",
-      "gps": "49.2027405,18.8073439",
+      "gps": "49.2027400,18.8073440",
       "seria": "Rajec RunTour · 2. kolo",
       "disciplíny": [
         "Rajec Run (10 km)",
@@ -11765,7 +11765,7 @@
       "Dĺžka trate": "11 km, 45 km, 24.7 km",
       "Štart": "07:00",
       "kraj": "banskobystricky",
-      "gps": "48.7279491,19.0845611",
+      "gps": "48.7268560,19.0763930",
       "seria": "",
       "disciplíny": [
         "Fončorda HOBBY (11 km)",
@@ -12600,7 +12600,7 @@
       "Dĺžka trate": "51 km, 21.1 km",
       "Štart": "08:00",
       "kraj": "nitriansky",
-      "gps": "48.3567422,18.0554008",
+      "gps": "48.3567420,18.0554010",
       "seria": "",
       "disciplíny": [
         "ZBL51 (51 km)",
@@ -13585,7 +13585,7 @@
       "Dĺžka trate": "10 km, 5 km",
       "Štart": "15:00",
       "kraj": "bratislavsky",
-      "gps": "48.2062186,17.2070845",
+      "gps": "48.2062190,17.2070850",
       "seria": "",
       "disciplíny": [
         "Hlavná kategória (10 km)",
@@ -13634,7 +13634,7 @@
       "Dĺžka trate": "17.2 km",
       "Štart": "",
       "kraj": "trenciansky",
-      "gps": "48.8301432,17.7261276",
+      "gps": "48.8301318,17.7260435",
       "seria": "",
       "disciplíny": [
         "Horský beh (17,2 km)",
@@ -14190,7 +14190,7 @@
       "Dĺžka trate": "45 km, 23.5 km",
       "Štart": "08:00",
       "kraj": "zilinsky",
-      "gps": "48.7855927,18.8308715",
+      "gps": "48.7855930,18.8308720",
       "seria": "Trails in Turiec · 7. kolo",
       "disciplíny": [
         "Sky maratón (45 km)",
@@ -14878,7 +14878,7 @@
       "Dĺžka trate": "5 km",
       "Štart": "09:00",
       "kraj": "bratislavsky",
-      "gps": "48.1231511,17.1337648",
+      "gps": "48.1231510,17.1337650",
       "seria": "",
       "disciplíny": [
         "Beh na bežeckom páse (5 km)"
@@ -15177,7 +15177,7 @@
       "Dĺžka trate": "65.1 km, 21 km, 44.5 km",
       "Štart": "06:00",
       "kraj": "presovsky",
-      "gps": "49.0549188,20.2054749",
+      "gps": "49.0549190,20.2054750",
       "seria": "",
       "disciplíny": [
         "ALS 65 km (65,1 km)",
@@ -16261,29 +16261,6 @@
       "web": "https://www.behpezinkom.com",
       "propozicie": "https://www.behpezinkom.com/sk/beh-pezinkom-2026/propozicie",
       "vysledky": "https://vysledky.sportsoft.cz/race/1099"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Bystrica RUN",
-    "url": "https://vsetkybehy.sk/podujatie/stupava-trophy-bystrica-run-2026",
-    "datum": "2026-09-12",
-    "mesto": "Bratislava",
-    "popis": "Bystrica RUN (11 km)",
-    "info": {
-      "Miesto": "Bratislava – námestie Rodiny, Záhorská Bystrica",
-      "Dĺžka trate": "11 km",
-      "Štart": "15:00",
-      "kraj": "bratislavsky",
-      "gps": "48.2392354,17.0383612",
-      "seria": "",
-      "disciplíny": [
-        "Bystrica RUN (11 km)"
-      ],
-      "registracia": "",
-      "web": "https://www.stupavskymaraton.sk/",
-      "propozicie": "https://www.stupavskymaraton.sk/inpage/bystrica-run/",
-      "vysledky": "https://vysledky.sportsoft.cz/race/951"
     }
   },
   {
