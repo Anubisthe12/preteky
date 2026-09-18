@@ -280,6 +280,22 @@
     "popis": ""
   },
   {
+    "datum": "2027-04-11",
+    "url": "https://beh.sk/pretek/csob-bratislava-marathon-18/",
+    "nazov": "ČSOB Bratislava Marathon",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "maratón, polmaratón,",
+      "Povrch": "asfalt, dlažba",
+      "Štart": "9:00 hod.",
+      "Miesto": "Bratislava, pri OC Eurovea",
+      "Organizátor": "BE COOL, s.r.o. v spolupráci s Hlavným mestom Slovenskej republiky Bratislava, Mestské časti Bratislava –Staré Mesto, Petržalka a Ružinov, Slovenský atletický zväz",
+      "Informácie": "BE COOL, s.r.o., Krajinská 37, 821 06 Bratislava, Slovenská republika, tel.: 00421/904404638, e-mail:  info@becool.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "vsetkybehy.sk",
     "nazov": "Kojšovská hoľa Spartan Trail 10K/50K",
     "url": "https://vsetkybehy.sk/podujatie/kojsovska-hola-spartan-trail-10k50k-2027",
@@ -4789,10 +4805,10 @@
     "info": {
       "Dĺžka trate": "5 km a 10 km",
       "Povrch": "asfalt",
-      "Štart": "od 9:00 hod. – 5 km+ NW, 15:00 hod. – 10 km",
+      "Štart": "9:00 hod. – 5 km + NW, 15:00 hod. – 10 km",
       "Miesto": "Bratislava, Aupark",
       "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Bratislavský samosprávny kraj, Mestské časti Bratislava – Ružinov, Staré mesto a Petržalka",
-      "Informácie": "tel.:  00421/904 404 638, e-mail: registracia@becool.sk"
+      "Informácie": "BE COOL, s.r.o., tel.:  00421/904 404 638, e-mail: info@becool.sk"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -4955,7 +4971,7 @@
       ],
       "registracia": "https://slovakia.nordicwalkingworldleague.com/tournaments/world-cup-strbske-pleso-slovakia-2026",
       "web": "https://slovakia.nordicwalkingworldleague.com/cities-list,2026/world-cup-strbske-pleso-slovakia-2026",
-      "propozicie": "",
+      "propozicie": "https://slovakia.nordicwalkingworldleague.com/uploads/event/5/world-cup-trbsk-pleso-slovakia-2026-rules.pdf",
       "vysledky": ""
     }
   },
@@ -5040,10 +5056,10 @@
     "url": "https://vsetkybehy.sk/podujatie/beh-lucansko-kalamickym-chotarom-po-chotari-2026",
     "datum": "2026-09-19",
     "mesto": "Lúčky",
-    "popis": "Hobby (4 km), Detské behy, Hlavná trať (8 km)",
+    "popis": "Hobby (4 km), Detské behy, Hlavná trať (8 km), Dorastenci (3 km)",
     "info": {
       "Miesto": "Lúčky – Futbalové ihrisko Lúčky",
-      "Dĺžka trate": "4 km, 8 km",
+      "Dĺžka trate": "4 km, 8 km, 3 km",
       "Štart": "11:20",
       "kraj": "zilinsky",
       "gps": "48.7685040,22.0420820",
@@ -5051,11 +5067,12 @@
       "disciplíny": [
         "Hobby (4 km)",
         "Detské behy",
-        "Hlavná trať (8 km)"
+        "Hlavná trať (8 km)",
+        "Dorastenci (3 km)"
       ],
       "registracia": "https://tally.so/r/2EJ11L",
       "web": "",
-      "propozicie": "",
+      "propozicie": "https://www.ruzomberok.sk/wp-content/uploads/2026/07/Propozicie_po_chotari2026.pdf",
       "vysledky": ""
     }
   },

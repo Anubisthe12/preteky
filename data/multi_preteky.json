@@ -10352,29 +10352,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Rescue Lesnica Memorial Run",
-    "url": "https://vsetkybehy.sk/podujatie/rescue-lesnica-memorial-run-2026",
-    "datum": "2026-09-17",
-    "mesto": "Ždiar",
-    "popis": "Memoriál Run (4,5 km)",
-    "info": {
-      "Miesto": "Ždiar – Parkovisko pred hotelom Magura, Monkova dolina",
-      "Dĺžka trate": "4.5 km",
-      "Štart": "16:30",
-      "kraj": "presovsky",
-      "gps": "49.2686812,20.2491825",
-      "seria": "",
-      "disciplíny": [
-        "Memoriál Run (4,5 km)"
-      ],
-      "registracia": "",
-      "web": "https://www.rescuelesnica.sk/",
-      "propozicie": "https://www.rescuelesnica.sk/podujatie/test-zachrana-2026/propositions",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Karpatská vandrovka",
     "url": "https://vsetkybehy.sk/podujatie/karpatska-vandrovka-2026",
     "datum": "2026-09-19",
@@ -10455,11 +10432,11 @@
     "mesto": "Prievidza",
     "popis": "Sprint (20 prekážok), Detské behy",
     "info": {
-      "Miesto": "Prievidza – RM Sport Resort",
+      "Miesto": "Prievidza – Mestský park Prievidza",
       "Dĺžka trate": "",
       "Štart": "09:00",
       "kraj": "trenciansky",
-      "gps": "48.7741506,18.5986466",
+      "gps": "48.7765345,18.5958894",
       "seria": "",
       "disciplíny": [
         "Sprint (20 prekážok)",
@@ -10492,7 +10469,7 @@
       ],
       "registracia": "https://slovakia.nordicwalkingworldleague.com/tournaments/world-cup-strbske-pleso-slovakia-2026",
       "web": "https://slovakia.nordicwalkingworldleague.com/cities-list,2026/world-cup-strbske-pleso-slovakia-2026",
-      "propozicie": "",
+      "propozicie": "https://slovakia.nordicwalkingworldleague.com/uploads/event/5/world-cup-trbsk-pleso-slovakia-2026-rules.pdf",
       "vysledky": ""
     }
   },
@@ -10573,6 +10550,32 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Po Chotári",
+    "url": "https://vsetkybehy.sk/podujatie/po-chotari-2026",
+    "datum": "2026-09-19",
+    "mesto": "Lúčky",
+    "popis": "Dorastenci (4 km), Hobby (4 km), Detské behy, Hlavná trať (8 km)",
+    "info": {
+      "Miesto": "Lúčky – Futbalové ihrisko Lúčky",
+      "Dĺžka trate": "4 km, 8 km",
+      "Štart": "10:45",
+      "kraj": "zilinsky",
+      "gps": "48.7685040,22.0420820",
+      "seria": "",
+      "disciplíny": [
+        "Dorastenci (4 km)",
+        "Hobby (4 km)",
+        "Detské behy",
+        "Hlavná trať (8 km)"
+      ],
+      "registracia": "https://tally.so/r/2EJ11L",
+      "web": "https://www.obec-lucky.sk/",
+      "propozicie": "https://beh.sk/wp-content/uploads/2026/04/260919_po_chotari_p.pdf",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh za domovom",
     "url": "https://vsetkybehy.sk/podujatie/beh-za-domovom-2026",
     "datum": "2026-09-19",
@@ -10591,7 +10594,7 @@
         "Beh na 1 okruh (1,5 km)"
       ],
       "registracia": "https://www.vysledkovyservis.sk/beh-za-domovom-prihlaska",
-      "web": "",
+      "web": "https://www.najomnebyvanie.info/den-najomneho-byvania-a-sportu/",
       "propozicie": "https://www.vysledkovyservis.sk/beh-za-domovom-propozicie",
       "vysledky": ""
     }
@@ -10635,7 +10638,7 @@
       "Štart": "11:00",
       "kraj": "banskobystricky",
       "gps": "48.1564993,19.3605502",
-      "seria": "Krtíšska bežecká liga",
+      "seria": "Krtíšska bežecká liga · 5. kolo",
       "disciplíny": [
         "Hlavný beh (10 km)",
         "Hobby beh (5 km)",
@@ -10654,10 +10657,10 @@
     "url": "https://vsetkybehy.sk/podujatie/beh-lucansko-kalamickym-chotarom-po-chotari-2026",
     "datum": "2026-09-19",
     "mesto": "Lúčky",
-    "popis": "Hobby (4 km), Detské behy, Hlavná trať (8 km)",
+    "popis": "Hobby (4 km), Detské behy, Hlavná trať (8 km), Dorastenci (3 km)",
     "info": {
       "Miesto": "Lúčky – Futbalové ihrisko Lúčky",
-      "Dĺžka trate": "4 km, 8 km",
+      "Dĺžka trate": "4 km, 8 km, 3 km",
       "Štart": "11:20",
       "kraj": "zilinsky",
       "gps": "48.7685040,22.0420820",
@@ -10665,37 +10668,12 @@
       "disciplíny": [
         "Hobby (4 km)",
         "Detské behy",
-        "Hlavná trať (8 km)"
+        "Hlavná trať (8 km)",
+        "Dorastenci (3 km)"
       ],
       "registracia": "https://tally.so/r/2EJ11L",
       "web": "",
-      "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Po Chotári",
-    "url": "https://vsetkybehy.sk/podujatie/po-chotari-2026",
-    "datum": "2026-09-19",
-    "mesto": "Lúčky",
-    "popis": "Dorastenci (4 km), Hobby (4 km), Detské behy, Hlavná trať (8 km)",
-    "info": {
-      "Miesto": "Lúčky – Futbalové ihrisko Lúčky",
-      "Dĺžka trate": "4 km, 8 km",
-      "Štart": "11:20",
-      "kraj": "zilinsky",
-      "gps": "48.7685040,22.0420820",
-      "seria": "",
-      "disciplíny": [
-        "Dorastenci (4 km)",
-        "Hobby (4 km)",
-        "Detské behy",
-        "Hlavná trať (8 km)"
-      ],
-      "registracia": "https://tally.so/r/2EJ11L",
-      "web": "https://www.obec-lucky.sk/",
-      "propozicie": "https://beh.sk/wp-content/uploads/2026/04/260919_po_chotari_p.pdf",
+      "propozicie": "https://www.ruzomberok.sk/wp-content/uploads/2026/07/Propozicie_po_chotari2026.pdf",
       "vysledky": ""
     }
   },
@@ -10786,7 +10764,7 @@
     "mesto": "Kapušany",
     "popis": "Kapušianska 5-ka (5 km), Detské behy",
     "info": {
-      "Miesto": "Kapušany – Park pri amfiteátri",
+      "Miesto": "Kapušany – Park svätých Cyrila a Metoda pri amfiteátri",
       "Dĺžka trate": "5 km",
       "Štart": "15:30",
       "kraj": "presovsky",
@@ -15623,6 +15601,29 @@
       "registracia": "",
       "web": "https://nightrunlm.sk/",
       "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Rescue Lesnica Memorial Run",
+    "url": "https://vsetkybehy.sk/podujatie/rescue-lesnica-memorial-run-2026",
+    "datum": "2026-09-17",
+    "mesto": "Ždiar",
+    "popis": "Memoriál Run (4,5 km)",
+    "info": {
+      "Miesto": "Ždiar – Parkovisko pred hotelom Magura, Monkova dolina",
+      "Dĺžka trate": "4.5 km",
+      "Štart": "16:30",
+      "kraj": "presovsky",
+      "gps": "49.2686812,20.2491825",
+      "seria": "",
+      "disciplíny": [
+        "Memoriál Run (4,5 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.rescuelesnica.sk/",
+      "propozicie": "https://www.rescuelesnica.sk/podujatie/test-zachrana-2026/propositions",
       "vysledky": ""
     }
   },

@@ -215,6 +215,23 @@
     "popis": ""
   },
   {
+    "nazov": "ČSOB Bratislava Marathon",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/csob-bratislava-marathon-18/",
+    "datum": "2027-04-11",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "maratón, polmaratón,",
+    "povrch": "asfalt, dlažba",
+    "start_cas": "9:00 hod.",
+    "organizator": "BE COOL, s.r.o. v spolupráci s Hlavným mestom Slovenskej republiky Bratislava, Mestské časti Bratislava –Staré Mesto, Petržalka a Ružinov, Slovenský atletický zväz",
+    "tagy": [
+      "neznama_dlzka",
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Kojšovská hoľa Spartan Trail 10K/50K",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/kojsovska-hola-spartan-trail-10k50k-2027",
@@ -4330,7 +4347,7 @@
     "mesto": "Bratislava",
     "dlzka": "5 km a 10 km",
     "povrch": "asfalt",
-    "start_cas": "od 9:00 hod. – 5 km+ NW, 15:00 hod. – 10 km",
+    "start_cas": "9:00 hod. – 5 km + NW, 15:00 hod. – 10 km",
     "organizator": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Bratislavský samosprávny kraj, Mestské časti Bratislava – Ružinov, Staré mesto a Petržalka",
     "tagy": [
       "beh"
@@ -4556,14 +4573,14 @@
     "datum": "2026-09-19",
     "datum_do": "",
     "mesto": "Lúčky",
-    "dlzka": "4 km, 8 km",
+    "dlzka": "4 km, 8 km, 3 km",
     "povrch": "",
     "start_cas": "11:20",
     "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": "Hobby (4 km), Detské behy, Hlavná trať (8 km)"
+    "popis": "Hobby (4 km), Detské behy, Hlavná trať (8 km), Dorastenci (3 km)"
   },
   {
     "nazov": "Rescue Lesnica Memorial Run",

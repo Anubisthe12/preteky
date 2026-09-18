@@ -56,6 +56,20 @@
     }
   },
   {
+    "datum": "2027-04-11",
+    "url": "https://beh.sk/pretek/csob-bratislava-marathon-18/",
+    "nazov": "ČSOB Bratislava Marathon",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "maratón, polmaratón,",
+      "Povrch": "asfalt, dlažba",
+      "Štart": "9:00 hod.",
+      "Miesto": "Bratislava, pri OC Eurovea",
+      "Organizátor": "BE COOL, s.r.o. v spolupráci s Hlavným mestom Slovenskej republiky Bratislava, Mestské časti Bratislava –Staré Mesto, Petržalka a Ružinov, Slovenský atletický zväz",
+      "Informácie": "BE COOL, s.r.o., Krajinská 37, 821 06 Bratislava, Slovenská republika, tel.: 00421/904404638, e-mail:  info@becool.sk"
+    }
+  },
+  {
     "datum": "2027-03-20",
     "url": "https://beh.sk/pretek/nitrianska-24-hodinovka-4/",
     "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
@@ -1912,10 +1926,10 @@
     "info": {
       "Dĺžka trate": "5 km a 10 km",
       "Povrch": "asfalt",
-      "Štart": "od 9:00 hod. – 5 km+ NW, 15:00 hod. – 10 km",
+      "Štart": "9:00 hod. – 5 km + NW, 15:00 hod. – 10 km",
       "Miesto": "Bratislava, Aupark",
       "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Bratislavský samosprávny kraj, Mestské časti Bratislava – Ružinov, Staré mesto a Petržalka",
-      "Informácie": "tel.:  00421/904 404 638, e-mail: registracia@becool.sk"
+      "Informácie": "BE COOL, s.r.o., tel.:  00421/904 404 638, e-mail: info@becool.sk"
     }
   },
   {
