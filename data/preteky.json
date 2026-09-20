@@ -865,6 +865,20 @@
     }
   },
   {
+    "datum": "2026-10-17",
+    "url": "https://beh.sk/pretek/trnava-run/",
+    "nazov": "Trnava Run",
+    "mesto": "Trnava",
+    "info": {
+      "Dĺžka trate": "6,2 km; 3,1 km",
+      "Povrch": "asfalt, dlažba",
+      "Štart": "9:30 hod. - Detský beh, 10:00 hod. - 3,1 km a 6,2 km",
+      "Miesto": "Trnava, Atletický areál Slávia Trnava",
+      "Organizátor": "Ži v pohybe, o.z., Baterkáreň, OZ SaUvedom, CrossFit Trnava",
+      "Informácie": "📧: ahoj@trnavarun.sk"
+    }
+  },
+  {
     "datum": "2026-10-15",
     "url": "https://beh.sk/pretek/presovska-hodinovka-na-tartane-2/",
     "nazov": "Prešovská hodinovka na tartane",
@@ -1726,6 +1740,20 @@
       "Štart": "19:00 hod.",
       "Miesto": "Žilina, Hlinkovo námestie (pred OC Mirage)",
       "Organizátor": "Interun, o.z."
+    }
+  },
+  {
+    "datum": "2026-09-24",
+    "url": "https://beh.sk/pretek/jesenny-cani-cross-fatransky-vlcko-3/",
+    "nazov": "Jesenný Cani-Cross Fatranský Vĺčko",
+    "mesto": "Turčianske Jaseno",
+    "info": {
+      "Dĺžka trate": "7,7 km / prevýšenie +250m",
+      "Povrch": "trail",
+      "Štart": "10:00 hod. do 10:45 hod. - beh so psom  11:00 hod. - beh bez psa",
+      "Miesto": "Turčianske Jaseno, pri lezeckej stene Ovčín",
+      "Organizátor": "Fatractive OZ",
+      "Informácie": "Michal Miko, tel.: +421 907 319 756, e-mail: michal.miko@gmail.com"
     }
   },
   {

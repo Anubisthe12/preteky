@@ -361,7 +361,23 @@
     "popis": ""
   },
   {
-    "nazov": "Silvesterský beh Senicou",
+    "nazov": "Beh na 2 míle Košice",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-na-2-mile-kosice-9-kolo-2026",
+    "datum": "2026-12-31",
+    "datum_do": "",
+    "mesto": "Košice",
+    "dlzka": "3.22 km",
+    "povrch": "",
+    "start_cas": "09:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Detské behy, Beh na 2 míle (3,22 km)"
+  },
+  {
+    "nazov": "Silvestrovský beh Senica",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/silvestersky-beh-senicou-2026",
     "datum": "2026-12-31",
@@ -369,12 +385,12 @@
     "mesto": "Senica",
     "dlzka": "4 km, 8 km",
     "povrch": "",
-    "start_cas": "11:40",
+    "start_cas": "12:15",
     "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": "Ženy a muži 70 (4 km), Detské behy, Muži (8 km), Beh pre zdravie (600 m)"
+    "popis": "Ženy a muži 70 (4 km), Detské behy, Muži (8 km)"
   },
   {
     "nazov": "Vianočný beh mesta Lučenec",
@@ -1216,6 +1232,22 @@
     "popis": "10 km, Hobby Nordic Walking (5 km), Detské behy"
   },
   {
+    "nazov": "LEVICKÁ DESIATKA",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/levicka-desiatka-2026",
+    "datum": "2026-10-25",
+    "datum_do": "",
+    "mesto": "Levice",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "14:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km beh, Detské behy"
+  },
+  {
     "nazov": "Rajecká 12-minútovka",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/rajecka-12-minutovka-9/",
@@ -1684,6 +1716,22 @@
     "popis": ""
   },
   {
+    "nazov": "Trnava Run",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/trnava-run/",
+    "datum": "2026-10-17",
+    "datum_do": "",
+    "mesto": "Trnava",
+    "dlzka": "6,2 km; 3,1 km",
+    "povrch": "asfalt, dlažba",
+    "start_cas": "9:30 hod. - Detský beh, 10:00 hod. - 3,1 km a 6,2 km",
+    "organizator": "Ži v pohybe, o.z., Baterkáreň, OZ SaUvedom, CrossFit Trnava",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Pieninská stopa 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/pieninskastopa",
@@ -1738,30 +1786,14 @@
     "datum": "2026-10-17",
     "datum_do": "",
     "mesto": "Trenčín",
-    "dlzka": "9 km, 36.6 km, 28 km",
+    "dlzka": "9 km, 36.6 km, 27.6 km",
     "povrch": "",
     "start_cas": "10:00",
     "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": "Bronzová (9 km), Zlatá (36,6 km), Strieborná (28 km), 36,6 km"
-  },
-  {
-    "nazov": "Trnava Run",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/trnava-run-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "mesto": "Trnava",
-    "dlzka": "6.2 km, 3.1 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Detské behy, Dlhá trať - 2 okruhy (6,2 km), Krátka trať - 1 okruh (3,1 km)"
+    "popis": "Bronzová (9 km), Zlatá (36,6 km), Strieborná (27,6 km), 36,6 km"
   },
   {
     "nazov": "Tajovský beh",
@@ -3415,6 +3447,22 @@
     "popis": "Hlavný beh (7,56 km), 7,56 km, Firemný beh"
   },
   {
+    "nazov": "Jesenný Cani-Cross Fatranský Vĺčko",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/jesenny-cani-cross-fatransky-vlcko-3/",
+    "datum": "2026-09-24",
+    "datum_do": "",
+    "mesto": "Turčianske Jaseno",
+    "dlzka": "7,7 km / prevýšenie +0,25 km",
+    "povrch": "trail",
+    "start_cas": "10:00 hod. do 10:45 hod. - beh so psom  11:00 hod. - beh bez psa",
+    "organizator": "Fatractive OZ",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Beh ulicami obce Smižany",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/beh-ulicami-obce-smizany-18/",
@@ -3869,36 +3917,20 @@
     "popis": ""
   },
   {
-    "nazov": "Dobšinská desiatka 2026",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/dobsinskadesiatka2026",
+    "nazov": "Big Bear’s Ultra",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/big-bears-ultra-2026",
     "datum": "2026-09-19",
     "datum_do": "",
-    "mesto": "Dobšiná, Lanyiho Huta",
-    "dlzka": "10 km",
+    "mesto": "Žilina",
+    "dlzka": "118 km, 62 km, 40 km",
     "povrch": "",
-    "start_cas": "",
+    "start_cas": "06:00",
     "organizator": "",
     "tagy": [
-      "beh"
+      "ultra"
     ],
-    "popis": "15. ročník bežeckých pretekov na 10 km a 7 km trati pri meste Dobšiná"
-  },
-  {
-    "nazov": "Kľačianska desiatka - 54. ročník",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/klacianska10",
-    "datum": "2026-09-19",
-    "datum_do": "",
-    "mesto": "Kľačany",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "LIV. ročník Kľačianskej desiatky bude 19.9.2026 v obci Kľačany v okrese Hlohovec. Pripravené sú trate na 10 km, 5 km, severská chôdza aj detské behy. Registrácia prebieha na mieste od 12:00. Príďte si zabehať a zasúťažiť!"
+    "popis": "BBU 100+ (118 km), BBU 60+ (62 km), BBU RELAY (118 km), BBU 40 (40 km)"
   },
   {
     "nazov": "Karpatská vandrovka",
@@ -3915,22 +3947,6 @@
       "beh"
     ],
     "popis": "Veľká trasa (50 km), Malá trasa (25 km)"
-  },
-  {
-    "nazov": "Big Bear’s Ultra",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/big-bears-ultra-2026",
-    "datum": "2026-09-19",
-    "datum_do": "",
-    "mesto": "Žilina",
-    "dlzka": "118 km, 62 km, 40 km",
-    "povrch": "",
-    "start_cas": "06:00",
-    "organizator": "",
-    "tagy": [
-      "ultra"
-    ],
-    "popis": "BBU 100+ (118 km), BBU 60+ (62 km), BBU RELAY (118 km), BBU 40 (40 km)"
   },
   {
     "nazov": "Svetový pohár v Nordic Walking na Štrbskom Plese",
@@ -4789,22 +4805,6 @@
       "beh"
     ],
     "popis": "Detské behy, Abrahámska lítačka (3,3 km)"
-  },
-  {
-    "nazov": "Beh na 2 míle Košice",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/beh-na-2-mile-kosice-9-kolo-2026",
-    "datum": "2026-09-05",
-    "datum_do": "",
-    "mesto": "Košice",
-    "dlzka": "3.22 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Detské behy, Beh na 2 míle (3,22 km)"
   },
   {
     "nazov": "Single-Trail Run 30 Slanské",
@@ -13616,6 +13616,23 @@
     "popis": "6 km, Detské behy"
   },
   {
+    "nazov": "Dubnická hodinovka 2025",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-30",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Kysucká desiatka 2025",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=4",
@@ -13907,6 +13924,22 @@
     "tagy": [
       "neznama_dlzka",
       "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kysucká desiatka 2017",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2017&SelectedMonth=4",
+    "datum": "2017-04-23",
+    "datum_do": "",
+    "mesto": "Kysucké Nové Mesto",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
     ],
     "popis": ""
   },

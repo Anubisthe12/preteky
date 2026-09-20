@@ -447,7 +447,23 @@
     "popis": ""
   },
   {
-    "nazov": "Silvesterský beh Senicou",
+    "nazov": "Beh na 2 míle Košice",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-na-2-mile-kosice-9-kolo-2026",
+    "datum": "2026-12-31",
+    "datum_do": "",
+    "mesto": "Košice",
+    "dlzka": "3.22 km",
+    "povrch": "",
+    "start_cas": "09:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Detské behy, Beh na 2 míle (3,22 km)"
+  },
+  {
+    "nazov": "Silvestrovský beh Senica",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/silvestersky-beh-senicou-2026",
     "datum": "2026-12-31",
@@ -455,12 +471,12 @@
     "mesto": "Senica",
     "dlzka": "4 km, 8 km",
     "povrch": "",
-    "start_cas": "11:40",
+    "start_cas": "12:15",
     "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": "Ženy a muži 70 (4 km), Detské behy, Muži (8 km), Beh pre zdravie (600 m)"
+    "popis": "Ženy a muži 70 (4 km), Detské behy, Muži (8 km)"
   },
   {
     "nazov": "Vianočný beh mesta Lučenec",
@@ -788,6 +804,23 @@
     "popis": ""
   },
   {
+    "nazov": "Majstrovstvá SR v cezpoľnom behu",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=11",
+    "datum": "2026-11-21",
+    "datum_do": "",
+    "mesto": "Žiar nad Hronom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "GoBala Pól&Maratón",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/gobala-polmaraton-2026",
@@ -1045,6 +1078,23 @@
     "popis": ""
   },
   {
+    "nazov": "Majstrovstvá AZB v cezpoľnom behu",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=11",
+    "datum": "2026-11-08",
+    "datum_do": "",
+    "mesto": "Malacky",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Runway Trail Run Šurany",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/runway-trail-run-surany/",
@@ -1092,6 +1142,23 @@
       "beh"
     ],
     "popis": "Zaži unikátny beh so záťažovým vakom v areáli Vojenskej leteckej základne Prešov. Čakajú ťa trate 5 a 10 km, detské behy, armádna technika a originálna dog tag medaila."
+  },
+  {
+    "nazov": "Majstrovstvá SsAZ v cezpoľnom behu",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=11",
+    "datum": "2026-11-07",
+    "datum_do": "",
+    "mesto": "Čadca",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
   },
   {
     "nazov": "Beh okolo Ľuborče – Memoriál Ondreja Húserku",
@@ -1334,6 +1401,22 @@
       "beh"
     ],
     "popis": "10 km, Hobby Nordic Walking (5 km), Detské behy"
+  },
+  {
+    "nazov": "LEVICKÁ DESIATKA",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/levicka-desiatka-2026",
+    "datum": "2026-10-25",
+    "datum_do": "",
+    "mesto": "Levice",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "14:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "10 km beh, Detské behy"
   },
   {
     "nazov": "Rajecká 12-minútovka",
@@ -1906,6 +1989,22 @@
     "popis": ""
   },
   {
+    "nazov": "Trnava Run",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/trnava-run/",
+    "datum": "2026-10-17",
+    "datum_do": "",
+    "mesto": "Trnava",
+    "dlzka": "6,2 km; 3,1 km",
+    "povrch": "asfalt, dlažba",
+    "start_cas": "9:30 hod. - Detský beh, 10:00 hod. - 3,1 km a 6,2 km",
+    "organizator": "Ži v pohybe, o.z., Baterkáreň, OZ SaUvedom, CrossFit Trnava",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Pieninská stopa 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/pieninskastopa",
@@ -1977,30 +2076,14 @@
     "datum": "2026-10-17",
     "datum_do": "",
     "mesto": "Trenčín",
-    "dlzka": "9 km, 36.6 km, 28 km",
+    "dlzka": "9 km, 36.6 km, 27.6 km",
     "povrch": "",
     "start_cas": "10:00",
     "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": "Bronzová (9 km), Zlatá (36,6 km), Strieborná (28 km), 36,6 km"
-  },
-  {
-    "nazov": "Trnava Run",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/trnava-run-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "mesto": "Trnava",
-    "dlzka": "6.2 km, 3.1 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Detské behy, Dlhá trať - 2 okruhy (6,2 km), Krátka trať - 1 okruh (3,1 km)"
+    "popis": "Bronzová (9 km), Zlatá (36,6 km), Strieborná (27,6 km), 36,6 km"
   },
   {
     "nazov": "Tajovský beh",
@@ -3908,6 +3991,22 @@
     "popis": "Hlavný beh (7,56 km), 7,56 km, Firemný beh"
   },
   {
+    "nazov": "Jesenný Cani-Cross Fatranský Vĺčko",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/jesenny-cani-cross-fatransky-vlcko-3/",
+    "datum": "2026-09-24",
+    "datum_do": "",
+    "mesto": "Turčianske Jaseno",
+    "dlzka": "7,7 km / prevýšenie +0,25 km",
+    "povrch": "trail",
+    "start_cas": "10:00 hod. do 10:45 hod. - beh so psom  11:00 hod. - beh bez psa",
+    "organizator": "Fatractive OZ",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Beh ulicami obce Smižany",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/beh-ulicami-obce-smizany-18/",
@@ -4173,23 +4272,6 @@
     "popis": "20. septembra budeme zase od svitania makať v centre Žiliny a chystať všetko potrebné, aby sme si mohli užiť náš Žilinský bežecký sviatok."
   },
   {
-    "nazov": "Finále M SsAZ družstiev najmladšieho žiactva",
-    "zdroj": "hrdosport.sk",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Žiar nad Hronom",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Beh pre radosť",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/beh-pre-radost-2-rocnik-2026",
@@ -4255,23 +4337,6 @@
       "teren"
     ],
     "popis": "Detské behy, Hlavné preteky (8,6 km)"
-  },
-  {
-    "nazov": "ZasRun trening",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/zasrun-trening-2026",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "20:00",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Trail 10 km"
   },
   {
     "nazov": "Oktoberfest Run Nitra 2026: Half Marathon",
@@ -4499,36 +4564,20 @@
     "popis": ""
   },
   {
-    "nazov": "Dobšinská desiatka 2026",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/dobsinskadesiatka2026",
+    "nazov": "Big Bear’s Ultra",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/big-bears-ultra-2026",
     "datum": "2026-09-19",
     "datum_do": "",
-    "mesto": "Dobšiná, Lanyiho Huta",
-    "dlzka": "10 km",
+    "mesto": "Žilina",
+    "dlzka": "118 km, 62 km, 40 km",
     "povrch": "",
-    "start_cas": "",
+    "start_cas": "06:00",
     "organizator": "",
     "tagy": [
-      "beh"
+      "ultra"
     ],
-    "popis": "15. ročník bežeckých pretekov na 10 km a 7 km trati pri meste Dobšiná"
-  },
-  {
-    "nazov": "Kľačianska desiatka - 54. ročník",
-    "zdroj": "pretekaj.sk",
-    "url": "https://pretekaj.sk/klacianska10",
-    "datum": "2026-09-19",
-    "datum_do": "",
-    "mesto": "Kľačany",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "LIV. ročník Kľačianskej desiatky bude 19.9.2026 v obci Kľačany v okrese Hlohovec. Pripravené sú trate na 10 km, 5 km, severská chôdza aj detské behy. Registrácia prebieha na mieste od 12:00. Príďte si zabehať a zasúťažiť!"
+    "popis": "BBU 100+ (118 km), BBU 60+ (62 km), BBU RELAY (118 km), BBU 40 (40 km)"
   },
   {
     "nazov": "Karpatská vandrovka",
@@ -4545,22 +4594,6 @@
       "beh"
     ],
     "popis": "Veľká trasa (50 km), Malá trasa (25 km)"
-  },
-  {
-    "nazov": "Big Bear’s Ultra",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/big-bears-ultra-2026",
-    "datum": "2026-09-19",
-    "datum_do": "",
-    "mesto": "Žilina",
-    "dlzka": "118 km, 62 km, 40 km",
-    "povrch": "",
-    "start_cas": "06:00",
-    "organizator": "",
-    "tagy": [
-      "ultra"
-    ],
-    "popis": "BBU 100+ (118 km), BBU 60+ (62 km), BBU RELAY (118 km), BBU 40 (40 km)"
   },
   {
     "nazov": "Svetový pohár v Nordic Walking na Štrbskom Plese",
@@ -5606,22 +5639,6 @@
       "beh"
     ],
     "popis": "Detské behy, Abrahámska lítačka (3,3 km)"
-  },
-  {
-    "nazov": "Beh na 2 míle Košice",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/beh-na-2-mile-kosice-9-kolo-2026",
-    "datum": "2026-09-05",
-    "datum_do": "",
-    "mesto": "Košice",
-    "dlzka": "3.22 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Detské behy, Beh na 2 míle (3,22 km)"
   },
   {
     "nazov": "Single-Trail Run 30 Slanské",
@@ -8346,7 +8363,7 @@
     "popis": "Detské behy"
   },
   {
-    "nazov": "24/12 Hodín okolo 7 Platanov",
+    "nazov": "24/12 hodín Okolo 7 Platanov",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/2412-hodin-okolo-7-platanov-2026",
     "datum": "2026-07-05",
@@ -8360,7 +8377,7 @@
       "neznama_dlzka",
       "beh"
     ],
-    "popis": "12-hodinový beh (12 h), 24-hodinový beh (24 h)"
+    "popis": "12-hodinový beh (12 h), 24-hodinový beh (24 h), 24-hodinová štafeta (24 h)"
   },
   {
     "nazov": "Žaškovský minimaratón",
@@ -15894,10 +15911,27 @@
   {
     "nazov": "Majstrovstvá SR v biatlone 2025/2026",
     "zdroj": "hrdosport.sk",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=3",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=2",
     "datum": "2026-02-28",
     "datum_do": "2026-03-01",
     "mesto": "Štrbské Pleso",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Finále HM-SsAZ mladšieho a najmladšieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=2",
+    "datum": "2026-02-28",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
     "dlzka": "",
     "povrch": "",
     "start_cas": "",
@@ -15958,6 +15992,23 @@
     "popis": "10 km, 5 km"
   },
   {
+    "nazov": "Tipos Banskobystrická latka 2026",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=2",
+    "datum": "2026-02-23",
+    "datum_do": "2026-02-24",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Benkovská 15ka – memoriál Jána Nazada",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/benkovska-15ka-memorial-jana-nazada-2026",
@@ -16006,6 +16057,23 @@
     "popis": "Beh na 9 km, Beh na 6 km, Detské behy, Beh na 3 km"
   },
   {
+    "nazov": "M-SR a 3. kolo TIPOS pohár v biatlone 2025/2026",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=2",
+    "datum": "2026-02-21",
+    "datum_do": "2026-02-22",
+    "mesto": "Osrblie",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "I. MMM Winter Challenge Race",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/i-mmm-winter-challenge-race-2026",
@@ -16036,6 +16104,23 @@
       "beh"
     ],
     "popis": "Detské behy, Beh 2 míle (3,22 km)"
+  },
+  {
+    "nazov": "3. kolo TIPOS pohár v biatlone 2025/2026, Zimná univerziáda 2026",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=2",
+    "datum": "2026-02-14",
+    "datum_do": "2026-02-15",
+    "mesto": "Osrblie",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
   },
   {
     "nazov": "Fašiangový rebriňak",
@@ -16084,6 +16169,23 @@
       "beh"
     ],
     "popis": "1 míľa (1,61 km)"
+  },
+  {
+    "nazov": "M-SR, 1. a 2.kolo TIPOS pohár v biatlone 2025/2026",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=2",
+    "datum": "2026-02-07",
+    "datum_do": "2026-02-08",
+    "mesto": "Osrblie",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
   },
   {
     "nazov": "Smolenice Spartan Trail 10K/21K",
@@ -16181,6 +16283,23 @@
       "beh"
     ],
     "popis": "10 km, 5 km (5,2 km), Detské behy"
+  },
+  {
+    "nazov": "Halové M-SsAZ najmladšieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=2",
+    "datum": "2026-02-01",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
   },
   {
     "nazov": "Račiansky kros ZIMA",
@@ -17391,6 +17510,465 @@
     "popis": ""
   },
   {
+    "nazov": "Memoriál Jozefa Gabčíka 2025",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-31",
+    "datum_do": "",
+    "mesto": "Žilina",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "3. kolo M-SsAZ mladšieho žiactva skupina Juh",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-31",
+    "datum_do": "",
+    "mesto": "Banská Štiavnica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Dubnická hodinovka 2025",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-30",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "M-SsAZ najmladšieho žiactva skupina 1",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-29",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Športová kinderiáda",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-28",
+    "datum_do": "",
+    "mesto": "Martin",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "KK v atletike ZŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-27",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Čokoládová tretra 2025 - finále",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-26",
+    "datum_do": "",
+    "mesto": "Košice",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "2.kolo Footgolf eklektik tour 4.ročník",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-25",
+    "datum_do": "",
+    "mesto": "Koš",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "2. kolo M-SsAZ staršieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-25",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "M-SsAZ mladšieho žiactva vo viacboji",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-24",
+    "datum_do": "",
+    "mesto": "Martin",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Čokoládová tretra 2025",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-22",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "KK v atletike ZŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-21",
+    "datum_do": "",
+    "mesto": "Liptovský Mikuláš",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Turčianske hry mládeže 2025",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-20",
+    "datum_do": "",
+    "mesto": "Martin",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "OK v atletike ZŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-19",
+    "datum_do": "",
+    "mesto": "Liptovský Mikuláš",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Ilavský beh – veľká cena Agromixu",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-18",
+    "datum_do": "",
+    "mesto": "Ilava",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "2. kolo M-SsAZ mladšieho žiactva skupina Sever",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-17",
+    "datum_do": "",
+    "mesto": "Považská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Čokoládová tretra 2025",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-16",
+    "datum_do": "",
+    "mesto": "Žiar nad Hronom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "KK v atletike ZŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-15",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "1. kolo M-SsAZ najmladšieho žiactva skupina 3",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-14",
+    "datum_do": "",
+    "mesto": "Dolný Kubín",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "KK v atletike SŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-13",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Čokoládová tretra 2025",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-12",
+    "datum_do": "",
+    "mesto": "Košice",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "1. kolo M-SsAZ staršieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-11",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "2. kolo M-SsAZ mladšieho žiactva skupina Juh",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-10",
+    "datum_do": "",
+    "mesto": "Žiar nad Hronom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "2. kolo M-SsAZ dorastu a juniorov",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-08",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Turčianska žiacka liga",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-07",
+    "datum_do": "",
+    "mesto": "Martin",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "1. kolo M-SsAZ mladšieho žiactva skupina Sever",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-03",
+    "datum_do": "",
+    "mesto": "Martin",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "1. kolo M-SsAZ mladšieho žiactva skupina Juh",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=5",
+    "datum": "2025-05-01",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "OK v atletike ZŠ",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=4",
@@ -17991,6 +18569,193 @@
     "datum": "2024-10-03",
     "datum_do": "",
     "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "7. kolo Footgolf eklektik tour",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-29",
+    "datum_do": "",
+    "mesto": "Koš",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "M-SsAZ jednotlivcov mladšieho a najmladšieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-29",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "4.kolo M-SsAZ družstiev dorastu a juniorov",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-28",
+    "datum_do": "",
+    "mesto": "Nitra",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Majstrovstvá SR v letnom biatlone 2024",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-28",
+    "datum_do": "2024-09-29",
+    "mesto": "Revúca",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Atletika družstiev ZŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-26",
+    "datum_do": "",
+    "mesto": "Čadca",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "1. Kolo Turčianskej žiackej ligy",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-24",
+    "datum_do": "",
+    "mesto": "Martin",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Finále M-SsAZ družstiev najmladšieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-22",
+    "datum_do": "",
+    "mesto": "Žiar nad Hronom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Majstrovstvá SR v letnom biatlone na KL 2024",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-21",
+    "datum_do": "2024-09-22",
+    "mesto": "Osrblie",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "IBU regionálny pohár / 2.kolo VIESSMANN pohár v letnom biatlone na KL",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-07",
+    "datum_do": "2024-09-08",
+    "mesto": "Osrblie",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "2. kolo M-SsAZ najmladšieho žiactva skupina 4",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-04",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "3. kolo M-SsAZ dorastu, juniorov",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2024&SelectedMonth=9",
+    "datum": "2024-09-01",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
     "dlzka": "",
     "povrch": "",
     "start_cas": "",
@@ -19599,6 +20364,108 @@
     "popis": ""
   },
   {
+    "nazov": "3. kolo M-SsAZ dorastu a juniorov",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2023&SelectedMonth=8",
+    "datum": "2023-08-29",
+    "datum_do": "",
+    "mesto": "Martin",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Korzo beh 2023",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2023&SelectedMonth=8",
+    "datum": "2023-08-26",
+    "datum_do": "",
+    "mesto": "Prievidza",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "2. a 3.kolo VIESSMANN pohár v letnom biatlone / Majstrovstvá SR",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2023&SelectedMonth=8",
+    "datum": "2023-08-19",
+    "datum_do": "2023-08-20",
+    "mesto": "Predajná",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "6.kolo Footgolf eklektik tour",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2023&SelectedMonth=8",
+    "datum": "2023-08-13",
+    "datum_do": "",
+    "mesto": "Koš",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "IBU regionálny pohár / 1.kolo VIESSMANN pohár v letnom biatlone na KL",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2023&SelectedMonth=8",
+    "datum": "2023-08-12",
+    "datum_do": "2023-08-13",
+    "mesto": "Osrblie",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Horský kros Pruské-Vršatec 2023",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2023&SelectedMonth=8",
+    "datum": "2023-08-06",
+    "datum_do": "",
+    "mesto": "Pruské",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "kros"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "5.kolo Footgolf eklektik tour",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2023&SelectedMonth=7",
@@ -20828,6 +21695,159 @@
     "datum": "2022-11-05",
     "datum_do": "",
     "mesto": "Žiar nad Hronom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Footgolf Eklektik Tour - 8.kolo",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=10",
+    "datum": "2022-10-30",
+    "datum_do": "",
+    "mesto": "Koš",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Beh k srdcu SNP 2022",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=10",
+    "datum": "2022-10-19",
+    "datum_do": "",
+    "mesto": "Martina",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Beh okolo Dulova 2022",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=10",
+    "datum": "2022-10-16",
+    "datum_do": "",
+    "mesto": "Dulov",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Majstrovstvá SR v chôdzi na 20 000 m",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=10",
+    "datum": "2022-10-15",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Majstrovstvá SR družstiev staršieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=10",
+    "datum": "2022-10-09",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Memoriál Košeckého 2022",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=10",
+    "datum": "2022-10-08",
+    "datum_do": "",
+    "mesto": "Trenčianske Teplice",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Horehronské hry 2022",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=10",
+    "datum": "2022-10-05",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Finále - M-SsAZ mladšieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=10",
+    "datum": "2022-10-02",
+    "datum_do": "",
+    "mesto": "Žiar nad Hronom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Finále - M-SsAZ najmladšieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=10",
+    "datum": "2022-10-01",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
     "dlzka": "",
     "povrch": "",
     "start_cas": "",
@@ -22086,6 +23106,40 @@
     "datum": "2022-02-11",
     "datum_do": "",
     "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "2. kolo VIESSMANN pohár v biatlone 2021/2022",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=1",
+    "datum": "2022-01-29",
+    "datum_do": "2022-01-30",
+    "mesto": "Osrblie",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "1. kolo VIESSMANN pohár v biatlone 2021/2022 - žiactvo",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2022&SelectedMonth=1",
+    "datum": "2022-01-22",
+    "datum_do": "2022-01-23",
+    "mesto": "Osrblie",
     "dlzka": "",
     "povrch": "",
     "start_cas": "",
@@ -24165,6 +25219,40 @@
     "popis": ""
   },
   {
+    "nazov": "Majstrovstvá SR mužov a žien",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2019&SelectedMonth=7",
+    "datum": "2019-07-27",
+    "datum_do": "2019-07-28",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Majstrovstvá SR dorastencov a dorasteniek",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2019&SelectedMonth=7",
+    "datum": "2019-07-06",
+    "datum_do": "2019-07-07",
+    "mesto": "Košice",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Majstrovstvá SR a ČR v cyklistike",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2019&SelectedMonth=6",
@@ -24901,6 +25989,108 @@
     "datum": "2018-11-03",
     "datum_do": "",
     "mesto": "Brezno",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Majstrovstvá SR v cezpoľnom behu ZŠ a SŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=10",
+    "datum": "2018-10-24",
+    "datum_do": "",
+    "mesto": "Žiarska dolina",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Beh okolo Dulova",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=10",
+    "datum": "2018-10-21",
+    "datum_do": "",
+    "mesto": "Dulov",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "KK v cezpoľnom behu ZŠ a SŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=10",
+    "datum": "2018-10-18",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Majstrovstvá SR družstiev žiakov a žiačok",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=10",
+    "datum": "2018-10-13",
+    "datum_do": "",
+    "mesto": "Košice",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "OK v cezpoľnom behu ZŠ a SŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=10",
+    "datum": "2018-10-04",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Horehronské hry 2018",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=10",
+    "datum": "2018-10-03",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
     "dlzka": "",
     "povrch": "",
     "start_cas": "",
@@ -25778,6 +26968,74 @@
     "popis": ""
   },
   {
+    "nazov": "Halové M-SR v chôdzi",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=1",
+    "datum": "2018-01-28",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Latka 5 miest",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=1",
+    "datum": "2018-01-18",
+    "datum_do": "",
+    "mesto": "Lučenec",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Halové M-SsAZ prípraviek a mladšieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=1",
+    "datum": "2018-01-13",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "DBL - Večerný beh dubnickým parkom",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2018&SelectedMonth=1",
+    "datum": "2018-01-11",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Mládežnícky halový míting",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2017&SelectedMonth=12",
@@ -26482,6 +27740,56 @@
     "datum": "2017-05-01",
     "datum_do": "",
     "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "1. kolo M-SsAZ staršieho žiactva a prípraviek",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2017&SelectedMonth=4",
+    "datum": "2017-04-29",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kysucká desiatka 2017",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2017&SelectedMonth=4",
+    "datum": "2017-04-23",
+    "datum_do": "",
+    "mesto": "Kysucké Nové Mesto",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "1. kolo M-SsAZ dorastu, juniorov a mladšieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2017&SelectedMonth=4",
+    "datum": "2017-04-22",
+    "datum_do": "",
+    "mesto": "Banská Bystrica",
     "dlzka": "",
     "povrch": "",
     "start_cas": "",
@@ -27230,6 +28538,40 @@
     "datum": "2016-08-13",
     "datum_do": "",
     "mesto": "Pustá Polom / CZE",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "3. kolo Atletickej ligy - Memoriál Zdeňka Hrbáčka",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2016&SelectedMonth=7",
+    "datum": "2016-07-17",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "2. kolo M-SsAZ staršieho žiactva",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2016&SelectedMonth=7",
+    "datum": "2016-07-02",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
     "dlzka": "",
     "povrch": "",
     "start_cas": "",
@@ -28039,6 +29381,40 @@
     "popis": ""
   },
   {
+    "nazov": "KK v cezpoľnom behu ZŠ a SŠ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2015&SelectedMonth=10",
+    "datum": "2015-10-15",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Majstrovstvá SR družstiev dorastu",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2015&SelectedMonth=10",
+    "datum": "2015-10-04",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Hornonitrun 2015",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2015&SelectedMonth=9",
@@ -28569,6 +29945,57 @@
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2015&SelectedMonth=2",
     "datum": "2015-02-01",
     "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijské nádeje V4",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2015&SelectedMonth=1",
+    "datum": "2015-01-31",
+    "datum_do": "",
+    "mesto": "Bratislava",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Beh dubnickým parkom",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2015&SelectedMonth=1",
+    "datum": "2015-01-22",
+    "datum_do": "",
+    "mesto": "Dubnica nad Váhom",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Halové M-SsAZ",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2015&SelectedMonth=1",
+    "datum": "2015-01-17",
+    "datum_do": "2015-01-31",
     "mesto": "Bratislava",
     "dlzka": "",
     "povrch": "",
