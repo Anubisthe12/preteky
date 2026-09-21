@@ -146,7 +146,7 @@
       "disciplíny": [
         "Cesta (534 km)"
       ],
-      "registracia": "https://therun.sk/auth/register?category=marathon",
+      "registracia": "https://therun.sk/auth/register?category=soloultra",
       "web": "https://therun.sk",
       "propozicie": "https://therun.sk/o-pretekoch",
       "vysledky": ""
@@ -1785,6 +1785,22 @@
     "popis": ""
   },
   {
+    "datum": "2026-10-24",
+    "url": "https://beh.sk/pretek/jesenny-cani-cross-fatransky-vlcko-3/",
+    "nazov": "Jesenný Cani-Cross Fatranský Vĺčko",
+    "mesto": "Turčianske Jaseno",
+    "info": {
+      "Dĺžka trate": "7,7 km / prevýšenie +250m",
+      "Povrch": "trail",
+      "Štart": "10:00 hod. do 10:45 hod. - beh so psom  11:00 hod. - beh bez psa",
+      "Miesto": "Turčianske Jaseno, pri lezeckej stene Ovčín",
+      "Organizátor": "Fatractive OZ",
+      "Informácie": "Michal Miko, tel.: +421 907 319 756, e-mail: michal.miko@gmail.com"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "vsetkybehy.sk",
     "nazov": "Nivy Tower Run",
     "url": "https://vsetkybehy.sk/podujatie/nivy-tower-run-2026",
@@ -2906,6 +2922,17 @@
     "popis": "Andrejcová vertikal alebo ľudovo \"výbeh na Andrejcovú\" sú otvorené jednodňové preteky pre širokú behajúcu i do kopca kráčajúcu verejnosť podľa určených kategórií. Trasa pretekov dlhá 5,1 km vedie z centra obce Pohorelá (750 m.n.m.) po modro značenom turistickom chodníku až na hlavný hrebeň Nízkych Tatier s cieľom na vrchu Andrejcová (1510 m.n.m.)."
   },
   {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Lion Car RUN UP - beh po schodoch",
+    "url": "https://www.registrujsa.sk/run-up-26",
+    "datum": "2026-10-10",
+    "mesto": "",
+    "popis": "Najprestížnejšie preteky v tower runningu na Slovensku s dobročinným úmyslom 200 športovcov - 20 poschodí - jeden spoločný cieľ. Vybehni 20 poschodí v najvyššej budove v Banskej Bystrici a pomôž vybehať až 2 000 € pre dobrú vec. 5 € z každého štartovného v hlavnom behu a 3 € z detského štartovného p",
+    "info": {
+      "cal_id": "301"
+    }
+  },
+  {
     "zdroj": "vsetkybehy.sk",
     "nazov": "Javornícka stovka",
     "url": "https://vsetkybehy.sk/podujatie/javornicka-stovka-2026",
@@ -3269,6 +3296,17 @@
     "popis": ""
   },
   {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Jarabský polmaratón 2026",
+    "url": "https://www.registrujsa.sk/jaraba26",
+    "datum": "2026-10-03",
+    "mesto": "",
+    "popis": "BEŽECKÁ VÝZVA V SRDCI NÍZKYCH TATIER\nTento trailový pretek (Sky Race) s dĺžkou 21,8 km nie je len o výkone, ale aj o zážitku. Náročná trasa plná stúpaní, klesaní a technického terénu preverí každého bežca - no zároveň každého odmení nezabudnuteľnými výhľadmi a silnám pocitom, že ste to zvádli. Trasa",
+    "info": {
+      "cal_id": "299"
+    }
+  },
+  {
     "zdroj": "hrdosport.sk",
     "nazov": "Majstrovstvá SR družstiev staršieho žiactva",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
@@ -3400,29 +3438,6 @@
       "registracia": "https://registrace.sportsoft.cz/registration.aspx?e=3626",
       "web": "https://www.ioan1209.sk/pobehni",
       "propozicie": "https://registrace.sportsoft.cz/_data/3626/pro_dedinka26.pdf",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "24DS",
-    "url": "https://vsetkybehy.sk/podujatie/24ds-2026",
-    "datum": "2026-10-03",
-    "mesto": "",
-    "popis": "24DS (14,7 km)",
-    "info": {
-      "Miesto": "",
-      "Dĺžka trate": "14.7 km",
-      "Štart": "11:00",
-      "kraj": "",
-      "gps": "",
-      "seria": "",
-      "disciplíny": [
-        "24DS (14,7 km)"
-      ],
-      "registracia": "https://moravaflow.cz/dlouhe-strane/chci-bezet/",
-      "web": "https://moravaflow.cz/dlouhe-strane/24ds/",
-      "propozicie": "https://moravaflow.cz/dlouhe-strane/24ds/propozice-24ds/",
       "vysledky": ""
     }
   },
@@ -4359,9 +4374,9 @@
     "info": {
       "Dĺžka trate": "5,6 km",
       "Povrch": "4600 m prírodný terén + 1000 m asfalt",
-      "Štart": "15:00 hod.",
+      "Štart": "15:30 hod.",
       "Miesto": "Čerhov okr. Trebišov, Oddychové centrumi v Čerhove",
-      "Organizátor": "obec Čerhov",
+      "Organizátor": "Obec Čerhov",
       "Informácie": "Obecný úrad Čerhov,  tel.: 056/679 32 22, e-mail: obec2@cerhov.sk"
     },
     "zdroj": "beh.sk",
@@ -4455,20 +4470,28 @@
     }
   },
   {
-    "datum": "2026-09-24",
-    "url": "https://beh.sk/pretek/jesenny-cani-cross-fatransky-vlcko-3/",
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Jesenný Cani-Cross Fatranský Vĺčko",
+    "url": "https://vsetkybehy.sk/podujatie/jesenny-cani-cross-fatransky-vlcko-2026",
+    "datum": "2026-09-24",
     "mesto": "Turčianske Jaseno",
+    "popis": "Beh bez psa (7,7 km), Beh so psom (7,7 km)",
     "info": {
-      "Dĺžka trate": "7,7 km / prevýšenie +250m",
-      "Povrch": "trail",
-      "Štart": "10:00 hod. do 10:45 hod. - beh so psom  11:00 hod. - beh bez psa",
-      "Miesto": "Turčianske Jaseno, pri lezeckej stene Ovčín",
-      "Organizátor": "Fatractive OZ",
-      "Informácie": "Michal Miko, tel.: +421 907 319 756, e-mail: michal.miko@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
+      "Miesto": "Turčianske Jaseno – Lezecká stena Ovčín",
+      "Dĺžka trate": "7.7 km",
+      "Štart": "10:00",
+      "kraj": "zilinsky",
+      "gps": "49.0283270,18.9922920",
+      "seria": "",
+      "disciplíny": [
+        "Beh bez psa (7,7 km)",
+        "Beh so psom (7,7 km)"
+      ],
+      "registracia": "https://forms.gle/Ugt74qMcqPJkmTheA",
+      "web": "https://canicross.fatranskyvlcko.sk/",
+      "propozicie": "",
+      "vysledky": ""
+    }
   },
   {
     "datum": "2026-09-23",
@@ -4537,7 +4560,7 @@
       "disciplíny": [
         "Detské behy"
       ],
-      "registracia": "https://statistika.atletika.sk/prihlasky/zoznam-prihlasok/88800",
+      "registracia": "",
       "web": "https://funnyathletics.sk/",
       "propozicie": "https://statistika.atletika.sk/admin/media/propozice/Funny_Road_Runner_Games_21.09.2026.pdf",
       "vysledky": ""
@@ -4702,20 +4725,15 @@
     "popis": ""
   },
   {
-    "zdroj": "pretekaj.sk",
-    "nazov": "Memoriál Jána Kupca - Horský beh",
-    "url": "https://pretekaj.sk/selce2026",
+    "zdroj": "hrdosport.sk",
+    "nazov": "Finále M SsAZ družstiev najmladšieho žiactva",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
     "datum": "20.09.2026",
-    "mesto": "Selce",
-    "popis": "11. ročník pretekov v behu na 10 km trati z obce Selce. Súčasťou sú aj preteky detí na 1000 metrov a 500 metrov."
-  },
-  {
-    "zdroj": "pretekaj.sk",
-    "nazov": "Žilinský mestský polmaratón - 12. ročník",
-    "url": "https://pretekaj.sk/polmaratonzilina2026",
-    "datum": "20.09.2026",
-    "mesto": "Žilina",
-    "popis": "20. septembra budeme zase od svitania makať v centre Žiliny a chystať všetko potrebné, aby sme si mohli užiť náš Žilinský bežecký sviatok."
+    "mesto": "Žiar nad Hronom",
+    "info": {
+      "propozicie": "https://www.hrdosport.sk/Content/results/2026/9/PROP1063.pdf",
+      "vysledky": ""
+    }
   },
   {
     "zdroj": "vsetkybehy.sk",
@@ -4769,6 +4787,30 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Memoriál Jána Kupca - Horský beh",
+    "url": "https://vsetkybehy.sk/podujatie/memorial-jana-kupca-horsky-beh-2026",
+    "datum": "2026-09-20",
+    "mesto": "Selce",
+    "popis": "Horský beh Memoriál Jána Kupca (10 km), Detské behy",
+    "info": {
+      "Miesto": "Selce – Penzión Čachovo",
+      "Dĺžka trate": "10 km",
+      "Štart": "10:00",
+      "kraj": "banskobystricky",
+      "gps": "48.7654810,19.2028640",
+      "seria": "",
+      "disciplíny": [
+        "Horský beh Memoriál Jána Kupca (10 km)",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://www.selce.sk/",
+      "propozicie": "https://cdn.pretekaj.sk/events/2026/selce2026/DEF20260116_49247.jpg",
+      "vysledky": "https://pretekaj.sk/sk/vysledky/selce2026"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh pre beh v Bernolákove",
     "url": "https://vsetkybehy.sk/podujatie/beh-pre-beh-v-bernolakove-2026",
     "datum": "2026-09-20",
@@ -4790,7 +4832,7 @@
       "registracia": "",
       "web": "https://www.bernolakovo.sk/novinka/115373/beh-pre-beh",
       "propozicie": "https://registrace.sportsoft.cz/_data/3402/prop_beh25.pdf",
-      "vysledky": ""
+      "vysledky": "https://vysledky.sportsoft.cz/race/958"
     }
   },
   {
@@ -4818,219 +4860,39 @@
     }
   },
   {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/oktoberfest-run-nitra-3/",
-    "nazov": "Oktoberfest Run Nitra 2026: Half Marathon",
-    "mesto": "Nitra",
+    "zdroj": "hrdosport.sk",
+    "nazov": "CERC, M-SR TIPOS pohár v letnom biatlone na KL 2026",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
+    "datum": "19.09.2026 - 20.09.2026",
+    "mesto": "Osrblie",
     "info": {
-      "Dĺžka trate": "21.097 km (~3.3 km)",
-      "Povrch": "asfalt, drveny kameň",
-      "Štart": "10:00 hod. Polmaratón, Štafeta, 10:10 hod. Charity Run, 10:15 hod. Family & Senior run, Kids run",
-      "Miesto": "Nitra, Svätoplukovo námestie",
-      "Organizátor": "Jednoducho, Edumood s.r.o",
-      "Informácie": "Mgr. Lukáš Čelinák, tel.: 0902 640 422, E-mail: lukas.celinak@Oktoberfestrun.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
+      "propozicie": "https://www.hrdosport.sk/Content/results/2026/9/PROP1013.pdf",
+      "vysledky": "https://www.hrdosport.sk/Content/results/2026/9/SL1013.pdf"
+    }
   },
   {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Karpatská vandrovka",
+    "url": "https://vsetkybehy.sk/podujatie/karpatska-vandrovka-2026",
     "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/kopaniciarska-10-tka-14/",
-    "nazov": "Kopaničiarska 10-tka",
-    "mesto": "Myjava",
-    "info": {
-      "Dĺžka trate": "10 km, (6,6 km ženy, 3,3 km Buď - fit)",
-      "Povrch": "asfalt",
-      "Štart": "13:00 hod. hlavný pretek, 10:00 hod predškoláci, žiaci a žiačky základných škôl",
-      "Miesto": "Myjava, pred MsÚ v Myjave",
-      "Organizátor": "TJ Spartak Myjava Atletický oddiel a mesto Myjava",
-      "Informácie": "Pavol Michalčík, tel.: 0908 532 753"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/memorial-vdp-jana-laktisa-14/",
-    "nazov": "Memoriál vdp. Jána Laktiša",
-    "mesto": "Sklabiná okr. Veľký Krtíš",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt",
-      "Štart": "9:45 hod. - deti; 11:00 hod. - dospelý",
-      "Miesto": "Sklabiná okr. Veľký Krtíš, futbalové ihrisko",
-      "Organizátor": "Občianske združenie Telovýchovná Jednota družstevník Sklabiná v spolupráci s OZ Bežci VK",
-      "Informácie": "Dana Havrilová, tel.: 0908 527 535, e-mail: dana.havrilova@hotmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/dobsinska-desiatka-16/",
-    "nazov": "Dobšinská desiatka",
-    "mesto": "Dobšiná okr.Rožňava",
-    "info": {
-      "Dĺžka trate": "10 km, 7 km",
-      "Povrch": "4/5 trate je lesná cesta, 1/5 trate je asfaltový povrch",
-      "Štart": "11:00 hod.",
-      "Miesto": "Dobšiná okr.Rožňava, Dobšiná, Lanyiho Huta",
-      "Organizátor": "o.z. ŠK Dobšiná, Horská chata Stará Horáreň",
-      "Informácie": "e-mail: skdobsina@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/kapusianska-5-ka-2/",
-    "nazov": "Kapušianska 5-ka",
-    "mesto": "Kapušany",
-    "info": {
-      "Dĺžka trate": "5000 m",
-      "Povrch": "asfalt",
-      "Štart": "15:30 hod.",
-      "Miesto": "Kapušany, Kapušany park",
-      "Organizátor": "Obec Kapušany",
-      "Informácie": "Obec Kapušany, tel.: 051/7941 102, e-mail: sekretariat@kapusany.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/olympiada-pracujucich-us-steel-kosice-beh-na-10-km-11/",
-    "nazov": "Letné športové hry pracovníkov U.S.STEEL",
     "mesto": "Košice",
+    "popis": "Veľká trasa (50 km), Malá trasa (25 km)",
     "info": {
-      "Dĺžka trate": "10 km",
-      "Štart": "9:15 hod.",
-      "Miesto": "Košice, vstupný areál USS Košice Šaca"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/pochotari-2/",
-    "nazov": "Po Chotári",
-    "mesto": "Lúčky pri Ružomberku",
-    "info": {
-      "Dĺžka trate": "8 km, 4 km",
-      "Povrch": "Lesný chodník - 60%, Lúka - 30%, Asfalt -10%",
-      "Štart": "9:30 hod. deti, 10:45 hod. Hlavné kategórie+hobby+dorast",
-      "Miesto": "Lúčky pri Ružomberku, Futbalové ihrisko",
-      "Organizátor": "Športový klub HAVKÁČI.",
-      "Informácie": "tel.: 0917 679 840, e-mail: info.pochotari@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/beh-dubnikom-11/",
-    "nazov": "Beh Dubníkom",
-    "mesto": "Stará Turá",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt (40%), lesné cesty (60%)",
-      "Štart": "9:30 hod. detské behy, 10:30 hod. - beh FIT; 11:00 hod. - 5 km a štafety; 12:00 hod. - 10 km",
-      "Miesto": "Stará Turá, Vodná nádrž Dubník I. - KEMP53",
-      "Organizátor": "bežecký klub toRun Stará Turá",
-      "Informácie": "Ján Kýška, tel.: 0911 481 123, e-mail: kyska.jan@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/dm-zensky-beh-14/",
-    "nazov": "DM ženský beh",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "5 km a 10 km",
-      "Povrch": "asfalt",
-      "Štart": "9:00 hod. – 5 km + NW, 15:00 hod. – 10 km",
-      "Miesto": "Bratislava, Aupark",
-      "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Bratislavský samosprávny kraj, Mestské časti Bratislava – Ružinov, Staré mesto a Petržalka",
-      "Informácie": "BE COOL, s.r.o., tel.:  00421/904 404 638, e-mail: info@becool.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/beh-slatinsko-prplenia-len-sa-nevyprplit-6-2/",
-    "nazov": "Beh Slatinskô prplenia, len sa nevyprpliť!",
-    "mesto": "Zvolenská Slatina, okr. Zvolen",
-    "info": {
-      "Dĺžka trate": "11 km (prev. 260 m), 3.5 km (prev. 60 m)",
-      "Povrch": "ihrisko, asfaltová cesta, štrková cesta, nespevnený lesný chodník",
-      "Štart": "10:00 hod. – hlavný a hobby beh; 9:30 hod. – detské kategórie",
-      "Miesto": "Zvolenská Slatina, okr. Zvolen, Zvolenská Slatina, časť Borovinyy, ihrisko",
-      "Organizátor": "21. zbor Korčín Zvolenská Slatina",
-      "Informácie": "Zuzana Schieberová, tel.: 0915 219 322, e-mail: z.schieberova@gmail.com  Matej Schieber, tel.: 0918 788 173, e-mail: matejschieber@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/beh-za-domovom/",
-    "nazov": "Beh za domovom",
-    "mesto": "Bratislava - Kuchajda",
-    "info": {
-      "Dĺžka trate": "4,5 km; 1,5 km",
-      "Povrch": "spevnený povrch, tartan",
-      "Štart": "10:00 hod. detský beh, 10:30 hod. 1,5 km, 11:00 hod. 4,5 km",
-      "Miesto": "Bratislava - Kuchajda, Kuchajda",
-      "Organizátor": "X-BIONIC SPHERE a.s."
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/spartan-workout-prievidza/",
-    "nazov": "Spartan Workout Prievidza",
-    "mesto": "Prievidza",
-    "info": {
-      "Štart": "9:00 hod. Elite, 11:30 hod. Kids",
-      "Miesto": "Prievidza, Mestský park",
-      "Organizátor": "STG Prievidza"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/klacianska-desiatka-18/",
-    "nazov": "Kľačianska desiatka",
-    "mesto": "Kľačany okr. Hlohovec",
-    "info": {
-      "Dĺžka trate": "10 000 m, 5 000 m",
-      "Povrch": "asfalt",
-      "Štart": "14:30 hod. predškolský vek a žiacke, 18:20 hod. NW, 16:00 hod. dorast a dospelí",
-      "Miesto": "Kľačany okr. Hlohovec, pri KD",
-      "Organizátor": "Bežecký klub 2000 Kľačany, Obec Kľačany, ZŠ a MŠ Kľačany, Obecný futbalový klub, Slovnaft a. s.",
-      "Informácie": "Marián Palkovič, tel.: 0905 886 688, e-mail: klacianskadesiatka@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/staskovsky-vytrvalec/",
-    "nazov": "Staškovský vytrvalec",
-    "mesto": "Staškov",
-    "info": {
-      "Dĺžka trate": "4 km +10 prekážok",
-      "Povrch": "horský terén",
-      "Štart": "10:00 hod.",
-      "Miesto": "Staškov, Futbalové ihrisko"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
+      "Miesto": "Košice – Areál Čičky, KVP (cieľ); štarty Kúpele Štós a Chata Erika pod Kojšovskou hoľou",
+      "Dĺžka trate": "50 km, 25 km",
+      "Štart": "05:00",
+      "kraj": "kosicky",
+      "gps": "48.7164000,21.2611000",
+      "seria": "",
+      "disciplíny": [
+        "Veľká trasa (50 km)",
+        "Malá trasa (25 km)"
+      ],
+      "registracia": "",
+      "web": "https://karpatskavandrovka.sk/",
+      "propozicie": "https://karpatskavandrovka.sk/podmienky-ucasti/",
+      "vysledky": "https://vysledky.vysledkovyservis.sk/results.aspx?CId=16625&RId=8196"
+    }
   },
   {
     "zdroj": "vsetkybehy.sk",
@@ -5060,26 +4922,50 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Karpatská vandrovka",
-    "url": "https://vsetkybehy.sk/podujatie/karpatska-vandrovka-2026",
+    "nazov": "Letné športové hry pracovníkov U.S.STEEL",
+    "url": "https://vsetkybehy.sk/podujatie/letne-sportove-hry-pracovnikov-ussteel-2026",
     "datum": "2026-09-19",
     "mesto": "Košice",
-    "popis": "Veľká trasa (50 km), Malá trasa (25 km)",
+    "popis": "Beh na 10 km, Beh na 5 km",
     "info": {
-      "Miesto": "Košice – Areál Čičky, KVP (cieľ); štarty Kúpele Štós a Chata Erika pod Kojšovskou hoľou",
-      "Dĺžka trate": "50 km, 25 km",
-      "Štart": "05:00",
+      "Miesto": "Košice – Parkovisko Splav pub, Jenisejská 45",
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "09:00",
       "kraj": "kosicky",
-      "gps": "48.7164000,21.2611000",
+      "gps": "48.7172270,21.2496770",
       "seria": "",
       "disciplíny": [
-        "Veľká trasa (50 km)",
-        "Malá trasa (25 km)"
+        "Beh na 10 km",
+        "Beh na 5 km"
       ],
       "registracia": "",
-      "web": "https://karpatskavandrovka.sk/",
-      "propozicie": "https://karpatskavandrovka.sk/podmienky-ucasti/",
-      "vysledky": "https://vysledky.vysledkovyservis.sk/results.aspx?CId=16625&RId=8196"
+      "web": "https://xapp.usske.sk/sk/hry/letne-sportove-hry-2026",
+      "propozicie": "https://xapp.usske.sk/media/content/media/downloads/sk/spolupraca/zamestnanci/2026/LSH/L%C5%A0H_2026_beh%205%20a%2010%20km/stream.doc",
+      "vysledky": "https://beh.sk/wp-content/uploads/2026/04/260919_ussteel_leto_v.xlsx"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Spartan Workout Prievidza",
+    "url": "https://vsetkybehy.sk/podujatie/spartan-workout-prievidza-2026",
+    "datum": "2026-09-19",
+    "mesto": "Prievidza",
+    "popis": "Sprint (20 prekážok), Detské behy",
+    "info": {
+      "Miesto": "Prievidza – Mestský park Prievidza",
+      "Dĺžka trate": "",
+      "Štart": "09:00",
+      "kraj": "trenciansky",
+      "gps": "48.7765345,18.5958894",
+      "seria": "",
+      "disciplíny": [
+        "Sprint (20 prekážok)",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://www.google.com/maps/place/48%C2%B046'26.9%22N+18%C2%B035'55.1%22E/@48.7741415,18.5964521,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc6e0db234357e1c!8m2!3d48.7741415!4d18.5986408",
+      "propozicie": "https://www.racemeter.sk/podujatia/spartan-workout-prievidza-2026/",
+      "vysledky": "https://sk.spartan.com/sk/race/past-results/11456"
     }
   },
   {
@@ -5161,6 +5047,106 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Staškovský vytrvalec",
+    "url": "https://vsetkybehy.sk/podujatie/staskovsky-vytrvalec-2026",
+    "datum": "2026-09-19",
+    "mesto": "Staškov",
+    "popis": "Staškovský vytrvalec (10 prekážok)",
+    "info": {
+      "Miesto": "Staškov – Futbalové ihrisko Staškov",
+      "Dĺžka trate": "",
+      "Štart": "10:00",
+      "kraj": "zilinsky",
+      "gps": "49.0686000,18.2875000",
+      "seria": "",
+      "disciplíny": [
+        "Staškovský vytrvalec (10 prekážok)"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "https://my.raceresult.com/413824/txt",
+      "vysledky": "https://my.raceresult.com/413824/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh za domovom",
+    "url": "https://vsetkybehy.sk/podujatie/beh-za-domovom-2026",
+    "datum": "2026-09-19",
+    "mesto": "Bratislava",
+    "popis": "Beh na 3 okruhy (4,5 km), Detské behy, Beh na 1 okruh (1,5 km)",
+    "info": {
+      "Miesto": "Bratislava – Areál jazera Kuchajda",
+      "Dĺžka trate": "4.5 km, 1.5 km",
+      "Štart": "11:00",
+      "kraj": "bratislavsky",
+      "gps": "48.1486000,17.1077000",
+      "seria": "",
+      "disciplíny": [
+        "Beh na 3 okruhy (4,5 km)",
+        "Detské behy",
+        "Beh na 1 okruh (1,5 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.najomnebyvanie.info/den-najomneho-byvania-a-sportu/",
+      "propozicie": "https://www.vysledkovyservis.sk/beh-za-domovom-propozicie",
+      "vysledky": "https://vysledky.vysledkovyservis.sk/results.aspx?CId=16625&RId=1440"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Dobšinská desiatka",
+    "url": "https://vsetkybehy.sk/podujatie/dobsinska-desiatka-2026",
+    "datum": "2026-09-19",
+    "mesto": "Dobšiná",
+    "popis": "Hlavná trať (10 km), Detské behy, Kratšia trať (7 km), 7 km",
+    "info": {
+      "Miesto": "Dobšiná – Horská chata Stará Horáreň, Lányiho Huta",
+      "Dĺžka trate": "10 km, 7 km",
+      "Štart": "11:00",
+      "kraj": "kosicky",
+      "gps": "48.8363444,20.3373799",
+      "seria": "",
+      "disciplíny": [
+        "Hlavná trať (10 km)",
+        "Detské behy",
+        "Kratšia trať (7 km)",
+        "7 km"
+      ],
+      "registracia": "",
+      "web": "https://skdobsina.sk/dobsinska-desiatka/",
+      "propozicie": "https://skdobsina.sk/dobsinska-desiatka/propozicie/",
+      "vysledky": "https://skdobsina.sk/dobsinska-desiatka/vysledky/"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Memoriál vdp. Jána Laktiša",
+    "url": "https://vsetkybehy.sk/podujatie/memorial-vdp-jana-laktisa-2026",
+    "datum": "2026-09-19",
+    "mesto": "Sklabiná",
+    "popis": "Hlavný beh (10 km), Hobby beh (5 km), 5 km, Detské behy",
+    "info": {
+      "Miesto": "Sklabiná – Futbalové ihrisko",
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "11:00",
+      "kraj": "banskobystricky",
+      "gps": "48.1564993,19.3605502",
+      "seria": "Krtíšska bežecká liga · 5. kolo",
+      "disciplíny": [
+        "Hlavný beh (10 km)",
+        "Hobby beh (5 km)",
+        "5 km",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://www.sklabina.eu/zivot-v-obci/sport/memorial-vdp-jana-laktisa",
+      "propozicie": "https://my.raceresult.com/418809/txt",
+      "vysledky": "https://my.raceresult.com/418809/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh Lúčansko-Kalamickým chotárom - Po Chotári",
     "url": "https://vsetkybehy.sk/podujatie/beh-lucansko-kalamickym-chotarom-po-chotari-2026",
     "datum": "2026-09-19",
@@ -5183,6 +5169,136 @@
       "web": "",
       "propozicie": "https://www.ruzomberok.sk/wp-content/uploads/2026/07/Propozicie_po_chotari2026.pdf",
       "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh Dubníkom",
+    "url": "https://vsetkybehy.sk/podujatie/beh-dubnikom-2026",
+    "datum": "2026-09-19",
+    "mesto": "Stará Turá",
+    "popis": "toRun DESIATKA (10 km), DAJ 5 (5 km), Detské behy, DAJ 5 + štafeta ONA&ON (5 km), FIT BEH (2,5 km)",
+    "info": {
+      "Miesto": "Stará Turá – Vodná nádrž Dubník I. – KEMP 53",
+      "Dĺžka trate": "10 km, 5 km, 2.5 km",
+      "Štart": "12:00",
+      "kraj": "trenciansky",
+      "gps": "48.7610500,17.6960600",
+      "seria": "",
+      "disciplíny": [
+        "toRun DESIATKA (10 km)",
+        "DAJ 5 (5 km)",
+        "Detské behy",
+        "DAJ 5 + štafeta ONA&ON (5 km)",
+        "FIT BEH (2,5 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.behdubnikom.sk/",
+      "propozicie": "https://www.vysledkovyservis.sk/en/beh-dubnikom-propozicie",
+      "vysledky": "https://vysledky.vysledkovyservis.sk/results.aspx?CId=16625&RId=6298"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Kopaničiarska 10-tka",
+    "url": "https://vsetkybehy.sk/podujatie/kopaniciarska-10-tka-2026",
+    "datum": "2026-09-19",
+    "mesto": "Myjava",
+    "popis": "10 km, Detské behy, Ženy (6,6 km), Buď fit (3,3 km)",
+    "info": {
+      "Miesto": "Myjava – Námestie M. R. Štefánika, pred MsÚ v Myjave",
+      "Dĺžka trate": "10 km, 6.6 km, 3.3 km",
+      "Štart": "13:00",
+      "kraj": "trenciansky",
+      "gps": "48.6657620,17.5406880",
+      "seria": "",
+      "disciplíny": [
+        "10 km",
+        "Detské behy",
+        "Ženy (6,6 km)",
+        "Buď fit (3,3 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.myjava.sk/volny-cas/podujatia/bezecke-preteky-kopaniciarska-10-tka-4194_926sk.html",
+      "propozicie": "https://beh.sk/wp-content/uploads/2026/02/260919_kopaniciarska10_p.pdf",
+      "vysledky": "https://my.raceresult.com/409709/"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "dm ženský beh",
+    "url": "https://vsetkybehy.sk/podujatie/dm-zensky-beh-2026",
+    "datum": "2026-09-19",
+    "mesto": "Bratislava",
+    "popis": "Beh (10 km), Beh (5 km), Beh mamy s dcérou (5 km), 5 km",
+    "info": {
+      "Miesto": "Bratislava – Aupark Bratislava",
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "15:00",
+      "kraj": "bratislavsky",
+      "gps": "48.1343013,17.1106433",
+      "seria": "",
+      "disciplíny": [
+        "Beh (10 km)",
+        "Beh (5 km)",
+        "Beh mamy s dcérou (5 km)",
+        "5 km"
+      ],
+      "registracia": "",
+      "web": "https://www.dm-zenskybeh.sk/",
+      "propozicie": "https://www.dm-zenskybeh.sk/propozicie.html",
+      "vysledky": "https://vysledky.sportsoft.cz/race/955"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Kapušianska 5-ka",
+    "url": "https://vsetkybehy.sk/podujatie/kapusianska-5-ka-2026",
+    "datum": "2026-09-19",
+    "mesto": "Kapušany",
+    "popis": "Kapušianska 5-ka (5 km), Detské behy",
+    "info": {
+      "Miesto": "Kapušany – Park svätých Cyrila a Metoda pri amfiteátri",
+      "Dĺžka trate": "5 km",
+      "Štart": "15:30",
+      "kraj": "presovsky",
+      "gps": "49.0446780,21.3322450",
+      "seria": "",
+      "disciplíny": [
+        "Kapušianska 5-ka (5 km)",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://www.kapusany.sk/",
+      "propozicie": "https://zasrun.sk/preteky/kapusianska-5-ka-2026",
+      "vysledky": "https://zasrun.sk/preteky/kapusianska-5-ka-2026/vysledky"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Kľačianska desiatka",
+    "url": "https://vsetkybehy.sk/podujatie/klacianska-desiatka-2026",
+    "datum": "2026-09-19",
+    "mesto": "Kľačany",
+    "popis": "Hlavný beh (10 km), Hobby beh (5 km), Detské behy, Dorastenci a dorastenkyne (2,5 km), 2,5 km",
+    "info": {
+      "Miesto": "Kľačany – Kultúrny dom v Kľačanoch, Kľačany 272",
+      "Dĺžka trate": "10 km, 5 km, 2.5 km",
+      "Štart": "16:00",
+      "kraj": "trnavsky",
+      "gps": "48.3895000,17.8728000",
+      "seria": "",
+      "disciplíny": [
+        "Hlavný beh (10 km)",
+        "Hobby beh (5 km)",
+        "Detské behy",
+        "Dorastenci a dorastenkyne (2,5 km)",
+        "2,5 km"
+      ],
+      "registracia": "",
+      "web": "https://klacianska-desiatka.webnode.sk/",
+      "propozicie": "https://cdn.pretekaj.sk/events/2026/klacianska10/DEF20260109_49125.jpg",
+      "vysledky": "https://www.racemeter.sk/vysledky/klacianska-desiatka-2026-starsie-ziacky"
     }
   },
   {
@@ -5466,6 +5582,17 @@
     "datum": "12.09.2026 - 11.10.2026",
     "mesto": "Slovensko",
     "popis": ""
+  },
+  {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Beh Tekvičiarov 2026",
+    "url": "https://www.registrujsa.sk/beh-tekviciarov-2026",
+    "datum": "2026-09-12",
+    "mesto": "",
+    "popis": "Šiesty ročník zážitkového 8km cestného behu so štartom na plochodrážnom ovále Mestského športového areálu v Žarnovici. POZOR! Štartujeme originál plochodrážnym štartovacím zariadením. 8km trasa behu vedie prímestskými komunikáciami s nenáročným profilom. Podujatie je vhodné pre hobby začínajúcich be",
+    "info": {
+      "cal_id": "297"
+    }
   },
   {
     "zdroj": "hrdosport.sk",
@@ -8832,7 +8959,7 @@
       "registracia": "",
       "web": "https://www.rajeckymaraton.sk",
       "propozicie": "https://www.rajeckymaraton.sk/?h=rm&v=2&m=rm020",
-      "vysledky": ""
+      "vysledky": "https://vysledky.sportsoft.cz/race/933"
     }
   },
   {
@@ -9254,6 +9381,17 @@
       "web": "",
       "propozicie": "",
       "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Donovalský Drapák",
+    "url": "https://www.registrujsa.sk/drapak26",
+    "datum": "2026-08-01",
+    "mesto": "",
+    "popis": "DONOVALSKÝ DRAPÁK: RUN & BIKE SHOW DONOVALY 2026 Vyber si RUN alebo BIKE a postav sa tratiam, na ktorých sa ukáže, čo je v tebe. RUN: DRAPÁK BEH (10km) DRAPÁK BEH (20km) BIKE: DRAPÁK MARATÓN (50km) DRAPÁK HOBBY (22,5km) DRAPÁČIK JUNIORI (1,5km, 2,5km, 5,5km) DRAPÁČIK KRPCI (registrácia len osobne na",
+    "info": {
+      "cal_id": "294"
     }
   },
   {
@@ -11287,6 +11425,17 @@
       "web": "https://www.saca.sk/akcia/beh-udolim-idy-0/mid/553559/.html",
       "propozicie": "https://beh.sk/wp-content/uploads/2026/03/260628_udolim_idy_p.jpg",
       "vysledky": "https://beh.sk/wp-content/uploads/2026/03/260628_udolim_idy_v.xls"
+    }
+  },
+  {
+    "zdroj": "registrujsa.sk",
+    "nazov": "HLOBIŠOVSKÁ DEVIATKA 2026",
+    "url": "https://www.registrujsa.sk/hlobisov26",
+    "datum": "2026-06-27",
+    "mesto": "",
+    "popis": "Trailový beh v malebnom rozprávkovom prostredí Hájneho grúňa na upätí pohoria Poľana. Pripravili sme pre Vás trať 8,6 km s prevýšením 440m plnú nadherných technických chodníkov, horských luk a očarujucich výhladov na hrebeň Nízkych tatier. Miesto konania: SKI Hlobišov, Hronec /Slovensko/ Dátum konan",
+    "info": {
+      "cal_id": "295"
     }
   },
   {
@@ -14540,6 +14689,17 @@
       "web": "https://www.ladce.sk/novinky/",
       "propozicie": "https://www.vysledkovyservis.sk/ladecky-beh-deti-propozicie",
       "vysledky": "https://vysledky.vysledkovyservis.sk/results.aspx?CId=16625&RId=540"
+    }
+  },
+  {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Jarný lesný beh v Michalovej XII ročník",
+    "url": "https://www.registrujsa.sk/mich26",
+    "datum": "2026-05-30",
+    "mesto": "",
+    "popis": "Už XII. ročník populárneho Lesného behu v Michalovej, s online registráciou Informácie:Ivana Veverková, Obecný úrad Michalová, Trosky 1, 976 57 Michalová, 0911858681, 0486199157 ivana.veverkova@michalova.sk Párovanie platieb: v týždňových intervaloch",
+    "info": {
+      "cal_id": "293"
     }
   },
   {
@@ -21912,7 +22072,7 @@
       ],
       "registracia": "",
       "web": "https://www.hostie.sk/obec-106/aktuality/memorial-m-jurku-a-m-olejara-2026-vysledky-1098sk.html",
-      "propozicie": "https://beh.sk/wp-content/uploads/2026/01/260118_mem_jurku_olejara_p.pdf",
+      "propozicie": "https://registrace.sportsoft.cz/_data/3474/pro_hostie26.pdf",
       "vysledky": "https://vysledky.sportsoft.cz/race/851"
     }
   },
@@ -21936,7 +22096,7 @@
       ],
       "registracia": "",
       "web": "https://www.stupavskymaraton.sk",
-      "propozicie": "https://www.stupavskymaraton.sk/inpage/run-25-km/",
+      "propozicie": "https://www.stupavskymaraton.sk/inpage/run-10-km/",
       "vysledky": "https://vysledky.sportsoft.cz/race/760/competition/5026"
     }
   },
@@ -22239,6 +22399,17 @@
     }
   },
   {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Silvestrovský beh obce Michalová, XXVII. ročník",
+    "url": "https://www.registrujsa.sk/sbom25",
+    "datum": "2025-12-31",
+    "mesto": "",
+    "popis": "XXVII. ročník populárneho Silvestrovského behu v Michalovej s online registráciou Informácie: Ivana Veverková, Obecný úrad Michalová, Trosky 1, 976 57 Michalová, 0910323331, 0486199157 ivana.veverkova@michalova.sk Párovanie platieb: pred pretekom",
+    "info": {
+      "cal_id": "284"
+    }
+  },
+  {
     "zdroj": "hrdosport.sk",
     "nazov": "Silvestrovský beh na tartane - Memoriál Pavla Rajca",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=12",
@@ -22371,6 +22542,17 @@
     }
   },
   {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Jarabský polmaratón 2025",
+    "url": "https://www.registrujsa.sk/jaraba25",
+    "datum": "2025-10-04",
+    "mesto": "",
+    "popis": "BEŽECKÁ VÝZVA V SRDCI NÍZKYCH TATIER Tento trailový pretek (Sky Race) s dĺžkou 21,8 km nie je len o výkone, ale aj o zážitku. Náročná trasa plná stúpaní, klesaní a technického terénu preverí každého bežca - no zároveň každého odmení nezabudnuteľnými výhľadmi a silnám pocitom, že ste to zvádli. Trasa",
+    "info": {
+      "cal_id": "280"
+    }
+  },
+  {
     "zdroj": "hrdosport.sk",
     "nazov": "Turčianská žiacka liga",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=10",
@@ -22445,6 +22627,17 @@
     "info": {
       "propozicie": "https://www.hrdosport.sk/Content/results/2025/9/PROP958.pdf",
       "vysledky": "https://www.hrdosport.sk/Content/results/2025/9/VYS958.pdf"
+    }
+  },
+  {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Útek do divočiny",
+    "url": "https://www.registrujsa.sk/divocina2025",
+    "datum": "2025-09-15",
+    "mesto": "",
+    "popis": "Útek do divočiny je obľúbený horský trailový beh, ktorý sa každoročne koná v okolí Brezna (štart pri OD Kaufland). Ide o: Dĺžku trate: približne 11 km Prevýšenie: asi 550 m Typ terénu: poľné cesty, lesné chodníky a spevnené turistické chodníky Trasa behu Štart a cieľ sú z Brezna pri obchodnom dome K",
+    "info": {
+      "cal_id": "279"
     }
   },
   {
@@ -22679,6 +22872,17 @@
     }
   },
   {
+    "zdroj": "registrujsa.sk",
+    "nazov": "HLOBIŠOVSKÁ DEVIATKA 2025",
+    "url": "https://www.registrujsa.sk/hlobisov2025",
+    "datum": "2025-06-14",
+    "mesto": "",
+    "popis": "Trailový beh v malebnom rozprávkovom prostredí Hájneho grúňa na upätí pohoria Poľana. Pripravili sme pre Vás trať 8,6 km s prevýšením 440m plnú nadherných technických chodníkov, horských luk a očarujucich výhladov na hrebeň Nízkych tatier. Miesto konania: SKI Hlobišov, Hronec /Slovensko/ Dátum konan",
+    "info": {
+      "cal_id": "274"
+    }
+  },
+  {
     "zdroj": "hrdosport.sk",
     "nazov": "1. kolo TIPOS pohár v letnom biatlone 2025",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=6",
@@ -22775,6 +22979,17 @@
     "info": {
       "propozicie": "https://www.hrdosport.sk/Content/results/2025/6/PROP935.pdf",
       "vysledky": "https://www.hrdosport.sk/Content/results/2025/6/VYS935.pdf"
+    }
+  },
+  {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Jarný lesný beh v Michalovej XI ročník",
+    "url": "https://www.registrujsa.sk/mich25",
+    "datum": "2025-05-31",
+    "mesto": "",
+    "popis": "Už XI. ročník populárneho Lesného behu v Michalovej, s online registráciou Informácie:Ivana Veverková, Obecný úrad Michalová, Trosky 1, 976 57 Michalová, 0911858681, 0486199157 ivana.veverkova@michalova.sk Párovanie platieb: v týždňových intervaloch",
+    "info": {
+      "cal_id": "273"
     }
   },
   {
