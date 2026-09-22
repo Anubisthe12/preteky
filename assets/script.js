@@ -5,7 +5,6 @@ const countryFilter = document.getElementById('countryFilter');
 const locationFilter = document.getElementById('locationFilter');
 const distanceMin = document.getElementById('distanceMin');
 const distanceMax = document.getElementById('distanceMax');
-const applyFilter = document.getElementById('applyFilter');
 const resetFilter = document.getElementById('resetFilter');
 
 let races = [];
@@ -167,8 +166,13 @@ const KRAJ_COORDS = {
   'Moravskoslezský kraj': [49.70, 18.20],
 };
 
+// Od tohto zoomu vyššie sa namiesto krajských bublín zobrazujú jednotlivé
+// preteky na ich (približnej, geokódovanej) polohe.
+const RACE_ZOOM_THRESHOLD = 8;
+
 let map = null;
 let mapMarkersLayer = null;
+let raceMarkersLayer = null;
 
 function initMap() {
   if (typeof L === 'undefined' || !document.getElementById('map')) return;
@@ -178,13 +182,37 @@ function initMap() {
     subdomains: 'abc',
     maxZoom: 19,
   }).addTo(map);
-  mapMarkersLayer = L.layerGroup().addTo(map);
+  mapMarkersLayer = L.layerGroup();
+  raceMarkersLayer = typeof L.markerClusterGroup === 'function'
+    ? L.markerClusterGroup({ maxClusterRadius: 45, disableClusteringAtZoom: 15 })
+    : L.layerGroup();
+  syncMapLayers();
+  map.on('zoomend', syncMapLayers);
 }
 
-function selectKrajExclusive(kraj) {
+// Pri zoome pod prahom je vidno len krajské bubliny s počtom, nad prahom
+// (alebo po kliknutí/výbere konkrétneho kraja) sa prepne na body jednotlivých
+// pretekov na mape.
+function syncMapLayers() {
+  if (!map || !mapMarkersLayer || !raceMarkersLayer) return;
+  const showRaces = map.getZoom() >= RACE_ZOOM_THRESHOLD;
+  if (showRaces) {
+    if (map.hasLayer(mapMarkersLayer)) map.removeLayer(mapMarkersLayer);
+    if (!map.hasLayer(raceMarkersLayer)) map.addLayer(raceMarkersLayer);
+  } else {
+    if (map.hasLayer(raceMarkersLayer)) map.removeLayer(raceMarkersLayer);
+    if (!map.hasLayer(mapMarkersLayer)) map.addLayer(mapMarkersLayer);
+  }
+}
+
+function selectKrajExclusive(kraj, coords) {
   if (!locationFilter) return;
-  locationFilter.value = locationFilter.value === kraj ? '' : kraj;
+  const isSelecting = locationFilter.value !== kraj;
+  locationFilter.value = isSelecting ? kraj : '';
   applyFilters();
+  if (isSelecting && coords && map) {
+    map.flyTo(coords, Math.max(map.getZoom(), RACE_ZOOM_THRESHOLD + 1));
+  }
 }
 
 function updateMapMarkers(filtered) {
@@ -211,8 +239,30 @@ function updateMapMarkers(filtered) {
     });
     const marker = L.marker(coords, { icon, title: `${kraj}: ${count}` });
     marker.bindTooltip(`${kraj}: ${count}`, { direction: 'top', offset: [0, -10] });
-    marker.on('click', () => selectKrajExclusive(kraj));
+    marker.on('click', () => selectKrajExclusive(kraj, coords));
     marker.addTo(mapMarkersLayer);
+  });
+}
+
+function updateRaceMarkers(filtered) {
+  if (!map || !raceMarkersLayer) return;
+
+  raceMarkersLayer.clearLayers();
+  filtered.forEach(r => {
+    if (typeof r.lat !== 'number' || typeof r.lon !== 'number') return;
+    const marker = L.circleMarker([r.lat, r.lon], {
+      radius: 7,
+      weight: 2,
+      color: '#ffffff',
+      fillColor: '#2f6fed',
+      fillOpacity: 0.9,
+    });
+    const distance = r.info?.['Dĺžka trate'] || '–';
+    marker.bindPopup(
+      `<strong><a href="${r.url}" target="_blank" rel="noopener">${r.nazov}</a></strong><br/>`
+      + `${formatDate(r.datum)} · ${r.mesto || '–'} · ${distance}`
+    );
+    marker.addTo(raceMarkersLayer);
   });
 }
 
@@ -363,6 +413,7 @@ function applyFilters() {
   status.textContent = `${filtered.length} pretekov z ${races.length} zodpovedá filtru.`;
   cards.innerHTML = renderTable(filtered);
   updateMapMarkers(filtered);
+  updateRaceMarkers(filtered);
 }
 
 function resetFilters() {
@@ -414,8 +465,21 @@ async function loadData() {
   }
 }
 
-applyFilter.addEventListener('click', applyFilters);
 resetFilter.addEventListener('click', resetFilters);
+
+dateFrom.addEventListener('change', applyFilters);
+distanceMin.addEventListener('input', applyFilters);
+distanceMax.addEventListener('input', applyFilters);
+locationFilter.addEventListener('change', () => {
+  applyFilters();
+  const kraj = locationFilter.value;
+  if (kraj && KRAJ_COORDS[kraj] && map) {
+    map.flyTo(KRAJ_COORDS[kraj], Math.max(map.getZoom(), RACE_ZOOM_THRESHOLD + 1));
+  }
+});
+Array.from(countryFilter.querySelectorAll('input[type="checkbox"]')).forEach(input => {
+  input.addEventListener('change', applyFilters);
+});
 
 const filterToggle = document.getElementById('filterToggle');
 const panelBody = document.getElementById('panelBody');

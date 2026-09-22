@@ -96,6 +96,22 @@ p.lead {
   gap: 10px;
   padding: 12px 14px;
 }
+.field-location {
+  grid-column: span 2;
+}
+.location-row {
+  display: flex;
+  gap: 10px;
+  align-items: stretch;
+}
+.location-row .checkbox-list {
+  width: auto;
+  flex: 0 0 auto;
+}
+.location-row select {
+  flex: 1;
+  min-width: 140px;
+}
 .checkbox-item {
   display: flex;
   align-items: center;
@@ -173,6 +189,29 @@ p.lead {
 }
 .kraj-marker.is-active {
   background: var(--accent);
+}
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background-color: rgba(47, 111, 237, 0.25);
+}
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background-color: var(--accent-2);
+  color: #fff;
+  font-weight: 700;
+}
+.leaflet-popup-content-wrapper {
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 12px;
+}
+.leaflet-popup-content a {
+  color: var(--accent-2);
+}
+.leaflet-popup-tip {
+  background: var(--panel);
 }
 
 .cards {
@@ -273,8 +312,9 @@ p.lead {
   .panel-body.is-open { display: block; }
 
   .field { margin-bottom: 12px; }
+  .field-location { grid-column: auto; }
   .button-row { gap: 8px; }
-  .button { flex: 1; text-align: center; }
+  .location-row { flex-wrap: wrap; }
   .col-optional { display: none; }
   #map { height: 280px; border-radius: 14px; }
   .race-table td { white-space: normal; }

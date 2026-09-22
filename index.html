@@ -6,6 +6,8 @@
   <title>Preteky | Beh</title>
   <link rel="stylesheet" href="assets/styles.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
 </head>
 <body>
   <header>
@@ -22,19 +24,21 @@
         <label for="dateFrom">Dátum od</label>
         <input id="dateFrom" type="date" />
       </div>
-      <div class="field">
+      <div class="field field-location">
         <label>Lokalita</label>
-        <div id="countryFilter" class="checkbox-list">
-          <label class="checkbox-item">
-            <input type="checkbox" id="country-sk" value="Slovensko" />
-            <span>Slovensko</span>
-          </label>
-          <label class="checkbox-item">
-            <input type="checkbox" id="country-cz" value="Česká republika" />
-            <span>Česká republika</span>
-          </label>
+        <div class="location-row">
+          <div id="countryFilter" class="checkbox-list">
+            <label class="checkbox-item">
+              <input type="checkbox" id="country-sk" value="Slovensko" />
+              <span>Slovensko</span>
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" id="country-cz" value="Česká republika" />
+              <span>Česká republika</span>
+            </label>
+          </div>
+          <select id="locationFilter"></select>
         </div>
-        <select id="locationFilter"></select>
       </div>
       <div class="field">
         <label>Dĺžka trate (km)</label>
@@ -44,7 +48,6 @@
         </div>
       </div>
       <div class="button-row">
-        <button class="button primary" id="applyFilter">Hľadať</button>
         <button class="button secondary" id="resetFilter">Vymazať filter</button>
       </div>
       </div>
@@ -60,6 +63,7 @@
   <footer id="lastUpdate" style="text-align:center;padding:16px;color:var(--muted);font-size:0.8rem;"></footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <script src="assets/municipality-region-map.js"></script>
 <script src="assets/script.js"></script>
 </body>
