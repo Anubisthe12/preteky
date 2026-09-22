@@ -3,10 +3,11 @@
 Multi-source scraper — bezecke preteky SK/CZ
 
 Zdroje:
-  pretekaj.sk     — HTML Bootstrap karty, ?perpage=50
-  hrdosport.sk    — HTML ASP.NET tabuľka, ?SelectedYear=YYYY (roky 2014-2027)
-  registrujsa.sk  — HTML SSR Bootstrap karty, ?rok=YYYY (roky 2019-2026)
-  vsetkybehy.sk   — HTML Laravel/Tailwind karty, ?page=N (/ = nadchádzajúce, /archiv)
+  pretekaj.sk       — HTML Bootstrap karty, ?perpage=50
+  hrdosport.sk      — HTML ASP.NET tabuľka, ?SelectedYear=YYYY (roky 2014-2027)
+  registrujsa.sk    — HTML SSR Bootstrap karty, ?rok=YYYY (roky 2019-2026)
+  vsetkybehy.sk     — HTML Laravel/Tailwind karty, ?page=N (/ = nadchádzajúce, /archiv)
+  bezeckyzavod.cz   — HTML tabuľka, po jednotlivých krajoch ?strana=N (CZ)
 
 Výstup: data/multi_preteky.json
 """
@@ -50,6 +51,44 @@ def clean(s: str) -> str:
 
 # ── pretekaj.sk ─────────────────────────────────────────────────────────────
 
+def _pretekaj_propozicie_url(event_url: str) -> str:
+    """URL detailu z URL karty: 'https://pretekaj.sk/{slug}' → '.../sk/podujatia/{slug}/info/propozicie'."""
+    slug = event_url.rstrip("/").rsplit("/", 1)[-1]
+    return f"https://pretekaj.sk/sk/podujatia/{slug}/info/propozicie"
+
+
+def _parse_pretekaj_propozicie(html: str) -> tuple[str, str]:
+    """
+    Vráti (organizator, popis) z detailu /info/propozicie.
+
+    organizator: meno z bočného panelu (riadok s ikonou fa-info v tabuľke
+    pod nadpisom "Organizátor") — ide o štruktúrované pole z profilu
+    usporiadateľa, konzistentné naprieč všetkými podujatiami.
+    popis: očistený text celého obsahu propozícií. Každý usporiadateľ si
+    ho píše vlastným štýlom (iné značenie "Organizátor:", "Dĺžka trate" a
+    pod.), preto sa z neho ďalšie polia neparsujú — slúži len ako detailný
+    popis (nahrádza kusý/orezaný popis z výpisu kariet).
+    Vráti ("", "") ak podujatie nemá vlastnú stránku propozícií (napr.
+    skupinové výzvy typu "Tisícovky" — pretekaj.sk vráti chybovú stránku).
+    """
+    organizator = ""
+    org_m = re.search(r'<h4>Organizátor</h4>.*?<table[^>]*>(.*?)</table>', html, re.DOTALL)
+    if org_m:
+        row_m = re.search(r'fa-info"[^>]*></i>\s*</td>\s*<td>(.*?)</td>', org_m.group(1), re.DOTALL)
+        if row_m:
+            organizator = clean(row_m.group(1))
+
+    popis = ""
+    content_m = re.search(
+        r'<!--<h1>Propozície</h1>-->\s*<div>(.*?)</div>\s*</div>\s*<!--\s*Left Sidebar',
+        html, re.DOTALL,
+    )
+    if content_m:
+        popis = clean(content_m.group(1))
+
+    return organizator, popis
+
+
 def scrape_pretekaj() -> list[dict]:
     """
     Zdroj: https://pretekaj.sk/sk/podujatia?perpage=50
@@ -58,6 +97,10 @@ def scrape_pretekaj() -> list[dict]:
       .fa-globe    → miesto
       .fa-calendar → dátum (napr. "29.03.2026 - 18.10.2026")
       p            → popis
+
+    Výpis kariet má len kusý popis (často orezaný uprostred slova). Detailné
+    info je na podstránke .../sk/podujatia/{slug}/info/propozicie, preto sa
+    pre každý event ešte doťahuje aj tá — viď _parse_pretekaj_propozicie().
     """
     print("pretekaj.sk …")
     html = fetch("https://pretekaj.sk/sk/podujatia?perpage=50")
@@ -96,7 +139,30 @@ def scrape_pretekaj() -> list[dict]:
             "popis": popis,
         })
 
-    print(f"  {len(races)} pretekov")
+    print(f"  {len(races)} pretekov, doťahujem propozície…")
+    doplnene = 0
+    for i, race in enumerate(races, 1):
+        time.sleep(DELAY)
+        detail_url = _pretekaj_propozicie_url(race["url"])
+        try:
+            detail_html = fetch(detail_url)
+        except (URLError, HTTPError) as e:
+            print(f"  [{i}/{len(races)}] {race['nazov']}: propozície chyba — {e}", file=sys.stderr)
+            continue
+
+        organizator, popis_detail = _parse_pretekaj_propozicie(detail_html)
+        if not organizator and not popis_detail:
+            continue  # bez vlastnej stránky propozícií (napr. skupinové výzvy)
+
+        info = {"propozicie": detail_url}
+        if organizator:
+            info["Organizátor"] = organizator
+        race["info"] = info
+        if popis_detail:
+            race["popis"] = popis_detail[:2000]
+        doplnene += 1
+
+    print(f"  {doplnene}/{len(races)} doplnených z propozícií")
     return races
 
 
@@ -393,6 +459,110 @@ def scrape_vsetkybehy() -> list[dict]:
     return races
 
 
+# ── bezeckyzavod.cz (CZ) ────────────────────────────────────────────────────
+
+BZ_BASE = "https://www.bezeckyzavod.cz"
+BZ_MAX_PAGES = 15
+
+# Kraje = výpisy /kraje/<slug>/ (+ Praha má vlastnú cestu bez prefixu /kraje/).
+# Skrapuje sa po krajoch namiesto jedného spoločného /zavody/ výpisu, lebo
+# výpis kraja obsahuje rovnaké karty a naviac rovno prezradí kraj (bez toho
+# by bolo treba fetchovať detail každého podujatia zvlášť).
+BZ_KRAJE = [
+    ("/praha/", "Praha a okolí"),
+    ("/kraje/stredocesky_kraj/", "Středočeský kraj"),
+    ("/kraje/jihocesky_kraj/", "Jihočeský kraj"),
+    ("/kraje/plzensky_kraj/", "Plzeňský kraj"),
+    ("/kraje/karlovarsky_kraj/", "Karlovarský kraj"),
+    ("/kraje/ustecky_kraj/", "Ústecký kraj"),
+    ("/kraje/liberecky_kraj/", "Liberecký kraj"),
+    ("/kraje/kralovehradecky_kraj/", "Královéhradecký kraj"),
+    ("/kraje/pardubicky_kraj/", "Pardubický kraj"),
+    ("/kraje/kraj_vysocina/", "Kraj Vysočina"),
+    ("/kraje/jihomoravsky_kraj/", "Jihomoravský kraj"),
+    ("/kraje/olomoucky_kraj/", "Olomoucký kraj"),
+    ("/kraje/zlinsky_kraj/", "Zlínský kraj"),
+    ("/kraje/moravskoslezsky_kraj/", "Moravskoslezský kraj"),
+]
+
+
+def _bz_fetch(url: str) -> str | None:
+    """Vráti HTML, alebo None ak server presmeroval inam (koniec stránkovania — ?strana=N
+    za poslednou stranou sa vráti na prvú stranu bez query, namiesto 404)."""
+    req = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; sk-race-scraper/1.0)"})
+    with urlopen(req, timeout=15) as r:
+        final_url = r.geturl()
+        html = r.read().decode("utf-8")
+    if "strana=" in url and "strana=" not in final_url:
+        return None
+    return html
+
+
+def _parse_bezeckyzavod(html: str, kraj: str) -> list[dict]:
+    races = []
+    for blk in re.findall(r'<tr class="zavody">(.*?)</tr>', html, re.DOTALL):
+        url_m = re.search(r'<a href="([^"]+)" class="badge badge-datum" title="([^"]+)"', blk)
+        nazov_m = re.search(r'<strong>([^<]+)</strong>', blk)
+        if not url_m or not nazov_m:
+            continue
+        mesto_m = re.search(r'class="sedy small">\s*<span>([^<]*)</span>', blk)
+        dlzka_m = re.search(r'class="align-middle text-end zavody-vzdalenost[^"]*"[^>]*>(.*?)</td>', blk, re.DOTALL)
+
+        races.append({
+            "zdroj": "bezeckyzavod.cz",
+            "nazov": unescape(nazov_m.group(1).strip()),
+            "url": url_m.group(1),
+            "datum": url_m.group(2).strip(),
+            "mesto": unescape(mesto_m.group(1).strip()) if mesto_m else "",
+            "popis": "",
+            "info": {
+                "Dĺžka trate": clean(dlzka_m.group(1)).replace(" ", " ") if dlzka_m else "",
+                "Kraj": kraj,
+            },
+        })
+    return races
+
+
+def _scrape_bz_kraj(path: str, kraj: str) -> list[dict]:
+    races: list[dict] = []
+    for page in range(1, BZ_MAX_PAGES + 1):
+        url = f"{BZ_BASE}{path}" if page == 1 else f"{BZ_BASE}{path}?strana={page}"
+        try:
+            time.sleep(DELAY)
+            html = _bz_fetch(url)
+        except (URLError, HTTPError) as e:
+            print(f"  {kraj} str. {page}: chyba — {e}", file=sys.stderr)
+            break
+        if html is None:
+            break
+        batch = _parse_bezeckyzavod(html, kraj)
+        if not batch:
+            break
+        races.extend(batch)
+    return races
+
+
+def scrape_bezeckyzavod() -> list[dict]:
+    """
+    Zdroj: https://www.bezeckyzavod.cz/zavody/ — výpis len nadchádzajúcich pretekov
+    (?rocnik=<minulý rok> vracia 0, žiadny archív), rozdelený po krajoch:
+    /praha/ a /kraje/<slug>/, stránkované ?strana=N (30 na stranu).
+      badge-datum title="D.M.YYYY" → dátum, href → URL
+      <strong>                     → názov
+      .sedy.small > span           → mesto
+      .zavody-vzdalenost           → dĺžka trate ("10 km" / "1 h" pri časovkách)
+    Krajský výpis rovno prezradí kraj — netreba fetchovať detail podujatia.
+    """
+    print("bezeckyzavod.cz …")
+    all_races: list[dict] = []
+    for path, kraj in BZ_KRAJE:
+        batch = _scrape_bz_kraj(path, kraj)
+        all_races.extend(batch)
+        print(f"  {kraj}: {len(batch)} pretekov")
+    print(f"  {len(all_races)} pretekov spolu")
+    return all_races
+
+
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
@@ -401,6 +571,7 @@ def main():
     all_races.extend(scrape_hrdosport())
     all_races.extend(scrape_registrujsa())
     all_races.extend(scrape_vsetkybehy())
+    all_races.extend(scrape_bezeckyzavod())
 
     # Deduplikácia: pre hrdosport (URL nie je unikátna per event) použijem nazov+datum+zdroj
     seen: set[str] = set()

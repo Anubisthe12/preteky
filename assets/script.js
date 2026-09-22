@@ -1,11 +1,10 @@
 const status = document.getElementById('status');
 const cards = document.getElementById('cards');
 const dateFrom = document.getElementById('dateFrom');
-const dateTo = document.getElementById('dateTo');
+const countryFilter = document.getElementById('countryFilter');
 const locationFilter = document.getElementById('locationFilter');
 const distanceMin = document.getElementById('distanceMin');
 const distanceMax = document.getElementById('distanceMax');
-const surfaceFilter = document.getElementById('surfaceFilter');
 const applyFilter = document.getElementById('applyFilter');
 const resetFilter = document.getElementById('resetFilter');
 
@@ -44,15 +43,6 @@ function parseDistanceValues(raw) {
   return [...values].filter(v => !Number.isNaN(v)).sort((a, b) => a - b);
 }
 
-function normalizeSurfaces(raw) {
-  if (!raw) return [];
-  return raw
-    .replace(/[+\/]/g, ',')
-    .split(',')
-    .map(item => item.trim().toLowerCase())
-    .filter(Boolean);
-}
-
 function getDisplaySurface(raw) {
   if (!raw) return '–';
   return raw
@@ -87,15 +77,6 @@ function hasUnknownDistanceTag(r) {
 
 function isDistanceFilterActive(minKm, maxKm) {
   return !Number.isNaN(minKm) || !Number.isNaN(maxKm);
-}
-
-function getSurfaceOptions(races) {
-  const set = new Set();
-  races.forEach(r => {
-    const value = r.info?.['Povrch'];
-    if (value) normalizeSurfaces(value).forEach(item => set.add(item));
-  });
-  return [...set].sort();
 }
 
 function normalizeText(raw) {
@@ -159,7 +140,85 @@ const REGION_PATTERNS = [
   ['dobsinska', 'Košický kraj']
 ];
 
+// Približné stredy krajov SK + CZ pre mapu (netreba presné súradnice — len
+// pozícia bubliny s počtom pretekov).
+const KRAJ_COORDS = {
+  'Bratislavský kraj': [48.15, 17.11],
+  'Trnavský kraj': [48.38, 17.59],
+  'Trenčiansky kraj': [48.89, 18.04],
+  'Nitriansky kraj': [48.31, 18.09],
+  'Žilinský kraj': [49.22, 19.13],
+  'Banskobystrický kraj': [48.74, 19.15],
+  'Prešovský kraj': [49.00, 21.24],
+  'Košický kraj': [48.72, 21.26],
+  'Praha a okolí': [50.08, 14.44],
+  'Středočeský kraj': [49.95, 14.65],
+  'Jihočeský kraj': [49.00, 14.47],
+  'Plzeňský kraj': [49.60, 13.27],
+  'Karlovarský kraj': [50.13, 12.87],
+  'Ústecký kraj': [50.50, 13.83],
+  'Liberecký kraj': [50.68, 15.05],
+  'Královéhradecký kraj': [50.30, 15.90],
+  'Pardubický kraj': [49.95, 15.90],
+  'Kraj Vysočina': [49.40, 15.60],
+  'Jihomoravský kraj': [49.10, 16.60],
+  'Olomoucký kraj': [49.60, 17.20],
+  'Zlínský kraj': [49.10, 17.70],
+  'Moravskoslezský kraj': [49.70, 18.20],
+};
+
+let map = null;
+let mapMarkersLayer = null;
+
+function initMap() {
+  if (typeof L === 'undefined' || !document.getElementById('map')) return;
+  map = L.map('map', { scrollWheelZoom: false }).setView([49.4, 16.2], 6);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    subdomains: 'abc',
+    maxZoom: 19,
+  }).addTo(map);
+  mapMarkersLayer = L.layerGroup().addTo(map);
+}
+
+function selectKrajExclusive(kraj) {
+  if (!locationFilter) return;
+  locationFilter.value = locationFilter.value === kraj ? '' : kraj;
+  applyFilters();
+}
+
+function updateMapMarkers(filtered) {
+  if (!map || !mapMarkersLayer) return;
+
+  const counts = {};
+  filtered.forEach(r => {
+    const region = inferRegion(r);
+    if (region && KRAJ_COORDS[region]) counts[region] = (counts[region] || 0) + 1;
+  });
+
+  const activeKraje = getLocationFilterValues();
+
+  mapMarkersLayer.clearLayers();
+  Object.entries(KRAJ_COORDS).forEach(([kraj, coords]) => {
+    const count = counts[kraj] || 0;
+    if (!count) return;
+    const isActive = activeKraje.includes(kraj.toLowerCase());
+    const icon = L.divIcon({
+      className: '',
+      html: `<div class="kraj-marker${isActive ? ' is-active' : ''}">${count}</div>`,
+      iconSize: [34, 34],
+      iconAnchor: [17, 17],
+    });
+    const marker = L.marker(coords, { icon, title: `${kraj}: ${count}` });
+    marker.bindTooltip(`${kraj}: ${count}`, { direction: 'top', offset: [0, -10] });
+    marker.on('click', () => selectKrajExclusive(kraj));
+    marker.addTo(mapMarkersLayer);
+  });
+}
+
 function inferRegion(r) {
+  if (r.kraj) return r.kraj;
+
   const candidates = [r.mesto, r.info?.Miesto, r.nazov].filter(Boolean);
   for (const candidate of candidates) {
     const key = extractLocationKey(candidate);
@@ -177,7 +236,13 @@ function inferRegion(r) {
 
 function getLocationFilterValues() {
   if (!locationFilter) return [];
-  return Array.from(locationFilter.querySelectorAll('input[type="checkbox"]:checked'))
+  const value = locationFilter.value.trim();
+  return value ? [value.toLowerCase()] : [];
+}
+
+function getCountryFilterValues() {
+  if (!countryFilter) return [];
+  return Array.from(countryFilter.querySelectorAll('input[type="checkbox"]:checked'))
     .map(input => input.value.trim().toLowerCase())
     .filter(Boolean);
 }
@@ -190,31 +255,19 @@ function renderLocationOptions(races) {
     if (region) set.add(region);
   });
   const options = [...set].sort((a, b) => a.localeCompare(b, 'sk', { sensitivity: 'base' }));
+  const current = locationFilter.value;
   locationFilter.innerHTML = '';
-  options.forEach(value => {
-    const slug = value.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-    const wrapper = document.createElement('label');
-    wrapper.className = 'checkbox-item';
-    const input = document.createElement('input');
-    input.type = 'checkbox';
-    input.value = value;
-    input.id = `region-${slug}`;
-    const span = document.createElement('span');
-    span.textContent = value;
-    wrapper.appendChild(input);
-    wrapper.appendChild(span);
-    locationFilter.appendChild(wrapper);
-  });
-}
-
-function renderSurfaces(options) {
-  surfaceFilter.innerHTML = '';
+  const allOption = document.createElement('option');
+  allOption.value = '';
+  allOption.textContent = 'Všetky kraje';
+  locationFilter.appendChild(allOption);
   options.forEach(value => {
     const option = document.createElement('option');
     option.value = value;
-    option.textContent = value.charAt(0).toUpperCase() + value.slice(1);
-    surfaceFilter.appendChild(option);
+    option.textContent = value;
+    locationFilter.appendChild(option);
   });
+  if (options.includes(current)) locationFilter.value = current;
 }
 
 function formatDate(dateString) {
@@ -280,17 +333,20 @@ function applyFilters() {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const from = dateFrom.value ? new Date(dateFrom.value + 'T00:00') : today;
-  const to = dateTo.value ? new Date(dateTo.value + 'T23:59:59') : null;
+  const selectedCountries = getCountryFilterValues();
   const selectedRegions = getLocationFilterValues();
   const minKm = distanceMin.value ? Number(distanceMin.value) : NaN;
   const maxKm = distanceMax.value ? Number(distanceMax.value) : NaN;
-  const selectedSurfaces = Array.from(surfaceFilter.selectedOptions).map(opt => opt.value.toLowerCase());
 
   const filtered = races.filter(r => {
     const raceDate = r.datum ? new Date(r.datum + 'T00:00') : null;
     if (!raceDate) return false;
     if (raceDate < from) return false;
-    if (to && raceDate > to) return false;
+
+    if (selectedCountries.length) {
+      const krajina = (r.krajina || 'Slovensko').trim().toLowerCase();
+      if (!selectedCountries.includes(krajina)) return false;
+    }
 
     const region = inferRegion(r);
     if (selectedRegions.length && (!region || !selectedRegions.includes(region.toLowerCase()))) return false;
@@ -301,25 +357,20 @@ function applyFilters() {
       if (!intersectsDistance(distances, minKm, maxKm)) return false;
     }
 
-    if (selectedSurfaces.length) {
-      const raceSurfaces = normalizeSurfaces(r.info?.['Povrch'] || '');
-      if (!selectedSurfaces.some(surface => raceSurfaces.includes(surface))) return false;
-    }
-
     return true;
   });
 
   status.textContent = `${filtered.length} pretekov z ${races.length} zodpovedá filtru.`;
   cards.innerHTML = renderTable(filtered);
+  updateMapMarkers(filtered);
 }
 
 function resetFilters() {
   dateFrom.value = '';
-  dateTo.value = '';
-  Array.from(locationFilter.querySelectorAll('input[type="checkbox"]')).forEach(input => input.checked = false);
+  Array.from(countryFilter.querySelectorAll('input[type="checkbox"]')).forEach(input => input.checked = false);
+  locationFilter.value = '';
   distanceMin.value = '';
   distanceMax.value = '';
-  Array.from(surfaceFilter.options).forEach(option => option.selected = false);
   applyFilters();
 }
 
@@ -335,8 +386,6 @@ function loadRacesFromJson(data) {
       dateFrom.value = formatDateInput(today);
     }
     renderLocationOptions(races);
-    const surfaces = getSurfaceOptions(races);
-    renderSurfaces(surfaces);
     status.textContent = `${races.length} pretekov načítaných.`;
     applyFilters();
   } catch (error) {
@@ -377,6 +426,7 @@ if (filterToggle && panelBody) {
   });
 }
 
+initMap();
 loadData();
 
 fetch('data/last_update.txt')

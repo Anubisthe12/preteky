@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Preteky | Beh</title>
   <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 </head>
 <body>
   <header>
@@ -22,12 +23,18 @@
         <input id="dateFrom" type="date" />
       </div>
       <div class="field">
-        <label for="dateTo">Dátum do</label>
-        <input id="dateTo" type="date" />
-      </div>
-      <div class="field">
-        <label for="locationFilter">Kraj</label>
-        <div id="locationFilter" class="checkbox-list"></div>
+        <label>Lokalita</label>
+        <div id="countryFilter" class="checkbox-list">
+          <label class="checkbox-item">
+            <input type="checkbox" id="country-sk" value="Slovensko" />
+            <span>Slovensko</span>
+          </label>
+          <label class="checkbox-item">
+            <input type="checkbox" id="country-cz" value="Česká republika" />
+            <span>Česká republika</span>
+          </label>
+        </div>
+        <select id="locationFilter"></select>
       </div>
       <div class="field">
         <label>Dĺžka trate (km)</label>
@@ -36,7 +43,6 @@
           <input id="distanceMax" type="number" step="0.1" placeholder="Max. km" />
         </div>
       </div>
-      <select id="surfaceFilter" multiple hidden></select>
       <div class="button-row">
         <button class="button primary" id="applyFilter">Hľadať</button>
         <button class="button secondary" id="resetFilter">Vymazať filter</button>
@@ -46,12 +52,14 @@
 
     <section>
       <p class="status" id="status">Načítavam preteky…</p>
+      <div id="map"></div>
       <div class="cards" id="cards"></div>
     </section>
   </main>
 
   <footer id="lastUpdate" style="text-align:center;padding:16px;color:var(--muted);font-size:0.8rem;"></footer>
 
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="assets/municipality-region-map.js"></script>
 <script src="assets/script.js"></script>
 </body>

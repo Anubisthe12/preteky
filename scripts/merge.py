@@ -21,7 +21,7 @@ from pathlib import Path
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 # Poradie priority pri zhode — nižší index vyhráva
-PRIORITA = ["beh.sk", "pretekaj.sk", "registrujsa.sk", "hrdosport.sk"]
+PRIORITA = ["beh.sk", "pretekaj.sk", "registrujsa.sk", "hrdosport.sk", "bezeckyzavod.cz"]
 
 
 def _norm_nazov(s: str) -> str:

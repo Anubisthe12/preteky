@@ -7,7 +7,10 @@ Normalizuje data/all_preteky.json na konzistentné schéma:
   url          str   - URL záznamu
   datum        str   - YYYY-MM-DD (prvý deň ak rozsah); "" ak neznámy
   datum_do     str   - YYYY-MM-DD koniec rozsahu; "" ak jednodňový
+  krajina      str   - "Slovensko" / "Česká republika", odvodené zo zdroja
   mesto        str   - mesto / miesto startu
+  kraj         str   - kraj/región (len ak ho zdroj priamo poskytuje, napr. CZ); "" inak — pre SK
+                        frontend dopočíta kraj sám z mesta (inferRegion v script.js)
   dlzka        str   - "10 km", "42,2 km" atď.; "" ak neznáma
   povrch       str   - "asfalt" / "terén" / ""; "" ak neznámy
   start_cas    str   - "10:00 hod." atď.; "" ak neznámy
@@ -24,6 +27,17 @@ from html import unescape
 from pathlib import Path
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+
+# Krajina sa neparsuje z obsahu, ale odvodzuje sa priamo zo zdroja —
+# každý zdroj scrapuje práve jednu krajinu.
+ZDROJ_KRAJINA = {
+    "beh.sk": "Slovensko",
+    "pretekaj.sk": "Slovensko",
+    "hrdosport.sk": "Slovensko",
+    "registrujsa.sk": "Slovensko",
+    "vsetkybehy.sk": "Slovensko",
+    "bezeckyzavod.cz": "Česká republika",
+}
 
 MONTHS_SK = {
     "jan": 1, "feb": 2, "mar": 3, "apr": 4,
@@ -235,6 +249,13 @@ def normalize(r: dict) -> dict:
     if isinstance(info, dict):
         organizator = info.get("Organizátor", "").strip()
 
+    # Kraj — len ak ho zdroj priamo poskytuje (napr. bezeckyzavod.cz)
+    kraj = ""
+    if isinstance(info, dict):
+        kraj = info.get("Kraj", "").strip()
+
+    krajina = ZDROJ_KRAJINA.get(zdroj, "Slovensko")
+
     # Popis — vyčisti kontakty z registrujsa
     popis = r.get("popis", "") or ""
     if zdroj == "registrujsa.sk":
@@ -253,7 +274,9 @@ def normalize(r: dict) -> dict:
         "url":         r.get("url", "").strip(),
         "datum":       datum_od,
         "datum_do":    datum_do,
+        "krajina":     krajina,
         "mesto":       unescape(mesto),
+        "kraj":        kraj,
         "dlzka":       dlzka,
         "povrch":      povrch,
         "start_cas":   start_cas,
