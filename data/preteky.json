@@ -56,6 +56,20 @@
     }
   },
   {
+    "datum": "2027-04-11",
+    "url": "https://beh.sk/pretek/csob-bratislava-marathon-18/",
+    "nazov": "ČSOB Bratislava Marathon",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "maratón, polmaratón,",
+      "Povrch": "asfalt, dlažba",
+      "Štart": "9:00 hod.",
+      "Miesto": "Bratislava, pri OC Eurovea",
+      "Organizátor": "BE COOL, s.r.o. v spolupráci s Hlavným mestom Slovenskej republiky Bratislava, Mestské časti Bratislava –Staré Mesto, Petržalka a Ružinov, Slovenský atletický zväz",
+      "Informácie": "BE COOL, s.r.o., Krajinská 37, 821 06 Bratislava, Slovenská republika, tel.: 00421/904404638, e-mail:  info@becool.sk"
+    }
+  },
+  {
     "datum": "2027-03-20",
     "url": "https://beh.sk/pretek/nitrianska-24-hodinovka-4/",
     "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
@@ -67,6 +81,20 @@
       "Miesto": "Nitra, Atletický štadión TJ Stavbár Nitra",
       "Organizátor": "PavúčikSport Team, Delfín Nitra",
       "Informácie": "Marian Pavuk, tel.: +421 903 777 426"
+    }
+  },
+  {
+    "datum": "2027-03-07",
+    "url": "https://beh.sk/pretek/majcichovska-desiatka-19/",
+    "nazov": "Majcichovská desiatka",
+    "mesto": "Majcichov, okr. Trnava",
+    "info": {
+      "Dĺžka trate": "10 000 m",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod. - deti, 11:45 hod. - dospelí",
+      "Miesto": "Majcichov, okr. Trnava, pred obecným úradom",
+      "Organizátor": "Obec Majcichov, Základná škola Jána Palárika v Majcichove, Materská škola v Majcichove, Obecný futbalový klub Majcichov, Slovenský Červený kríž v Majcichove, Slovenský bežecký spolok",
+      "Informácie": "Obecný úrad 606, 919 22 Majcichov, okres Trnava, tel.: 0907 407 804 e-mail:   starosta@majcichov.sk  Milan Kraic, tel.: 0903 243 206"
     }
   },
   {
@@ -166,6 +194,20 @@
     }
   },
   {
+    "datum": "2026-12-12",
+    "url": "https://beh.sk/pretek/mikulassky-beh-na-tancovu-3/",
+    "nazov": "Mikulášsky beh na Tancovú",
+    "mesto": "Bytča",
+    "info": {
+      "Dĺžka trate": "12 km",
+      "Povrch": "asfaltová cesta cez les, lúka",
+      "Štart": "11:00 hod.",
+      "Miesto": "Bytča, park pri Kaplnke",
+      "Organizátor": "Behači Bytča a okolie",
+      "Informácie": "Bc. Slavomíra Lokajová, tel.: 0911 138 553  Martin Mahút, tel.: 0911 252 343  e-mail: behacibo@gmail.com"
+    }
+  },
+  {
     "datum": "2026-12-06",
     "url": "https://beh.sk/pretek/beh-2-mile-bratislava-12-kolo-16/",
     "nazov": "Beh 2 míle Bratislava – 12. kolo",
@@ -259,6 +301,20 @@
       "Miesto": "Kysak, pri Kultúrnom Dome",
       "Organizátor": "Klub orientačného behu Kysak, Obec Kysak",
       "Informácie": "Obec Kysakv, tel.: 421 905 837 844, e-mail: obkysak@obkysak.info"
+    }
+  },
+  {
+    "datum": "2026-11-21",
+    "url": "https://beh.sk/pretek/slepcianska-patnastka-19/",
+    "nazov": "Slepčianska pätnástka",
+    "mesto": "Slepčany okr. Zlaté Moravce",
+    "info": {
+      "Dĺžka trate": "15 km; 7,5 km",
+      "Povrch": "asfalt",
+      "Štart": "12:00 hod. - detské kategórie, 13:00 hod. - dospelí",
+      "Miesto": "Slepčany okr. Zlaté Moravce, pred Kultúrnym domom",
+      "Organizátor": "OÚ Slepčany",
+      "Informácie": "Jozef Balko, tel.: 0903 258 856"
     }
   },
   {
@@ -386,6 +442,20 @@
     }
   },
   {
+    "datum": "2026-11-07",
+    "url": "https://beh.sk/pretek/kovacovska-desiatka-17/",
+    "nazov": "Kováčovská desiatka",
+    "mesto": "Kováčová",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt, lesná cesta",
+      "Štart": "11:00 hod. hlavné behy, 10:15 hod. detské behy",
+      "Miesto": "Kováčová, futbalový štadión Kováčová",
+      "Organizátor": "Obec Kováčová",
+      "Informácie": "Mikulová Zuzana, e-mail: zuzana.mikulova@kovacova.sk"
+    }
+  },
+  {
     "datum": "2026-10-31",
     "url": "https://beh.sk/pretek/sninsky-cross-5/",
     "nazov": "Sninsky Cross",
@@ -446,12 +516,26 @@
     "nazov": "Košickopolianska desiatka",
     "mesto": "Košická Polianka",
     "info": {
-      "Dĺžka trate": "10 km",
+      "Dĺžka trate": "10 km, 5 km",
       "Povrch": "asfalt",
-      "Štart": "Hlavný pretek 13:00 hod. Deti 11:00 hod.",
+      "Štart": "Hlavný pretek 13:00 hod. Deti 11:30 hod.",
       "Miesto": "Košická Polianka, pred kultúrnym domom",
       "Organizátor": "Obec Košická Polianka",
-      "Informácie": "Obec K.Polianka a zastupiteľstvo obce, tel.: 055/685 41 84. e-mail: sekretariat@kosickapolianka.sk  Daniel Lengyel, tel.: 0948 440 835, e-mail: lengyeldanko@gmail.com  Peter Buc, tel.: 0905 299 189, e-mail: peter.buc59@gmail.com"
+      "Informácie": "Obec Košická Polianka a zastupiteľstvo obce, tel.: 055/685 41 84. e-mail: sekretariat@kosickapolianka.sk  Daniel Lengyel, tel.: 0948 440 835, e-mail: lengyeldanko@gmail.com  Peter Buc, tel.: 0905 299 189, e-mail: peter.buc59@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-25",
+    "url": "https://beh.sk/pretek/criterium-de-kubin-4/",
+    "nazov": "Criterium de Kubín",
+    "mesto": "Dolný Kubín",
+    "info": {
+      "Dĺžka trate": "hodinovka, 12 minútovka",
+      "Povrch": "tartan",
+      "Štart": "14:00 hod. žiactvo, Muži 3, Ženy 3 - 12 minút, 14:30 hod. hlavné kategórie - hodinovka",
+      "Miesto": "Dolný Kubín, štadión MUDr. Ivana Chodáka",
+      "Organizátor": "Mesto Dolný Kubín , Bežecký klub Dolný Kubín , OK ORAVA",
+      "Informácie": "Ing. Štefan Belvončík, tel.: 0915 847 514, 📧 stefan.belvoncik@dolnykubin.sk  Miroslav Hrabal, tel.: 0908 499 183, 📧 runclubdk@gmail.com  Ing. Michal Strežo, tel.: 0904 075 261"
     }
   },
   {
@@ -518,6 +602,45 @@
       "Štart": "11:00 hod.",
       "Miesto": "Zábřeh - Rudolfov, Skatepark Zábřeh",
       "Organizátor": "MORAVA FLOW z.s."
+    }
+  },
+  {
+    "datum": "2026-10-24",
+    "url": "https://beh.sk/pretek/beh-na-scob/",
+    "nazov": "Beh na Ščob",
+    "mesto": "Stropkov",
+    "info": {
+      "Dĺžka trate": "800 m,, prevýšenie 180m",
+      "Štart": "18:30 hod.",
+      "Miesto": "Stropkov, TIC areál pod vlekom"
+    }
+  },
+  {
+    "datum": "2026-10-24",
+    "url": "https://beh.sk/pretek/beh-rematskou-dolinou-2/",
+    "nazov": "Beh Rematskou dolinou",
+    "mesto": "Handlová – Remata",
+    "info": {
+      "Dĺžka trate": "5 km, 9 km",
+      "Povrch": "asfalt, les",
+      "Štart": "11:00 hod.",
+      "Miesto": "Handlová – Remata, Chata Ponilkec",
+      "Organizátor": "ŠK ACHILES Handlová o. z.",
+      "Informácie": "Ľubomír Blaho, tel.: 0905 426 592, email: achilleshandlova@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-24",
+    "url": "https://beh.sk/pretek/jesenny-cani-cross-fatransky-vlcko-3/",
+    "nazov": "Jesenný Cani-Cross Fatranský Vĺčko",
+    "mesto": "Turčianske Jaseno",
+    "info": {
+      "Dĺžka trate": "7,7 km / prevýšenie +250m",
+      "Povrch": "trail",
+      "Štart": "10:00 hod. do 10:45 hod. - beh so psom  11:00 hod. - beh bez psa",
+      "Miesto": "Turčianske Jaseno, pri lezeckej stene Ovčín",
+      "Organizátor": "Fatractive OZ",
+      "Informácie": "Michal Miko, tel.: +421 907 319 756, e-mail: michal.miko@gmail.com"
     }
   },
   {
@@ -600,6 +723,19 @@
       "Miesto": "Nižný Žipov okr. Trebišov, hlavná ulica Nižný Žipov",
       "Organizátor": "Obec - Nižný Žipov",
       "Informácie": "Obecný úrad - Nižný Žipov 076 17, tel.: 056/668 42 10 - 12 e-mail: obecniznyzipov@gmail.com  Pavol Obraz, tel.: 0907 210 910, e-mail: pavolobraz@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-18",
+    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-8-kolo-12/",
+    "nazov": "Trenčianská bežecká liga – 8. kolo",
+    "mesto": "Trenčianske Teplice",
+    "info": {
+      "Dĺžka trate": "9,72 km",
+      "Povrch": "asfalt 30% / terén 70%",
+      "Štart": "10:00 hod.",
+      "Miesto": "Trenčianske Teplice, Namestie T.G. Masaryka",
+      "Informácie": "Ladislav Matejka, tel.: 0904 487 481, e-mail: info@tbl.sk  Milan Makiš, tel.: 0904 239 233, e-mail: info@tbl.sk"
     }
   },
   {
@@ -729,6 +865,48 @@
     }
   },
   {
+    "datum": "2026-10-17",
+    "url": "https://beh.sk/pretek/vecerny-beh-moldavou-6/",
+    "nazov": "Večerný beh Moldavou",
+    "mesto": "Moldava nad Bodvou",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "Asfalt 40%, Les 60%",
+      "Štart": "18:00 hod.",
+      "Miesto": "Moldava nad Bodvou, Športový Areál Pod Kopcom",
+      "Organizátor": "Athletic Legion club – Moldava nad Bodvou, Cirkevná spojená škola, Slovenský atletický zväz, Mestské kultúrne stredisko Moldava n/B",
+      "Informácie": "Mgr. Norbert Pecze, tel.: 0902 289 279, tel.: sport-atlet@azet.sk"
+    }
+  },
+  {
+    "datum": "2026-10-17",
+    "url": "https://beh.sk/pretek/jesenny-beh-okolo-slnavy-16/",
+    "nazov": "onsemi Jesenný beh okolo Sĺňavy",
+    "mesto": "Piešťany - Sĺňava",
+    "info": {
+      "Dĺžka trate": "12 000 m",
+      "Povrch": "asfalt",
+      "Štart": "11:00 hod. muži + ženy  + štafety, (žiaci majú štart po odštartovaní hl. kat.)",
+      "Miesto": "Piešťany - Sĺňava, u DINA, val na priehrade Sĺňava",
+      "Organizátor": "OZ Sĺňava Piešťany spolu s Atletický oddielom TJ Družba Piešťany",
+      "Informácie": "Michal Fiala, tel.: 0908 437 110"
+    }
+  },
+  {
+    "datum": "2026-10-17",
+    "url": "https://beh.sk/pretek/trnava-run/",
+    "nazov": "Trnava Run",
+    "mesto": "Trnava",
+    "info": {
+      "Dĺžka trate": "6,2 km; 3,1 km",
+      "Povrch": "asfalt, dlažba",
+      "Štart": "9:30 hod. - Detský beh, 10:00 hod. - 3,1 km a 6,2 km",
+      "Miesto": "Trnava, Atletický areál Slávia Trnava",
+      "Organizátor": "Ži v pohybe, o.z., Baterkáreň, OZ SaUvedom, CrossFit Trnava",
+      "Informácie": "📧: ahoj@trnavarun.sk"
+    }
+  },
+  {
     "datum": "2026-10-15",
     "url": "https://beh.sk/pretek/presovska-hodinovka-na-tartane-2/",
     "nazov": "Prešovská hodinovka na tartane",
@@ -798,6 +976,20 @@
     }
   },
   {
+    "datum": "2026-10-11",
+    "url": "https://beh.sk/pretek/beh-okolo-sidorova-18/",
+    "nazov": "Beh okolo Sidorova",
+    "mesto": "Ružomberok",
+    "info": {
+      "Dĺžka trate": "13 km; 4,8 km",
+      "Povrch": "terén, asfalt (300 m)",
+      "Štart": "detské kategórie 9:15 hod., hlavné kategórie 10:30 hod.",
+      "Miesto": "Ružomberok, Pred Hotelom Áčko ( Hrabovská cesta 34 )",
+      "Organizátor": "Bežecký spolok Ruža Ružomberok a CVC Elán za podpory mesta  Ružomberok",
+      "Informácie": "Ing. Ján Svrček, tel.: 0905 537 341  Milan Kašák, tel.: 0918 666 757"
+    }
+  },
+  {
     "datum": "2026-10-10",
     "url": "https://beh.sk/pretek/inov-8-beh-sulovskymi-skalami-10/",
     "nazov": "GARMIN Beh Súľovskými skalami",
@@ -827,19 +1019,6 @@
   },
   {
     "datum": "2026-10-10",
-    "url": "https://beh.sk/pretek/spoznaj-trebisov-behom-night-run-3/",
-    "nazov": "Spoznaj Trebišov behom – Night RUN",
-    "mesto": "Trebišov",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Štart": "18:10 hod. detské kat., 18:45 hod. hlavné kategórie",
-      "Miesto": "Trebišov, námestie pod OD Billa",
-      "Organizátor": "Ing. Michal Majcher,",
-      "Informácie": "Ing. Michal Majcher, tel: 0915 895 860, e-mail: spoznajtvbehom@centrum.sk"
-    }
-  },
-  {
-    "datum": "2026-10-10",
     "url": "https://beh.sk/pretek/grand-prix-cabaj-capor-14/",
     "nazov": "Grand Prix – Cabaj-Čápor",
     "mesto": "Cabaj-Čápor",
@@ -860,9 +1039,9 @@
     "info": {
       "Dĺžka trate": "3 km",
       "Povrch": "asfalt",
-      "Štart": "9.30 hod. – detský beh (400 m), 9.45 hod. - hlavný beh (3 km)",
-      "Miesto": "Michalovce, 2. ZŠ, J. Švermu 6",
-      "Organizátor": "Mesto Michalovce a Atletický klub Michalovce",
+      "Štart": "9.30 hod. – detský beh (400 m), 10:30 hod. - hlavný beh (3 km)",
+      "Miesto": "Michalovce, V. ZŠ Školská 2",
+      "Organizátor": "Mesto Michalovce, ZŠ Školská 2 a Atletický klub Michalovce",
       "Informácie": "Mgr. Lívia Kalaninová, mobil: 0917 650 912, e-mail: livia.kalaninova@msumi.sk"
     }
   },
@@ -884,8 +1063,9 @@
     "nazov": "Beh Šípskou Fatrou",
     "mesto": "Stankovany",
     "info": {
-      "Dĺžka trate": "11,3 km",
-      "Štart": "10:00 hod. - Detský beh, 11:15 hod. - Hlavný beh",
+      "Dĺžka trate": "11,3 km; 5,3 km",
+      "Povrch": "asfalt, horský chodník",
+      "Štart": "10:15 hod. - Detský beh, 11:30 hod. - Hlavný beh + hobby beh",
       "Miesto": "Stankovany, futbalové ihrisko",
       "Organizátor": "Turistický klub Šíp a obec Stankovany",
       "Informácie": "Michal Belko, tel.: 0918 501 690, e-mail: belkomichal@gmail.com  Marián Gašper, tel.: 0907 087 352, e-mail: daniela.gasperova@gmail.com  Pavol Salaj, tel.: 0917 205 750, e-mail: pavolsalaj1@gmail.com"
@@ -901,8 +1081,8 @@
       "Povrch": "asfalt, lesný chodník, kamenistá zvážnica",
       "Štart": "10:10 hod.",
       "Miesto": "Pohorelá, Námestie v Pohorelej",
-      "Organizátor": "Občianske združenie Horské spoločenstvo",
-      "Informácie": "tel.: +421 901 705 062, e-mail: horehronskatrailovaliga@gmail.com"
+      "Organizátor": "Občianske združenie Horské spoločenstvo a Útulňa Andrejcová",
+      "Informácie": "e-mail: andrejcovavertikal@gmail.com"
     }
   },
   {
@@ -990,6 +1170,33 @@
     }
   },
   {
+    "datum": "2026-10-10",
+    "url": "https://beh.sk/pretek/run-up-5/",
+    "nazov": "Lion Car Run Up",
+    "mesto": "Banská Bystrica",
+    "info": {
+      "Dĺžka trate": "20. poschodí",
+      "Povrch": "schody",
+      "Štart": "intervalový štart od 15:00 hod., deti: ntervalový štart od 13:00 hod.,",
+      "Miesto": "Banská Bystrica, Europa Shopping Center",
+      "Organizátor": "Europa Shopping Center, Marathon Banská Bystrica, s.r.o.",
+      "Informácie": "e-mail: info@marathonbb.com"
+    }
+  },
+  {
+    "datum": "2026-10-09",
+    "url": "https://beh.sk/pretek/spoznaj-trebisov-behom-night-run-3/",
+    "nazov": "Spoznaj Trebišov behom – Night RUN",
+    "mesto": "Trebišov",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Štart": "18:10 hod. detské kat., 18:45 hod. hlavné kategórie",
+      "Miesto": "Trebišov, námestie pod OD Billa",
+      "Organizátor": "Ing. Michal Majcher,",
+      "Informácie": "Ing. Michal Majcher, tel: 0915 895 860, e-mail: spoznajtvbehom@centrum.sk"
+    }
+  },
+  {
     "datum": "2026-10-04",
     "url": "https://beh.sk/pretek/medzinarodny-maraton-mieru-17/",
     "nazov": "Medzinárodný maratón mieru",
@@ -1001,6 +1208,20 @@
       "Miesto": "Košice, Hlavná ulica",
       "Organizátor": "Maratónsky klub Košice, Mesto Košice",
       "Informácie": "Maratónsky klub Košice, Pri jazdiarni 1, 043 04 Košice, tel.: 055/622 00 10, fax.: 055/622 41 58, e-mail: info@kosicemarathon.com"
+    }
+  },
+  {
+    "datum": "2026-10-04",
+    "url": "https://beh.sk/pretek/beh-na-malinne-14/",
+    "nazov": "Beh na Malinné",
+    "mesto": "Ružomberok",
+    "info": {
+      "Dĺžka trate": "3,9 km, prev. 638 m, (2,52 km, prev. 390 m)",
+      "Povrch": "terén - lyžiarska zjazdovka",
+      "Štart": "11:00 hod. trať 3,9 km, 11.05 hod. rať 2,5 km",
+      "Miesto": "Ružomberok, parkovisko Hrabovo",
+      "Organizátor": "Róbert Kolár, Ľubomír Kubáň, Tomáš Gazdarica, Mária Hrnčiarová v spol. s o.z. Ružomberok v pohybe",
+      "Informácie": "Tomáš Gazdarica, tel.: +421 905 315 201, e-mail: gazdarica@ruzomberok.sk"
     }
   },
   {
@@ -1137,6 +1358,20 @@
       "Miesto": "Nová Dedinka, Areál voľného času, Nábrežie Čiernej Vody",
       "Organizátor": "ATHLETIA o.z. a obec Nová Dedinka",
       "Informácie": "Vladimír Eckert, tel.: 0903 604 360, e‐mail: eckert.vladimir@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-01",
+    "url": "https://beh.sk/pretek/beh-o-pohar-starostky-mc-kosice-juh/",
+    "nazov": "Beh o pohár starostky MČ Košice – Juh",
+    "mesto": "Košice - Juh",
+    "info": {
+      "Dĺžka trate": "5 km, 2,5 km",
+      "Povrch": "miestne komunikácie, schody",
+      "Štart": "16:30 hod.",
+      "Miesto": "Košice - Juh, Vnútroblok Železníkov",
+      "Organizátor": "MČ Juh Košice starostka + team MČ",
+      "Informácie": "Mgr. Adriana Krausová, tel.: 0907 842 221, e-mail:  adriana.krausova@kosicejuh.sk"
     }
   },
   {
@@ -1287,6 +1522,33 @@
       "Miesto": "Vysoká nad Kysucou okr. Čadca, Požiarna zbrojnica",
       "Organizátor": "Občianske združenie Voľný čas, Vysoká nad Kysucou",
       "Informácie": "Anton Opial, tel.: 0911 902 250, e-mail: aopial@centrum.sk"
+    }
+  },
+  {
+    "datum": "2026-09-27",
+    "url": "https://beh.sk/pretek/beh-slnecnicami-2/",
+    "nazov": "Beh Slnečnicami",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "21,1 km; 10 km, 6 km",
+      "Štart": "10:00 hod. detské behy, 11:40 hod. 6-km, 13:45 hod. polmaratón, 14:15 hod. 10 km",
+      "Miesto": "Bratislava, Slnečnice – Zóna mesto, pri gastro zóne (Trch) Zuzany Chalupovej 5",
+      "Organizátor": "Nebuď jeleň, občianske združenie",
+      "Informácie": "Peter Lošonský, tel.: +421 902 133 837, e-mail: peter.losonsky@behslnecnicami.sk"
+    }
+  },
+  {
+    "datum": "2026-09-27",
+    "url": "https://beh.sk/pretek/medzinarodny-beh-na-velku-racu-18/",
+    "nazov": "Medzinárodný beh na Veľkú Raču",
+    "mesto": "Oščadnica okr. Čadca",
+    "info": {
+      "Dĺžka trate": "6 100 m, prevýšenie 592 m",
+      "Povrch": "lesná cesta + chodník",
+      "Štart": "10:00 hod. hl. kat., 10:15 hod. deti.",
+      "Miesto": "Oščadnica okr. Čadca, pri sedačkovej lanovke v Oščadnici - Dedovke /SR/",
+      "Organizátor": "Horská služba Kysuce, Obec Oščadnica, Snowparadise Veľká Rača",
+      "Informácie": "tel.: 0903 624 477, 0915 754 941, e-mail: behnaracu@gmail.com"
     }
   },
   {
@@ -1441,6 +1703,74 @@
     }
   },
   {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/rakyta-run-2/",
+    "nazov": "RAKYTA Run",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "1 km",
+      "Štart": "09:30 hod. - detské behy, 10:30 hod. - M-AZB na 1 míľu",
+      "Miesto": "Bratislava, PROJEKT RAKYTA, vstup do Devínskej Novej Vsi",
+      "Organizátor": "BE COOL, s.r.o.,",
+      "Informácie": "tel.: 0904 404 638, e‐mail: info@becool.sk"
+    }
+  },
+  {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/newton-run-3/",
+    "nazov": "Newton Run",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Povrch": "asfalt",
+      "Štart": "09:00 Detské behy, 10:00 hod. 5 km",
+      "Miesto": "Bratislava, Areál hier Radosť, Štrkovec",
+      "Organizátor": "Rozbehaj sa, Big-agency, Newton University, MČ Ružinov",
+      "Informácie": "Rozbehaj sa, E-mail: newtonrun@rozbehajsa.sk"
+    }
+  },
+  {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/kubasska-10-12/",
+    "nazov": "Kubašská 10°",
+    "mesto": "Spišské Bystré",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt 30%, trail 70%",
+      "Štart": "13:30 hod.",
+      "Miesto": "Spišské Bystré, vonkajšie ihrisko pri ZŠ s MŠ",
+      "Organizátor": "Obecný úrad Spišské Bystré v spolupráci s Klubom turistov Spišské Bystré, ZŠ s MŠ Spišské Bystré",
+      "Informácie": "Orolin Pavol, tel.: 0910 151 161, e-mail: paolo717@azet.sk"
+    }
+  },
+  {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/kysuce-trail-2/",
+    "nazov": "MK Tech Kysuce trail",
+    "mesto": "Krásno nad Kysucou",
+    "info": {
+      "Dĺžka trate": "26 km, 7 km",
+      "Štart": "10:00 hod. - beh, 9:00 hod. - Beh so psom a Nordic walking, 11:00 hod. - detský beh",
+      "Miesto": "Krásno nad Kysucou, Námestie pred Kultúrnym domom",
+      "Organizátor": "Atletický klub TJ Tatran Krásno nad Kysucou a mesto Krásno nad Kysucou",
+      "Informácie": "tel.: 0949 432 447, email: vladimir.kormanec@mestokrasno.sk"
+    }
+  },
+  {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/beh-do-oblakov-6/",
+    "nazov": "Beh do oblakov",
+    "mesto": "Bojnice",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt",
+      "Štart": "9:45 hod. – Deti, 11:30 hod. - hlavný beh,10 km; 11:35 hod. - hobby beh, 5 km; 11:36 hod. - NV, 5 km",
+      "Miesto": "Bojnice, Areál Kúpeľov Bojnice , riaditeľstvo kúpeľov Bojnice",
+      "Organizátor": "občianske združenie AKTÍVNY KLUB",
+      "Informácie": "Anna Žiaková, tel.:  +421 908 354 296, e-mail: azrealpd@gmail.com  Miroslav Žiak, e-mail: rifleman1987@gmail.com"
+    }
+  },
+  {
     "datum": "2026-09-25",
     "url": "https://beh.sk/pretek/beh-tokajskymi-vinicami-14/",
     "nazov": "Beh Tokajskými vinicami",
@@ -1448,978 +1778,37 @@
     "info": {
       "Dĺžka trate": "5,6 km",
       "Povrch": "4600 m prírodný terén + 1000 m asfalt",
-      "Štart": "15:00 hod.",
+      "Štart": "15:30 hod.",
       "Miesto": "Čerhov okr. Trebišov, Oddychové centrumi v Čerhove",
-      "Organizátor": "obec Čerhov",
+      "Organizátor": "Obec Čerhov",
       "Informácie": "Obecný úrad Čerhov,  tel.: 056/679 32 22, e-mail: obec2@cerhov.sk"
     }
   },
   {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/besenovsky-charitativny-beh-pre-mapenzi-4/",
-    "nazov": "Bešeňovský charitatívny beh pre MAPENZI",
-    "mesto": "Bešeňov",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "9:45 hod. štart detských behov, 10:30 hod. štart hlavného behu",
-      "Miesto": "Bešeňov, Futbalové ihrisko",
-      "Organizátor": "BK Bešeňov, MAPENZI by Generation of love, Obec Bešeňov",
-      "Informácie": "Denisa Gallová, tel.: 0918 833 477  Stephanie Deszatová, tel.: 0914 124 833  Patrik Ivan, tel.: 0908 585 420  Evelyn Tomová, tel.: 0908 598 948"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/trail-hubkovou-5/",
-    "nazov": "Generali Trail Hubkovou",
-    "mesto": "Humenné",
-    "info": {
-      "Dĺžka trate": "8,6 km",
-      "Štart": "13:00 hod. hlavné preteky,11:00 hod. detské kategórie",
-      "Miesto": "Humenné, námestie pri MsKS",
-      "Organizátor": "Bežecký klub Humenné s podporou mesta Humenné a miestnych sponzorov",
-      "Informácie": "Stanislav Mikita, tel.: +421 911 480 484;   Miroslav Ištoňa, tel.: +421 915 694 090, e-mail: bkhumenne@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/olsavsky-pohar-13/",
-    "nazov": "Olšavský pohár – Memoriál Júliusa Kažimíra",
-    "mesto": "Ruskov okr. Košice okolie",
-    "info": {
-      "Dĺžka trate": "16,8 km; 9,7 km",
-      "Povrch": "asfalt",
-      "Štart": "13:00 hod. - detské kat.; 14:00 hod. dospelí 16,8 km + 9,7 km",
-      "Miesto": "Ruskov okr. Košice okolie, pred Obecným úradom",
-      "Organizátor": "Obec Ruskov a Dobrovoľný hasičský zbor Ruskov  v spolupráci s obcami Ďurkov, Olšovany, Vyšný Čaj, Nižný Čaj, Bohdanovce, Blažice",
-      "Informácie": "Martin Juhás, tel.: 0918 505 856, e-mail: martin.juhas@biog.sk  Jana Drančáková, tel.: 0905447099, e-mail: jana.drancakova@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/trnavsky-runwalk-4/",
-    "nazov": "Trnavský RunWalk",
-    "mesto": "Trnava",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt, poľná cesta",
-      "Štart": "10:00 hod. hl. kategórie, 10:15 hod, deti, hendi, 11:00 hod. hobby, profi",
-      "Miesto": "Trnava, Kamenný Mlyn",
-      "Organizátor": "Za ruku, o.z.",
-      "Informácie": "Michaela Bročková, e-mail: oz.zaruku@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/drahovska-desiatka-15/",
-    "nazov": "Drahovská desiatka",
-    "mesto": "Drahovce okr. Piešťany",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt",
-      "Štart": "14:00 hod. detské kat., 15:20 hod. dospelí a dorast",
-      "Miesto": "Drahovce okr. Piešťany, štadión OFK Drahovce",
-      "Organizátor": "Obec Drahovce",
-      "Informácie": "Majtán Martin, tel.: 0910 193 602, e-mail: martinmajtan@obecdrahovce.sk"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/oktoberfest-run-nitra-3/",
-    "nazov": "Oktoberfest Run Nitra 2026: Half Marathon",
-    "mesto": "Nitra",
-    "info": {
-      "Dĺžka trate": "21.097 km (~3.3 km)",
-      "Povrch": "asfalt, drveny kameň",
-      "Štart": "10:00 hod. Polmaratón, Štafeta, 10:10 hod. Charity Run, 10:15 hod. Family & Senior run, Kids run",
-      "Miesto": "Nitra, Svätoplukovo námestie",
-      "Organizátor": "Jednoducho, Edumood s.r.o",
-      "Informácie": "Mgr. Lukáš Čelinák, tel.: 0902 640 422, E-mail: lukas.celinak@Oktoberfestrun.sk"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/kopaniciarska-10-tka-14/",
-    "nazov": "Kopaničiarska 10-tka",
-    "mesto": "Myjava",
-    "info": {
-      "Dĺžka trate": "10 km, (6,6 km ženy, 3,3 km Buď - fit)",
-      "Povrch": "asfalt",
-      "Štart": "13:00 hod. hlavný pretek, 10:00 hod predškoláci, žiaci a žiačky základných škôl",
-      "Miesto": "Myjava, pred MsÚ v Myjave",
-      "Organizátor": "TJ Spartak Myjava Atletický oddiel a mesto Myjava",
-      "Informácie": "Pavol Michalčík, tel.: 0908 532 753"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/memorial-vdp-jana-laktisa-14/",
-    "nazov": "Memoriál vdp. Jána Laktiša",
-    "mesto": "Sklabiná okr. Veľký Krtíš",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt",
-      "Štart": "9:45 hod. - deti; 11:00 hod. - dospelý",
-      "Miesto": "Sklabiná okr. Veľký Krtíš, futbalové ihrisko",
-      "Organizátor": "Občianske združenie Telovýchovná Jednota družstevník Sklabiná v spolupráci s OZ Bežci VK",
-      "Informácie": "Dana Havrilová, tel.: 0908 527 535, e-mail: dana.havrilova@hotmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/dobsinska-desiatka-16/",
-    "nazov": "Dobšinská desiatka",
-    "mesto": "Dobšiná okr.Rožňava",
-    "info": {
-      "Dĺžka trate": "10 km, 7 km",
-      "Povrch": "4/5 trate je lesná cesta, 1/5 trate je asfaltový povrch",
-      "Štart": "11:00 hod.",
-      "Miesto": "Dobšiná okr.Rožňava, Dobšiná, Lanyiho Huta",
-      "Organizátor": "o.z. ŠK Dobšiná, Horská chata Stará Horáreň",
-      "Informácie": "e-mail: skdobsina@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/kapusianska-5-ka-2/",
-    "nazov": "Kapušianska 5-ka",
-    "mesto": "Kapušany",
-    "info": {
-      "Dĺžka trate": "5000 m",
-      "Povrch": "asfalt",
-      "Štart": "15:00 hod.",
-      "Miesto": "Kapušany, Kapušany park",
-      "Organizátor": "Obec Kapušany",
-      "Informácie": "Obec Kapušany, tel.: 051/7941 102, e-mail: sekretariat@kapusany.sk"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/olympiada-pracujucich-us-steel-kosice-beh-na-10-km-11/",
-    "nazov": "Letné športové hry pracovníkov U.S.STEEL",
-    "mesto": "Košice",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Štart": "9:15 hod.",
-      "Miesto": "Košice, vstupný areál USS Košice Šaca"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/pochotari-2/",
-    "nazov": "Po Chotári",
-    "mesto": "Lúčky",
-    "info": {
-      "Dĺžka trate": "8 km, 4 km",
-      "Povrch": "Lesný chodník - 60%, Lúka - 30%, Asfalt -10%",
-      "Štart": "10:00 hod. deti, 11:20 hod. Hlavné kategórie+hobby+dorast",
-      "Miesto": "Lúčky, Futbalové ihrisko",
-      "Organizátor": "Športový klub HAVKÁČI.",
-      "Informácie": "tel.: 0917 679 840, e-mail: info.pochotari@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/beh-dubnikom-11/",
-    "nazov": "Beh Dubníkom",
-    "mesto": "Stará Turá",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt (40%), lesné cesty (60%)",
-      "Štart": "9:30 hod. detské behy, 10:30 hod. - beh FIT; 11:00 hod. - 5 km a štafety; 12:00 hod. - 10 km",
-      "Miesto": "Stará Turá, Vodná nádrž Dubník I. - KEMP53",
-      "Organizátor": "bežecký klub toRun Stará Turá",
-      "Informácie": "Ján Kýška, tel.: 0911 481 123, e-mail: kyska.jan@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/dm-zensky-beh-14/",
-    "nazov": "DM ženský beh",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "5 km a 10 km",
-      "Povrch": "asfalt",
-      "Štart": "od 9:00 hod. – 5 km+ NW, 15:00 hod. – 10 km",
-      "Miesto": "Bratislava, Aupark",
-      "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Bratislavský samosprávny kraj, Mestské časti Bratislava – Ružinov, Staré mesto a Petržalka",
-      "Informácie": "tel.:  00421/904 404 638, e-mail: registracia@becool.sk"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/beh-slatinsko-prplenia-len-sa-nevyprplit-6-2/",
-    "nazov": "Beh Slatinskô prplenia, len sa nevyprpliť!",
-    "mesto": "Zvolenská Slatina, okr. Zvolen",
-    "info": {
-      "Dĺžka trate": "11 km (prev. 260 m), 3.5 km (prev. 60 m)",
-      "Povrch": "ihrisko, asfaltová cesta, štrková cesta, nespevnený lesný chodník",
-      "Štart": "10:00 hod. – hlavný a hobby beh; 9:30 hod. – detské kategórie",
-      "Miesto": "Zvolenská Slatina, okr. Zvolen, Zvolenská Slatina, časť Borovinyy, ihrisko",
-      "Organizátor": "21. zbor Korčín Zvolenská Slatina",
-      "Informácie": "Zuzana Schieberová, tel.: 0915 219 322, e-mail: z.schieberova@gmail.com  Matej Schieber, tel.: 0918 788 173, e-mail: matejschieber@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-19",
-    "url": "https://beh.sk/pretek/beh-za-domovom/",
-    "nazov": "Beh za domovom",
-    "mesto": "Bratislava - Kuchajda",
-    "info": {
-      "Dĺžka trate": "4,5 km; 1,5 km",
-      "Povrch": "spevnený povrch, tartan",
-      "Štart": "10:00 hod. detský beh, 10:30 hod. 1,5 km, 11:00 hod. 4,5 km",
-      "Miesto": "Bratislava - Kuchajda, Kuchajda",
-      "Organizátor": "X-BIONIC SPHERE a.s."
-    }
-  },
-  {
-    "datum": "2026-09-15",
-    "url": "https://beh.sk/pretek/maly-pieninsky-maraton-mem-bohusa-jezika-10-2/",
-    "nazov": "Malý Pieninský maratón – mem. Bohuša Ježíka",
-    "mesto": "Červený Kláštor okr. Kežmarok",
-    "info": {
-      "Dĺžka trate": "18 km",
-      "Povrch": "asfalt, pevná lesná cesta",
-      "Štart": "10:00 hod.",
-      "Miesto": "Červený Kláštor okr. Kežmarok, Kúpele Smerdžonka",
-      "Organizátor": "Malý pieninský maratón o. z.,",
-      "Informácie": "Mgr. Ladislav Šimko. e-mail: : lsimko62@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-13",
-    "url": "https://beh.sk/pretek/beh-zdanou-3/",
-    "nazov": "Beh Ždaňou",
-    "mesto": "Ždaňa, okr. Košice okolie",
-    "info": {
-      "Dĺžka trate": "5 km, 2,5 km",
-      "Štart": "16:00 hod - deti, 17:00 hod. - hlavný beh",
-      "Miesto": "Ždaňa, okr. Košice okolie, Obecný úrad",
-      "Organizátor": "obec Ždaňa",
-      "Informácie": "Imrich Bakši, tel.: 0905 238 160  Martina Bakšiová, tel.: 0915 205 227"
-    }
-  },
-  {
-    "datum": "2026-09-13",
-    "url": "https://beh.sk/pretek/20-mierovych-kilometrov-okolo-spisskeho-hradu-17/",
-    "nazov": "Beh okolo Spišského hradu",
-    "mesto": "Spišské Podhradie",
-    "info": {
-      "Dĺžka trate": "12 km, 19 km",
-      "Povrch": "15,3 km je asfaltový povrch, 3,7 km je spevnená poľná cesta a trávnatý povrch",
-      "Štart": "9:00 hod.",
-      "Miesto": "Spišské Podhradie, Pred MsÚ",
-      "Organizátor": "Mesto Spišské Podhradie",
-      "Informácie": "Mgr. Jozef Srnka, tel.: 0948 105 408, e-mail: prednosta@spisskepodhradie.sk"
-    }
-  },
-  {
-    "datum": "2026-09-13",
-    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-7-kolo-11/",
-    "nazov": "Trenčianská bežecká liga – 7. kolo",
-    "mesto": "Svinná",
-    "info": {
-      "Dĺžka trate": "7,77 km, prevýšenie 104m",
-      "Povrch": "asfalt 35%, terén 65%",
-      "Štart": "10:00 hod.",
-      "Miesto": "Svinná, futbalové ihrisko",
-      "Informácie": "Ladislav Matejka, tel.: 0904 487 481, e-mail: info@tbl.sk  Milan Makiš, tel.: 0904 239 233, e-mail: info@tbl.sk"
-    }
-  },
-  {
-    "datum": "2026-09-13",
-    "url": "https://beh.sk/pretek/beh-okolo-sliacov-17/",
-    "nazov": "Beh okolo Sliačov",
-    "mesto": "Liptovské Sliače okr. Ružomberok",
-    "info": {
-      "Dĺžka trate": "10 km a menej",
-      "Povrch": "terén, asfalt",
-      "Štart": "10:00 hod. mládežnícke kat., 10:30 hod. dospelí",
-      "Miesto": "Liptovské Sliače okr. Ružomberok, nové ihrisko 1. OFC",
-      "Organizátor": "Obecný úrad, Základná škola s Materskou, školou Jozefa Hanulu, 1.OFC Liptovské Sliače, Olympijsky klub Liptova",
-      "Informácie": "Obecný úrad Liptovské Sliače, tel.: 044/437 21 71  Pavol Hanula, tel.: 0908 918 382"
-    }
-  },
-  {
-    "datum": "2026-09-13",
-    "url": "https://beh.sk/pretek/filakovsky-hradny-beh-3/",
-    "nazov": "Fiľakovský hradný beh",
-    "mesto": "Fiľakovo",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "9:00 hod. detské, 10:00 hod. 10 km, 10:02 hod. 5 km a NW",
-      "Miesto": "Fiľakovo, Fiľakovský hrad",
-      "Organizátor": "ŠK Novohrad Fiľakovo, o. z.",
-      "Informácie": "Bc. Zuzana Kováčová, tel.: +421918 040 555"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/nocny-beh-mestom-lucenec-4/",
-    "nazov": "Nočný beh mestom Lučenec",
-    "mesto": "Lučenec",
+    "datum": "2026-09-25",
+    "url": "https://beh.sk/pretek/run-set-s-dj-ekg-zilina/",
+    "nazov": "Run Set s DJ EKG Žilina",
+    "mesto": "Žilina",
     "info": {
       "Dĺžka trate": "4,5 km",
-      "Povrch": "asfalt",
-      "Štart": "19:30 hod.",
-      "Miesto": "Lučenec, Adyho 69/7, Synagóga",
-      "Organizátor": "Mesto Lučenec , OZ Novohrad",
-      "Informácie": "Marian Duzbaba tel.: 0907 146 181"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/skolacik-detsky-beh-2/",
-    "nazov": "Školáčik detský beh",
-    "mesto": "Lučenec",
-    "info": {
-      "Dĺžka trate": "150 m - 1200",
-      "Štart": "10:00 hod.",
-      "Miesto": "Lučenec, synagóga",
-      "Organizátor": "mesto Lučenec, OZ Novohrad",
-      "Informácie": "Marian Duzbaba tel: 0907146181, messenger Marian Duzbaba"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/beh-okolo-lysej-16/",
-    "nazov": "Beh okolo Lysej",
-    "mesto": "Lysá pod Makytou okr. Púchov",
-    "info": {
-      "Dĺžka trate": "6 000m, 3 000 m",
-      "Povrch": "asfalt",
-      "Štart": "10:00 hod. – deti, 11:30 hod. 3 km 12:00 hod. 6 km",
-      "Miesto": "Lysá pod Makytou okr. Púchov, pri kultúrnom dome",
-      "Organizátor": "Bežecký klub Lysá pod Makytou",
-      "Informácie": "Róbert Janíček, 020 54 Lysá pod Makytou 187, tel.: 0907 603 337, e-mail: robertjanicek1@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/petrzalska-10/",
-    "nazov": "Petržalská 10",
-    "mesto": "Bratislava-Petržalka",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Povrch": "asfalt",
-      "Štart": "10:00 deti, 11:30 hod. hlavný beh",
-      "Miesto": "Bratislava-Petržalka, Námestie Republiky",
-      "Organizátor": "Športová Nadácia Kotrmelec",
-      "Informácie": "Tony Reichmann, tel.: 0949 276 762"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/behaj-lesmi-topolcianky-2/",
-    "nazov": "Behaj lesmi Topoľčianky",
-    "mesto": "Topoľčianky",
-    "info": {
-      "Dĺžka trate": "11 km, 22 km, 5 km",
-      "Povrch": "lesné cesty",
-      "Štart": "Viď propozície",
-      "Miesto": "Topoľčianky, Topoľčianky",
-      "Organizátor": "Asociácia športu pre radosť, o.z.",
-      "Informácie": "RAUL SLOVAKIA, s.r.o.,  e-mail: info@behajlesmi.sk"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/marina-run-6/",
-    "nazov": "Marina Liptov RUN",
-    "mesto": "Bobrovník, okres Liptovský Mikuláš",
-    "info": {
-      "Dĺžka trate": "9 km",
-      "Povrch": "asfalt, lesná cesta",
-      "Štart": "10:00 hod.",
-      "Miesto": "Bobrovník, okres Liptovský Mikuláš, Marina Liptov",
-      "Organizátor": "Olympijský klub Liptova a rezort Marina Liptov"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/lemesanska-bezecka-liga-3-jesenne-kolo-3/",
-    "nazov": "Lemešanská bežecká liga 3. Jesenné kolo",
-    "mesto": "Lemešany",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "zmiešaný - asfalt, poľné cesty",
-      "Štart": "16:00 hod.",
-      "Miesto": "Lemešany, Záhrada pohybu",
-      "Organizátor": "Obec Lemešany, Športová komisia obce Lemešany, Záhrada pohybu",
-      "Informácie": "Mária Sabolová, predseda združenia, tel.:0905 856 745, e-mail: msabolova11@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/beh-pre-labky-jesenny-special-2/",
-    "nazov": "Beh pre Labky jesenný špeciál",
-    "mesto": "Košice",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Povrch": "lesná cesta",
-      "Štart": "11:00 hod.",
-      "Miesto": "Košice, Košice - časť Kavečany, chata Hrešná",
-      "Organizátor": "Únia vzájomnej pomoci ľudí a psov UVP",
-      "Informácie": "Anna Dzunova Petrikova, tel.: 0948 922 745, e-mail: liliebihanz@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/night-run-michalovce-2/",
-    "nazov": "Michalovce Stars Run",
-    "mesto": "Michalovce",
-    "info": {
-      "Dĺžka trate": "11 km, 6 km",
-      "Povrch": "asfalt",
-      "Štart": "17:00 hod. dospelí, 15:00 hod. detské preteky",
-      "Miesto": "Michalovce, Amfiteáter Hrádok",
-      "Organizátor": "Mesto Michalovce, Msks Michalovce, EXTRA o.z., TaZSMI, JUDr. Tímea Sotákova, ZEMPLÍNSKY EXTRÉM, RM - Developer s.r.o., POWERGRAF, Si Extra",
-      "Informácie": "Milena Miško Bičejová, tel. 0915 950 227"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/vysokohorsky-beh-cez-klin-13/",
-    "nazov": "Vysokohorský beh cez Klin",
-    "mesto": "Pribylina",
-    "info": {
-      "Dĺžka trate": "22,5 km; (prevýšenie 1350 m), 43,4 km (prevýšenie 3120 m)",
-      "Povrch": "lesná cesta, lesný chodník, skalnatý a trávnatý hrebeň, miestami exponovaný",
-      "Štart": "9:30 hod. horský hotel Akademik Račkova dolina",
-      "Miesto": "Pribylina, horský hotel Akademik Račkova dolina",
-      "Organizátor": "HK JAMES Liptovský Hrádok, Klub pribylinských lyžiarov a turistov",
-      "Informácie": "Milan Lizuch, tel.: 0903 624 449, e-mail: mln.lizuch@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/beh-okolica/",
-    "nazov": "Ľahký trail Okolica",
-    "mesto": "Bodovce",
-    "info": {
-      "Dĺžka trate": "9 km, prevýšenie 202 m",
-      "Povrch": "asfalt, terén",
-      "Štart": "09.15 hod. - detské behy, 10:00 hod. - Hlavná kategória",
-      "Miesto": "Bodovce, futbalové ihrisko",
-      "Organizátor": "Martin Jusko",
-      "Informácie": "Martin Jusko, tel.: 0908 237 797, e-mail: beh.okolica@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/brose-night-run-prievidza-7/",
-    "nazov": "Brose Night Run Prievidza",
-    "mesto": "Prievidza",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt",
-      "Štart": "...",
-      "Miesto": "Prievidza, Námestie Jozefa Cígera Hronského 1",
-      "Organizátor": "osoh studio, s. r. o., osoh, o.z., AK Baník Prievidza",
-      "Informácie": "Mário Šmýkal, tel.: 0907 041 488, e-mail: info@prievidzabeha.sk"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/silnejsi-ako-prekazky/",
-    "nazov": "Silnejší ako prekážky",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Povrch": "spevnené cesy",
-      "Štart": "10:00 hod. detský minimaratón, 11:00 hod. hlavný beh",
-      "Miesto": "Bratislava, Železná studienka",
-      "Organizátor": "Rozvoj dieťaťa",
-      "Informácie": "e-mail: natalia.moravcikova@rozvojdietata.sk"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/krskanska-krosova-desiatka-8/",
-    "nazov": "Krškanská krosová desiatka",
-    "mesto": "Nitra-Dolné Krškany",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfaltová cesta, prírodný povrch",
-      "Štart": "12:30 hod. deti, 13:30 hod. dospelí",
-      "Miesto": "Nitra-Dolné Krškany, Futbalový štadión, Biovetská ulica",
-      "Organizátor": "OZ Krškany 2020 v spolupráci s VMČ č.1 Nitra",
-      "Informácie": "e-mail: krskanska10@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/tamitos-charitativny-beh-pre-deti-s-autizmom/",
-    "nazov": "TAMITOS charitatívny beh pre deti s autizmom",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "9:00 hod.",
-      "Miesto": "Bratislava, River Park, Dvořákovo nábrežie 4",
-      "Organizátor": "OZ Tamitos"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/beh-nocnou-salou-14/",
-    "nazov": "Beh nočnou Šaľou",
-    "mesto": "Šaľa",
-    "info": {
-      "Dĺžka trate": "7,3 km",
-      "Povrch": "pevný povrch",
-      "Štart": "17:00 hod. lezúni, 17:30 hod. deti, 20:00 hod. hlavný beh",
-      "Miesto": "Šaľa, pred Mestským úradom",
-      "Organizátor": "Rada Šport, o.z., Mesto Šaľa",
-      "Informácie": "Tomáš Mészáros, tel.: +421 950 440 556, e-mail: info@behnocnousalou.sk"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/beh-pezinkom-15/",
-    "nazov": "GW Beh Pezinkom",
-    "mesto": "Pezinok",
-    "info": {
-      "Dĺžka trate": "10 km, 6 km",
-      "Povrch": "asfalt",
-      "Štart": "11.00 hod. Detské katégorie, 14:00 hod. Hlavný beh",
-      "Miesto": "Pezinok, Zámocký park",
-      "Organizátor": "LucPromotion s.r.o",
-      "Informácie": "Mgr. Lucia Bizoňová, tel.: 0905 601 749, e-mail: info@behpezinkom.com"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/komunitny-fitshaker-beh/",
-    "nazov": "Komunitný Fitshaker beh",
-    "mesto": "Bratislava",
-    "info": {
-      "Štart": "10:00 hod.",
-      "Miesto": "Bratislava, lesopark",
-      "Organizátor": "Fitshaker"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/marys-meals-beh-secovska-polianka-2/",
-    "nazov": "Mary’s Meals beh – Sečovská Polianka",
-    "mesto": "Sečovská Polianke (okres Vranov nad Topľou)",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Štart": "10:00 hod.",
-      "Miesto": "Sečovská Polianke (okres Vranov nad Topľou), futbalové ihrisko",
-      "Organizátor": "Obec Sečovská Polianka",
-      "Informácie": "e-mail: charitativnybehsp@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/beh-tekviciarov-6/",
-    "nazov": "Beh Tekvičiarov",
-    "mesto": "Žarnovica",
-    "info": {
-      "Dĺžka trate": "8 000 m",
-      "Povrch": "asfalt",
-      "Štart": "9:40 hod. hl. kategórie, 9:00 hod. detské kategórie",
-      "Miesto": "Žarnovica, Mestský športový areál Žarnovica",
-      "Organizátor": "OZ Žarnovickí bežci, ON POINT o.z.",
-      "Informácie": "e-mail: info@marathonbb.com"
-    }
-  },
-  {
-    "datum": "2026-09-12",
-    "url": "https://beh.sk/pretek/runway-trail-run-surany-b/",
-    "nazov": "Runway Trail Run Šurany",
-    "mesto": "Šurany",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "9:00 hod. detské behy, 10:00 hod. 10 km, 5 km, NW",
-      "Miesto": "Šurany, Airport Golf Club Šurany",
-      "Organizátor": "GOLF AIRPORT, s.r.o.",
-      "Informácie": "Maroš Očadlík, tel.: +421905421997, e-mail: info@airportgolf.sk"
-    }
-  },
-  {
-    "datum": "2026-09-11",
-    "url": "https://beh.sk/pretek/vecerny-beh-ruzomberok-9/",
-    "nazov": "Večerný beh Ružomberok",
-    "mesto": "Ružomberok",
-    "info": {
-      "Dĺžka trate": "6,9 km",
-      "Povrch": "asfalt, dlažba, schody",
-      "Štart": "16:00 hod - detské kategórie, 18:00 hod. - hlavné kategórie",
-      "Miesto": "Ružomberok, Park Štefana Hýroša",
-      "Organizátor": "Mesto Ružomberok a OZ Ružomberok v pohybe",
-      "Informácie": "Tomáš Gazdarica, tel.: 0905 315 201, e-mail: gazdarica@ruzomberok.sk"
-    }
-  },
-  {
-    "datum": "2026-09-06",
-    "url": "https://beh.sk/pretek/beh-2-mile-bratislava-9-kolo-16/",
-    "nazov": "Beh 2 míle Bratislava – 9. kolo",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "2 míle (3.218 km), deti cca 200m",
-      "Štart": "10:00 hod.",
-      "Miesto": "Bratislava, Kuchajda",
-      "Organizátor": "Sri Chinmoy Marathon Team",
-      "Informácie": "Sri Chinmoy Marathon Team, tel.: +421 2 444 542 61, +421 905 648 315, e-mail: scmt@scmt.sk"
-    }
-  },
-  {
-    "datum": "2026-09-06",
-    "url": "https://beh.sk/pretek/dukelsky-beh-mieru-18/",
-    "nazov": "Dukelský beh mieru",
-    "mesto": "Svidník",
-    "info": {
-      "Dĺžka trate": "19 km",
-      "Povrch": "asfalt",
-      "Štart": "9:00 hod. lezúni, 09:15 hod. MBZ, 09:30 hod. VBZ, 10:30 hod. hlavný beh,",
-      "Miesto": "Svidník, Štart: Dukliansky priesmyk, Cieľ: pešia zóna Svidník",
-      "Organizátor": "Mesto Svidník",
-      "Informácie": "Mgr. Kristína Tchirová vedúca odboru. Odbor kultúry, marketingu a cestovného ruchu., tel.: + 421 54 4863 609 +421 905 166 428, e-mail:   kristina.tchirova@svidnik.sk"
-    }
-  },
-  {
-    "datum": "2026-09-06",
-    "url": "https://beh.sk/pretek/klastorny-beh-5/",
-    "nazov": "Kláštorný beh",
-    "mesto": "Nitra",
-    "info": {
-      "Dĺžka trate": "10,5 km, 7 km",
-      "Povrch": "lesný terén",
-      "Štart": "10:20 hod. - deti,, 11:00 hod. - dospelí 11:10 hod. - mládež, juniori, hobby",
-      "Miesto": "Nitra, parkovisko pred Špecializovanou nemocnicou sv. Svorada",
-      "Organizátor": "Zoborský skrášľovací spolok, Mesto Nitra",
-      "Informácie": "Róbert Šiška, tel.: 037 6502 142"
-    }
-  },
-  {
-    "datum": "2026-09-06",
-    "url": "https://beh.sk/pretek/maninsky-partizan-2/",
-    "nazov": "Manínsky Partizán",
-    "mesto": "Manínska Tiesňava",
-    "info": {
-      "Dĺžka trate": "9 km, prevýšenie 300m",
-      "Povrch": "horský terén",
-      "Štart": "9:30 hod.  Štartovať sa bude v 1 až 2 min. intervaloch v skupinách po 15 až 20 pretekárov, 14:30 hod. detti",
-      "Miesto": "Manínska Tiesňava, Camping Manínska Tiesňava",
-      "Organizátor": "Active Process o.z. a mesto Považská Bystrica",
-      "Informácie": "e-mail: activeprocessoz@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-06",
-    "url": "https://beh.sk/pretek/septembrovy-beh-raslavice-memorial-jozefa-kovalcina/",
-    "nazov": "Septembrový beh Raslavice – Memoriál Jozefa Kovalčína",
-    "mesto": "Raslavice",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "členitý terén / asfalt",
-      "Štart": "10:00 hod.",
-      "Miesto": "Raslavice, Amfiteáter",
-      "Organizátor": "Ján Matys, Obec Raslavice"
-    }
-  },
-  {
-    "datum": "2026-09-06",
-    "url": "https://beh.sk/pretek/luboticka-desiatka-11/",
-    "nazov": "Ľubotická desiatka",
-    "mesto": "Ľubotice, okr. Prešov",
-    "info": {
-      "Dĺžka trate": "10 km, (5 km)",
-      "Povrch": "asfalt a poľná cesta",
-      "Štart": "10:30 hod. hl. kat.; 9:00 hod. detské.; 10:30 hod. NW",
-      "Miesto": "Ľubotice, okr. Prešov, futbalové ihrisko",
-      "Organizátor": "Obec Ľubotice a TJ Sokol Ľubotice - Bežecký klub",
-      "Informácie": "Eva Lešková, tel.: 0908 800 107  Lukáš Kormaník, tel.: 0949 809 361   email: info@luboticka10.sk"
-    }
-  },
-  {
-    "datum": "2026-09-06",
-    "url": "https://beh.sk/pretek/poltarsky-beh-3/",
-    "nazov": "Poltársky beh",
-    "mesto": "Poltár",
-    "info": {
-      "Dĺžka trate": "10 km, 4,5 km",
-      "Štart": "11:00 hod.",
-      "Miesto": "Poltár, Café park",
-      "Organizátor": "Katarína Strmenová",
-      "Informácie": "tel.: 0907 116 836"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/6-hodinovka-pod-sarisskym-hradom-2/",
-    "nazov": "6 hodinovka pod Šarišským hradom",
-    "mesto": "Veľký Šariš okr. Prešov",
-    "info": {
-      "Dĺžka trate": "6 hod.,",
-      "Povrch": "asfalt",
-      "Štart": "8:00 hod.",
-      "Miesto": "Veľký Šariš okr. Prešov, Ul. Doliny",
-      "Organizátor": "Gejza Sabanoš, Ondrej Fedor",
-      "Informácie": "Gejza Sabanoš, tel.: 0948 491 021, e-mail: gejzasabanos@gmail.com  Ondrej Fedor, tel.: 0908 339 536"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/beh-novoveskou-hutou-18/",
-    "nazov": "Beh Novoveskou Hutou",
-    "mesto": "Novoveská Huta okr. Spišská Nová Ves",
-    "info": {
-      "Dĺžka trate": "12,2 km",
-      "Povrch": "asfalt",
-      "Štart": "13:00 hod. deti, 15:00 hod. dospelí, dorast, pre zdravie",
-      "Miesto": "Novoveská Huta okr. Spišská Nová Ves, námestie v Novoveskej Hute",
-      "Organizátor": "Občianske združenie Novoveská Huta a Mesto Spišská Nová Ves",
-      "Informácie": "Jitka Nováková, tel.: 0918 994 867, e-mail: oznovoveskahuta@gmail.com  Ján Novák, tel.: 0905 872 562, e-mail: novakjan7411@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/ozorovska-dvanastka-5/",
-    "nazov": "Ozorovská dvanástka",
-    "mesto": "Veľké Ozorovce",
-    "info": {
-      "Dĺžka trate": "12 km, 6 km",
-      "Štart": "9:00 hod. deti, 10:00 hod. Dospelí",
-      "Miesto": "Veľké Ozorovce, Parkovisko pred KD",
-      "Organizátor": "Obec Veľké Ozorovce v spolupráci s OZ Zorovčan",
-      "Informácie": "František Korytko, tel.: 0903 239 558, e-mail: františek.korytko@gmail.com  Peter Buc, tel.: 0905 299 189, e-mail: peter.buc1959@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/horsky-kros-gerlach-17/",
-    "nazov": "Horský kros Gerlach",
-    "mesto": "Gerlachov okr. Poprad",
-    "info": {
-      "Dĺžka trate": "8,4 km, prevýšenie 879 m",
-      "Povrch": "Vysokohoské turistické chodníky, asfalt",
-      "Štart": "10:05 hod.  muži, ženy, juniori, juniorky  (8 400 m)",
-      "Miesto": "Gerlachov okr. Poprad, Gerlachov od pomníka ( Prezentácia: Obecný úrad Gerlachov )",
-      "Organizátor": "Občianske združenie Horský kros Gerlach v spolupráci s obcou Gerlachov, mestom Vysoké Tatry a Správou TANAP-u",
-      "Informácie": "Ing. Martin Mlynár : tel.: 0904 548 260, e-mail: info@horskykrosgerlach.sk"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/velatsky-lesny-beh-12/",
-    "nazov": "Veľatský lesný beh",
-    "mesto": "Veľaty",
-    "info": {
-      "Dĺžka trate": "16 km, 11 km, 6 km",
-      "Povrch": "Asfalt – 10%, spevnená cesta – 20%, lesná cesta – 70%",
-      "Štart": "10:00 hod.",
-      "Miesto": "Veľaty, ihrisko FK Veľaty",
-      "Organizátor": "OZ Stopa a Obec Veľaty",
-      "Informácie": "e-mail : kontakt@ozstopa.sk"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/tatravagonka-v-pohybe-2/",
-    "nazov": "Tatravagónka v pohybe",
-    "mesto": "Poprad",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "99% lesná a poľná cesta, 1 % asfalt",
-      "Štart": "09:30 hod. hlavný beh, 10:00 hod.  NW, 11:00 hod. detské behy",
-      "Miesto": "Poprad, Stredná športová škola",
-      "Organizátor": "SPK MEDVEĎ, o.z., Kollárova 2558/10, 052 01 Spišská Nová Ves, v zastúpení: Ing. Branislav Toporcer, predseda o.z.",
-      "Informácie": "tel.: +421 918 735 290, e-mail: spkmedved@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/telekom-night-run-13/",
-    "nazov": "Telekom Night run",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Povrch": "pevný povrch",
-      "Štart": "20:00 hod.",
-      "Miesto": "Bratislava, Aupark – Einsteinova 18",
-      "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Mestská časť Bratislava – Staré mesto, Mestská časť Petržalka, Bratislavský samosprávny kraj",
-      "Informácie": "tel.:  00421/904 404 638, e-mail: info@becool.sk"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/turbo-tv-detske-behy-4/",
-    "nazov": "Turbo TV detské behy",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "300 m - 800 m",
       "Povrch": "asfalt, dlažba",
-      "Štart": "17:00 hod.",
-      "Miesto": "Bratislava, Aupark – Einsteinova 18",
-      "Organizátor": "BE COOL, s.r.o., Hlavné mesto SR Bratislava, Mestská časť Bratislava – Staré mesto, Mestská časť Petržalka, Bratislavský samosprávny kraj",
-      "Informácie": "tel.:  00421/904 404 638, e-mail: info@becool.sk"
+      "Štart": "19:00 hod.",
+      "Miesto": "Žilina, Hlinkovo námestie (pred OC Mirage)",
+      "Organizátor": "Interun, o.z."
     }
   },
   {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/branovsky-beh-o-pohar-starostky-obce-8/",
-    "nazov": "Branovský beh",
-    "mesto": "Branovo, okr. Nové Zámky",
+    "datum": "2026-09-23",
+    "url": "https://beh.sk/pretek/beh-ulicami-obce-smizany-18/",
+    "nazov": "Beh ulicami obce Smižany",
+    "mesto": "Smižany okr. Spišská Nová Ves",
     "info": {
       "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt, poľná cesta",
-      "Štart": "09:15 hod. detské behy, 10:20 hod. hlavný beh",
-      "Miesto": "Branovo, okr. Nové Zámky, pred Kultúrnym domom",
-      "Organizátor": "Obec Branovo, Občianske združenie Breznovčan a Bežecký klub Branovo",
-      "Informácie": "Katarína Musilová, tel.: 0908 748 330, e-mail:  holubova.katarina192@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/beh-hubovskym-okruhom-3/",
-    "nazov": "Beh Hubovským okruhom",
-    "mesto": "Hubová, okr. Ružomberok",
-    "info": {
-      "Dĺžka trate": "10,1 km, prev. 500 m, 5,5 km",
-      "Povrch": "lesná cesta, horský chodník",
-      "Štart": "10:00 hod. hlavný beh, 10:15 hod. detské behy",
-      "Miesto": "Hubová, okr. Ružomberok, areál futbalového ihriska",
-      "Organizátor": "Turistický klub Tramp Hubová a obec Hubová",
-      "Informácie": "Ing. Martin Kuniak, tel.l: 0918 337 452, e-mail: martin.kuniak@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/bucansky-beh-4/",
-    "nazov": "Bučánsky beh",
-    "mesto": "Bučany, okr. Trnava",
-    "info": {
-      "Dĺžka trate": "10 600 m, hobby beh 5 300 m",
-      "Povrch": "asfalt, trávnatý povrch",
-      "Štart": "17:00 hod. -  dospelí,  15:30 hod. - detské kategórie",
-      "Miesto": "Bučany, okr. Trnava, Futbalový štadión OFK Bučany",
-      "Organizátor": "Obec Bučany ,OFK Bučany, DHZ Bučany, OZ Robus",
-      "Informácie": "Ing. Jozef Valášek, tel.: 0904 789 885, e-mail: : bucanskybeh@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/zakopecka-cezpolna-20-tka-6/",
-    "nazov": "Zakopecká cezpoľná 20-tka",
-    "mesto": "Zákopčie, okr. Čadca",
-    "info": {
-      "Dĺžka trate": "20 900 m",
-      "Povrch": "asfaltový, hornatý, kamenistý",
-      "Štart": "10:00 hod.",
-      "Miesto": "Zákopčie, okr. Čadca, Zákopčie – Fľašík, futbalové ihrisko pri Základnej škole",
-      "Organizátor": "Obec Zákopčie",
-      "Informácie": "Ján Slaninák – starosta obce Zákopčie, tel.: 0911 270 159, e-mail: jan.slaninak@zakopcie.sk   Golis Vladimír, tel.: 0904 651 106, e-mail: infozakopcie@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/tajchova-osmicka-13/",
-    "nazov": "Tajchová osmička",
-    "mesto": "Nová Baňa",
-    "info": {
-      "Dĺžka trate": "8 km (5,52 km, 21,33 km )",
-      "Povrch": "asfalt, terén",
-      "Štart": "10:45 hod. - Štart kategórií G1 – G3 (21,33 km) 11:00 hod. – detské; 12:00 hod. Hlavný pretek A1 – A3, B1 – B2 a C1 – C3, 13:00 hod.",
-      "Miesto": "Nová Baňa, rekreačné stredisko Tajch Nová Baňa",
-      "Organizátor": "Mesto Nová Baňa, Zvonička, o.z. a nadšenci behu",
-      "Informácie": "Dagmar Lachká MBA – Mestský úrad Nová Baňa – Oddelenie kultúry, športu a mestskej knižnice, tel.: 045/678 28 85, e-mail: kultura@novabana.sk"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/inovecky-vybeh-do-kopca-15/",
-    "nazov": "Inovecký výbeh do kopca",
-    "mesto": "Chata pod Inovcom",
-    "info": {
-      "Dĺžka trate": "1 400 m, prevýšenie 257 m",
-      "Povrch": "terén",
-      "Štart": "10:00 hod.",
-      "Miesto": "Chata pod Inovcom, Chata pod Inovcom",
-      "Organizátor": "DIVO o.z., Klub Polar Alpin Trenčín",
-      "Informácie": "tel.: 0905 723 975, 0905 162 841"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/rbeh-na-horky-14/",
-    "nazov": "Beh na Hôrky",
-    "mesto": "Benice (okr. Martin)",
-    "info": {
-      "Dĺžka trate": "10 km (9 960 m), prevýšenie 226 metrov, 5 km",
-      "Povrch": "lúka/lesný terén",
-      "Štart": "10:10 hod. - NW; 10:15 hod. -  Deti a Junior/ky; 10:30 hod. - dospelí",
-      "Miesto": "Benice (okr. Martin), Centrum obce Benice",
-      "Organizátor": "Občianske združenie R.T.T. Klub",
-      "Informácie": "R.T.T. KLUB, Benice 69, tel.: 0914 327 484, e-mail: rtt@rtt-klub.sk"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/cestny-beh-sabinov-lipany/",
-    "nazov": "Cestný beh Sabinov-Lipany",
-    "mesto": "Sabinov",
-    "info": {
-      "Dĺžka trate": "13 km",
-      "Štart": "10:00 hod.",
-      "Miesto": "Sabinov, futbalový štadión"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/lesny-beh-lyziarov-o-putovny-pohar-starostu-obce-hybe-18/",
-    "nazov": "Lesný beh o putovný pohár starostu obce Hybe",
-    "mesto": "Hybe okr. Lipt. Mikuláš",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "travnaty-lesne chodniky",
-      "Štart": "10:00 hod. žiactvo; 11:00 hod. dospelí, 12:00 hod. beh na boso",
-      "Miesto": "Hybe okr. Lipt. Mikuláš, Areál bežeckého lyžovania– Koliesko - Hybe",
-      "Organizátor": "OZ v POHYBE, KBBL TJ Tatran Hybe a Obec Hybe",
-      "Informácie": "Ing. Peter Lehotský, tel.:  0905 234 878, e-mail: vpohybe@hybe.sk"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/sky-marathon-chopok-11/",
-    "nazov": "Sky Marathon Chopok",
-    "mesto": "Srdiečko - Chopok",
-    "info": {
-      "Dĺžka trate": "43 km a 2600 m prevýšenie",
-      "Povrch": "poľná cesta alebo turistický chodník, krátko asfalt",
-      "Štart": "7:00 hod.",
-      "Miesto": "Srdiečko - Chopok, Srdiečko - Nízke Tatry Juh",
-      "Organizátor": "LeitnerSport",
-      "Informácie": "tel.: 0903 445 791, e-mail: office@leitnersport.sk"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/jasna-trail-5/",
-    "nazov": "Sky Race Jasná Trail",
-    "mesto": "Srdiečko - Chopok Juh",
-    "info": {
-      "Dĺžka trate": "21 km prevýšenie 1400 m",
-      "Povrch": "poľná cesta alebo turistický chodník, krátko asfalt",
-      "Štart": "10:00 hod.",
-      "Miesto": "Srdiečko - Chopok Juh, Kosodrevina - Nízke Tatry Juh",
-      "Organizátor": "LeitnerSport",
-      "Informácie": "tel.: 0903 445 791, e-mail: office@leitnersport.sk"
-    }
-  },
-  {
-    "datum": "2026-09-05",
-    "url": "https://beh.sk/pretek/abrahamska-litacka-3/",
-    "nazov": "Abrahámska lítačka",
-    "mesto": "Abrahám",
-    "info": {
-      "Dĺžka trate": "3,3 km, počet prekážok > 10,",
-      "Povrch": "Povrch trate: tráva, orná pôda, vodný tok, asfalt",
-      "Štart": "9.00 hod. - štart zmiešaných kategórií muži a ženy  10.00 hod. - štart zmiešaných kategórií deti a juniori do 16 rokov",
-      "Miesto": "Abrahám, futbalové ihrisko",
-      "Organizátor": "občianske združenie Cez prekážky"
+      "Povrch": "asfalt",
+      "Štart": "16:30 hod. - hl. kat.; 14:15 hod. - detské kat.",
+      "Miesto": "Smižany okr. Spišská Nová Ves, Nám. M. Pajdušáka pred ZUŠ Dezidera Štraucha Smižany",
+      "Organizátor": "Obec Smižany, CVČ Adam SNV, Olympijský klub SPIŠ, Mišo s.r.o., OKC Smižany, ZŠ Komenského Smižany, ZUŠ Smižany, ZŠ Povýšenia sv. Kríža, Smižany",
+      "Informácie": "PaedDr. Andrea Baluchová, OŠaSŠÚ Smižany, Nám. M. Pajdušáka, 053 11 Smižany, tel.: 053/443 14 83 (kl. 214), mobil: 0918 963 798, e-mail: andrea.baluchova@smizany.sk"
     }
   }
 ]
