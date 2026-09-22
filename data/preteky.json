@@ -525,6 +525,20 @@
     }
   },
   {
+    "datum": "2026-10-25",
+    "url": "https://beh.sk/pretek/criterium-de-kubin-4/",
+    "nazov": "Criterium de Kubín",
+    "mesto": "Dolný Kubín",
+    "info": {
+      "Dĺžka trate": "hodinovka, 12 minútovka",
+      "Povrch": "tartan",
+      "Štart": "14:00 hod. žiactvo, Muži 3, Ženy 3 - 12 minút, 14:30 hod. hlavné kategórie - hodinovka",
+      "Miesto": "Dolný Kubín, štadión MUDr. Ivana Chodáka",
+      "Organizátor": "Mesto Dolný Kubín , Bežecký klub Dolný Kubín , OK ORAVA",
+      "Informácie": "Ing. Štefan Belvončík, tel.: 0915 847 514, 📧 stefan.belvoncik@dolnykubin.sk  Miroslav Hrabal, tel.: 0908 499 183, 📧 runclubdk@gmail.com  Ing. Michal Strežo, tel.: 0904 075 261"
+    }
+  },
+  {
     "datum": "2026-10-24",
     "url": "https://beh.sk/pretek/rajecka-12-minutovka-9/",
     "nazov": "Rajecká 12-minútovka",
@@ -1730,6 +1744,33 @@
     }
   },
   {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/kysuce-trail-2/",
+    "nazov": "MK Tech Kysuce trail",
+    "mesto": "Krásno nad Kysucou",
+    "info": {
+      "Dĺžka trate": "26 km, 7 km",
+      "Štart": "10:00 hod. - beh, 9:00 hod. - Beh so psom a Nordic walking, 11:00 hod. - detský beh",
+      "Miesto": "Krásno nad Kysucou, Námestie pred Kultúrnym domom",
+      "Organizátor": "Atletický klub TJ Tatran Krásno nad Kysucou a mesto Krásno nad Kysucou",
+      "Informácie": "tel.: 0949 432 447, email: vladimir.kormanec@mestokrasno.sk"
+    }
+  },
+  {
+    "datum": "2026-09-26",
+    "url": "https://beh.sk/pretek/beh-do-oblakov-6/",
+    "nazov": "Beh do oblakov",
+    "mesto": "Bojnice",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt",
+      "Štart": "9:45 hod. – Deti, 11:30 hod. - hlavný beh,10 km; 11:35 hod. - hobby beh, 5 km; 11:36 hod. - NV, 5 km",
+      "Miesto": "Bojnice, Areál Kúpeľov Bojnice , riaditeľstvo kúpeľov Bojnice",
+      "Organizátor": "občianske združenie AKTÍVNY KLUB",
+      "Informácie": "Anna Žiaková, tel.:  +421 908 354 296, e-mail: azrealpd@gmail.com  Miroslav Žiak, e-mail: rifleman1987@gmail.com"
+    }
+  },
+  {
     "datum": "2026-09-25",
     "url": "https://beh.sk/pretek/beh-tokajskymi-vinicami-14/",
     "nazov": "Beh Tokajskými vinicami",
@@ -1768,144 +1809,6 @@
       "Miesto": "Smižany okr. Spišská Nová Ves, Nám. M. Pajdušáka pred ZUŠ Dezidera Štraucha Smižany",
       "Organizátor": "Obec Smižany, CVČ Adam SNV, Olympijský klub SPIŠ, Mišo s.r.o., OKC Smižany, ZŠ Komenského Smižany, ZUŠ Smižany, ZŠ Povýšenia sv. Kríža, Smižany",
       "Informácie": "PaedDr. Andrea Baluchová, OŠaSŠÚ Smižany, Nám. M. Pajdušáka, 053 11 Smižany, tel.: 053/443 14 83 (kl. 214), mobil: 0918 963 798, e-mail: andrea.baluchova@smizany.sk"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/besenovsky-charitativny-beh-pre-mapenzi-4/",
-    "nazov": "Bešeňovský charitatívny beh pre MAPENZI",
-    "mesto": "Bešeňov",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "9:45 hod. štart detských behov, 10:30 hod. štart hlavného behu",
-      "Miesto": "Bešeňov, Futbalové ihrisko",
-      "Organizátor": "BK Bešeňov, MAPENZI by Generation of love, Obec Bešeňov",
-      "Informácie": "Denisa Gallová, tel.: 0918 833 477  Stephanie Deszatová, tel.: 0914 124 833  Patrik Ivan, tel.: 0908 585 420  Evelyn Tomová, tel.: 0908 598 948"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/trail-hubkovou-5/",
-    "nazov": "Generali Trail Hubkovou",
-    "mesto": "Humenné",
-    "info": {
-      "Dĺžka trate": "8,6 km",
-      "Štart": "13:00 hod. hlavné preteky,11:00 hod. detské kategórie",
-      "Miesto": "Humenné, námestie pri MsKS",
-      "Organizátor": "Bežecký klub Humenné s podporou mesta Humenné a miestnych sponzorov",
-      "Informácie": "Stanislav Mikita, tel.: +421 911 480 484;   Miroslav Ištoňa, tel.: +421 915 694 090, e-mail: bkhumenne@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/olsavsky-pohar-13/",
-    "nazov": "Olšavský pohár – Memoriál Júliusa Kažimíra",
-    "mesto": "Ruskov okr. Košice okolie",
-    "info": {
-      "Dĺžka trate": "16,8 km; 9,7 km",
-      "Povrch": "asfalt",
-      "Štart": "13:00 hod. - detské kat.; 14:00 hod. dospelí 16,8 km + 9,7 km",
-      "Miesto": "Ruskov okr. Košice okolie, pred Obecným úradom",
-      "Organizátor": "Obec Ruskov a Dobrovoľný hasičský zbor Ruskov  v spolupráci s obcami Ďurkov, Olšovany, Vyšný Čaj, Nižný Čaj, Bohdanovce, Blažice",
-      "Informácie": "Martin Juhás, tel.: 0918 505 856, e-mail: martin.juhas@biog.sk  Jana Drančáková, tel.: 0905447099, e-mail: jana.drancakova@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/trnavsky-runwalk-4/",
-    "nazov": "Trnavský RunWalk",
-    "mesto": "Trnava",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt, poľná cesta",
-      "Štart": "10:00 hod. hl. kategórie, 10:15 hod, deti, hendi, 11:00 hod. hobby, profi",
-      "Miesto": "Trnava, Kamenný Mlyn",
-      "Organizátor": "Za ruku, o.z.",
-      "Informácie": "Michaela Bročková, e-mail: oz.zaruku@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/drahovska-desiatka-15/",
-    "nazov": "Drahovská desiatka",
-    "mesto": "Drahovce okr. Piešťany",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt",
-      "Štart": "14:00 hod. detské kat., 15:20 hod. dospelí a dorast",
-      "Miesto": "Drahovce okr. Piešťany, štadión OFK Drahovce",
-      "Organizátor": "Obecný úrad Drahovce",
-      "Informácie": "Majtán Martin, tel.: 0910 193 602, e-mail: martinmajtan@obecdrahovce.sk"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/vrakunsky-beh-10/",
-    "nazov": "Vrakunský beh",
-    "mesto": "Vrakuňa",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt, časť zámková dlažba, časť prírodný spevnený povrch",
-      "Štart": "9:00 hod. deti, 10:00 hod.  10 km a 5 km, 10:05 hod. NW",
-      "Miesto": "Vrakuňa, Nábrežie Malého Dunaja, Malodunajská ulica",
-      "Organizátor": "Občianske združenie Šport a zdravie, Big-agency, M.Č. Vrakuňa",
-      "Informácie": "OZ Šport a zdravie, e-mail: vrakunskybeh@rozbehajsa.sk"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/beh-pre-beh-12/",
-    "nazov": "Beh pre beh",
-    "mesto": "Bernolákovo",
-    "info": {
-      "Dĺžka trate": "10 km; 4,2 km",
-      "Povrch": "80% asfalt, 20% zem – tráva",
-      "Štart": "Deti – štart o 10:00 hod., Dospelí – štart o 11:30 hod. 10 km, 11:40 hod. 4,2 km a NW",
-      "Miesto": "Bernolákovo, Mostová ulica (Žabák)",
-      "Organizátor": "OZ Beh pre beh pod záštitou obce Bernolákovo",
-      "Informácie": "Katarína Donáthová, tel.: 0904 368 197, e-mail: behprebeh@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/zilinsky-mestsky-polmaraton-11/",
-    "nazov": "Žilinský mestský polmaratón",
-    "mesto": "Žilina",
-    "info": {
-      "Dĺžka trate": "21,097 km; 10,6 km, 5 km",
-      "Povrch": "asfalt, dlažba",
-      "Štart": "9:00 hod. Detské behy, 9:30 hod. -  Žilinská cestná míľa, 10:00 hod. -   všetky bežecké kategórie (juniori, ženy, muži), Dobrý ročník - senior run, Business run",
-      "Miesto": "Žilina, centrum mesta",
-      "Organizátor": "Bežecká komunita Žilina.run, Ecodico, Qpoint s.r.o., Atletický oddiel Slávia Žilinská  univerzita Žilina, Všeobecná zdravotná poisťovňa, a. s.",
-      "Informácie": "Tomáš Čelko, tel. +43 660 2775 658, e-mail: polmaratonzilina@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/horsky-beh-okolo-selcianskeho-dielu-11/",
-    "nazov": "Horský beh – Memoriál Jána Kupca",
-    "mesto": "Selce, okr. B. Bystrica",
-    "info": {
-      "Dĺžka trate": "10 000 m",
-      "Povrch": "spevnená lesná cesta",
-      "Štart": "dospelí - 10:00 hod. Deti 10:15 hod.",
-      "Miesto": "Selce, okr. B. Bystrica, Areál Čachovo",
-      "Organizátor": "Obec Selce, OZ AK šport Selce, Penzión Čachovo",
-      "Informácie": "Mgr. Jaroslava Lauková-Bukvajová, tel.: 0905 788 868, e-mail: jaroslavalaukova@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-20",
-    "url": "https://beh.sk/pretek/madonan-race-2/",
-    "nazov": "Madonan Race",
-    "mesto": "Kľačany",
-    "info": {
-      "Dĺžka trate": "7+ km",
-      "Povrch": "90% pastviny, lesné a poľné cesty, 10% asfalt",
-      "Štart": "10:00 hod. THESEUS, 11:00 hod. FARMÁR,",
-      "Miesto": "Kľačany, Farmpark MADONAN",
-      "Organizátor": "MADONAN Farmpark",
-      "Informácie": "tel.: +421 940 244 884 / +421 908 677 753, e-mail: madonan.race@gmail.com"
     }
   }
 ]

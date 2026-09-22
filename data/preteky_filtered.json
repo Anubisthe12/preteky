@@ -1200,6 +1200,23 @@
     "popis": ""
   },
   {
+    "nazov": "Criterium de Kubín",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/criterium-de-kubin-4/",
+    "datum": "2026-10-25",
+    "datum_do": "",
+    "mesto": "Dolný Kubín",
+    "dlzka": "hodinovka, 12 minútovka",
+    "povrch": "tartan",
+    "start_cas": "14:00 hod. žiactvo, Muži 3, Ženy 3 - 12 minút, 14:30 hod. hlavné kategórie - hodinovka",
+    "organizator": "Mesto Dolný Kubín , Bežecký klub Dolný Kubín , OK ORAVA",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Košickopolianská desiatka - 7. ročník",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/kosickapolianka2026",
@@ -1764,20 +1781,20 @@
     "popis": "Diaľkový turistický pochod na trasách dlhých 16 km, 25 km a 46 km nádherným prostredím Pienin."
   },
   {
-    "nazov": "Mini maratón Belža",
+    "nazov": "Cezpoľný beh Belža",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/minimaratonbelza",
     "datum": "2026-10-17",
     "datum_do": "",
     "mesto": "Belža",
-    "dlzka": "42,2 km",
+    "dlzka": "4.2 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
     "tagy": [
-      "maraton"
+      "beh"
     ],
-    "popis": "Obec Belža, Ústredný kontrolný a skúšobný ústav poľnohospodársky v Bratislave a karanténna stanica v Belži vás pozývajú na cezpoľný beh."
+    "popis": "Obec Belža a Ústredný kontrolný a skúšobný ústav poľnohospodársky v Bratislave - skúšobná a karanténna stanica v Belži (\"SKS Belža\") vás pozývajú na Cezpoľný beh. Hlavná trať 4,2 km (5,1 km) vedie poľnou a spevnenou cestou s pevným stanovišťom \"Perší"
   },
   {
     "nazov": "Psotkov memoriál",
@@ -1842,6 +1859,22 @@
       "maraton"
     ],
     "popis": "Polmaratón (21 km), Beh na 10 km, Beh na 5 km, Detské behy"
+  },
+  {
+    "nazov": "Mini maratón Belža",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/mini-maraton-belza-2026",
+    "datum": "2026-10-17",
+    "datum_do": "",
+    "mesto": "Belža",
+    "dlzka": "4.2 km",
+    "povrch": "",
+    "start_cas": "10:30",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": "Mini maratón Belža (4,2 km), Detské behy"
   },
   {
     "nazov": "Beh Poniky - Memoriál Ondreja Holca",
@@ -2394,7 +2427,7 @@
       "ultra",
       "teren"
     ],
-    "popis": "Trail 6 km, Detské behy, Trail 12 km"
+    "popis": "Trail 6 km, Detské behy, Trail 12 km, Tímová štafeta 4 × 3 km (12 km)"
   },
   {
     "nazov": "Spoznaj Trebišov behom – Night RUN",
@@ -3286,6 +3319,39 @@
     "popis": ""
   },
   {
+    "nazov": "MK Tech Kysuce trail",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/kysuce-trail-2/",
+    "datum": "2026-09-26",
+    "datum_do": "",
+    "mesto": "Krásno nad Kysucou",
+    "dlzka": "26 km, 7 km",
+    "povrch": "",
+    "start_cas": "10:00 hod. - beh, 9:00 hod. - Beh so psom a Nordic walking, 11:00 hod. - detský beh",
+    "organizator": "Atletický klub TJ Tatran Krásno nad Kysucou a mesto Krásno nad Kysucou",
+    "tagy": [
+      "ultra",
+      "teren"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Beh do oblakov",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/beh-do-oblakov-6/",
+    "datum": "2026-09-26",
+    "datum_do": "",
+    "mesto": "Bojnice",
+    "dlzka": "10 km, 5 km",
+    "povrch": "asfalt",
+    "start_cas": "9:45 hod. – Deti, 11:30 hod. - hlavný beh,10 km; 11:35 hod. - hobby beh, 5 km; 11:36 hod. - NV, 5 km",
+    "organizator": "občianske združenie AKTÍVNY KLUB",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Závadský štvanec 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/zavadskystvanec2026",
@@ -3300,23 +3366,6 @@
       "beh"
     ],
     "popis": "8. ročník pretekov na 10 km v Závadke nad Hronom"
-  },
-  {
-    "nazov": "MK Tech Kysuce trail",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/mktech-kysuce-trail-2026",
-    "datum": "2026-09-26",
-    "datum_do": "",
-    "mesto": "Krásno nad Kysucou",
-    "dlzka": "26 km, 7 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Detské behy, Hlavný beh (26 km), Beh so psom (7 km), 26 km, 7 km"
   },
   {
     "nazov": "Závadský štvanec",
@@ -3496,169 +3545,6 @@
     "popis": ""
   },
   {
-    "nazov": "Bešeňovský charitatívny beh pre MAPENZI",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/besenovsky-charitativny-beh-pre-mapenzi-4/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Bešeňov",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "9:45 hod. štart detských behov, 10:30 hod. štart hlavného behu",
-    "organizator": "BK Bešeňov, MAPENZI by Generation of love, Obec Bešeňov",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Generali Trail Hubkovou",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/trail-hubkovou-5/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Humenné",
-    "dlzka": "8,6 km",
-    "povrch": "",
-    "start_cas": "13:00 hod. hlavné preteky,11:00 hod. detské kategórie",
-    "organizator": "Bežecký klub Humenné s podporou mesta Humenné a miestnych sponzorov",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Olšavský pohár – Memoriál Júliusa Kažimíra",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/olsavsky-pohar-13/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Ruskov okr. Košice okolie",
-    "dlzka": "16,8 km; 9,7 km",
-    "povrch": "asfalt",
-    "start_cas": "13:00 hod. - detské kat.; 14:00 hod. dospelí 16,8 km + 9,7 km",
-    "organizator": "Obec Ruskov a Dobrovoľný hasičský zbor Ruskov  v spolupráci s obcami Ďurkov, Olšovany, Vyšný Čaj, Nižný Čaj, Bohdanovce, Blažice",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Trnavský RunWalk",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/trnavsky-runwalk-4/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Trnava",
-    "dlzka": "10 km, 5 km",
-    "povrch": "asfalt, poľná cesta",
-    "start_cas": "10:00 hod. hl. kategórie, 10:15 hod, deti, hendi, 11:00 hod. hobby, profi",
-    "organizator": "Za ruku, o.z.",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Drahovská desiatka",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/drahovska-desiatka-15/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Drahovce okr. Piešťany",
-    "dlzka": "10 km, 5 km",
-    "povrch": "asfalt",
-    "start_cas": "14:00 hod. detské kat., 15:20 hod. dospelí a dorast",
-    "organizator": "Obecný úrad Drahovce",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Vrakunský beh",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/vrakunsky-beh-10/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Vrakuňa",
-    "dlzka": "10 km, 5 km",
-    "povrch": "asfalt, časť zámková dlažba, časť prírodný spevnený povrch",
-    "start_cas": "9:00 hod. deti, 10:00 hod.  10 km a 5 km, 10:05 hod. NW",
-    "organizator": "Občianske združenie Šport a zdravie, Big-agency, M.Č. Vrakuňa",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh pre beh",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-pre-beh-12/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Bernolákovo",
-    "dlzka": "10 km; 4,2 km",
-    "povrch": "80% asfalt, 20% zem – tráva",
-    "start_cas": "Deti – štart o 10:00 hod., Dospelí – štart o 11:30 hod. 10 km, 11:40 hod. 4,2 km a NW",
-    "organizator": "OZ Beh pre beh pod záštitou obce Bernolákovo",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Žilinský mestský polmaratón",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/zilinsky-mestsky-polmaraton-11/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Žilina",
-    "dlzka": "21,097 km; 10,6 km, 5 km",
-    "povrch": "asfalt, dlažba",
-    "start_cas": "9:00 hod. Detské behy, 9:30 hod. -  Žilinská cestná míľa, 10:00 hod. -   všetky bežecké kategórie (juniori, ženy, muži), Dobrý ročník - senior run, Business run",
-    "organizator": "Bežecká komunita Žilina.run, Ecodico, Qpoint s.r.o., Atletický oddiel Slávia Žilinská  univerzita Žilina, Všeobecná zdravotná poisťovňa, a. s.",
-    "tagy": [
-      "maraton",
-      "asfalt"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Horský beh – Memoriál Jána Kupca",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/horsky-beh-okolo-selcianskeho-dielu-11/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Selce, okr. B. Bystrica",
-    "dlzka": "10 km",
-    "povrch": "spevnená lesná cesta",
-    "start_cas": "dospelí - 10:00 hod. Deti 10:15 hod.",
-    "organizator": "Obec Selce, OZ AK šport Selce, Penzión Čachovo",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Madonan Race",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/madonan-race-2/",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "mesto": "Kľačany",
-    "dlzka": "7+ km",
-    "povrch": "90% pastviny, lesné a poľné cesty, 10% asfalt",
-    "start_cas": "10:00 hod. THESEUS, 11:00 hod. FARMÁR,",
-    "organizator": "MADONAN Farmpark",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Memoriál Jána Kupca - Horský beh",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/memorial-jana-kupca-horsky-beh-2026",
@@ -3673,6 +3559,39 @@
       "beh"
     ],
     "popis": "Horský beh Memoriál Jána Kupca (10 km), Detské behy"
+  },
+  {
+    "nazov": "Žilinský mestský polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/zilinsky-mestsky-polmaraton-12-rocnik-2026",
+    "datum": "2026-09-20",
+    "datum_do": "",
+    "mesto": "Žilina",
+    "dlzka": "21.1 km, 10.6 km, 10 km",
+    "povrch": "",
+    "start_cas": "10:00",
+    "organizator": "",
+    "tagy": [
+      "maraton",
+      "asfalt"
+    ],
+    "popis": "Žilinský mestský polmaratón (21,1 km), Kolobežky (10,6 km), Desiatka (10 km), Detské behy"
+  },
+  {
+    "nazov": "Bešeňovský charitatívny beh pre MAPENZI",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/besenovsky-charitativny-beh-pre-mapenzi-2026",
+    "datum": "2026-09-20",
+    "datum_do": "",
+    "mesto": "Bešeňov",
+    "dlzka": "10 km, 5 km, 2 km",
+    "povrch": "",
+    "start_cas": "10:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh (10 km), Beh (5 km), Detské behy, Rekreačný beh (2 km)"
   },
   {
     "nazov": "Beh pre beh v Bernolákove",
@@ -3691,6 +3610,22 @@
     "popis": "Dospelí (10 km), Beh (4,2 km), 4,2 km, Detské behy"
   },
   {
+    "nazov": "Trnavský RunWalk",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/trnavsky-runwalk-2026",
+    "datum": "2026-09-20",
+    "datum_do": "",
+    "mesto": "Trnava",
+    "dlzka": "10 km, 5 km, 1 km",
+    "povrch": "",
+    "start_cas": "11:30",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "PROFI trať (10 km), HOBBY trať (5 km), Detské behy, 5 km, HENDI trať (1 km)"
+  },
+  {
     "nazov": "GENERALI TRAIL HUBKOVÁ",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/generali-trail-hubkova-2026",
@@ -3706,6 +3641,38 @@
       "teren"
     ],
     "popis": "Detské behy, Hlavné preteky (8,6 km)"
+  },
+  {
+    "nazov": "Olšavský pohár – Memoriál Júliusa Kažimíra",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/olsavsky-pohar-memorial-juliusa-kazimira-2026",
+    "datum": "2026-09-20",
+    "datum_do": "",
+    "mesto": "Ruskov",
+    "dlzka": "9.7 km, 16.8 km",
+    "povrch": "",
+    "start_cas": "14:00",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh (9,7 km), Detské behy, Hlavný beh (16,8 km)"
+  },
+  {
+    "nazov": "Drahovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/drahovska-desiatka-2026",
+    "datum": "2026-09-20",
+    "datum_do": "",
+    "mesto": "Drahovce",
+    "dlzka": "10 km, 5 km",
+    "povrch": "",
+    "start_cas": "15:20",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh na 10 km, Beh na 5 km, Detské behy"
   },
   {
     "nazov": "Karpatská vandrovka",

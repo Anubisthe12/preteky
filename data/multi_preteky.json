@@ -169,11 +169,11 @@
   },
   {
     "zdroj": "pretekaj.sk",
-    "nazov": "Mini maratón Belža",
+    "nazov": "Cezpoľný beh Belža",
     "url": "https://pretekaj.sk/minimaratonbelza",
     "datum": "17.10.2026",
     "mesto": "Belža",
-    "popis": "Obec Belža, Ústredný kontrolný a skúšobný ústav poľnohospodársky v Bratislave a karanténna stanica v Belži vás pozývajú na cezpoľný beh."
+    "popis": "Obec Belža a Ústredný kontrolný a skúšobný ústav poľnohospodársky v Bratislave - skúšobná a karanténna stanica v Belži (\"SKS Belža\") vás pozývajú na Cezpoľný beh. Hlavná trať 4,2 km (5,1 km) vedie poľnou a spevnenou cestou s pevným stanovišťom \"Perší dub\". Štart hlavného behu o 10:30, detské behy o 9:45. Prezentácia 8:00-9:30 v areáli \"SKS Belža\"."
   },
   {
     "zdroj": "pretekaj.sk",
@@ -10210,17 +10210,6 @@
   },
   {
     "zdroj": "hrdosport.sk",
-    "nazov": "Turčianská žiacka liga 2026",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
-    "datum": "22.09.2026",
-    "mesto": "Martin",
-    "info": {
-      "propozicie": "https://www.hrdosport.sk/Content/results/2026/9/PROP1059.pdf",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "hrdosport.sk",
     "nazov": "Majstrovstvá SsAZ mladšieho žiactva a najmladšieho žiactva",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=9",
     "datum": "27.09.2026",
@@ -10315,177 +10304,6 @@
     "mesto": "Klenovec",
     "info": {
       "propozicie": "https://www.hrdosport.sk/Content/results/2026/12/PROP1037.pdf",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "Jarný lesný beh v Michalovej XII ročník",
-    "url": "https://www.registrujsa.sk/mich26",
-    "datum": "2026-05-30",
-    "mesto": "",
-    "popis": "Už XII. ročník populárneho Lesného behu v Michalovej, s online registráciou Informácie:Ivana Veverková, Obecný úrad Michalová, Trosky 1, 976 57 Michalová, 0911858681, 0486199157 ivana.veverkova@michalova.sk Párovanie platieb: v týždňových intervaloch",
-    "info": {
-      "cal_id": "293"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "HLOBIŠOVSKÁ DEVIATKA 2026",
-    "url": "https://www.registrujsa.sk/hlobisov26",
-    "datum": "2026-06-27",
-    "mesto": "",
-    "popis": "Trailový beh v malebnom rozprávkovom prostredí Hájneho grúňa na upätí pohoria Poľana. Pripravili sme pre Vás trať 8,6 km s prevýšením 440m plnú nadherných technických chodníkov, horských luk a očarujucich výhladov na hrebeň Nízkych tatier. Miesto konania: SKI Hlobišov, Hronec /Slovensko/ Dátum konan",
-    "info": {
-      "cal_id": "295"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "Donovalský Drapák",
-    "url": "https://www.registrujsa.sk/drapak26",
-    "datum": "2026-08-01",
-    "mesto": "",
-    "popis": "DONOVALSKÝ DRAPÁK: RUN & BIKE SHOW DONOVALY 2026 Vyber si RUN alebo BIKE a postav sa tratiam, na ktorých sa ukáže, čo je v tebe. RUN: DRAPÁK BEH (10km) DRAPÁK BEH (20km) BIKE: DRAPÁK MARATÓN (50km) DRAPÁK HOBBY (22,5km) DRAPÁČIK JUNIORI (1,5km, 2,5km, 5,5km) DRAPÁČIK KRPCI (registrácia len osobne na",
-    "info": {
-      "cal_id": "294"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "Beh Tekvičiarov 2026",
-    "url": "https://www.registrujsa.sk/beh-tekviciarov-2026",
-    "datum": "2026-09-12",
-    "mesto": "",
-    "popis": "Šiesty ročník zážitkového 8km cestného behu so štartom na plochodrážnom ovále Mestského športového areálu v Žarnovici. POZOR! Štartujeme originál plochodrážnym štartovacím zariadením. 8km trasa behu vedie prímestskými komunikáciami s nenáročným profilom. Podujatie je vhodné pre hobby začínajúcich be",
-    "info": {
-      "cal_id": "297"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "Jarabský polmaratón 2026",
-    "url": "https://www.registrujsa.sk/jaraba26",
-    "datum": "2026-10-03",
-    "mesto": "",
-    "popis": "BEŽECKÁ VÝZVA V SRDCI NÍZKYCH TATIER\nTento trailový pretek (Sky Race) s dĺžkou 21,8 km nie je len o výkone, ale aj o zážitku. Náročná trasa plná stúpaní, klesaní a technického terénu preverí každého bežca - no zároveň každého odmení nezabudnuteľnými výhľadmi a silnám pocitom, že ste to zvádli. Trasa",
-    "info": {
-      "cal_id": "299"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "Lion Car RUN UP - beh po schodoch",
-    "url": "https://www.registrujsa.sk/run-up-26",
-    "datum": "2026-10-10",
-    "mesto": "",
-    "popis": "Najprestížnejšie preteky v tower runningu na Slovensku s dobročinným úmyslom 200 športovcov - 20 poschodí - jeden spoločný cieľ. Vybehni 20 poschodí v najvyššej budove v Banskej Bystrici a pomôž vybehať až 2 000 € pre dobrú vec. 5 € z každého štartovného v hlavnom behu a 3 € z detského štartovného p",
-    "info": {
-      "cal_id": "301"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "Silvestrovský beh obce Michalová, XXVII. ročník",
-    "url": "https://www.registrujsa.sk/sbom25",
-    "datum": "2025-12-31",
-    "mesto": "",
-    "popis": "XXVII. ročník populárneho Silvestrovského behu v Michalovej s online registráciou Informácie: Ivana Veverková, Obecný úrad Michalová, Trosky 1, 976 57 Michalová, 0910323331, 0486199157 ivana.veverkova@michalova.sk Párovanie platieb: pred pretekom",
-    "info": {
-      "cal_id": "284"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "Jarabský polmaratón 2025",
-    "url": "https://www.registrujsa.sk/jaraba25",
-    "datum": "2025-10-04",
-    "mesto": "",
-    "popis": "BEŽECKÁ VÝZVA V SRDCI NÍZKYCH TATIER Tento trailový pretek (Sky Race) s dĺžkou 21,8 km nie je len o výkone, ale aj o zážitku. Náročná trasa plná stúpaní, klesaní a technického terénu preverí každého bežca - no zároveň každého odmení nezabudnuteľnými výhľadmi a silnám pocitom, že ste to zvádli. Trasa",
-    "info": {
-      "cal_id": "280"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "Útek do divočiny",
-    "url": "https://www.registrujsa.sk/divocina2025",
-    "datum": "2025-09-15",
-    "mesto": "",
-    "popis": "Útek do divočiny je obľúbený horský trailový beh, ktorý sa každoročne koná v okolí Brezna (štart pri OD Kaufland). Ide o: Dĺžku trate: približne 11 km Prevýšenie: asi 550 m Typ terénu: poľné cesty, lesné chodníky a spevnené turistické chodníky Trasa behu Štart a cieľ sú z Brezna pri obchodnom dome K",
-    "info": {
-      "cal_id": "279"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "HLOBIŠOVSKÁ DEVIATKA 2025",
-    "url": "https://www.registrujsa.sk/hlobisov2025",
-    "datum": "2025-06-14",
-    "mesto": "",
-    "popis": "Trailový beh v malebnom rozprávkovom prostredí Hájneho grúňa na upätí pohoria Poľana. Pripravili sme pre Vás trať 8,6 km s prevýšením 440m plnú nadherných technických chodníkov, horských luk a očarujucich výhladov na hrebeň Nízkych tatier. Miesto konania: SKI Hlobišov, Hronec /Slovensko/ Dátum konan",
-    "info": {
-      "cal_id": "274"
-    }
-  },
-  {
-    "zdroj": "registrujsa.sk",
-    "nazov": "Jarný lesný beh v Michalovej XI ročník",
-    "url": "https://www.registrujsa.sk/mich25",
-    "datum": "2025-05-31",
-    "mesto": "",
-    "popis": "Už XI. ročník populárneho Lesného behu v Michalovej, s online registráciou Informácie:Ivana Veverková, Obecný úrad Michalová, Trosky 1, 976 57 Michalová, 0911858681, 0486199157 ivana.veverkova@michalova.sk Párovanie platieb: v týždňových intervaloch",
-    "info": {
-      "cal_id": "273"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Trnavský RunWalk",
-    "url": "https://vsetkybehy.sk/podujatie/trnavsky-runwalk-2026",
-    "datum": "2026-09-20",
-    "mesto": "Trnava",
-    "popis": "PROFI trať (10 km), HOBBY trať (5 km), Detské behy, 5 km, HENDI trať (1 km)",
-    "info": {
-      "Miesto": "Trnava – Kamenný Mlyn",
-      "Dĺžka trate": "10 km, 5 km, 1 km",
-      "Štart": "11:30",
-      "kraj": "trnavsky",
-      "gps": "48.3663116,17.5492466",
-      "seria": "",
-      "disciplíny": [
-        "PROFI trať (10 km)",
-        "HOBBY trať (5 km)",
-        "Detské behy",
-        "5 km",
-        "HENDI trať (1 km)"
-      ],
-      "registracia": "",
-      "web": "https://www.zaruku.sk/",
-      "propozicie": "https://misosport.sk/pretek/trnavsky-runwalk-2026",
-      "vysledky": "https://misosport.sk/vysledky/trnavsky-runwalk-2026"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Funny Road Runner Games",
-    "url": "https://vsetkybehy.sk/podujatie/funny-road-runner-race-1-2026",
-    "datum": "2026-09-21",
-    "mesto": "Piešťany",
-    "popis": "Detské behy",
-    "info": {
-      "Miesto": "Piešťany – ZŠ Brezová 19",
-      "Dĺžka trate": "",
-      "Štart": "16:00",
-      "kraj": "trnavsky",
-      "gps": "48.5895250,17.8213850",
-      "seria": "",
-      "disciplíny": [
-        "Detské behy"
-      ],
-      "registracia": "",
-      "web": "https://funnyathletics.sk/",
-      "propozicie": "https://statistika.atletika.sk/admin/media/propozice/Funny_Road_Runner_Games_21.09.2026.pdf",
       "vysledky": ""
     }
   },
@@ -12398,7 +12216,7 @@
     "url": "https://vsetkybehy.sk/podujatie/night-run-bachledka-2026",
     "datum": "2026-10-10",
     "mesto": "Ždiar",
-    "popis": "Trail 6 km, Detské behy, Trail 12 km",
+    "popis": "Trail 6 km, Detské behy, Trail 12 km, Tímová štafeta 4 × 3 km (12 km)",
     "info": {
       "Miesto": "Ždiar – Pešia zóna areálu strediska Bachledka SKI & SUN",
       "Dĺžka trate": "6 km, 12 km",
@@ -12409,7 +12227,8 @@
       "disciplíny": [
         "Trail 6 km",
         "Detské behy",
-        "Trail 12 km"
+        "Trail 12 km",
+        "Tímová štafeta 4 × 3 km (12 km)"
       ],
       "registracia": "https://my.raceresult.com/387537/registration",
       "web": "https://bachledka.sk/night-run-bachledka",
@@ -13350,7 +13169,7 @@
     "mesto": "Bratislava",
     "popis": "Open (650 schodov), PHZ (policajti, hasiči, záchranári) (650 schodov)",
     "info": {
-      "Miesto": "Bratislava – Nivy Tower",
+      "Miesto": "Bratislava – Nivy Tower, Mlynské nivy 18890/5",
       "Dĺžka trate": "",
       "Štart": "11:00",
       "kraj": "bratislavsky",
@@ -15209,6 +15028,29 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Funny Road Runner Games",
+    "url": "https://vsetkybehy.sk/podujatie/funny-road-runner-race-1-2026",
+    "datum": "2026-09-21",
+    "mesto": "Piešťany",
+    "popis": "Detské behy",
+    "info": {
+      "Miesto": "Piešťany – ZŠ Brezová 19",
+      "Dĺžka trate": "",
+      "Štart": "16:00",
+      "kraj": "trnavsky",
+      "gps": "48.5895250,17.8213850",
+      "seria": "",
+      "disciplíny": [
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "https://funnyathletics.sk/",
+      "propozicie": "https://statistika.atletika.sk/admin/media/propozice/Funny_Road_Runner_Games_21.09.2026.pdf",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh pre radosť",
     "url": "https://vsetkybehy.sk/podujatie/beh-pre-radost-2-rocnik-2026",
     "datum": "2026-09-20",
@@ -15357,6 +15199,33 @@
       "web": "https://www.bernolakovo.sk/novinka/115373/beh-pre-beh",
       "propozicie": "https://registrace.sportsoft.cz/_data/3402/prop_beh25.pdf",
       "vysledky": "https://vysledky.sportsoft.cz/race/958"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Trnavský RunWalk",
+    "url": "https://vsetkybehy.sk/podujatie/trnavsky-runwalk-2026",
+    "datum": "2026-09-20",
+    "mesto": "Trnava",
+    "popis": "PROFI trať (10 km), HOBBY trať (5 km), Detské behy, 5 km, HENDI trať (1 km)",
+    "info": {
+      "Miesto": "Trnava – Kamenný Mlyn",
+      "Dĺžka trate": "10 km, 5 km, 1 km",
+      "Štart": "11:30",
+      "kraj": "trnavsky",
+      "gps": "48.3663116,17.5492466",
+      "seria": "",
+      "disciplíny": [
+        "PROFI trať (10 km)",
+        "HOBBY trať (5 km)",
+        "Detské behy",
+        "5 km",
+        "HENDI trať (1 km)"
+      ],
+      "registracia": "",
+      "web": "https://www.zaruku.sk/",
+      "propozicie": "https://misosport.sk/pretek/trnavsky-runwalk-2026",
+      "vysledky": "https://misosport.sk/vysledky/trnavsky-runwalk-2026"
     }
   },
   {
@@ -16983,7 +16852,7 @@
       "Miesto": "Wolfsthal – Sportplatz Wolfsthal (Sportplatzweg)",
       "Dĺžka trate": "9 km, 4.37 km",
       "Štart": "10:00",
-      "kraj": "",
+      "kraj": "bratislavsky",
       "gps": "48.1348500,16.9972700",
       "seria": "",
       "disciplíny": [
@@ -17194,7 +17063,7 @@
         "Abrahámska lítačka (3,3 km)"
       ],
       "registracia": "",
-      "web": "https://abrahamska-litacka.webnode.sk/",
+      "web": "",
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/07/PropoAbLi26.pdf",
       "vysledky": "https://my.raceresult.com/409619/results"
     }
