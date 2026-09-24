@@ -10255,12 +10255,34 @@
   },
   {
     "zdroj": "hrdosport.sk",
+    "nazov": "Banskobystrický chodecký míting, M-SR v chôdzi mužov a žien, M-SsAZ v chôdzi",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
+    "datum": "02.10.2026",
+    "mesto": "Banská Bystrica",
+    "info": {
+      "propozicie": "https://www.hrdosport.sk/Content/results/2026/10/PROP1065.pdf",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "hrdosport.sk",
     "nazov": "Majstrovstvá SR družstiev staršieho žiactva",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
     "datum": "03.10.2026",
     "mesto": "Martin",
     "info": {
       "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "hrdosport.sk",
+    "nazov": "Finále M-SsAZ družstiev mladšieho žiactva",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
+    "datum": "04.10.2026",
+    "mesto": "Dubnica nad Váhom",
+    "info": {
+      "propozicie": "https://www.hrdosport.sk/Content/results/2026/10/PROP1064.pdf",
       "vysledky": ""
     }
   },
@@ -10464,32 +10486,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Beh ulicami obce Smižany",
-    "url": "https://vsetkybehy.sk/podujatie/beh-ulicami-obce-smizany-2026",
-    "datum": "2026-09-23",
-    "mesto": "Smižany",
-    "popis": "Hlavné preteky – muži (10 km), Hlavné preteky – ženy (5 km), Rekreační bežci (5 km), Detské behy",
-    "info": {
-      "Miesto": "Smižany – Námestie M. Pajdušáka pred ZUŠ Smižany",
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "16:30",
-      "kraj": "kosicky",
-      "gps": "48.9585000,20.5195000",
-      "seria": "",
-      "disciplíny": [
-        "Hlavné preteky – muži (10 km)",
-        "Hlavné preteky – ženy (5 km)",
-        "Rekreační bežci (5 km)",
-        "Detské behy"
-      ],
-      "registracia": "",
-      "web": "",
-      "propozicie": "",
-      "vysledky": "https://my.raceresult.com/419511/results"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "K500 September",
     "url": "https://vsetkybehy.sk/podujatie/k500-september-2026",
     "datum": "2026-09-24",
@@ -10506,10 +10502,10 @@
         "10 km",
         "5 km"
       ],
-      "registracia": "https://zasrun.sk/preteky/388/prihlaska",
+      "registracia": "",
       "web": "",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://zasrun.sk/preteky/k500-september-2026/vysledky"
     }
   },
   {
@@ -15116,9 +15112,9 @@
       "disciplíny": [
         "Cesta (534 km)"
       ],
-      "registracia": "https://therun.sk/auth/register?category=ladiesrun",
+      "registracia": "https://therun.sk/auth/register?category=soloultra",
       "web": "",
-      "propozicie": "https://therun.fra1.cdn.digitaloceanspaces.com/media/files/trs_race-manual_sk.pdf",
+      "propozicie": "https://therun.sk/o-pretekoch",
       "vysledky": ""
     }
   },
@@ -15179,15 +15175,19 @@
     "url": "https://vsetkybehy.sk/podujatie/mesciske-pancaky-2027",
     "datum": "2027-07-17",
     "mesto": "Mestisko",
-    "popis": "",
+    "popis": "Dlhá (10 km), Krátka (5 km), Detské behy",
     "info": {
       "Miesto": "Mestisko – Futbalové ihrisko",
-      "Dĺžka trate": "",
+      "Dĺžka trate": "10 km, 5 km",
       "Štart": "",
       "kraj": "presovsky",
       "gps": "49.2580500,21.5845850",
       "seria": "",
-      "disciplíny": [],
+      "disciplíny": [
+        "Dlhá (10 km)",
+        "Krátka (5 km)",
+        "Detské behy"
+      ],
       "registracia": "",
       "web": "",
       "propozicie": "",
@@ -15200,15 +15200,20 @@
     "url": "https://vsetkybehy.sk/podujatie/32-rocnik-bancanskej-desiatky-2027",
     "datum": "2027-07-18",
     "mesto": "Banské",
-    "popis": "",
+    "popis": "Bančanská 10 (10 km), Bančanská 5 (5 km), 10 km, Detské behy",
     "info": {
       "Miesto": "Banské – Pred kultúrnym domom",
-      "Dĺžka trate": "",
+      "Dĺžka trate": "10 km, 5 km",
       "Štart": "",
       "kraj": "presovsky",
       "gps": "48.8285890,21.5725640",
       "seria": "",
-      "disciplíny": [],
+      "disciplíny": [
+        "Bančanská 10 (10 km)",
+        "Bančanská 5 (5 km)",
+        "10 km",
+        "Detské behy"
+      ],
       "registracia": "",
       "web": "",
       "propozicie": "",
@@ -15265,6 +15270,32 @@
       "web": "",
       "propozicie": "",
       "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh ulicami obce Smižany",
+    "url": "https://vsetkybehy.sk/podujatie/beh-ulicami-obce-smizany-2026",
+    "datum": "2026-09-23",
+    "mesto": "Smižany",
+    "popis": "Hlavné preteky – muži (10 km), Hlavné preteky – ženy (5 km), Rekreační bežci (5 km), Detské behy",
+    "info": {
+      "Miesto": "Smižany – Námestie M. Pajdušáka pred ZUŠ Smižany",
+      "Dĺžka trate": "10 km, 5 km",
+      "Štart": "16:30",
+      "kraj": "kosicky",
+      "gps": "48.9585000,20.5195000",
+      "seria": "",
+      "disciplíny": [
+        "Hlavné preteky – muži (10 km)",
+        "Hlavné preteky – ženy (5 km)",
+        "Rekreační bežci (5 km)",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://my.raceresult.com/419511/results"
     }
   },
   {
@@ -33331,18 +33362,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Horoměřice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-horomerice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Horoměřice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.9 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Malá Hraštice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-mala-hrastice-2026/",
     "datum": "28.10.2026",
@@ -33362,6 +33381,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5.5 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Horoměřice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-horomerice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Horoměřice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.9 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -33584,7 +33615,7 @@
   {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "Podzimní běh lyžařů",
-    "url": "https://www.bezeckyzavod.cz/podzimni-beh-lyzaru-senohraby-2026-11/",
+    "url": "https://www.bezeckyzavod.cz/podzimni-beh-lyzaru-senohraby-2026-11-11/",
     "datum": "29.11.2026",
     "mesto": "Senohraby",
     "popis": "",
@@ -34783,18 +34814,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Přeštice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-prestice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Přeštice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "8 km",
-      "Kraj": "Plzeňský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Horní Bříza",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-horni-briza-2026/",
     "datum": "28.10.2026",
@@ -34802,6 +34821,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5 km",
+      "Kraj": "Plzeňský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Přeštice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-prestice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Přeštice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "8 km",
       "Kraj": "Plzeňský kraj"
     }
   },
@@ -37111,42 +37142,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "404. Malá cena Monaka",
-    "url": "https://www.bezeckyzavod.cz/404-mala-cena-monaka-slatinany-2026/",
-    "datum": "23.9.2026",
-    "mesto": "Slatiňany",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Kraj": "Pardubický kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Kovolis Run",
-    "url": "https://www.bezeckyzavod.cz/kovolis-run-tremosnice-2026/",
-    "datum": "23.9.2026",
-    "mesto": "Třemošnice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Kraj": "Pardubický kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Velká cena Kunětické devítky",
-    "url": "https://www.bezeckyzavod.cz/velka-cena-kuneticke-raby-2026/",
-    "datum": "23.9.2026",
-    "mesto": "Ráby",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "9 km",
-      "Kraj": "Pardubický kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "24 hodin na nohách",
     "url": "https://www.bezeckyzavod.cz/24-hodin-na-nohach-orlicke-podhuri-2026/",
     "datum": "26.9.2026",
@@ -37771,18 +37766,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Nové Město na Moravě",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-nove-mesto-na-morave-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Nové Město na Moravě",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "7 km",
-      "Kraj": "Kraj Vysočina"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Telč",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-telc-2026/",
     "datum": "28.10.2026",
@@ -37790,6 +37773,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "3.3 km",
+      "Kraj": "Kraj Vysočina"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Nové Město na Moravě",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-nove-mesto-na-morave-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Nové Město na Moravě",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "7 km",
       "Kraj": "Kraj Vysočina"
     }
   },
@@ -37807,18 +37802,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Kamenice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-kamenice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Kamenice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5.25 km",
-      "Kraj": "Kraj Vysočina"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Uhelná Příbram",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-uhelna-pribram-2026/",
     "datum": "28.10.2026",
@@ -37826,6 +37809,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "4.5 km",
+      "Kraj": "Kraj Vysočina"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Kamenice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-kamenice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Kamenice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5.25 km",
       "Kraj": "Kraj Vysočina"
     }
   },
@@ -37971,18 +37966,6 @@
     "info": {
       "Dĺžka trate": "11 km",
       "Kraj": "Kraj Vysočina"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Triexpert Cup - Obřany",
-    "url": "https://www.bezeckyzavod.cz/triexpert-cup-obrany-brno-2026/",
-    "datum": "23.9.2026",
-    "mesto": "Brno",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "8.8 km",
-      "Kraj": "Jihomoravský kraj"
     }
   },
   {
@@ -38143,18 +38126,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Tvrdonská osmička",
-    "url": "https://www.bezeckyzavod.cz/tvrdonska-osmicka-tvrdonice-2026/",
-    "datum": "3.10.2026",
-    "mesto": "Tvrdonice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "8 km",
-      "Kraj": "Jihomoravský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Kunštátská desítka",
     "url": "https://www.bezeckyzavod.cz/kunstatska-desitka-2026/",
     "datum": "3.10.2026",
@@ -38162,6 +38133,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "10 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Tvrdonská osmička",
+    "url": "https://www.bezeckyzavod.cz/tvrdonska-osmicka-tvrdonice-2026/",
+    "datum": "3.10.2026",
+    "mesto": "Tvrdonice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "8 km",
       "Kraj": "Jihomoravský kraj"
     }
   },
@@ -38727,18 +38710,6 @@
     "info": {
       "Dĺžka trate": "42.2 km",
       "Kraj": "Jihomoravský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Kros obchodní akademie",
-    "url": "https://www.bezeckyzavod.cz/kros-obchodni-akademie-sumperk-2026/",
-    "datum": "23.9.2026",
-    "mesto": "Šumperk",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.9 km",
-      "Kraj": "Olomoucký kraj"
     }
   },
   {
@@ -39723,18 +39694,6 @@
     "info": {
       "Dĺžka trate": "5.7 km",
       "Kraj": "Zlínský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Slezanská hodinovka",
-    "url": "https://www.bezeckyzavod.cz/slezanska-hodinovka-frydek-mistek-2026/",
-    "datum": "23.9.2026",
-    "mesto": "Frýdek-Místek",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "1 h",
-      "Kraj": "Moravskoslezský kraj"
     }
   },
   {
