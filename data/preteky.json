@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2027-09-04",
+    "url": "https://beh.sk/pretek/beh-novoveskou-hutou-19/",
+    "nazov": "Beh Novoveskou Hutou",
+    "mesto": "Novoveská Huta okr. Spišská Nová Ves",
+    "info": {
+      "Dĺžka trate": "12,2 km",
+      "Povrch": "asfalt",
+      "Štart": "13:00 hod. deti, 15:00 hod. dospelí, dorast, pre zdravie",
+      "Miesto": "Novoveská Huta okr. Spišská Nová Ves, námestie v Novoveskej Hute",
+      "Organizátor": "Občianske združenie Novoveská Huta a Mesto Spišská Nová Ves",
+      "Informácie": "Jitka Nováková, tel.: 0918 994 867, e-mail: oznovoveskahuta@gmail.com  Ján Novák, tel.: 0905 872 562, e-mail: novakjan7411@gmail.com"
+    }
+  },
+  {
     "datum": "2027-08-21",
     "url": "https://beh.sk/pretek/night-run-liptovsky-mikulas-14/",
     "nazov": "Night Run Liptovský Mikuláš",
@@ -722,7 +736,7 @@
       "Štart": "11:15 hod. hlavný pretek",
       "Miesto": "Nižný Žipov okr. Trebišov, hlavná ulica Nižný Žipov",
       "Organizátor": "Obec - Nižný Žipov",
-      "Informácie": "Obecný úrad - Nižný Žipov 076 17, tel.: 056/668 42 10 - 12 e-mail: obecniznyzipov@gmail.com  Pavol Obraz, tel.: 0907 210 910, e-mail: pavolobraz@gmail.com"
+      "Informácie": "Obecný úrad - Nižný Žipov 076 17, tel.: 056/668 42 12 e-mail: obecniznyzipov@gmail.com  Pavol Obraz, tel.: 0907 210 910, e-mail: pavolobraz@gmail.com"
     }
   },
   {
@@ -802,7 +816,7 @@
     "info": {
       "Dĺžka trate": "10 km a 3 km",
       "Povrch": "asfalt",
-      "Štart": "10:30 hod. žiacke behy, 13:00 hod. 10 km a 3 km",
+      "Štart": "10:30 hod. žiacke behy, 13:00 hod. 10 km, 13:05 hod. 3 km, 13:10 hod. NW",
       "Miesto": "Šurany, pred Mestkým úradom",
       "Organizátor": "Gymnázium Šurany, Mesto Šurany",
       "Informácie": "Ing. Mgr. Alžbeta Danielová, tel.: +421 903 707 456, e-mail: skola@gymsu.sk"
@@ -915,8 +929,8 @@
       "Dĺžka trate": "hodinovka",
       "Povrch": "tartan",
       "Štart": "17:00 hod.",
-      "Miesto": "Prešov, atletický štadión Prešovskej univerzity",
-      "Organizátor": "BK ZasRun Šarišské Bohdanovce, Olympijský klub Prešov, AK TJ Slávia Prešovská univerzita",
+      "Miesto": "Prešov, Cyklistický velodróm",
+      "Organizátor": "BK ZasRun Šarišské Bohdanovce",
       "Informácie": "Jozef Daňko, tel.: 0948 885 493, e-mail: info@zasrun.sk"
     }
   },
@@ -1795,20 +1809,6 @@
       "Štart": "19:00 hod.",
       "Miesto": "Žilina, Hlinkovo námestie (pred OC Mirage)",
       "Organizátor": "Interun, o.z."
-    }
-  },
-  {
-    "datum": "2026-09-23",
-    "url": "https://beh.sk/pretek/beh-ulicami-obce-smizany-18/",
-    "nazov": "Beh ulicami obce Smižany",
-    "mesto": "Smižany okr. Spišská Nová Ves",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt",
-      "Štart": "16:30 hod. - hl. kat.; 14:15 hod. - detské kat.",
-      "Miesto": "Smižany okr. Spišská Nová Ves, Nám. M. Pajdušáka pred ZUŠ Dezidera Štraucha Smižany",
-      "Organizátor": "Obec Smižany, CVČ Adam SNV, Olympijský klub SPIŠ, Mišo s.r.o., OKC Smižany, ZŠ Komenského Smižany, ZUŠ Smižany, ZŠ Povýšenia sv. Kríža, Smižany",
-      "Informácie": "PaedDr. Andrea Baluchová, OŠaSŠÚ Smižany, Nám. M. Pajdušáka, 053 11 Smižany, tel.: 053/443 14 83 (kl. 214), mobil: 0918 963 798, e-mail: andrea.baluchova@smizany.sk"
     }
   }
 ]
