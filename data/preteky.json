@@ -262,6 +262,20 @@
     }
   },
   {
+    "datum": "2026-12-05",
+    "url": "https://beh.sk/pretek/machulinska-dvadsiatka-17/",
+    "nazov": "Machulinská dvadsiatka",
+    "mesto": "Machulince, okr. Zlaté Moravce",
+    "info": {
+      "Dĺžka trate": "20 km, 6 km",
+      "Povrch": "asfalt",
+      "Štart": "13:00 hod. dospelí, 13:05 hod.  MŠ, 11:30 hod. žiactvo",
+      "Miesto": "Machulince, okr. Zlaté Moravce, stred obce",
+      "Organizátor": "ObÚ, Slovenský Orol",
+      "Informácie": "Peter Gašparík, tel.: 0908 755 887, e-mail: pgasparik@gmail.com  obec, tel.: 037 / 630 17 22"
+    }
+  },
+  {
     "datum": "2026-11-29",
     "url": "https://beh.sk/pretek/bathory-cross-cachticky-krvak-11/",
     "nazov": "Bathory Cross (Čachtický krvák)",
@@ -1398,183 +1412,6 @@
       "Štart": "17:00 hod.",
       "Miesto": "Košice, Medická 4",
       "Informácie": "Pavol Kopaničák, tel.: +421 903 677 873"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/majstrovstva-slovenska-stafiet-v-krose-neregistrovanych-10/",
-    "nazov": "Mariatálsky štvanec",
-    "mesto": "Marianka",
-    "info": {
-      "Dĺžka trate": "6 km, 10 km, 15 km, tímy 3×6 km",
-      "Povrch": "terén - 100%",
-      "Štart": "11:00 hod.- deti a mládež „Beh Záhoráčik;  15:20 hod.- Veľký Štvanec 10 km a Štvancové kombo na 15 km; 15:35 hod.- Malý Štvanec 6 km, Súťaž tímov",
-      "Miesto": "Marianka, futbalové ihrisko",
-      "Organizátor": "WinTeam o.z. a Agentúra 8P v spolupráci s obcou Marianka",
-      "Informácie": "Radoslav Augustín, tel.: 0903 707 098, e-mail: augustin@8p.sk  Ján Dömény, tel.: 0903 402 832, e-mail: jano.domeny@gmail.com  Zuzana Dömény, tel.: 0903 027 479, e-mail: marketing@8p.sk"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/mtbiker-kylof-lubietova-3/",
-    "nazov": "MTHIKER Kylof Ľubietová",
-    "mesto": "Ľubietová, okr. Banská Bystrica",
-    "info": {
-      "Dĺžka trate": "10 km, 4,3 km",
-      "Povrch": "asfaltová cesta, spevnený turistický chodník, lesná cesta",
-      "Štart": "9:30 hod. deti; 10:40 hod. 4,3km; 10:30 hod. 10 km",
-      "Miesto": "Ľubietová, okr. Banská Bystrica, OÚ Ľubietová",
-      "Organizátor": "Marathon Banska Bystrica, s.r.o., ON-POINT o.z., Kylof OZ",
-      "Informácie": "E-mail: info@marathonbb.com"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/greta-nocny-beh-kvacianskou-dolinou-8/",
-    "nazov": "Gréta Run",
-    "mesto": "Liptovská .Sielnica okres L. Mikuláš",
-    "info": {
-      "Dĺžka trate": "15 km , 8,7 km",
-      "Povrch": "lesná šotolinová cesta",
-      "Štart": "13:00 hod. Detský beh, 15.00 hod. - 15km a 3 km, Koliba Greta;  16.00 hod. - 8,7 km z ústia Kvačianskej doliny 15.30 prevoz busom z prezentácie)",
-      "Miesto": "Liptovská .Sielnica okres L. Mikuláš, 8,7 km štart z Kvačianskej doliny (ústie) , 15 km štart z Koliby Gréta",
-      "Organizátor": "Olympijský klub Liptova",
-      "Informácie": "e-mail: oklm@centrum.sk"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/samorinska-bezecka-liga-2026-5-kolo/",
-    "nazov": "Šamorínska bežecká liga 2026 – 5. kolo",
-    "mesto": "Šamorín",
-    "info": {
-      "Dĺžka trate": "3 km",
-      "Povrch": "asfalt",
-      "Štart": "10:00 hod. deti, 10:30 hod. Hlavný beh",
-      "Miesto": "Šamorín, Lesopark Pomlé",
-      "Organizátor": "3klub Šamorín o.z. v spolupráci s mestom Šamorín",
-      "Informácie": "Juraj Nagy, tel.: 0905 984 190, e-mail: jn@flextravel.sk"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/hornotorysky-horsky-beh-demiankou-11/",
-    "nazov": "Demianka 26",
-    "mesto": "Krásna Lúka, okr. Sabinov",
-    "info": {
-      "Dĺžka trate": "21,5 km, (horský polmaratón) prev 269 m (celkom 563 m stúpanie, 753 m klesanie)",
-      "Povrch": "asfalt, terén",
-      "Štart": "09.45 hod - nordic walking, 10:15 hod. - Hlavná kategória",
-      "Miesto": "Krásna Lúka, okr. Sabinov, futbalový štadión",
-      "Organizátor": "Mesto Lipany, Krásna Lúka, Krivany",
-      "Informácie": "PaedDr. Jozef Sobota, tel.: 0917 887 778, e-mail:  jsobota31@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/hutcanska-5-s-vierou-beh-srdcom-i-telom-2/",
-    "nazov": "Beh srdcom i telom v Nižnej Hutke",
-    "mesto": "Nižná Hutka",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Povrch": "asfalt",
-      "Štart": "13:30 hod. deti, 14:30 hod. dospelí",
-      "Miesto": "Nižná Hutka, Strelnica",
-      "Organizátor": "Obec Nižná Hutka v spolupráci so Srdcom i telom",
-      "Informácie": "Peter Buc, tel.: 0905 299 189, e-mail: peter.buc59@gmail.com  Jaroslav Barabáš, tel.: 0917 085 569, e-mail: srdcomitelom@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/skalicka-osmicka-nadacie-agel/",
-    "nazov": "Skalická osmička nadácie AGEL",
-    "mesto": "Skalica",
-    "info": {
-      "Dĺžka trate": "8 km",
-      "Povrch": "asfalt",
-      "Štart": "10.30 hod. NORDIC WALKING a chodci, 11.00 hod. dospelí, 11.10 hod. deti na námestí",
-      "Miesto": "Skalica, Námestie slobody",
-      "Organizátor": "Nadácia Agel",
-      "Informácie": "Mgr. Marta Csergeová, tel.: +421 903 440 912, e-mail: marta.csergeova@nadaciaagel.sk"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/pribeh-zien-2/",
-    "nazov": "príBEH žien",
-    "mesto": "Nitra",
-    "info": {
-      "Dĺžka trate": "4,6 km",
-      "Štart": "9:30 hod.",
-      "Miesto": "Nitra, OC PROMENÁDA Living park"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/lesny-beh-okolo-poludnice-mem-s-kubovcika-10/",
-    "nazov": "Lesný beh okolo Poludnice – mem. Š. Kubovčíka",
-    "mesto": "Závažná Poruba",
-    "info": {
-      "Dĺžka trate": "17,67 km (7 km)",
-      "Povrch": "cezpoľný beh",
-      "Štart": "09:30 hod. - hlavnej kat. \"Okolo Poludnice\", 09:45 hod. - juniori, muži a ženy - 7 km, 09:50 hod. – detské kategórie (deti A, deti B, deti C)",
-      "Miesto": "Závažná Poruba, Lyžiarsky bežecký areál Závažná Poruba - Staré ihrisko",
-      "Organizátor": "Bežecký klub OPALISKO , Obec Závažná Poruba",
-      "Informácie": "e-mail: okolopoludnice@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/aj-21-schodov-7/",
-    "nazov": "…aj 21 schodov",
-    "mesto": "Kozárovce",
-    "info": {
-      "Dĺžka trate": "9 km, 4 km",
-      "Povrch": "cross",
-      "Štart": "13:00 hod.",
-      "Miesto": "Kozárovce, Kozárovce (žel. stanica), okr Levice",
-      "Informácie": "Michal Šustak, tel.: 0948 151 541, e-mail: sustakmichal803@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/beh-na-chatu-kminek-17/",
-    "nazov": "Beh na chatu Kmínek",
-    "mesto": "Vysoká nad Kysucou okr. Čadca",
-    "info": {
-      "Dĺžka trate": "5,2 km, prevýšenie +330 m",
-      "Povrch": "terén – lesom a lúkami",
-      "Štart": "10:00 hod.",
-      "Miesto": "Vysoká nad Kysucou okr. Čadca, Požiarna zbrojnica",
-      "Organizátor": "Občianske združenie Voľný čas, Vysoká nad Kysucou",
-      "Informácie": "Anton Opial, tel.: 0911 902 250, e-mail: aopial@centrum.sk"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/beh-slnecnicami-2/",
-    "nazov": "Beh Slnečnicami",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "21,1 km; 10 km, 6 km",
-      "Štart": "10:00 hod. detské behy, 11:40 hod. 6-km, 13:45 hod. polmaratón, 14:15 hod. 10 km",
-      "Miesto": "Bratislava, Slnečnice – Zóna mesto, pri gastro zóne (Trch) Zuzany Chalupovej 5",
-      "Organizátor": "Nebuď jeleň, občianske združenie",
-      "Informácie": "Peter Lošonský, tel.: +421 902 133 837, e-mail: peter.losonsky@behslnecnicami.sk"
-    }
-  },
-  {
-    "datum": "2026-09-27",
-    "url": "https://beh.sk/pretek/medzinarodny-beh-na-velku-racu-18/",
-    "nazov": "Medzinárodný beh na Veľkú Raču",
-    "mesto": "Oščadnica okr. Čadca",
-    "info": {
-      "Dĺžka trate": "6 100 m, prevýšenie 592 m",
-      "Povrch": "lesná cesta + chodník",
-      "Štart": "10:00 hod. hl. kat., 10:15 hod. deti.",
-      "Miesto": "Oščadnica okr. Čadca, pri sedačkovej lanovke v Oščadnici - Dedovke /SR/",
-      "Organizátor": "Horská služba Kysuce, Obec Oščadnica, Snowparadise Veľká Rača",
-      "Informácie": "tel.: 0903 624 477, 0915 754 941, e-mail: behnaracu@gmail.com"
     }
   }
 ]
