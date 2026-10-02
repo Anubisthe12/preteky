@@ -167,6 +167,20 @@
     }
   },
   {
+    "datum": "2026-12-31",
+    "url": "https://beh.sk/pretek/silvestrovsky-beh-cez-bratislavske-mosty-16/",
+    "nazov": "Silvestrovský beh cez bratislavské mosty",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "11,5 km; 5 km",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod.",
+      "Miesto": "Bratislava, Ekonomická univerzita, deti: Štadión FTVŠ Lanfranconi, Nábr. arm. gen. L. Svobodu, 5 km: (Viedenská cesta pri Starom moste",
+      "Organizátor": "Hlavné mesto SR Bratislava STARZ Bratislava, Be Cool",
+      "Informácie": "športový riaditeľ pretekov: tel.: +421 917 905 248, e-mail: hanzel@starz.sk"
+    }
+  },
+  {
     "datum": "2026-12-26",
     "url": "https://beh.sk/pretek/vianocny-beh-mesta-lucenec-17/",
     "nazov": "Vianočný beh mesta Lučenec",
@@ -301,6 +315,20 @@
       "Miesto": "Humenné, južné námestie pri CVČ Humenné",
       "Organizátor": "Rádio Paráda s podporou mesta Humenné a miestnych sponzorov",
       "Informácie": "Stanislav Mikita, tel.:  0910 909 703, e-mail: obchod@radioparada.sk"
+    }
+  },
+  {
+    "datum": "2026-11-28",
+    "url": "https://beh.sk/pretek/beh-na-tabor-3/",
+    "nazov": "Beh na Tábor",
+    "mesto": "Kysucké Nové Mesto",
+    "info": {
+      "Dĺžka trate": "10 km, prev. 400 m",
+      "Povrch": "Asfalt, šutolinová cesta a záver lesná cesta",
+      "Štart": "16:30 hod. beh, 15:30 hod. nordic walking",
+      "Miesto": "Kysucké Nové Mesto, Areál Svet dverí",
+      "Organizátor": "Bajk Relax Kysuce o.z.",
+      "Informácie": "Miroslav Ondrúšek, tel.: +421 911 825 244, e-mail: beh.jakubovsky@gmail.com"
     }
   },
   {
@@ -440,6 +468,33 @@
       "Miesto": "Michalovce, areál Zemplínskeho múzea",
       "Organizátor": "Zemplínsky extrém, RM-Developer s.r.o.",
       "Informácie": "RM-Developer s.r.o., tel.: 0915 950 227, E-mail: info@zemplinskyextrem.sk"
+    }
+  },
+  {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/zelenyakova-trinastka-13/",
+    "nazov": "Zelenyáková trinástka",
+    "mesto": "Hronovce okr. Levice",
+    "info": {
+      "Dĺžka trate": "13 km (4 km)",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod. 2×13 km, 11:00 hod. 4–13 km",
+      "Miesto": "Hronovce okr. Levice, pred Kultúrnym domom",
+      "Organizátor": "Csemadok Zselízi Alapszervezete, Esztergomi Futóművek Amatőr Sportegyesület, Priatelia v behu – Želiezovce (Zselíz) – Futóbarátok"
+    }
+  },
+  {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/sutrovsky-bezecky-maraton-stafetovy-beh-druzstiev-9/",
+    "nazov": "Šutrovský bežecký maratón",
+    "mesto": "Ivanka pri Dunaji",
+    "info": {
+      "Dĺžka trate": "42 km",
+      "Povrch": "prírodný chodník",
+      "Štart": "10:30 hod. - hl. beh;  9:00 hod. - Štarty detských pretekov",
+      "Miesto": "Ivanka pri Dunaji, pred pohostinstvom Wigvam, pri jazere Štrkovka",
+      "Organizátor": "Telovýchovná jednota Ioan 1209",
+      "Informácie": "E-mail: subema@ioan1209.sk"
     }
   },
   {
@@ -1400,18 +1455,6 @@
       "Miesto": "Košice - Juh, Vnútroblok Železníkov",
       "Organizátor": "MČ Juh Košice starostka + team MČ",
       "Informácie": "Mgr. Adriana Krausová, tel.: 0907 842 221, e-mail:  adriana.krausova@kosicejuh.sk"
-    }
-  },
-  {
-    "datum": "2026-09-29",
-    "url": "https://beh.sk/pretek/upjs-run/",
-    "nazov": "UPJŠ Run",
-    "mesto": "Košice",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Štart": "17:00 hod.",
-      "Miesto": "Košice, Medická 4",
-      "Informácie": "Pavol Kopaničák, tel.: +421 903 677 873"
     }
   }
 ]

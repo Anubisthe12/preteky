@@ -2224,6 +2224,22 @@
     "popis": ""
   },
   {
+    "datum": "2026-12-31",
+    "url": "https://beh.sk/pretek/silvestrovsky-beh-cez-bratislavske-mosty-16/",
+    "nazov": "Silvestrovský beh cez bratislavské mosty",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "11,5 km; 5 km",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod.",
+      "Miesto": "Bratislava, Ekonomická univerzita, deti: Štadión FTVŠ Lanfranconi, Nábr. arm. gen. L. Svobodu, 5 km: (Viedenská cesta pri Starom moste",
+      "Organizátor": "Hlavné mesto SR Bratislava STARZ Bratislava, Be Cool",
+      "Informácie": "športový riaditeľ pretekov: tel.: +421 917 905 248, e-mail: hanzel@starz.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "hrdosport.sk",
     "nazov": "Silvestrovsky beh ulicami Klenovca",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=12",
@@ -3401,7 +3417,7 @@
   {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "Podzimní běh lyžařů",
-    "url": "https://www.bezeckyzavod.cz/podzimni-beh-lyzaru-senohraby-2026-11/",
+    "url": "https://www.bezeckyzavod.cz/podzimni-beh-lyzaru-senohraby-2026-11-11/",
     "datum": "29.11.2026",
     "mesto": "Senohraby",
     "popis": "",
@@ -3446,6 +3462,22 @@
       "Miesto": "Humenné, južné námestie pri CVČ Humenné",
       "Organizátor": "Rádio Paráda s podporou mesta Humenné a miestnych sponzorov",
       "Informácie": "Stanislav Mikita, tel.:  0910 909 703, e-mail: obchod@radioparada.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-11-28",
+    "url": "https://beh.sk/pretek/beh-na-tabor-3/",
+    "nazov": "Beh na Tábor",
+    "mesto": "Kysucké Nové Mesto",
+    "info": {
+      "Dĺžka trate": "10 km, prev. 400 m",
+      "Povrch": "Asfalt, šutolinová cesta a záver lesná cesta",
+      "Štart": "16:30 hod. beh, 15:30 hod. nordic walking",
+      "Miesto": "Kysucké Nové Mesto, Areál Svet dverí",
+      "Organizátor": "Bajk Relax Kysuce o.z.",
+      "Informácie": "Miroslav Ondrúšek, tel.: +421 911 825 244, e-mail: beh.jakubovsky@gmail.com"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -4206,6 +4238,37 @@
     "popis": ""
   },
   {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/zelenyakova-trinastka-13/",
+    "nazov": "Zelenyáková trinástka",
+    "mesto": "Hronovce okr. Levice",
+    "info": {
+      "Dĺžka trate": "13 km (4 km)",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod. 2×13 km, 11:00 hod. 4–13 km",
+      "Miesto": "Hronovce okr. Levice, pred Kultúrnym domom",
+      "Organizátor": "Csemadok Zselízi Alapszervezete, Esztergomi Futóművek Amatőr Sportegyesület, Priatelia v behu – Želiezovce (Zselíz) – Futóbarátok"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/sutrovsky-bezecky-maraton-stafetovy-beh-druzstiev-9/",
+    "nazov": "Šutrovský bežecký maratón",
+    "mesto": "Ivanka pri Dunaji",
+    "info": {
+      "Dĺžka trate": "42 km",
+      "Povrch": "prírodný chodník",
+      "Štart": "10:30 hod. - hl. beh;  9:00 hod. - Štarty detských pretekov",
+      "Miesto": "Ivanka pri Dunaji, pred pohostinstvom Wigvam, pri jazere Štrkovka",
+      "Organizátor": "Telovýchovná jednota Ioan 1209",
+      "Informácie": "E-mail: subema@ioan1209.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "Svatomartinský běh",
     "url": "https://www.bezeckyzavod.cz/svatomartinsky-beh-vidovice-kunice-2026/",
@@ -4359,30 +4422,6 @@
     "info": {
       "Dĺžka trate": "15 km",
       "Kraj": "Moravskoslezský kraj"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Šutrovský bežecký maratón",
-    "url": "https://vsetkybehy.sk/podujatie/sutrovsky-bezecky-maraton-2026",
-    "datum": "2026-11-14",
-    "mesto": "Ivanka pri Dunaji",
-    "popis": "Detské behy, Štafetový maratón družstiev",
-    "info": {
-      "Miesto": "Ivanka pri Dunaji – Areál jazera Šutrovka",
-      "Dĺžka trate": "",
-      "Štart": "09:30",
-      "kraj": "bratislavsky",
-      "gps": "48.1855320,17.2566280",
-      "seria": "",
-      "disciplíny": [
-        "Detské behy",
-        "Štafetový maratón družstiev"
-      ],
-      "registracia": "https://www.vysledkovyservis.sk/sutrovsky-bezecky-maraton/sutrovsky-bezecky-maraton/group-registration",
-      "web": "",
-      "propozicie": "https://ioan1209.sk/prop-sbm2026",
-      "vysledky": ""
     }
   },
   {
@@ -5613,18 +5652,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Kněžmost",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-knezmost-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Kněžmost",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Poděbrady",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-podebrady-2026/",
     "datum": "28.10.2026",
@@ -5632,6 +5659,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Kněžmost",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-knezmost-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Kněžmost",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -6069,18 +6108,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Alšovice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-alsovice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Alšovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.7 km",
-      "Kraj": "Liberecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Zásada",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zasada-2026/",
     "datum": "28.10.2026",
@@ -6088,6 +6115,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "6 km",
+      "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Alšovice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-alsovice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Alšovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.7 km",
       "Kraj": "Liberecký kraj"
     }
   },
@@ -6273,18 +6312,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Okříšky",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-okrisky-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Okříšky",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.2 km",
-      "Kraj": "Kraj Vysočina"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Uhelná Příbram",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-uhelna-pribram-2026/",
     "datum": "28.10.2026",
@@ -6292,6 +6319,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "4.5 km",
+      "Kraj": "Kraj Vysočina"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Okříšky",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-okrisky-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Okříšky",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.2 km",
       "Kraj": "Kraj Vysočina"
     }
   },
@@ -10446,18 +10485,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Běh Voděradskými bučinami",
-    "url": "https://www.bezeckyzavod.cz/beh-voderadskymi-bucinami-lounovice-2026/",
-    "datum": "3.10.2026",
-    "mesto": "Louňovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "16.5 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Družecká Osmička",
     "url": "https://www.bezeckyzavod.cz/druzecka-osmicka-2026/",
     "datum": "3.10.2026",
@@ -10465,6 +10492,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "8 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh Voděradskými bučinami",
+    "url": "https://www.bezeckyzavod.cz/beh-voderadskymi-bucinami-lounovice-2026/",
+    "datum": "3.10.2026",
+    "mesto": "Louňovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "16.5 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -10988,17 +11027,6 @@
     }
   },
   {
-    "zdroj": "hrdosport.sk",
-    "nazov": "Banskobystrický chodecký míting, M-SR v chôdzi mužov a žien, M-SsAZ v chôdzi",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
-    "datum": "02.10.2026",
-    "mesto": "Banská Bystrica",
-    "info": {
-      "propozicie": "https://www.hrdosport.sk/Content/results/2026/10/PROP1065.pdf",
-      "vysledky": ""
-    }
-  },
-  {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "Run Berounka Run",
     "url": "https://www.bezeckyzavod.cz/run-berounka-run-plzen-2026-10/",
@@ -11051,23 +11079,28 @@
     "popis": ""
   },
   {
-    "zdroj": "pretekaj.sk",
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh o pohár starostky MČ Juh Košice",
-    "url": "https://pretekaj.sk/juhkosice",
-    "datum": "01.10.2026",
+    "url": "https://vsetkybehy.sk/podujatie/beh-o-pohar-starostky-mc-juh-kosice-2026",
+    "datum": "2026-10-01",
     "mesto": "Košice",
-    "popis": "5 a 2,5 km beh so štartom a cieľom vo vnútrobloku Železníkov v mestskej časti Košice - Juh"
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Podzimní běh projektantů \"Od hospody k hospodě\"",
-    "url": "https://www.bezeckyzavod.cz/podzimni-beh-projektantu-krc-praha-2026/",
-    "datum": "1.10.2026",
-    "mesto": "Krč, Praha",
-    "popis": "",
+    "popis": "Beh dospelých (5 km), Detské behy, Beh dospelých a detí (2,5 km)",
     "info": {
-      "Dĺžka trate": "3.5 km",
-      "Kraj": "Praha a okolí"
+      "Miesto": "Košice – Vnútroblok Železníkov",
+      "Dĺžka trate": "5 km, 2.5 km",
+      "Štart": "16:30",
+      "kraj": "kosicky",
+      "gps": "48.7172270,21.2496770",
+      "seria": "",
+      "disciplíny": [
+        "Beh dospelých (5 km)",
+        "Detské behy",
+        "Beh dospelých a detí (2,5 km)"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://pretekaj.sk/sk/vysledky/juhkosice?category=categories"
     }
   },
   {
@@ -11096,18 +11129,28 @@
     }
   },
   {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "UPJŠ RUN",
+    "url": "https://vsetkybehy.sk/podujatie/upjs-run-2026",
     "datum": "2026-09-29",
-    "url": "https://beh.sk/pretek/upjs-run/",
-    "nazov": "UPJŠ Run",
     "mesto": "Košice",
+    "popis": "UPJŠ RUN - Absolventi a Priatelia (5 km), UPJŠ RUN - Študenti a Zamestnanci (5 km)",
     "info": {
+      "Miesto": "Košice – Parkovisko VÚSCH a areál študentských domovov UPJŠ na Medickej ulici",
       "Dĺžka trate": "5 km",
-      "Štart": "17:00 hod.",
-      "Miesto": "Košice, Medická 4",
-      "Informácie": "Pavol Kopaničák, tel.: +421 903 677 873"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
+      "Štart": "17:00",
+      "kraj": "kosicky",
+      "gps": "48.7172270,21.2496770",
+      "seria": "",
+      "disciplíny": [
+        "UPJŠ RUN - Absolventi a Priatelia (5 km)",
+        "UPJŠ RUN - Študenti a Zamestnanci (5 km)"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://zasrun.sk/preteky/upjs-run-2026/vysledky"
+    }
   },
   {
     "zdroj": "vsetkybehy.sk",
