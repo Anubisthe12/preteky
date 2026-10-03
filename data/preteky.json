@@ -42,6 +42,20 @@
     }
   },
   {
+    "datum": "2027-06-11",
+    "url": "https://beh.sk/pretek/the-run-slovakia-10/",
+    "nazov": "The Run Slovakia",
+    "mesto": "naprieč Slovenskom",
+    "info": {
+      "Dĺžka trate": "534 km",
+      "Povrch": "rôzny",
+      "Štart": "od 7.45 hod.",
+      "Miesto": "naprieč Slovenskom, Bratislava, Hviezdoslavovo námestie",
+      "Organizátor": "therun.sk, o.z., HCG, s.r.o.",
+      "Informácie": "tel.: +421 903 560 460, e mail: info@therun.sk"
+    }
+  },
+  {
     "datum": "2027-05-22",
     "url": "https://beh.sk/pretek/memorial-frantiska-danisa-cezpolny-beh-18/",
     "nazov": "Memoriál Františka Daniša – cezpoľný beh",
@@ -822,6 +836,20 @@
     }
   },
   {
+    "datum": "2026-10-18",
+    "url": "https://beh.sk/pretek/beh-okolo-dulova-18/",
+    "nazov": "Beh okolo Dulova",
+    "mesto": "Dulov okr. Ilava",
+    "info": {
+      "Dĺžka trate": "5 000 m",
+      "Povrch": "cesta s asfaltovým povrchom",
+      "Štart": "11:30 hod. detské, od 13.15 hod. dospelí",
+      "Miesto": "Dulov okr. Ilava, Kultúrny dom Dulov",
+      "Organizátor": "Obecný úrad Dulov v spolupráci s organizačným výborom, poslancami OZ, členmi DHZ, MŠ a ZŠ Dulov",
+      "Informácie": "Obecný úrad Dulov, 018 52  Dulov 168 tel.: 042/44 71 100, 0948 949 848, e-mail: obec@dulov.sk  Vladimír Backo, tel.: 0915 042 837  Anton Dobrodenka, tel.: 0905 482 822"
+    }
+  },
+  {
     "datum": "2026-10-17",
     "url": "https://beh.sk/pretek/podvihorlatsky-kros-3/",
     "nazov": "Podvihorlatský kros",
@@ -1444,17 +1472,17 @@
     }
   },
   {
-    "datum": "2026-10-01",
-    "url": "https://beh.sk/pretek/beh-o-pohar-starostky-mc-kosice-juh/",
-    "nazov": "Beh o pohár starostky MČ Košice – Juh",
-    "mesto": "Košice - Juh",
+    "datum": "2026-10-03",
+    "url": "https://beh.sk/pretek/beh-2-mile-kosice-111/",
+    "nazov": "Beh 2 míle Košice",
+    "mesto": "Košice",
     "info": {
-      "Dĺžka trate": "5 km, 2,5 km",
-      "Povrch": "miestne komunikácie, schody",
-      "Štart": "16:30 hod.",
-      "Miesto": "Košice - Juh, Vnútroblok Železníkov",
-      "Organizátor": "MČ Juh Košice starostka + team MČ",
-      "Informácie": "Mgr. Adriana Krausová, tel.: 0907 842 221, e-mail:  adriana.krausova@kosicejuh.sk"
+      "Dĺžka trate": "2 míle (1 km)",
+      "Povrch": "asfalt",
+      "Štart": "9:00 hod.",
+      "Miesto": "Košice, park Anička v Košiciach",
+      "Organizátor": "Sri Chinmoy Marathon Team",
+      "Informácie": "Peter Hlač, tel.: 0905 306 551, e-mail: info@behkosice.sk"
     }
   }
 ]
