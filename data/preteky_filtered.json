@@ -109,24 +109,6 @@
     "popis": ""
   },
   {
-    "nazov": "Birell Večerní běh na 10 km",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/birell-vecerni-beh-praha-2027/",
-    "datum": "2027-09-04",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Praha",
-    "kraj": "Praha a okolí",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "adidas Běh pro ženy",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/adidas-beh-pro-zeny-praha-2027/",
@@ -136,6 +118,24 @@
     "mesto": "Praha",
     "kraj": "Praha a okolí",
     "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Birell Večerní běh na 10 km",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/birell-vecerni-beh-praha-2027/",
+    "datum": "2027-09-04",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Praha",
+    "kraj": "Praha a okolí",
+    "dlzka": "10 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -775,25 +775,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "THE RUN SLOVAKIA – Národný štafetový beh Bratislava – Košice",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/the-run-2027",
-    "datum": "2027-06-11",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "534 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh",
-      "asfalt"
-    ],
-    "popis": "Cesta (534 km)"
   },
   {
     "nazov": "Yellow Ribbon Run",
@@ -4535,7 +4516,7 @@
     "datum": "2026-12-05",
     "datum_do": "",
     "krajina": "Česká republika",
-    "mesto": "Pelhřimov",
+    "mesto": "Želiv",
     "kraj": "Kraj Vysočina",
     "dlzka": "6.7 km",
     "povrch": "",
@@ -5002,6 +4983,24 @@
     "popis": "Hlavná kategória (4,5 km)"
   },
   {
+    "nazov": "Beh okolím obce Dolné Obdokovce",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/beh-okolim-obce-dolne-obdokovce-2026",
+    "datum": "2026-11-28",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Dolné Obdokovce",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": "Beh (10 km)"
+  },
+  {
     "nazov": "Plzeňská třicítka a dvacítka a Maraton na atletické dráze",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/plzenska-tricitka-2026/",
@@ -5148,24 +5147,6 @@
     "popis": ""
   },
   {
-    "nazov": "Běžecké dvojice Příbram",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/bezecke-dvojice-pribram-pribram-vii-2026/",
-    "datum": "2026-11-21",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Příbram VII",
-    "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Běh Voděradskými bučinami",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/beh-voderadskymi-bucinami-lounovice-2026-11/",
@@ -5175,6 +5156,24 @@
     "mesto": "Louňovice",
     "kraj": "Středočeský kraj",
     "dlzka": "16.5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Běžecké dvojice Příbram",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/bezecke-dvojice-pribram-pribram-vii-2026/",
+    "datum": "2026-11-21",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Příbram VII",
+    "kraj": "Středočeský kraj",
+    "dlzka": "10 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -7607,15 +7606,15 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Poděbrady",
+    "nazov": "Sokolský běh republiky - Kněžmost",
     "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-podebrady-2026/",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-knezmost-2026/",
     "datum": "2026-10-28",
     "datum_do": "",
     "krajina": "Česká republika",
-    "mesto": "Poděbrady",
+    "mesto": "Kněžmost",
     "kraj": "Středočeský kraj",
-    "dlzka": "5 km",
+    "dlzka": "10 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -7643,33 +7642,15 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Kněžmost",
+    "nazov": "Sokolský běh republiky - Poděbrady",
     "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-knezmost-2026/",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-podebrady-2026/",
     "datum": "2026-10-28",
     "datum_do": "",
     "krajina": "Česká republika",
-    "mesto": "Kněžmost",
+    "mesto": "Poděbrady",
     "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Sokolský běh republiky - Dobříš",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-dobris-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Dobříš",
-    "kraj": "Středočeský kraj",
-    "dlzka": "8 km",
+    "dlzka": "5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -7688,6 +7669,24 @@
     "mesto": "Roztoky",
     "kraj": "Středočeský kraj",
     "dlzka": "1.9 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Dobříš",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-dobris-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Dobříš",
+    "kraj": "Středočeský kraj",
+    "dlzka": "8 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -7769,24 +7768,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Voznice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-voznice-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Voznice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "5.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Otradovice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-otradovice-2026/",
@@ -7796,6 +7777,24 @@
     "mesto": "Otradovice",
     "kraj": "Středočeský kraj",
     "dlzka": "5.3 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Voznice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-voznice-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Voznice",
+    "kraj": "Středočeský kraj",
+    "dlzka": "5.5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -8273,24 +8272,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Radčice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-radcice-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Radčice",
-    "kraj": "Liberecký kraj",
-    "dlzka": "5.9 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Zásada",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zasada-2026/",
@@ -8300,6 +8281,24 @@
     "mesto": "Zásada",
     "kraj": "Liberecký kraj",
     "dlzka": "6 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Radčice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-radcice-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Radčice",
+    "kraj": "Liberecký kraj",
+    "dlzka": "5.9 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -8489,24 +8488,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Městečko Trnávka",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-mestecko-trnavka-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Městečko Trnávka",
-    "kraj": "Pardubický kraj",
-    "dlzka": "2.9 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Choceň",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-chocen-2026/",
@@ -8516,6 +8497,24 @@
     "mesto": "Choceň",
     "kraj": "Pardubický kraj",
     "dlzka": "4.8 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Městečko Trnávka",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-mestecko-trnavka-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Městečko Trnávka",
+    "kraj": "Pardubický kraj",
+    "dlzka": "2.9 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -8651,24 +8650,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Lužice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-luzice-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Lužice",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "7 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Brno",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-brno-2026/",
@@ -8678,6 +8659,24 @@
     "mesto": "Brno",
     "kraj": "Jihomoravský kraj",
     "dlzka": "4.8 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Lužice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-luzice-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Lužice",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "7 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -10565,7 +10564,7 @@
     "dlzka": "5.1 km",
     "povrch": "",
     "start_cas": "",
-    "organizator": "Pretekaj.sk",
+    "organizator": "Obec Belža",
     "tagy": [
       "beh"
     ],
@@ -11113,24 +11112,6 @@
       "beh"
     ],
     "popis": "Veľkočepčianska päťka (5 km), Beh na prameň Slatina (16 km), Veľkočepčianska jedenástka (11,7 km)"
-  },
-  {
-    "nazov": "M-SR v behu na 5 km na ceste mužov a žien",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/m-sr-v-behu-na-5-km-na-ceste-muzov-a-zien-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "14:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": "Vajnorský minimaratón (10 km), M-SR v behu na 5 km, Detské behy"
   },
   {
     "nazov": "Vajnorský minimaratón",
@@ -13565,24 +13546,6 @@
     "popis": ""
   },
   {
-    "nazov": "Majstrovstvá SR v polmaratóne mužov a žien",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/majstrovstva-sr-v-polmaratone-muzov-a-zien-mmm-2026",
-    "datum": "2026-10-04",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košice",
-    "kraj": "",
-    "dlzka": "21.1 km",
-    "povrch": "",
-    "start_cas": "10:30",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": "Polmaratón (21,1 km)"
-  },
-  {
     "nazov": "Karpaty Run – Bratislava Trail Run Festival",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/karpatyrun-9/",
@@ -13783,568 +13746,6 @@
     "popis": ""
   },
   {
-    "nazov": "ČEZ RunTour Praha",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/cez-runtour-praha-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Praha",
-    "kraj": "Praha a okolí",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Cibulka - Košířský okruh",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/cibulka-kosirsky-praha-5-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Praha 5",
-    "kraj": "Praha a okolí",
-    "dlzka": "4.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh města Příbrami",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-mesta-pribrami-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Příbram",
-    "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh zámeckým parkem",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-zameckym-parkem-vlasim-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Vlašim",
-    "kraj": "Středočeský kraj",
-    "dlzka": "8.4 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Roháčova stezka",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/rohacova-stezka-chlistovice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Chlístovice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "9.3 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Družecká Osmička",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/druzecka-osmicka-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Družec",
-    "kraj": "Středočeský kraj",
-    "dlzka": "8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh Únětická 10°",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-uneticka-10--unetice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Únětice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "7 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh Voděradskými bučinami",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-voderadskymi-bucinami-lounovice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Louňovice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "16.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Děkanovi neutečeš aneb lesnická 15",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/dekanovi-neuteces-aneb-jevany-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Jevany",
-    "kraj": "Středočeský kraj",
-    "dlzka": "15.2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh",
-      "teren"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Puma Třeboňský maraton, půlmaraton, 10 a 5 km",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/puma-trebonsky-maraton--2026-10/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Třeboň",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "42 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh kolem Hejtmanu",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-kolem-hejtmanu-chlum-u-trebone-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Chlum u Třeboně",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Modroběh",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/modrobeh-plana-nad-luznici-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Planá nad Lužnicí",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh okolo Kuřidla",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-okolo-kuridla-strakonice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Strakonice",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "7 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Šelmarun - rodinné běhy",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/selmarun-rodinne-behy-trhove-sviny-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Trhové Sviny",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "4 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Run Berounka Run",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/run-berounka-run-plzen-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Plzeň",
-    "kraj": "Plzeňský kraj",
-    "dlzka": "130 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh babylonskými lesy",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-babylonskymi-lesy-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Babylon",
-    "kraj": "Plzeňský kraj",
-    "dlzka": "6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh",
-      "teren"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kros přes sv. Bartoloměj",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/kros-pres-sv-bartolomej-besiny-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Běšiny",
-    "kraj": "Plzeňský kraj",
-    "dlzka": "12.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "kros"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh kolem domácího vrchu",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-kolem-domaciho-kraslice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Kraslice",
-    "kraj": "Karlovarský kraj",
-    "dlzka": "8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Spořická šestka",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sporicka-sestka-sporice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Spořice",
-    "kraj": "Ústecký kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Děčínská hodinovka",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/decinska-hodinovka-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Děčín",
-    "kraj": "Ústecký kraj",
-    "dlzka": "1 h",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh na Milešovku",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-na-milesovku-trebusin-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Třebušín",
-    "kraj": "Ústecký kraj",
-    "dlzka": "14 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Mattoni Liberec Trail Run",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/mattoni-liberec-trail-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Liberec",
-    "kraj": "Liberecký kraj",
-    "dlzka": "22 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Sršáňův běh na Smrk",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/srsanuv-beh-na-smrk-nove-mesto-pod-smrkem-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Nové Město pod Smrkem",
-    "kraj": "Liberecký kraj",
-    "dlzka": "9.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Benešovská osmička",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/benesovska-osmicka-benesov-u-semil-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Benešov u Semil",
-    "kraj": "Liberecký kraj",
-    "dlzka": "8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "O pohár Sedloňova",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/o-pohar-sedlonova-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Sedloňov",
-    "kraj": "Královéhradecký kraj",
-    "dlzka": "9.7 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh Pístovickou riviérou",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-pistovickou-rivierou-pistovice-racice-pistovice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Pístovice, Račice-Pístovice",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "8.2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh za bořetickým burčákem",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-za-boretickym-burcakem-boretice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Bořetice",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh Komory daňových poradců aneb \"s daňovým poradcem vás daně nedoběhnou\"",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-komory-danovych-brno-reckovice-a-mokra-hora-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Brno-Řečkovice a Mokrá Hora",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Track Challenge",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/track-challenge-vyskov-2026-10/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Vyškov",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "3 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kunštátská desítka",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/kunstatska-desitka-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Kunštát",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Tvrdonská osmička",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/tvrdonska-osmicka-tvrdonice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Tvrdonice",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "24DS",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/24ds-24-dlouhe-strane--kouty-nad-desnou-loucna-nad-desnou-2026/",
@@ -14364,115 +13765,6 @@
     "popis": ""
   },
   {
-    "nazov": "Běh okolo Kralic - Memoriál Jana Přidala",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-okolo-kralic--kralice-na-hane-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Kralice na Hané",
-    "kraj": "Olomoucký kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Zlatohorský treking",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/zlatohorsky-treking-zlate-hory-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Zlaté Hory",
-    "kraj": "Olomoucký kraj",
-    "dlzka": "50 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "2 míle s úsměvem Zlín - říjen",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/2-mile-s-usmevem-zlin-2026-10/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Zlín",
-    "kraj": "Zlínský kraj",
-    "dlzka": "3.2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Z(a)tracené vrchy",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/z-a-tracene-vrchy-bordovice-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Bordovice",
-    "kraj": "Moravskoslezský kraj",
-    "dlzka": "70 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh na Čerťák",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-na-certak-rymarov-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Rýmařov",
-    "kraj": "Moravskoslezský kraj",
-    "dlzka": "13 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "SILESIA kros marathon",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/silesia-kros-marathon-opava-2026/",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Opava",
-    "kraj": "Moravskoslezský kraj",
-    "dlzka": "13 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton",
-      "teren"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "12 hodín pod Vršatcom",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/12-hodin-pod-vrsatcom-2026",
@@ -14481,14 +13773,14 @@
     "krajina": "Slovensko",
     "mesto": "Pruské",
     "kraj": "",
-    "dlzka": "14.2 km",
+    "dlzka": "16.5 km",
     "povrch": "",
     "start_cas": "06:00",
     "organizator": "",
     "tagy": [
       "beh"
     ],
-    "popis": "12-hodinový beh (14,2 km)"
+    "popis": "12-hodinový beh (16,5 km)"
   },
   {
     "nazov": "Beh na 2 míle Košice",
@@ -14515,9 +13807,9 @@
     "datum": "2026-10-03",
     "datum_do": "",
     "krajina": "Slovensko",
-    "mesto": "Bratislava-Lamač",
+    "mesto": "Bratislava",
     "kraj": "",
-    "dlzka": "47 km, 28.5 km, 18.5 km, 14.1 km",
+    "dlzka": "47 km, 28.5 km, 18.5 km, 14 km",
     "povrch": "",
     "start_cas": "09:00",
     "organizator": "",
@@ -14525,7 +13817,7 @@
       "ultra",
       "teren"
     ],
-    "popis": "50 KM (47 km), 30+ KM (28,5 km), 20 KM (18,5 km), 15 KM (14,1 km)"
+    "popis": "50 KM (47 km), 30+ KM (28,5 km), 20 KM (18,5 km), 15 KM (14 km)"
   },
   {
     "nazov": "Nová 9ka a ŽSR detské behy",
