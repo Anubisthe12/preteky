@@ -10186,7 +10186,7 @@
   },
   {
     "zdroj": "hrdosport.sk",
-    "nazov": "Banskobystrický chodecký míting 2026",
+    "nazov": "Banskobystrický chodecký míting 2026, M-SsAZ v chôdzi",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
     "datum": "02.10.2026",
     "mesto": "Banská Bystrica",
@@ -10203,7 +10203,7 @@
     "mesto": "Martin",
     "info": {
       "propozicie": "https://www.hrdosport.sk/Content/results/2026/10/PROP1014.pdf",
-      "vysledky": ""
+      "vysledky": "https://www.hrdosport.sk/Content/results/2026/10/VYS1014.pdf"
     }
   },
   {
@@ -10214,7 +10214,7 @@
     "mesto": "Dubnica nad Váhom",
     "info": {
       "propozicie": "https://www.hrdosport.sk/Content/results/2026/10/PROP1064.pdf",
-      "vysledky": ""
+      "vysledky": "https://www.hrdosport.sk/Content/results/2026/10/VYS1064.pdf"
     }
   },
   {
@@ -10252,6 +10252,17 @@
   },
   {
     "zdroj": "hrdosport.sk",
+    "nazov": "OK v cezpošnom behu ZŠ",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
+    "datum": "28.10.2026",
+    "mesto": "Dubnica nad Váhom",
+    "info": {
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "hrdosport.sk",
     "nazov": "Majstrovstvá SsAZ v cezpoľnom behu",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=11",
     "datum": "07.11.2026",
@@ -10267,6 +10278,17 @@
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=11",
     "datum": "08.11.2026",
     "mesto": "Malacky",
+    "info": {
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "hrdosport.sk",
+    "nazov": "KK v cezpoľnom behu ZŠ",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=11",
+    "datum": "10.11.2026",
+    "mesto": "Dubnica nad Váhom",
     "info": {
       "propozicie": "",
       "vysledky": ""
@@ -10413,29 +10435,6 @@
     "popis": "Už XI. ročník populárneho Lesného behu v Michalovej, s online registráciou Informácie:Ivana Veverková, Obecný úrad Michalová, Trosky 1, 976 57 Michalová, 0911858681, 0486199157 ivana.veverkova@michalova.sk Párovanie platieb: v týždňových intervaloch",
     "info": {
       "cal_id": "273"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Detský štafetový kros – postupové kolo Prešovský kraj",
-    "url": "https://vsetkybehy.sk/podujatie/detsky-stafetovy-kros-postupove-kolo-presovsky-kraj-2026",
-    "datum": "2026-10-05",
-    "mesto": "Prešov",
-    "popis": "Detské behy",
-    "info": {
-      "Miesto": "Prešov – Areál Delňa, Prešov – Solivar",
-      "Dĺžka trate": "",
-      "Štart": "10:30",
-      "kraj": "presovsky",
-      "gps": "48.9609739,21.2632505",
-      "seria": "",
-      "disciplíny": [
-        "Detské behy"
-      ],
-      "registracia": "",
-      "web": "",
-      "propozicie": "",
-      "vysledky": ""
     }
   },
   {
@@ -13532,7 +13531,7 @@
         "Hlavný beh (6,8 km)",
         "Silvestrovský Charity Run (3,7 km)"
       ],
-      "registracia": "https://pretekaj.sk/presovsilvester2025",
+      "registracia": "",
       "web": "",
       "propozicie": "https://www.presovrunning.sk/wp-content/uploads/2025/10/Silvestrovsky-beh-propozicie.pdf",
       "vysledky": ""
@@ -14095,7 +14094,7 @@
       ],
       "registracia": "https://app.therun.sk/register?lang=sk",
       "web": "",
-      "propozicie": "https://therun.sk/prirucka-pretekov",
+      "propozicie": "https://therun.sk/o-pretekoch",
       "vysledky": ""
     }
   },
@@ -14298,6 +14297,29 @@
         "Dorastenci a dorastenky (2,5 km)"
       ],
       "registracia": "https://pretekaj.sk/sk/podujatia/klacianska10/registration",
+      "web": "",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Detský štafetový kros – postupové kolo Prešovský kraj",
+    "url": "https://vsetkybehy.sk/podujatie/detsky-stafetovy-kros-postupove-kolo-presovsky-kraj-2026",
+    "datum": "2026-10-05",
+    "mesto": "Prešov",
+    "popis": "Detské behy",
+    "info": {
+      "Miesto": "Prešov – Areál Delňa, Prešov – Solivar",
+      "Dĺžka trate": "",
+      "Štart": "10:30",
+      "kraj": "presovsky",
+      "gps": "48.9609739,21.2632505",
+      "seria": "",
+      "disciplíny": [
+        "Detské behy"
+      ],
+      "registracia": "",
       "web": "",
       "propozicie": "",
       "vysledky": ""
@@ -20777,7 +20799,7 @@
       "registracia": "",
       "web": "",
       "propozicie": "",
-      "vysledky": "https://www.slovakman.sk/226/vysledky"
+      "vysledky": "https://vysledky.sportsoft.cz/race/929"
     }
   },
   {
@@ -33305,18 +33327,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Běžecká série Berounka - Tetín",
-    "url": "https://www.bezeckyzavod.cz/bezecka-serie-berounka-tetin-2026/",
-    "datum": "5.10.2026",
-    "mesto": "Tetín",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "9 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Podzimní běh",
     "url": "https://www.bezeckyzavod.cz/podzimni-beh-hradesin-2026/",
     "datum": "10.10.2026",
@@ -33353,18 +33363,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "CaniKačinaCross",
-    "url": "https://www.bezeckyzavod.cz/canikacinacross-svaty-mikulas-2026/",
-    "datum": "11.10.2026",
-    "mesto": "Svatý Mikuláš",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.5 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Z Dobřichovic na Šraňk",
     "url": "https://www.bezeckyzavod.cz/z-dobrichovic-na-srank-dobrichovice-2026/",
     "datum": "11.10.2026",
@@ -33372,6 +33370,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "3.65 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "CaniKačinaCross",
+    "url": "https://www.bezeckyzavod.cz/canikacinacross-svaty-mikulas-2026/",
+    "datum": "11.10.2026",
+    "mesto": "Svatý Mikuláš",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.5 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -33617,18 +33627,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Poděbrady",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-podebrady-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Poděbrady",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Rakovník",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-rakovnik-2026/",
     "datum": "28.10.2026",
@@ -33641,6 +33639,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Poděbrady",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-podebrady-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Poděbrady",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Roztoky",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-roztoky-2026/",
     "datum": "28.10.2026",
@@ -33648,18 +33658,6 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "1.9 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Dobříš",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-dobris-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Dobříš",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "8 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -33689,6 +33687,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Dobříš",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-dobris-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Dobříš",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "8 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Cerhovice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-cerhovice-2026/",
     "datum": "28.10.2026",
@@ -33713,18 +33723,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Otradovice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-otradovice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Otradovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5.3 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Voznice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-voznice-2026/",
     "datum": "28.10.2026",
@@ -33732,6 +33730,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5.5 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Otradovice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-otradovice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Otradovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5.3 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -35441,18 +35451,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Winterman Czech Xtreme Triathlon",
-    "url": "https://www.bezeckyzavod.cz/winterman-czech-xtreme-decin-2026/",
-    "datum": "11.10.2026",
-    "mesto": "Děčín",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "43 km",
-      "Kraj": "Ústecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Běh zámeckým parkem",
     "url": "https://www.bezeckyzavod.cz/beh-zameckym-parkem-klasterec-nad-ohri-2026/",
     "datum": "11.10.2026",
@@ -35460,6 +35458,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "7.65 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Winterman Czech Xtreme Triathlon",
+    "url": "https://www.bezeckyzavod.cz/winterman-czech-xtreme-decin-2026/",
+    "datum": "11.10.2026",
+    "mesto": "Děčín",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "43 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -37109,18 +37119,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Žamberk",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zamberk-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Žamberk",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.9 km",
-      "Kraj": "Pardubický kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Choceň",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-chocen-2026/",
     "datum": "28.10.2026",
@@ -37128,6 +37126,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "4.8 km",
+      "Kraj": "Pardubický kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Žamberk",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zamberk-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Žamberk",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.9 km",
       "Kraj": "Pardubický kraj"
     }
   },
@@ -37865,18 +37875,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Syrovice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Syrovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Kraj": "Jihomoravský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Babice nad Svitavou",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
     "datum": "28.10.2026",
@@ -37884,6 +37882,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "6.7 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Syrovice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Syrovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5 km",
       "Kraj": "Jihomoravský kraj"
     }
   },
@@ -39485,18 +39495,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sudický hraničák",
-    "url": "https://www.bezeckyzavod.cz/sudicky-hranicak-sudice-2027/",
-    "datum": "22.5.2027",
-    "mesto": "Sudice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "15 km",
-      "Kraj": "Moravskoslezský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "LHUT - MČR Ultra Trail, MČR SkyRace, SuperSky",
     "url": "https://www.bezeckyzavod.cz/lhut-mcr-ultra-malenovice-2027/",
     "datum": "22.5.2027",
@@ -39504,6 +39502,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "67 km",
+      "Kraj": "Moravskoslezský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sudický hraničák",
+    "url": "https://www.bezeckyzavod.cz/sudicky-hranicak-sudice-2027/",
+    "datum": "22.5.2027",
+    "mesto": "Sudice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "15 km",
       "Kraj": "Moravskoslezský kraj"
     }
   },
