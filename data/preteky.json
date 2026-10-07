@@ -663,6 +663,20 @@
     }
   },
   {
+    "datum": "2026-10-25",
+    "url": "https://beh.sk/pretek/atencan/",
+    "nazov": "Atenčan",
+    "mesto": "Kozárovce, okr. Levice",
+    "info": {
+      "Dĺžka trate": "8 km",
+      "Povrch": "20% asfalt, 20% lúka, 60% poľná cesta",
+      "Štart": "13:00 hod.",
+      "Miesto": "Kozárovce, okr. Levice, priehrada",
+      "Organizátor": "Michal Šusták, blízka rodina a   kamaráti",
+      "Informácie": "Michal Šusták, tel.: 0948 151 541, e-mail: sustakmichal803@gmail.com"
+    }
+  },
+  {
     "datum": "2026-10-24",
     "url": "https://beh.sk/pretek/rajecka-12-minutovka-9/",
     "nazov": "Rajecká 12-minútovka",
@@ -1333,6 +1347,20 @@
       "Miesto": "Banská Bystrica, Europa Shopping Center",
       "Organizátor": "Europa Shopping Center, Marathon Banská Bystrica, s.r.o.",
       "Informácie": "e-mail: info@marathonbb.com"
+    }
+  },
+  {
+    "datum": "2026-10-10",
+    "url": "https://beh.sk/pretek/malinovy-pohar-7/",
+    "nazov": "Malinový pohár",
+    "mesto": "Malinovo, okr. Senec",
+    "info": {
+      "Dĺžka trate": "13 km, 6,5 km",
+      "Povrch": "betón/asfalt/poľná cesta/tráva",
+      "Štart": "10:00 hod. detské kat., 11:30 hod. - ženy a muži",
+      "Miesto": "Malinovo, okr. Senec, Park Malinovo",
+      "Organizátor": "OZ ManaBoost",
+      "Informácie": "tel.: +421 917 915 445, e-mail: info.malinovypohar@gmail.com"
     }
   },
   {
