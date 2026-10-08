@@ -70,6 +70,19 @@
     }
   },
   {
+    "datum": "2027-05-22",
+    "url": "https://beh.sk/pretek/turciansky-beh-8/",
+    "nazov": "Turčiansky beh",
+    "mesto": "Belá – Dulice",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "poľná cesta / šotolina",
+      "Štart": "10:24 hod.",
+      "Miesto": "Belá – Dulice, Futbalové ihrisko",
+      "Organizátor": "Občianske združenie PARASPORT24"
+    }
+  },
+  {
     "datum": "2027-04-17",
     "url": "https://beh.sk/pretek/beh-galantou-beh-oslobodenia-12/",
     "nazov": "Beh Galantou – Beh oslobodenia",
@@ -580,6 +593,48 @@
     }
   },
   {
+    "datum": "2026-11-07",
+    "url": "https://beh.sk/pretek/beh-okolo-luborce-16/",
+    "nazov": "Beh okolo Ľuborče",
+    "mesto": "Nemšová - Ľuborča",
+    "info": {
+      "Dĺžka trate": "29 km; 7,5 km",
+      "Povrch": "asfalt",
+      "Štart": "8:00 hod. 29 km, od 10:00 hod. žiactvo, 12:30 hod. dospelí na 7,5 km",
+      "Miesto": "Nemšová - Ľuborča, štadión TJ Ľuborča",
+      "Organizátor": "Mesto Nemšová, TJ Ľuborča PD Vlára Nemšová a mládež z Namšovej",
+      "Informácie": "Mestský úrad Nemšová, ul. Janka Palu 2/3, 914 41  Oliver Vavro: tel.: 0949 799 990,  Ing. Eva Brandoburová, tel.: 032/650 96 19,  Vladimír Gajdoš, tel.: 0908 291 570,  Mestský úrad e-mail: sekretariat@nemsova.sk, zivotne@nemsova.sk"
+    }
+  },
+  {
+    "datum": "2026-11-07",
+    "url": "https://beh.sk/pretek/vrakunsky-beh-halloween-4/",
+    "nazov": "Halloween run",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "čiastočne asfaltový, zámková dlažba, prírodný spevnený povrch",
+      "Štart": "14:00 – 16:00 hod. Halloweensky detský program, 18:00 hod. 10 km a 5 km, 18:05 hod. Nordic Walking",
+      "Miesto": "Bratislava, Eurovea, Pribinova 8",
+      "Organizátor": "Rozbehaj sa, Big-agency Slovakia s.r.o.",
+      "Informácie": "Rozbehaj sa, e-mail: info@rozbehajsa.sk"
+    }
+  },
+  {
+    "datum": "2026-11-06",
+    "url": "https://beh.sk/pretek/beh-17-novembra-12/",
+    "nazov": "Beh 17. novembra",
+    "mesto": "Žilina",
+    "info": {
+      "Dĺžka trate": "3,2 km",
+      "Povrch": "tráva",
+      "Štart": "10:10 hod. mládež, 11:30 – štart kategórií vysokoškolákov a dospelých",
+      "Miesto": "Žilina, Veľký Diel – cca 150 m od telocvične T1",
+      "Organizátor": "Ústav telesnej výchovy Žilinskej univerzity, AC UNIZA, Slovenská asociácia univerzitného športu",
+      "Informácie": "PaedDr. Ľudmila Malachová, Ústav telesnej výchovy ŽU Univerzitná 8215/1, 010 26 Žilina, tel.: 041/513 52 51, e-mail: malachova@uniza.sk"
+    }
+  },
+  {
     "datum": "2026-10-31",
     "url": "https://beh.sk/pretek/sninsky-cross-5/",
     "nazov": "Sninsky Cross",
@@ -1057,6 +1112,20 @@
       "Miesto": "Trnava, Atletický areál Slávia Trnava",
       "Organizátor": "Ži v pohybe, o.z., Baterkáreň, OZ SaUvedom, CrossFit Trnava",
       "Informácie": "📧: ahoj@trnavarun.sk"
+    }
+  },
+  {
+    "datum": "2026-10-17",
+    "url": "https://beh.sk/pretek/vajnorsky-minimaraton-16/",
+    "nazov": "Vajnorský minimaratón",
+    "mesto": "Bratislava – Vajnory",
+    "info": {
+      "Dĺžka trate": "5 km, 10 km",
+      "Povrch": "asfalt",
+      "Štart": "12:30 hod. deti, 14:00 hod - 5km, 15:00 hod. - 10km",
+      "Miesto": "Bratislava – Vajnory, Park pod lipami",
+      "Organizátor": "O.z. Rozbehaj sa, Big-agency Slovakia s.r.o., v spolupráci s MČ Vajnory a Slovenským atletickým zväzom",
+      "Informácie": "Občianske združenie Rozbehaj sa, e-mail: vajnorskyminimaraton@rozbehajsa.sk"
     }
   },
   {

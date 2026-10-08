@@ -37,6 +37,54 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Mattoni Liberec Trail Run",
+    "url": "https://www.bezeckyzavod.cz/mattoni-liberec-trail-2027/",
+    "datum": "2.10.2027",
+    "mesto": "Liberec",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "22 km",
+      "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Český půlmaraton - Brno",
+    "url": "https://www.bezeckyzavod.cz/cesky-pulmaraton--brno-2027/",
+    "datum": "2.10.2027",
+    "mesto": "Brno",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Česká spořitelna Běchovice-Praha, MČR",
+    "url": "https://www.bezeckyzavod.cz/ceska-sporitelna-bechovice-praha--praha-bechovice-2027/",
+    "datum": "26.9.2027",
+    "mesto": "Praha-Běchovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10.031 km",
+      "Kraj": "Praha a okolí"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Berounský půlmaraton",
+    "url": "https://www.bezeckyzavod.cz/berounsky-pulmaraton-2027/",
+    "datum": "19.9.2027",
+    "mesto": "Beroun",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21.1 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Lipno.trail.run. 2",
     "url": "https://www.bezeckyzavod.cz/lipno-trail-run-2-lipno-nad-vltavou-2027/",
     "datum": "18.9.2027",
@@ -45,6 +93,30 @@
     "info": {
       "Dĺžka trate": "108 km",
       "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Škoda Fit Půlmaraton",
+    "url": "https://www.bezeckyzavod.cz/skoda-fit-pulmaraton-plzen-2027/",
+    "datum": "18.9.2027",
+    "mesto": "Plzeň",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21 km",
+      "Kraj": "Plzeňský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Mattoni 1/2Maraton Ústí nad Labem",
+    "url": "https://www.bezeckyzavod.cz/mattoni-1-2maraton-usti-usti-nad-labem-2027/",
+    "datum": "18.9.2027",
+    "mesto": "Ústí nad Labem",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21.1 km",
+      "Kraj": "Ústecký kraj"
     }
   },
   {
@@ -107,6 +179,18 @@
     "info": {
       "Dĺžka trate": "10 km",
       "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "NN Night Run Praha",
+    "url": "https://www.bezeckyzavod.cz/nn-night-run-praha-2027/",
+    "datum": "11.9.2027",
+    "mesto": "Praha",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Praha a okolí"
     }
   },
   {
@@ -234,6 +318,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "7 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "NN Night Run Most",
+    "url": "https://www.bezeckyzavod.cz/nn-night-run-most-2027/",
+    "datum": "14.8.2027",
+    "mesto": "Most",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -818,6 +914,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Berounská 10",
+    "url": "https://www.bezeckyzavod.cz/berounska-10-2027/",
+    "datum": "29.5.2027",
+    "mesto": "Beroun",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Mattoni Running Festival České Budějovice",
     "url": "https://www.bezeckyzavod.cz/mattoni-1-2maraton-ceske-ceske-budejovice-2027/",
     "datum": "29.5.2027",
@@ -938,6 +1046,21 @@
     "popis": ""
   },
   {
+    "datum": "2027-05-22",
+    "url": "https://beh.sk/pretek/turciansky-beh-8/",
+    "nazov": "Turčiansky beh",
+    "mesto": "Belá – Dulice",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "poľná cesta / šotolina",
+      "Štart": "10:24 hod.",
+      "Miesto": "Belá – Dulice, Futbalové ihrisko",
+      "Organizátor": "Občianske združenie PARASPORT24"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "Zaječický bůr",
     "url": "https://www.bezeckyzavod.cz/zajecicky-bur-zajecice-pysely-2027/",
@@ -982,6 +1105,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "9 km",
+      "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "NN Night Run Liberec",
+    "url": "https://www.bezeckyzavod.cz/nn-night-run-liberec-2027/",
+    "datum": "22.5.2027",
+    "mesto": "Liberec",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
       "Kraj": "Liberecký kraj"
     }
   },
@@ -1095,6 +1230,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "NN Night Run Brno",
+    "url": "https://www.bezeckyzavod.cz/nn-night-run-brno-2027/",
+    "datum": "15.5.2027",
+    "mesto": "Brno",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Závadská desítka RUN",
     "url": "https://www.bezeckyzavod.cz/zavadska-desitka-run-bohuslavice-2027/",
     "datum": "15.5.2027",
@@ -1151,6 +1298,18 @@
     "info": {
       "Dĺžka trate": "42.2 km",
       "Kraj": "Praha a okolí"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Poděbrady Running (5 km)",
+    "url": "https://www.bezeckyzavod.cz/podebrady-running-5-2027/",
+    "datum": "1.5.2027",
+    "mesto": "Poděbrady",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Kraj": "Středočeský kraj"
     }
   },
   {
@@ -1228,6 +1387,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Lesní Sokolská Devítka",
+    "url": "https://www.bezeckyzavod.cz/lesni-sokolska-devitka-pozorice-2027/",
+    "datum": "25.4.2027",
+    "mesto": "Pozořice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "9 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Štěpánkovický kros",
     "url": "https://www.bezeckyzavod.cz/stepankovicky-kros-stepankovice-2027/",
     "datum": "25.4.2027",
@@ -1296,6 +1467,18 @@
     "info": {
       "Dĺžka trate": "21 km",
       "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh Ždánice",
+    "url": "https://www.bezeckyzavod.cz/beh-zdanice-2027/",
+    "datum": "24.4.2027",
+    "mesto": "Ždánice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "12 km",
+      "Kraj": "Jihomoravský kraj"
     }
   },
   {
@@ -1436,6 +1619,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "NN Night Run Hradec Králové",
+    "url": "https://www.bezeckyzavod.cz/nn-night-run-hradec-hradec-kralove-2027/",
+    "datum": "17.4.2027",
+    "mesto": "Hradec Králové",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Královéhradecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Tišnovské kozy",
     "url": "https://www.bezeckyzavod.cz/tisnovske-kozy-2027/",
     "datum": "17.4.2027",
@@ -1524,6 +1719,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "NN Night Run Ostrava",
+    "url": "https://www.bezeckyzavod.cz/nn-night-run-ostrava-2027/",
+    "datum": "10.4.2027",
+    "mesto": "Ostrava",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Moravskoslezský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Lahofer Run",
     "url": "https://www.bezeckyzavod.cz/lahofer-run-suchohrdly-2027/",
     "datum": "4.4.2027",
@@ -1544,6 +1751,18 @@
     "info": {
       "Dĺžka trate": "21.1 km",
       "Kraj": "Praha a okolí"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Český půlmaraton - Most",
+    "url": "https://www.bezeckyzavod.cz/cesky-pulmaraton--most-2027/",
+    "datum": "3.4.2027",
+    "mesto": "Most",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21 km",
+      "Kraj": "Ústecký kraj"
     }
   },
   {
@@ -3432,18 +3651,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Adventní běh Žatec",
-    "url": "https://www.bezeckyzavod.cz/adventni-beh-zatec-2026/",
-    "datum": "5.12.2026",
-    "mesto": "Žatec",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "6.6 km",
-      "Kraj": "Ústecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Koloběh Říp-Praha",
     "url": "https://www.bezeckyzavod.cz/kolobeh-rip-praha-mnetes-2026/",
     "datum": "5.12.2026",
@@ -3451,6 +3658,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "50 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Adventní běh Žatec",
+    "url": "https://www.bezeckyzavod.cz/adventni-beh-zatec-2026/",
+    "datum": "5.12.2026",
+    "mesto": "Žatec",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "6.6 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -4261,6 +4480,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Podzimní cross - Běh 17. listopadu",
+    "url": "https://www.bezeckyzavod.cz/podzimni-cross-beh-borice-2026/",
+    "datum": "17.11.2026",
+    "mesto": "Bořice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Pardubický kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Běh o pohár Jehnic",
     "url": "https://www.bezeckyzavod.cz/beh-o-pohar-jehnic-mokra-hora-2026/",
     "datum": "17.11.2026",
@@ -4591,6 +4822,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Dvouetapový kros Zaječov",
+    "url": "https://www.bezeckyzavod.cz/dvouetapovy-kros-zajecov-mala-viska-2026/",
+    "datum": "14.11.2026",
+    "mesto": "Malá Víska",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "13.5 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Hannah Pilsen Trail Krkavec",
     "url": "https://www.bezeckyzavod.cz/hannah-pilsen-trail-krkavec-plzen-2026/",
     "datum": "14.11.2026",
@@ -4682,6 +4925,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "11 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Kuchařovická výzva",
+    "url": "https://www.bezeckyzavod.cz/kucharovicka-vyzva-kucharovice-2026-11/",
+    "datum": "14.11.2026",
+    "mesto": "Kuchařovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "9 km",
       "Kraj": "Jihomoravský kraj"
     }
   },
@@ -5052,6 +5307,38 @@
       "Miesto": "Kováčová, futbalový štadión Kováčová",
       "Organizátor": "Obec Kováčová",
       "Informácie": "Mikulová Zuzana, e-mail: zuzana.mikulova@kovacova.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-11-07",
+    "url": "https://beh.sk/pretek/beh-okolo-luborce-16/",
+    "nazov": "Beh okolo Ľuborče",
+    "mesto": "Nemšová - Ľuborča",
+    "info": {
+      "Dĺžka trate": "29 km; 7,5 km",
+      "Povrch": "asfalt",
+      "Štart": "8:00 hod. 29 km, od 10:00 hod. žiactvo, 12:30 hod. dospelí na 7,5 km",
+      "Miesto": "Nemšová - Ľuborča, štadión TJ Ľuborča",
+      "Organizátor": "Mesto Nemšová, TJ Ľuborča PD Vlára Nemšová a mládež z Namšovej",
+      "Informácie": "Mestský úrad Nemšová, ul. Janka Palu 2/3, 914 41  Oliver Vavro: tel.: 0949 799 990,  Ing. Eva Brandoburová, tel.: 032/650 96 19,  Vladimír Gajdoš, tel.: 0908 291 570,  Mestský úrad e-mail: sekretariat@nemsova.sk, zivotne@nemsova.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-11-07",
+    "url": "https://beh.sk/pretek/vrakunsky-beh-halloween-4/",
+    "nazov": "Halloween run",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "čiastočne asfaltový, zámková dlažba, prírodný spevnený povrch",
+      "Štart": "14:00 – 16:00 hod. Halloweensky detský program, 18:00 hod. 10 km a 5 km, 18:05 hod. Nordic Walking",
+      "Miesto": "Bratislava, Eurovea, Pribinova 8",
+      "Organizátor": "Rozbehaj sa, Big-agency Slovakia s.r.o.",
+      "Informácie": "Rozbehaj sa, e-mail: info@rozbehajsa.sk"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -5526,31 +5813,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Halloween Run",
-    "url": "https://vsetkybehy.sk/podujatie/halloween-run-2026",
-    "datum": "2026-11-07",
-    "mesto": "Bratislava",
-    "popis": "10 km – 2 × 5 km okruh, 5 km – večerný beh, 5 km",
-    "info": {
-      "Miesto": "Bratislava – Lesopark Vrakuňa - Bufet pri Rozhľadni",
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "20:30",
-      "kraj": "bratislavsky",
-      "gps": "48.1456000,17.1986000",
-      "seria": "",
-      "disciplíny": [
-        "10 km – 2 × 5 km okruh",
-        "5 km – večerný beh",
-        "5 km"
-      ],
-      "registracia": "https://my.raceresult.com/385835/",
-      "web": "",
-      "propozicie": "https://www.rozbehajsa.sk/nase-behy/night-run-nitra/night-run-nitra-propozicie/",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Choď ako môžeš",
     "url": "https://vsetkybehy.sk/podujatie/chod-ako-mozes-43rocnik-bobrovec-2026",
     "datum": "2026-11-07",
@@ -5571,6 +5833,22 @@
       "propozicie": "https://casomierapt.com/wp-content/uploads/2026/09/PropoChMo26.pdf",
       "vysledky": ""
     }
+  },
+  {
+    "datum": "2026-11-06",
+    "url": "https://beh.sk/pretek/beh-17-novembra-12/",
+    "nazov": "Beh 17. novembra",
+    "mesto": "Žilina",
+    "info": {
+      "Dĺžka trate": "3,2 km",
+      "Povrch": "tráva",
+      "Štart": "10:10 hod. mládež, 11:30 – štart kategórií vysokoškolákov a dospelých",
+      "Miesto": "Žilina, Veľký Diel – cca 150 m od telocvične T1",
+      "Organizátor": "Ústav telesnej výchovy Žilinskej univerzity, AC UNIZA, Slovenská asociácia univerzitného športu",
+      "Informácie": "PaedDr. Ľudmila Malachová, Ústav telesnej výchovy ŽU Univerzitná 8215/1, 010 26 Žilina, tel.: 041/513 52 51, e-mail: malachova@uniza.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
   },
   {
     "zdroj": "bezeckyzavod.cz",
@@ -5609,28 +5887,15 @@
     }
   },
   {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Beh 17. novembra",
-    "url": "https://vsetkybehy.sk/podujatie/60-rocnik-behu-17-novembra-2026",
-    "datum": "2026-11-06",
-    "mesto": "Žilina",
-    "popis": "Detské behy, 3,2 km, 1,6 km",
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "BRKO - Noční běh terénem",
+    "url": "https://www.bezeckyzavod.cz/brko-nocni-beh-cesky-brod-2026/",
+    "datum": "4.11.2026",
+    "mesto": "Český Brod",
+    "popis": "",
     "info": {
-      "Miesto": "Žilina – Veľký Diel",
-      "Dĺžka trate": "3.2 km, 1.6 km",
-      "Štart": "",
-      "kraj": "zilinsky",
-      "gps": "49.2061562,18.7578654",
-      "seria": "",
-      "disciplíny": [
-        "Detské behy",
-        "3,2 km",
-        "1,6 km"
-      ],
-      "registracia": "https://my.raceresult.com/428419/registration",
-      "web": "",
-      "propozicie": "https://my.raceresult.com/428419/txt",
-      "vysledky": ""
+      "Dĺžka trate": "14 km",
+      "Kraj": "Středočeský kraj"
     }
   },
   {
@@ -5843,6 +6108,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Lesní kros mezi Přeštickými prasaty",
+    "url": "https://www.bezeckyzavod.cz/lesni-kros-mezi-prestickymi-prestice-2026/",
+    "datum": "31.10.2026",
+    "mesto": "Přeštice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "8 km",
+      "Kraj": "Plzeňský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Běh Labským údolím",
     "url": "https://www.bezeckyzavod.cz/beh-labskym-udolim-decin-xiv-dolni-zleb-decin-2026/",
     "datum": "31.10.2026",
@@ -5935,18 +6212,6 @@
     "info": {
       "Dĺžka trate": "6 km",
       "Kraj": "Zlínský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Lesní kros mezi Přeštickými prasaty",
-    "url": "https://www.bezeckyzavod.cz/lesni-kros-mezi-prestickymi-prestice-2026/",
-    "datum": "30.10.2026",
-    "mesto": "Přeštice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "8 km",
-      "Kraj": "Plzeňský kraj"
     }
   },
   {
@@ -6155,18 +6420,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Kněžmost",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-knezmost-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Kněžmost",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Rakovník",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-rakovnik-2026/",
     "datum": "28.10.2026",
@@ -6174,6 +6427,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "9.9 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Kněžmost",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-knezmost-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Kněžmost",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -6215,18 +6480,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Horoměřice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-horomerice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Horoměřice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.9 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Dobříš",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-dobris-2026/",
     "datum": "28.10.2026",
@@ -6234,6 +6487,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "8 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Horoměřice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-horomerice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Horoměřice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.9 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -6263,18 +6528,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Otradovice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-otradovice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Otradovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5.3 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Voznice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-voznice-2026/",
     "datum": "28.10.2026",
@@ -6294,6 +6547,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5.5 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Otradovice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-otradovice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Otradovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5.3 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -7077,6 +7342,18 @@
     }
   },
   {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Podnuselák #61",
+    "url": "https://www.bezeckyzavod.cz/podnuselak-61-praha-2026/",
+    "datum": "26.10.2026",
+    "mesto": "Praha",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Kraj": "Praha a okolí"
+    }
+  },
+  {
     "datum": "2026-10-25",
     "url": "https://beh.sk/pretek/raciansky-kros-jesen-10/",
     "nazov": "Račiansky kros – jeseň",
@@ -7177,7 +7454,7 @@
     "url": "https://pretekaj.sk/blackstorknordicwalking",
     "datum": "25.10.2026",
     "mesto": "Black Stork Nordic Walking",
-    "popis": "PROPOZÍCIE – 10 a 5 km trať Nordic Walking Základné informácie Názov a ročník: Black Stork Nordic Walking - 1. ročník Organizátor podujatia: Golfový rezort Black Stork Termín pretekov a miesto štartu: 25. október 2026 (nedeľa), Hotel International Veľká Lomnica, web: www.golftatry.sk , e-mail: golfrecepcia@golfinter.sk , info@golfinter.sk , registrácia na www.pretekaj.sk Kancelária pretekov: spolu s prezentáciou v hoteli International Účastnícky limit: 200 pretekárov (spolu na trate 5/10/NW) Časový harmonogram (25. október 2026, nedeľa) Čas Program 8:00 – 9:45 prezentácia pretekárov 10:30 štart NW a 10 km 10:40 štart NW na 5 km 12:00 štart žiackych kategórií od 11:30 moderovaný program pri hoteli International, golfové a footgolfové súťaže počas a po ukončení NW 13:30 predpokladaný čas vyhlásenia oficiálnych výsledkov všetkých súťaží, žrebovanie tomboly pre divákov Registrácia a štartovné Registrácia prebieha online na www.pretekaj.sk . Po registrácii a uhradení štartovného obdržia pretekári prihlášku, ktorú musia podpísať a predložiť pri prezentácii (aj v prípade vyzdvihnutia balíčka pre inú osobu). Štartovné je potrebné uhradiť podľa pokynov uvedených pri registrácii, pričom výška štartovného je určená podľa dátumu platby. Kategória / Dátum prihlásenia Suma Pretekári na 5/10 km prihlásení do 1.10.2026 20,- € Pretekári na 5/10 km a 10 km prihlásení od 15.10.2026 (ak nebude dosiahnutý limit) 23,- € Pretekári na 5/10 km prihlásení na mieste (ak nebude dosiahnutý limit) 25,- € Muži nad 71 rokov a ženy nad 61 rokov do 1.10.2026 10,- € Žiacke preteky 0,- € Štartovné zahŕňa: Pamätné štartové číslo s logom podujatia a vlastným menom (pre registrovaných do 11.10.2026) Elektronické meranie času Občerstvenie Upomienkový predmet (upresní sa pred podujatím) Šatňa Účastnícky list (možnosť vytlačiť po preteku na www.pretekaj.sk ) Účastnícku medailu v cieli (5 km a 10 km NW) + detská medaila pre deti v cieli Obed Presun štartovného Zmena pretekára v štartovnej listine alebo presu",
+    "popis": "PROPOZÍCIE – 10 a 5 km trať Nordic Walking Základné informácie Názov a ročník: Black Stork Nordic Walking - 1. ročník Organizátor podujatia: Golfový rezort Black Stork Termín pretekov a miesto štartu: 25. október 2026 (nedeľa), Hotel International Veľká Lomnica, web: www.golftatry.sk , e-mail: golfrecepcia@golfinter.sk , info@golfinter.sk , registrácia na www.pretekaj.sk Kancelária pretekov: spolu s prezentáciou v hoteli International Účastnícky limit: 200 pretekárov (spolu na trate 5/10/NW) Časový harmonogram (25. október 2026, nedeľa) Čas Program 8:00 – 9:45 prezentácia pretekárov 10:30 štart NW a 10 km 10:40 štart NW na 5 km 12:30 štart žiackych kategórií od 11:30 moderovaný program pri hoteli International, golfové a footgolfové súťaže počas a po ukončení NW 13:30 predpokladaný čas vyhlásenia oficiálnych výsledkov všetkých súťaží, žrebovanie tomboly pre divákov Registrácia a štartovné Registrácia prebieha online na www.pretekaj.sk . Po registrácii a uhradení štartovného obdržia pretekári prihlášku, ktorú musia podpísať a predložiť pri prezentácii (aj v prípade vyzdvihnutia balíčka pre inú osobu). Štartovné je potrebné uhradiť podľa pokynov uvedených pri registrácii, pričom výška štartovného je určená podľa dátumu platby. Kategória / Dátum prihlásenia Suma Pretekári na 5/10 km prihlásení do 1.10.2026 20,- € Pretekári na 5/10 km a 10 km prihlásení od 15.10.2026 (ak nebude dosiahnutý limit) 23,- € Pretekári na 5/10 km prihlásení na mieste (ak nebude dosiahnutý limit) 25,- € Muži nad 71 rokov a ženy nad 61 rokov do 1.10.2026 10,- € Žiacke preteky 0,- € Štartovné zahŕňa: Pamätné štartové číslo s logom podujatia a vlastným menom (pre registrovaných do 11.10.2026) Elektronické meranie času Občerstvenie Upomienkový predmet (upresní sa pred podujatím) Šatňa Účastnícky list (možnosť vytlačiť po preteku na www.pretekaj.sk ) Účastnícku medailu v cieli (5 km a 10 km NW) + detská medaila pre deti v cieli Obed Presun štartovného Zmena pretekára v štartovnej listine alebo presu",
     "info": {
       "propozicie": "https://pretekaj.sk/sk/podujatia/blackstorknordicwalking/info/propozicie",
       "Organizátor": "Golfový rezort Black Stork"
@@ -7236,6 +7513,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "21.097 km",
+      "Kraj": "Moravskoslezský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "COKAFE Půlmaraton",
+    "url": "https://www.bezeckyzavod.cz/cokafe-pulmaraton-ostrava-poruba-2026/",
+    "datum": "25.10.2026",
+    "mesto": "Ostrava - Poruba",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21 km",
       "Kraj": "Moravskoslezský kraj"
     }
   },
@@ -8433,6 +8722,22 @@
     "popis": ""
   },
   {
+    "datum": "2026-10-17",
+    "url": "https://beh.sk/pretek/vajnorsky-minimaraton-16/",
+    "nazov": "Vajnorský minimaratón",
+    "mesto": "Bratislava – Vajnory",
+    "info": {
+      "Dĺžka trate": "5 km, 10 km",
+      "Povrch": "asfalt",
+      "Štart": "12:30 hod. deti, 14:00 hod - 5km, 15:00 hod. - 10km",
+      "Miesto": "Bratislava – Vajnory, Park pod lipami",
+      "Organizátor": "O.z. Rozbehaj sa, Big-agency Slovakia s.r.o., v spolupráci s MČ Vajnory a Slovenským atletickým zväzom",
+      "Informácie": "Občianske združenie Rozbehaj sa, e-mail: vajnorskyminimaraton@rozbehajsa.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "pretekaj.sk",
     "nazov": "Pieninská stopa 2026",
     "url": "https://pretekaj.sk/pieninskastopa",
@@ -8966,31 +9271,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Vajnorský minimaratón",
-    "url": "https://vsetkybehy.sk/podujatie/vajnorsky-minimaraton-msr-v-5km-2026",
-    "datum": "2026-10-17",
-    "mesto": "Bratislava",
-    "popis": "Hlavná kategória (10 km), Rekreačná kategória (5 km), Detské behy",
-    "info": {
-      "Miesto": "Bratislava – Park pod lipami, Vajnory",
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "14:00",
-      "kraj": "bratislavsky",
-      "gps": "48.2062190,17.2070850",
-      "seria": "",
-      "disciplíny": [
-        "Hlavná kategória (10 km)",
-        "Rekreačná kategória (5 km)",
-        "Detské behy"
-      ],
-      "registracia": "https://my.raceresult.com/422201/registration",
-      "web": "",
-      "propozicie": "https://my.raceresult.com/422201/txt",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Horský maratón bratstva - Jesenný polmaratón",
     "url": "https://vsetkybehy.sk/podujatie/horsky-maraton-bratstva-jesenny-polmaraton-2026",
     "datum": "2026-10-17",
@@ -9286,18 +9566,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Podzimní běh kolem obce Březno (Březenská 11)",
-    "url": "https://www.bezeckyzavod.cz/podzimni-beh-kolem-obce-brezno-2026/",
-    "datum": "11.10.2026",
-    "mesto": "Březno",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "11 km",
-      "Kraj": "Ústecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Běh zámeckým parkem",
     "url": "https://www.bezeckyzavod.cz/beh-zameckym-parkem-klasterec-nad-ohri-2026/",
     "datum": "11.10.2026",
@@ -9305,6 +9573,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "7.65 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Podzimní běh kolem obce Březno (Březenská 11)",
+    "url": "https://www.bezeckyzavod.cz/podzimni-beh-kolem-obce-brezno-2026/",
+    "datum": "11.10.2026",
+    "mesto": "Březno",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "11 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -10235,7 +10515,7 @@
     "mesto": "Matejovce nad Hornádom",
     "popis": "Trail 4 km, Detské behy, Hlavná trať (8,6 km)",
     "info": {
-      "Miesto": "Matejovce nad Hornádom – pri Útulku Šťastný psík",
+      "Miesto": "Matejovce nad Hornádom – Pri Útulku Šťastný psík",
       "Dĺžka trate": "4 km, 8.6 km",
       "Štart": "09:00",
       "kraj": "kosicky",
@@ -10463,7 +10743,7 @@
       ],
       "registracia": "",
       "web": "",
-      "propozicie": "https://beh.sk/wp-content/uploads/2026/01/tobl2026_p.docx",
+      "propozicie": "",
       "vysledky": ""
     }
   },
@@ -10491,51 +10771,14 @@
     }
   },
   {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Jilemnická hodinovka",
-    "url": "https://www.bezeckyzavod.cz/jilemnicka-hodinovka-jilemnice-2026/",
-    "datum": "7.10.2026",
-    "mesto": "Jilemnice",
-    "popis": "",
+    "zdroj": "hrdosport.sk",
+    "nazov": "Turčianska žiacka liga 2026",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
+    "datum": "07.10.2026",
+    "mesto": "Martin",
     "info": {
-      "Dĺžka trate": "1 h",
-      "Kraj": "Liberecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "SK Ždárák – Dolinky",
-    "url": "https://www.bezeckyzavod.cz/sk-zdarak-dolinky-hamry-nad-sazavou-2026/",
-    "datum": "7.10.2026",
-    "mesto": "Hamry nad Sázavou",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "7 km",
-      "Kraj": "Kraj Vysočina"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Malínská Osmička",
-    "url": "https://www.bezeckyzavod.cz/malinska-osmicka-novy-malin-2026/",
-    "datum": "7.10.2026",
-    "mesto": "Nový Malín",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "7.97 km",
-      "Kraj": "Olomoucký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Technika Run",
-    "url": "https://www.bezeckyzavod.cz/technika-run-ostrava-2026/",
-    "datum": "7.10.2026",
-    "mesto": "Ostrava",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Kraj": "Moravskoslezský kraj"
+      "propozicie": "https://www.hrdosport.sk/Content/results/2026/10/PROP1060.pdf",
+      "vysledky": ""
     }
   },
   {
@@ -11647,7 +11890,7 @@
       "registracia": "",
       "web": "",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://drive.google.com/file/d/1Wlr1JbzFvhcLmfH34HQedv9N5NFtXzkB/view"
     }
   },
   {
@@ -28175,7 +28418,7 @@
       "Miesto": "Slovensko",
       "Dĺžka trate": "",
       "Štart": "",
-      "kraj": "bratislavsky",
+      "kraj": "",
       "gps": "48.7411520,19.4528650",
       "seria": "",
       "disciplíny": [
