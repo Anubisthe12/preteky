@@ -539,6 +539,20 @@
     }
   },
   {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/cestny-beh-krajom-hornej-nitry-11/",
+    "nazov": "Cestný beh krajom Hornej Nitry",
+    "mesto": "Nitrianské Pravno, okr. Prievidza",
+    "info": {
+      "Dĺžka trate": "9,7 km, 5,5 km",
+      "Povrch": "asfalt",
+      "Štart": "11:00 hod.",
+      "Miesto": "Nitrianské Pravno, okr. Prievidza, športový areál",
+      "Organizátor": "Obec Nitrianske Pravno",
+      "Informácie": "Ing. Imrich Gaplovský, tel.: 046/5447 510"
+    }
+  },
+  {
     "datum": "2026-11-12",
     "url": "https://beh.sk/pretek/topolcianska-bezecka-liga-2026-12-kolo/",
     "nazov": "Topoľčianska bežecká liga 2026 – 12. kolo",
@@ -1165,7 +1179,7 @@
       "Povrch": "asfalt",
       "Štart": "9:30 hod. - detské kategórie a dorast, 11:00 hod. - Dospelí",
       "Miesto": "Krompachy okr. Spišská Nová Ves, pred budovou mestského úradu",
-      "Organizátor": "Mesto Krompachy, Komisia kultúry a športu pri MsZ v Krompachoch",
+      "Organizátor": "Mesto Krompachy",
       "Informácie": "Ján Znanec, tel.: 053/419 22 20, e-mail: jan.znanec@krompachy.sk"
     }
   },
@@ -1430,6 +1444,33 @@
       "Miesto": "Malinovo, okr. Senec, Park Malinovo",
       "Organizátor": "OZ ManaBoost",
       "Informácie": "tel.: +421 917 915 445, e-mail: info.malinovypohar@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-10",
+    "url": "https://beh.sk/pretek/bachledka-night-run/",
+    "nazov": "Bachledka Night Run 2026",
+    "mesto": "Bachledka SKI & SUN , Ždiar",
+    "info": {
+      "Dĺžka trate": "12 km, 6 km",
+      "Povrch": "asfaltový a šotolinový povrch",
+      "Štart": "16:10 hod. detské behy, 17:30 hod. 12 km, 6 km",
+      "Miesto": "Bachledka SKI & SUN , Ždiar, pešia zóna areálu strediska Bachledka SKI & SUN",
+      "Organizátor": "LK Ski Jezersko o.z. / Bachledka SKI & SUN",
+      "Informácie": "tel.: +421 910 977 399, e-mail: viliam.juris@bachledka.sk,"
+    }
+  },
+  {
+    "datum": "2026-10-10",
+    "url": "https://beh.sk/pretek/beh-neporazenych-8/",
+    "nazov": "Beh Neporazenych",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km, pacientiv po NCMP",
+      "Štart": "9:00 hod.  pacienti po NCMP, 9:15 hod.  detské behy, 10:00 hod.  5 km beh, 10:15 hod.  10 km beh,",
+      "Miesto": "Bratislava, Námestie pred Grand Hotel River Park, Bratislava (Dvořákovo nábrežie)",
+      "Organizátor": "Rozbehaj sa v spolupráci s občianskym združením Porážka.sk",
+      "Informácie": "Občianske združenie Porážka.sk, Alžbeta Husarovič, tel.: +421 911979111, e-mail: alzbeta@husarovic.sk"
     }
   },
   {
