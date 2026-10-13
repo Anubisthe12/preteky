@@ -208,6 +208,20 @@
     }
   },
   {
+    "datum": "2026-12-31",
+    "url": "https://beh.sk/pretek/silvestrovsky-beh-zdravia-vrutky-17/",
+    "nazov": "Silvestrovský beh zdravia – Vrútky",
+    "mesto": "Vrútky okr. Martin",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Povrch": "asfalt",
+      "Štart": "10:05 hod. žiaci, o 10:10 hod. open",
+      "Miesto": "Vrútky okr. Martin, pešia zóna Vrútky",
+      "Organizátor": "Turčiansky amatérsky triatlon Martin za podpory mesta Vrútky",
+      "Informácie": "Daniel Konečný, tel.: 0903 503 666, e-mail: svemat@svemat.sk"
+    }
+  },
+  {
     "datum": "2026-12-26",
     "url": "https://beh.sk/pretek/vianocny-beh-mesta-lucenec-17/",
     "nazov": "Vianočný beh mesta Lučenec",
@@ -581,6 +595,20 @@
   },
   {
     "datum": "2026-11-07",
+    "url": "https://beh.sk/pretek/airport-run-3/",
+    "nazov": "Challenge Airport Run",
+    "mesto": "Prešov",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfaltová cesta a panelová cesta",
+      "Štart": "9:35 hod. - 10 km, 9:45 hod. - 5 km, 9:00 hod. - deti",
+      "Miesto": "Prešov, vojenská letecká základna v Prešove",
+      "Organizátor": "Prešov Running, o.z.",
+      "Informácie": "PaedDr. Evka Lange, PhD., tel.:+421 904 850 180, e-mail: presovrunningseries@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-11-07",
     "url": "https://beh.sk/pretek/runway-trail-run-surany/",
     "nazov": "Runway Trail Run Šurany",
     "mesto": "Šurany",
@@ -879,20 +907,6 @@
   },
   {
     "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/airport-run-3/",
-    "nazov": "Challenge Airport Run",
-    "mesto": "Prešov",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfaltová cesta a panelová cesta",
-      "Štart": "9:00 hod. - 10 km, 9:10 hod. - 5 km, 9:15 hod. - deti",
-      "Miesto": "Prešov, vojenská letecká základna v Prešove",
-      "Organizátor": "Prešov Running, o.z.",
-      "Informácie": "PaedDr. Evka Lange, PhD., tel.:+421 904 850 180, e-mail: presovrunningseries@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-18",
     "url": "https://beh.sk/pretek/samorinska-bezecka-liga-2026-6-kolo/",
     "nazov": "Šamorínska bežecká liga 2026 – 6. kolo",
     "mesto": "Šamorín",
@@ -1154,76 +1168,6 @@
       "Miesto": "Prešov, Cyklistický velodróm",
       "Organizátor": "BK ZasRun Šarišské Bohdanovce",
       "Informácie": "Jozef Daňko, tel.: 0948 885 493, e-mail: info@zasrun.sk"
-    }
-  },
-  {
-    "datum": "2026-10-11",
-    "url": "https://beh.sk/pretek/beh-za-zdravie-kuchajda-2/",
-    "nazov": "Beh za zdravie – Kuchajda",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Povrch": "spevnený povrch/asfalt",
-      "Štart": "11:00 hod. - detské kategórie,  13:00 hod. - Hlavný beh 5km a nesúťažná míľ",
-      "Miesto": "Bratislava, Kuchajda - amfiteáter",
-      "Organizátor": "OZ Chobotnica",
-      "Informácie": "e-mail: behzazadravie@gmail.com."
-    }
-  },
-  {
-    "datum": "2026-10-11",
-    "url": "https://beh.sk/pretek/beh-ulicami-krompach-18/",
-    "nazov": "Beh ulicami Krompách",
-    "mesto": "Krompachy okr. Spišská Nová Ves",
-    "info": {
-      "Dĺžka trate": "6 000 m",
-      "Povrch": "asfalt",
-      "Štart": "9:30 hod. - detské kategórie a dorast, 11:00 hod. - Dospelí",
-      "Miesto": "Krompachy okr. Spišská Nová Ves, pred budovou mestského úradu",
-      "Organizátor": "Mesto Krompachy",
-      "Informácie": "Ján Znanec, tel.: 053/419 22 20, e-mail: jan.znanec@krompachy.sk"
-    }
-  },
-  {
-    "datum": "2026-10-11",
-    "url": "https://beh.sk/pretek/beh-do-vrchu-banske-mlacky-18/",
-    "nazov": "Beh do vrchu Banské – Mlačky",
-    "mesto": "Banské okr. Vranov nad Topľou",
-    "info": {
-      "Dĺžka trate": "6,4 km (prevýšenie 326 m)",
-      "Povrch": "asfalt",
-      "Štart": "11:00 hod. - dorast, muži, ženy, 9:00 hod. deti",
-      "Miesto": "Banské okr. Vranov nad Topľou, pred Kultúrnym domom",
-      "Organizátor": "Športový klub Banské, Obecný úrad Banské",
-      "Informácie": "Michal Ivančo, 094 12 Banské 324, tel.: 0905 654 004, e-mail: skbanske1995@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-11",
-    "url": "https://beh.sk/pretek/beh-prveho-nadychu/",
-    "nazov": "Beh prvého nádychu",
-    "mesto": "Trnava",
-    "info": {
-      "Dĺžka trate": "7,8 km; 3,9 km",
-      "Povrch": "asfalt, dlažba",
-      "Štart": "10:00 hod.",
-      "Miesto": "Trnava, Tri Šišiky - Trnavský Amfiteáter (Halenárska 20)",
-      "Organizátor": "OZ Šišky",
-      "Informácie": "e-mail: kontakt@behprvehonadychu.sk"
-    }
-  },
-  {
-    "datum": "2026-10-11",
-    "url": "https://beh.sk/pretek/beh-okolo-sidorova-18/",
-    "nazov": "Beh okolo Sidorova",
-    "mesto": "Ružomberok",
-    "info": {
-      "Dĺžka trate": "13 km; 4,8 km",
-      "Povrch": "terén, asfalt (300 m)",
-      "Štart": "detské kategórie 9:15 hod., hlavné kategórie 10:30 hod.",
-      "Miesto": "Ružomberok, Pred Hotelom Áčko ( Hrabovská cesta 34 )",
-      "Organizátor": "Bežecký spolok Ruža Ružomberok a CVC Elán za podpory mesta  Ružomberok",
-      "Informácie": "Ing. Ján Svrček, tel.: 0905 537 341  Milan Kašák, tel.: 0918 666 757"
     }
   }
 ]
