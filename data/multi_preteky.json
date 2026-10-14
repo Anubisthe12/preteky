@@ -10945,7 +10945,7 @@
       "Štart": "",
       "kraj": "trenciansky",
       "gps": "48.8301318,17.7260435",
-      "seria": "",
+      "seria": "Propozície",
       "disciplíny": [
         "Horský beh (17,2 km)",
         "Horská chôdza (17,2 km)"
@@ -12805,7 +12805,7 @@
       "Štart": "10:00",
       "kraj": "trenciansky",
       "gps": "48.7138560,17.7871390",
-      "seria": "",
+      "seria": "Propozície",
       "disciplíny": [
         "Veľký okruh (23 km)",
         "Malý okruh (12 km)"
@@ -33785,18 +33785,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Kladenská hodinovka",
-    "url": "https://www.bezeckyzavod.cz/kladenska-hodinovka-kladno-2026/",
-    "datum": "13.10.2026",
-    "mesto": "Kladno",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "1 h",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Jesenický Surovec - ultratrail 50 km",
     "url": "https://www.bezeckyzavod.cz/jesenicky-surovec-ultratrail-jesenice-u-rakovnika-2026/",
     "datum": "17.10.2026",
@@ -34097,18 +34085,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Jílové u Prahy",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-jilove-u-prahy-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Jílové u Prahy",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "7.3 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Cerhovice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-cerhovice-2026/",
     "datum": "28.10.2026",
@@ -34116,6 +34092,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "8.7 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Jílové u Prahy",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-jilove-u-prahy-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Jílové u Prahy",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "7.3 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -35813,6 +35801,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh do vrchu na Pastýřskou stěnu",
+    "url": "https://www.bezeckyzavod.cz/beh-do-vrchu-na-decin-2026/",
+    "datum": "24.10.2026",
+    "mesto": "Děčín",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "0.83 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Ústí nad Labem",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-usti-nad-labem-2026/",
     "datum": "28.10.2026",
@@ -35873,18 +35873,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Mšené-lázně",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-msene-lazne-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Mšené-lázně",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.5 km",
-      "Kraj": "Ústecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Hřivice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-hrivice-2026/",
     "datum": "28.10.2026",
@@ -35892,6 +35880,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "3.2 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Mšené-lázně",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-msene-lazne-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Mšené-lázně",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.5 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -36353,18 +36353,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Radčice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-radcice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Radčice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5.9 km",
-      "Kraj": "Liberecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Zásada",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zasada-2026/",
     "datum": "28.10.2026",
@@ -36372,6 +36360,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "6 km",
+      "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Radčice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-radcice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Radčice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5.9 km",
       "Kraj": "Liberecký kraj"
     }
   },
@@ -36581,18 +36581,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Jablonecký tahoun",
-    "url": "https://www.bezeckyzavod.cz/jablonecky-tahoun-marsovice-2027/",
-    "datum": "22.5.2027",
-    "mesto": "Maršovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "9 km",
-      "Kraj": "Liberecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "NN Night Run Liberec",
     "url": "https://www.bezeckyzavod.cz/nn-night-run-liberec-2027/",
     "datum": "22.5.2027",
@@ -36600,6 +36588,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "10 km",
+      "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Jablonecký tahoun",
+    "url": "https://www.bezeckyzavod.cz/jablonecky-tahoun-marsovice-2027/",
+    "datum": "22.5.2027",
+    "mesto": "Maršovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "9 km",
       "Kraj": "Liberecký kraj"
     }
   },
@@ -38045,18 +38045,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Syrovice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Syrovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Kraj": "Jihomoravský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Babice nad Svitavou",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
     "datum": "28.10.2026",
@@ -38064,6 +38052,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "6.7 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Syrovice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Syrovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5 km",
       "Kraj": "Jihomoravský kraj"
     }
   },

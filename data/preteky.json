@@ -471,6 +471,20 @@
   },
   {
     "datum": "2026-11-15",
+    "url": "https://beh.sk/pretek/samorinska-bezecka-liga-2026-6-kolo/",
+    "nazov": "Šamorínska bežecká liga 2026 – 6. kolo",
+    "mesto": "Šamorín",
+    "info": {
+      "Dĺžka trate": "5 000 m",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod. deti, 10:30 hod. Hlavný beh",
+      "Miesto": "Šamorín, Lesopark Pomlé",
+      "Organizátor": "3klub Šamorín o.z. v spolupráci s mestom Šamorín",
+      "Informácie": "Juraj Nagy, tel.: 0905 984 190, e-mail: jn@flextravel.sk"
+    }
+  },
+  {
+    "datum": "2026-11-15",
     "url": "https://beh.sk/pretek/hermanovska-desiatka-9/",
     "nazov": "Hermanovská desiatka",
     "mesto": "Hermanovce nad Topľou, okr. Vranov nad Topľou",
@@ -495,6 +509,20 @@
       "Miesto": "Ferčekovce, Spišská Nová Ves, Malé pole",
       "Organizátor": "Športový klub Ferčekovce, mesto Spišská Nová Ves, MsV č. 3",
       "Informácie": "e-mail: info@skfercekovce.sk"
+    }
+  },
+  {
+    "datum": "2026-11-15",
+    "url": "https://beh.sk/pretek/hornokralovsky-beh-5/",
+    "nazov": "Hornokráľovský beh",
+    "mesto": "Horná Kráľova (okres Šaľa)",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Povrch": "asfalt",
+      "Štart": "12:00 hod. detské, 13:00 hod. - hlavný beh",
+      "Miesto": "Horná Kráľova (okres Šaľa), futbalové ihrisko",
+      "Organizátor": "Občianske združenie Život pod Tópartom",
+      "Informácie": "e-mail: oztopart@gmail.com"
     }
   },
   {
@@ -691,6 +719,20 @@
     }
   },
   {
+    "datum": "2026-10-30",
+    "url": "https://beh.sk/pretek/novozamocka-vecerna-desiatka-2/",
+    "nazov": "Novozámocká večerná desiatka",
+    "mesto": "Nové Zámky",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt",
+      "Štart": "17:30 hod. – Štart detských behov, 18:30 hod. – Štart hlavných behov (5 km a 10 km)",
+      "Miesto": "Nové Zámky, Hlavné námestie",
+      "Organizátor": "Spartan Training Group Nové Zámky, pod záštitou primátora mesta Nové Zámky",
+      "Informácie": "Mgr. Marián Rybár, tel.: 0903 131 624, e-mail: mgr.marian.rybar@gmail.com"
+    }
+  },
+  {
     "datum": "2026-10-25",
     "url": "https://beh.sk/pretek/raciansky-kros-jesen-10/",
     "nazov": "Račiansky kros – jeseň",
@@ -821,7 +863,7 @@
     "info": {
       "Dĺžka trate": "10 km, 5 km",
       "Povrch": "asfalt 90% / štrk (makadam) 10%",
-      "Štart": "11:00 hod. hl. kat., 10:00 hod. :detské kategórie",
+      "Štart": "11:00 hod. 10 km hl. kat., 11:10 hod. 5 km hl. kat.,10:00 hod. :detské kategórie",
       "Miesto": "Jaklovce okr. Gelnica, Pytliakova krčma, Priehradná ulica",
       "Organizátor": "Športový klub Jaklovce o.z. so spoluprácou obce Jaklovce",
       "Informácie": "Peter Budinský, tel.: 0905 527 234  Peter Mitrík, tel.: 0905 377 836  E-mail: ruzinska.desiatka@gmail.com"
@@ -903,20 +945,6 @@
       "Miesto": "Bratislava, Kuchajda",
       "Organizátor": "Sri Chinmoy Marathon Team",
       "Informácie": "Sri Chinmoy Marathon Team, tel.: +421 2 444 542 61, +421 905 648 315, e-mail: scmt@scmt.sk"
-    }
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/samorinska-bezecka-liga-2026-6-kolo/",
-    "nazov": "Šamorínska bežecká liga 2026 – 6. kolo",
-    "mesto": "Šamorín",
-    "info": {
-      "Dĺžka trate": "5 000 m",
-      "Povrch": "asfalt",
-      "Štart": "10:00 hod. deti, 10:30 hod. Hlavný beh",
-      "Miesto": "Šamorín, Lesopark Pomlé",
-      "Organizátor": "3klub Šamorín o.z. v spolupráci s mestom Šamorín",
-      "Informácie": "Juraj Nagy, tel.: 0905 984 190, e-mail: jn@flextravel.sk"
     }
   },
   {

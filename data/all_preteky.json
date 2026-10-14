@@ -1198,18 +1198,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Jablonecký tahoun",
-    "url": "https://www.bezeckyzavod.cz/jablonecky-tahoun-marsovice-2027/",
-    "datum": "22.5.2027",
-    "mesto": "Maršovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "9 km",
-      "Kraj": "Liberecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "NN Night Run Liberec",
     "url": "https://www.bezeckyzavod.cz/nn-night-run-liberec-2027/",
     "datum": "22.5.2027",
@@ -1217,6 +1205,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "10 km",
+      "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Jablonecký tahoun",
+    "url": "https://www.bezeckyzavod.cz/jablonecky-tahoun-marsovice-2027/",
+    "datum": "22.5.2027",
+    "mesto": "Maršovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "9 km",
       "Kraj": "Liberecký kraj"
     }
   },
@@ -4032,7 +4032,7 @@
       "Štart": "10:00",
       "kraj": "trenciansky",
       "gps": "48.7138560,17.7871390",
-      "seria": "",
+      "seria": "Propozície",
       "disciplíny": [
         "Veľký okruh (23 km)",
         "Malý okruh (12 km)"
@@ -4796,6 +4796,22 @@
   },
   {
     "datum": "2026-11-15",
+    "url": "https://beh.sk/pretek/samorinska-bezecka-liga-2026-6-kolo/",
+    "nazov": "Šamorínska bežecká liga 2026 – 6. kolo",
+    "mesto": "Šamorín",
+    "info": {
+      "Dĺžka trate": "5 000 m",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod. deti, 10:30 hod. Hlavný beh",
+      "Miesto": "Šamorín, Lesopark Pomlé",
+      "Organizátor": "3klub Šamorín o.z. v spolupráci s mestom Šamorín",
+      "Informácie": "Juraj Nagy, tel.: 0905 984 190, e-mail: jn@flextravel.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-11-15",
     "url": "https://beh.sk/pretek/hermanovska-desiatka-9/",
     "nazov": "Hermanovská desiatka",
     "mesto": "Hermanovce nad Topľou, okr. Vranov nad Topľou",
@@ -4822,6 +4838,22 @@
       "Miesto": "Ferčekovce, Spišská Nová Ves, Malé pole",
       "Organizátor": "Športový klub Ferčekovce, mesto Spišská Nová Ves, MsV č. 3",
       "Informácie": "e-mail: info@skfercekovce.sk"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-11-15",
+    "url": "https://beh.sk/pretek/hornokralovsky-beh-5/",
+    "nazov": "Hornokráľovský beh",
+    "mesto": "Horná Kráľova (okres Šaľa)",
+    "info": {
+      "Dĺžka trate": "5 km",
+      "Povrch": "asfalt",
+      "Štart": "12:00 hod. detské, 13:00 hod. - hlavný beh",
+      "Miesto": "Horná Kráľova (okres Šaľa), futbalové ihrisko",
+      "Organizátor": "Občianske združenie Život pod Tópartom",
+      "Informácie": "e-mail: oztopart@gmail.com"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -6502,6 +6534,22 @@
     }
   },
   {
+    "datum": "2026-10-30",
+    "url": "https://beh.sk/pretek/novozamocka-vecerna-desiatka-2/",
+    "nazov": "Novozámocká večerná desiatka",
+    "mesto": "Nové Zámky",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "asfalt",
+      "Štart": "17:30 hod. – Štart detských behov, 18:30 hod. – Štart hlavných behov (5 km a 10 km)",
+      "Miesto": "Nové Zámky, Hlavné námestie",
+      "Organizátor": "Spartan Training Group Nové Zámky, pod záštitou primátora mesta Nové Zámky",
+      "Informácie": "Mgr. Marián Rybár, tel.: 0903 131 624, e-mail: mgr.marian.rybar@gmail.com"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "Ninja European Championship",
     "url": "https://www.bezeckyzavod.cz/ninja-european-championship-roudna-2026/",
@@ -6534,31 +6582,6 @@
       "registracia": "https://zasrun.sk/preteky/386/prihlaska",
       "web": "",
       "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Novozámocká večerná desiatka",
-    "url": "https://vsetkybehy.sk/podujatie/novozamocka-vecerna-desiatka-nove-zamky-2026",
-    "datum": "2026-10-30",
-    "mesto": "Nové Zámky",
-    "popis": "Hlavná trať – muži/ženy (10 km), Hlavný beh – muži/ženy (5 km), Detské behy",
-    "info": {
-      "Miesto": "Nové Zámky – Hlavné námestie",
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "18:30",
-      "kraj": "nitriansky",
-      "gps": "47.9856280,18.1629050",
-      "seria": "",
-      "disciplíny": [
-        "Hlavná trať – muži/ženy (10 km)",
-        "Hlavný beh – muži/ženy (5 km)",
-        "Detské behy"
-      ],
-      "registracia": "https://www.vysledkovyservis.sk/novozamocka-vecerna-desiatka/novozamocka-vecerna-desiatka/individual-registration",
-      "web": "",
-      "propozicie": "https://www.vysledkovyservis.sk/novozamocka-vecerna-desiatka-propozicie",
       "vysledky": ""
     }
   },
@@ -6791,18 +6814,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Jílové u Prahy",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-jilove-u-prahy-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Jílové u Prahy",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "7.3 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Cerhovice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-cerhovice-2026/",
     "datum": "28.10.2026",
@@ -6810,6 +6821,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "8.7 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Jílové u Prahy",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-jilove-u-prahy-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Jílové u Prahy",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "7.3 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -7055,18 +7078,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Mšené-lázně",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-msene-lazne-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Mšené-lázně",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.5 km",
-      "Kraj": "Ústecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Hřivice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-hrivice-2026/",
     "datum": "28.10.2026",
@@ -7074,6 +7085,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "3.2 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Mšené-lázně",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-msene-lazne-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Mšené-lázně",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.5 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -7175,18 +7198,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Radčice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-radcice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Radčice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5.9 km",
-      "Kraj": "Liberecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Zásada",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zasada-2026/",
     "datum": "28.10.2026",
@@ -7194,6 +7205,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "6 km",
+      "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Radčice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-radcice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Radčice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5.9 km",
       "Kraj": "Liberecký kraj"
     }
   },
@@ -7451,18 +7474,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Syrovice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Syrovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Kraj": "Jihomoravský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Babice nad Svitavou",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
     "datum": "28.10.2026",
@@ -7470,6 +7481,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "6.7 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Syrovice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Syrovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5 km",
       "Kraj": "Jihomoravský kraj"
     }
   },
@@ -7941,7 +7964,7 @@
     "info": {
       "Dĺžka trate": "10 km, 5 km",
       "Povrch": "asfalt 90% / štrk (makadam) 10%",
-      "Štart": "11:00 hod. hl. kat., 10:00 hod. :detské kategórie",
+      "Štart": "11:00 hod. 10 km hl. kat., 11:10 hod. 5 km hl. kat.,10:00 hod. :detské kategórie",
       "Miesto": "Jaklovce okr. Gelnica, Pytliakova krčma, Priehradná ulica",
       "Organizátor": "Športový klub Jaklovce o.z. so spoluprácou obce Jaklovce",
       "Informácie": "Peter Budinský, tel.: 0905 527 234  Peter Mitrík, tel.: 0905 377 836  E-mail: ruzinska.desiatka@gmail.com"
@@ -8090,6 +8113,18 @@
     "info": {
       "Dĺžka trate": "100 km",
       "Kraj": "Plzeňský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh do vrchu na Pastýřskou stěnu",
+    "url": "https://www.bezeckyzavod.cz/beh-do-vrchu-na-decin-2026/",
+    "datum": "24.10.2026",
+    "mesto": "Děčín",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "0.83 km",
+      "Kraj": "Ústecký kraj"
     }
   },
   {
@@ -8477,22 +8512,6 @@
       "Miesto": "Bratislava, Kuchajda",
       "Organizátor": "Sri Chinmoy Marathon Team",
       "Informácie": "Sri Chinmoy Marathon Team, tel.: +421 2 444 542 61, +421 905 648 315, e-mail: scmt@scmt.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/samorinska-bezecka-liga-2026-6-kolo/",
-    "nazov": "Šamorínska bežecká liga 2026 – 6. kolo",
-    "mesto": "Šamorín",
-    "info": {
-      "Dĺžka trate": "5 000 m",
-      "Povrch": "asfalt",
-      "Štart": "10:00 hod. deti, 10:30 hod. Hlavný beh",
-      "Miesto": "Šamorín, Lesopark Pomlé",
-      "Organizátor": "3klub Šamorín o.z. v spolupráci s mestom Šamorín",
-      "Informácie": "Juraj Nagy, tel.: 0905 984 190, e-mail: jn@flextravel.sk"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -9621,7 +9640,7 @@
       "Štart": "",
       "kraj": "trenciansky",
       "gps": "48.8301318,17.7260435",
-      "seria": "",
+      "seria": "Propozície",
       "disciplíny": [
         "Horský beh (17,2 km)",
         "Horská chôdza (17,2 km)"
@@ -9741,18 +9760,6 @@
     "info": {
       "Dĺžka trate": "5 km",
       "Kraj": "Moravskoslezský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Kladenská hodinovka",
-    "url": "https://www.bezeckyzavod.cz/kladenska-hodinovka-kladno-2026/",
-    "datum": "13.10.2026",
-    "mesto": "Kladno",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "1 h",
-      "Kraj": "Středočeský kraj"
     }
   },
   {

@@ -1504,24 +1504,6 @@
     "popis": ""
   },
   {
-    "nazov": "Jablonecký tahoun",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/jablonecky-tahoun-marsovice-2027/",
-    "datum": "2027-05-22",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Maršovice",
-    "kraj": "Liberecký kraj",
-    "dlzka": "9 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "NN Night Run Liberec",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/nn-night-run-liberec-2027/",
@@ -1531,6 +1513,24 @@
     "mesto": "Liberec",
     "kraj": "Liberecký kraj",
     "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Jablonecký tahoun",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/jablonecky-tahoun-marsovice-2027/",
+    "datum": "2027-05-22",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Maršovice",
+    "kraj": "Liberecký kraj",
+    "dlzka": "9 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -6214,6 +6214,24 @@
     "popis": ""
   },
   {
+    "nazov": "Šamorínska bežecká liga 2026 – 6. kolo",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/samorinska-bezecka-liga-2026-6-kolo/",
+    "datum": "2026-11-15",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Šamorín",
+    "kraj": "",
+    "dlzka": "5 km",
+    "povrch": "asfalt",
+    "start_cas": "10:00 hod. deti, 10:30 hod. Hlavný beh",
+    "organizator": "3klub Šamorín o.z. v spolupráci s mestom Šamorín",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Hermanovská desiatka",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/hermanovska-desiatka-9/",
@@ -6244,6 +6262,24 @@
     "povrch": "Lesná cesta, tráva, zvlnený terén",
     "start_cas": "11:00 hod. – deti, dorast; 13:00 hod. – dospelí 5 a 10 km; 12:15 hod. – Prebehni sa s nami",
     "organizator": "Športový klub Ferčekovce, mesto Spišská Nová Ves, MsV č. 3",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Hornokráľovský beh",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/hornokralovsky-beh-5/",
+    "datum": "2026-11-15",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Horná Kráľova (okres Šaľa)",
+    "kraj": "",
+    "dlzka": "5 km",
+    "povrch": "asfalt",
+    "start_cas": "12:00 hod. detské, 13:00 hod. - hlavný beh",
+    "organizator": "Občianske združenie Život pod Tópartom",
     "tagy": [
       "beh"
     ],
@@ -8298,6 +8334,24 @@
     "popis": ""
   },
   {
+    "nazov": "Novozámocká večerná desiatka",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/novozamocka-vecerna-desiatka-2/",
+    "datum": "2026-10-30",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nové Zámky",
+    "kraj": "",
+    "dlzka": "10 km, 5 km",
+    "povrch": "asfalt",
+    "start_cas": "17:30 hod. – Štart detských behov, 18:30 hod. – Štart hlavných behov (5 km a 10 km)",
+    "organizator": "Spartan Training Group Nové Zámky, pod záštitou primátora mesta Nové Zámky",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Ninja European Championship",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/ninja-european-championship-roudna-2026/",
@@ -8332,24 +8386,6 @@
       "beh"
     ],
     "popis": "6 km, Detské behy"
-  },
-  {
-    "nazov": "Novozámocká večerná desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/novozamocka-vecerna-desiatka-nove-zamky-2026",
-    "datum": "2026-10-30",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nové Zámky",
-    "kraj": "",
-    "dlzka": "10 km, 5 km",
-    "povrch": "",
-    "start_cas": "18:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": "Hlavná trať – muži/ženy (10 km), Hlavný beh – muži/ženy (5 km), Detské behy"
   },
   {
     "nazov": "Podzimní půlmaraton VAŠÍ LIGY",
@@ -8676,24 +8712,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Jílové u Prahy",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-jilove-u-prahy-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Jílové u Prahy",
-    "kraj": "Středočeský kraj",
-    "dlzka": "7.3 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Cerhovice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-cerhovice-2026/",
@@ -8703,6 +8721,24 @@
     "mesto": "Cerhovice",
     "kraj": "Středočeský kraj",
     "dlzka": "8.7 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Jílové u Prahy",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-jilove-u-prahy-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Jílové u Prahy",
+    "kraj": "Středočeský kraj",
+    "dlzka": "7.3 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -9072,24 +9108,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Mšené-lázně",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-msene-lazne-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Mšené-lázně",
-    "kraj": "Ústecký kraj",
-    "dlzka": "4.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Hřivice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-hrivice-2026/",
@@ -9099,6 +9117,24 @@
     "mesto": "Hřivice",
     "kraj": "Ústecký kraj",
     "dlzka": "3.2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Mšené-lázně",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-msene-lazne-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Mšené-lázně",
+    "kraj": "Ústecký kraj",
+    "dlzka": "4.5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -9252,24 +9288,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Radčice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-radcice-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Radčice",
-    "kraj": "Liberecký kraj",
-    "dlzka": "5.9 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Zásada",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zasada-2026/",
@@ -9279,6 +9297,24 @@
     "mesto": "Zásada",
     "kraj": "Liberecký kraj",
     "dlzka": "6 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Radčice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-radcice-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Radčice",
+    "kraj": "Liberecký kraj",
+    "dlzka": "5.9 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -9666,24 +9702,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Syrovice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Syrovice",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Babice nad Svitavou",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
@@ -9693,6 +9711,24 @@
     "mesto": "Babice nad Svitavou",
     "kraj": "Jihomoravský kraj",
     "dlzka": "6.7 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Syrovice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Syrovice",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -10254,7 +10290,7 @@
     "kraj": "",
     "dlzka": "10 km, 5 km",
     "povrch": "asfalt 90% / štrk (makadam) 10%",
-    "start_cas": "11:00 hod. hl. kat., 10:00 hod. :detské kategórie",
+    "start_cas": "11:00 hod. 10 km hl. kat., 11:10 hod. 5 km hl. kat.,10:00 hod. :detské kategórie",
     "organizator": "Športový klub Jaklovce o.z. so spoluprácou obce Jaklovce",
     "tagy": [
       "beh"
@@ -10459,6 +10495,24 @@
     "organizator": "",
     "tagy": [
       "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Běh do vrchu na Pastýřskou stěnu",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/beh-do-vrchu-na-decin-2026/",
+    "datum": "2026-10-24",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Děčín",
+    "kraj": "Ústecký kraj",
+    "dlzka": "0.83 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
     ],
     "popis": ""
   },
@@ -10765,24 +10819,6 @@
     "povrch": "",
     "start_cas": "10:00 hod.",
     "organizator": "Sri Chinmoy Marathon Team",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Šamorínska bežecká liga 2026 – 6. kolo",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/samorinska-bezecka-liga-2026-6-kolo/",
-    "datum": "2026-10-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Šamorín",
-    "kraj": "",
-    "dlzka": "5 km",
-    "povrch": "asfalt",
-    "start_cas": "10:00 hod. deti, 10:30 hod. Hlavný beh",
-    "organizator": "3klub Šamorín o.z. v spolupráci s mestom Šamorín",
     "tagy": [
       "beh"
     ],
@@ -12309,25 +12345,6 @@
     "organizator": "",
     "tagy": [
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kladenská hodinovka",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/kladenska-hodinovka-kladno-2026/",
-    "datum": "2026-10-13",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Kladno",
-    "kraj": "Středočeský kraj",
-    "dlzka": "1 h",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
     ],
     "popis": ""
   },
