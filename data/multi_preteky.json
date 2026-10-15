@@ -10429,9 +10429,33 @@
       "disciplíny": [
         "Hodinovka (1 h)"
       ],
-      "registracia": "https://zasrun.sk/preteky/377/prihlaska",
+      "registracia": "",
       "web": "",
-      "propozicie": "https://zasrun.sk/preteky/presovska-hodinovka-na-velodrome-2-rocnik",
+      "propozicie": "",
+      "vysledky": "https://zasrun.sk/preteky/presovska-hodinovka-na-tartane-2-rocnik/vysledky"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Zaži Východ",
+    "url": "https://vsetkybehy.sk/podujatie/zazi-vychod-2026",
+    "datum": "2026-10-17",
+    "mesto": "Košice",
+    "popis": "ALL (100 km), ULTRA (100 km)",
+    "info": {
+      "Miesto": "Košice – Námestie Maratónu mieru 1, pred Úradom Košického samosprávneho kraja",
+      "Dĺžka trate": "100 km",
+      "Štart": "07:00",
+      "kraj": "kosicky",
+      "gps": "48.7164000,21.2611000",
+      "seria": "",
+      "disciplíny": [
+        "ALL (100 km)",
+        "ULTRA (100 km)"
+      ],
+      "registracia": "https://my.raceresult.com/429869/registration",
+      "web": "",
+      "propozicie": "https://my.raceresult.com/429869/txt",
       "vysledky": ""
     }
   },
@@ -10469,7 +10493,7 @@
     "info": {
       "Miesto": "Bratislava – Kultúrny dom Devín, Devín – Bratislava",
       "Dĺžka trate": "51 km",
-      "Štart": "08:05",
+      "Štart": "08:00",
       "kraj": "bratislavsky",
       "gps": "48.1559180,17.1313540",
       "seria": "",
@@ -10595,7 +10619,7 @@
       "Štart": "10:00",
       "kraj": "zilinsky",
       "gps": "49.0835790,19.6127850",
-      "seria": "",
+      "seria": "Propozície",
       "disciplíny": [
         "Polmaratón (21,1 km)"
       ],
@@ -10686,16 +10710,16 @@
     "url": "https://vsetkybehy.sk/podujatie/cezpolny-beh-belza-2026",
     "datum": "2026-10-17",
     "mesto": "Belža",
-    "popis": "Cezpoľný beh Belža (5,1 km), Detské behy",
+    "popis": "Cezpoľný beh Belža (4,2 km - 5,1 km), Detské behy",
     "info": {
       "Miesto": "Belža – areál SKS Belža",
-      "Dĺžka trate": "5.1 km",
+      "Dĺžka trate": "4.2 km",
       "Štart": "10:30",
       "kraj": "kosicky",
       "gps": "48.5805070,21.2731580",
       "seria": "",
       "disciplíny": [
-        "Cezpoľný beh Belža (5,1 km)",
+        "Cezpoľný beh Belža (4,2 km - 5,1 km)",
         "Detské behy"
       ],
       "registracia": "https://pretekaj.sk/sk/podujatia/belza2026/registration",
@@ -10863,10 +10887,10 @@
     "url": "https://vsetkybehy.sk/podujatie/bezime-vo-velkom-cepcine-2026",
     "datum": "2026-10-17",
     "mesto": "Veľký Čepčín",
-    "popis": "Veľkočepčianska deviatka (9 km), Beh na prameň Slatina (16 km), Veľkočepčianska jedenástka (11,7 km)",
+    "popis": "Veľkočepčianska deviatka (9 km), Beh na prameň Slatina (16 km), Veľkočepčianska dvanástka (12 km)",
     "info": {
       "Miesto": "Veľký Čepčín – Futbalové ihrisko Veľký Čepčín",
-      "Dĺžka trate": "9 km, 16 km, 11.7 km",
+      "Dĺžka trate": "9 km, 16 km, 12 km",
       "Štart": "13:30",
       "kraj": "zilinsky",
       "gps": "48.8950110,18.8088670",
@@ -10874,7 +10898,7 @@
       "disciplíny": [
         "Veľkočepčianska deviatka (9 km)",
         "Beh na prameň Slatina (16 km)",
-        "Veľkočepčianska jedenástka (11,7 km)"
+        "Veľkočepčianska dvanástka (12 km)"
       ],
       "registracia": "https://podmesahybat.sk/#registracia/bezimeVoVelkomCepcine",
       "web": "",
@@ -10993,37 +11017,13 @@
       "Štart": "10:00",
       "kraj": "trenciansky",
       "gps": "48.9094450,18.1702980",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [
         "Trail 9,72 km"
       ],
       "registracia": "https://tbl.sk/8-kolo-2026/",
       "web": "",
       "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Šamorínska bežecká liga",
-    "url": "https://vsetkybehy.sk/podujatie/samorinska-bezecka-liga-6-kolo-2026",
-    "datum": "2026-10-18",
-    "mesto": "Šamorín",
-    "popis": "Beh dospelých (5 km), Detské behy",
-    "info": {
-      "Miesto": "Šamorín – Lesopark Pomlé pri amfiteátri",
-      "Dĺžka trate": "5 km",
-      "Štart": "10:30",
-      "kraj": "trnavsky",
-      "gps": "48.0275830,17.3115710",
-      "seria": "Propozície",
-      "disciplíny": [
-        "Beh dospelých (5 km)",
-        "Detské behy"
-      ],
-      "registracia": "https://pretekaj.sk/sk/podujatia/sbl2026/preteky/3031/registration/competitors",
-      "web": "",
-      "propozicie": "https://pretekaj.sk/sk/podujatia/sbl2026/info/propozicie",
       "vysledky": ""
     }
   },
@@ -11045,9 +11045,9 @@
         "10 km",
         "Beh (11,2 km)"
       ],
-      "registracia": "https://pretekaj.sk/slanakicup2025",
+      "registracia": "https://pretekaj.sk/sk/podujatia/slanakicup2026/registration",
       "web": "",
-      "propozicie": "https://cdn.pretekaj.sk/events/2025/slanakicup2025/PROG20250148_45446.pdf",
+      "propozicie": "https://cdn.pretekaj.sk/events/2026/slanakicup2026/PROG20260119_49357.pdf",
       "vysledky": ""
     }
   },
@@ -11118,8 +11118,8 @@
         "Bež, kto môžeš (5 km)",
         "Detské behy"
       ],
-      "registracia": "https://tatryvpohybe.sk/sk/podujatia/bezktomozes2025",
-      "web": "",
+      "registracia": "",
+      "web": "https://oazabernatovce.sk/",
       "propozicie": "",
       "vysledky": ""
     }
@@ -11147,6 +11147,29 @@
       "registracia": "https://www.hrdosport.sk/Entries/Create/983",
       "web": "",
       "propozicie": "https://www.hrdosport.sk/Content/results/2026/10/PROP983.pdf",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Dvojmíľový beh – Memoriál Gabriela Zelenaya – preteky mládeže",
+    "url": "https://vsetkybehy.sk/podujatie/dvojmilovy-beh-30-rocnik-memorial-gabriela-zelenaya-5-rocnik-preteky-mladeze-2026",
+    "datum": "2026-10-20",
+    "mesto": "Prešov",
+    "popis": "Detské behy",
+    "info": {
+      "Miesto": "Prešov – Štadión ZŠ Šmeralova 25",
+      "Dĺžka trate": "",
+      "Štart": "16:20",
+      "kraj": "presovsky",
+      "gps": "49.0018000,21.2390000",
+      "seria": "",
+      "disciplíny": [
+        "Detské behy"
+      ],
+      "registracia": "https://statistika.atletika.sk/prihlaska/Account/LogOn?id=88891&idGroup=9",
+      "web": "",
+      "propozicie": "https://statistika.atletika.sk/admin/Proposition/GetPdfProposition/88891",
       "vysledky": ""
     }
   },
@@ -11772,7 +11795,7 @@
       ],
       "registracia": "https://zasrun.sk/preteky/326/prihlaska",
       "web": "",
-      "propozicie": "",
+      "propozicie": "https://docs.google.com/document/d/18X5uss7X7OCQjNpNtLYnMSbZT1Q1rA-jP6WFQPB-QIY/edit?usp=sharing",
       "vysledky": ""
     }
   },
@@ -12100,6 +12123,31 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Krásňanská desiatka",
+    "url": "https://vsetkybehy.sk/podujatie/krasnanska-desiatka-2026",
+    "datum": "2026-11-08",
+    "mesto": "Krásno nad Kysucou",
+    "popis": "Hlavný beh (10 km), Detské behy, Beh žiakov a stredoškolákov (3 km)",
+    "info": {
+      "Miesto": "Krásno nad Kysucou – Štadión TJ Tatran",
+      "Dĺžka trate": "10 km, 3 km",
+      "Štart": "10:00",
+      "kraj": "zilinsky",
+      "gps": "49.3896880,18.8322040",
+      "seria": "",
+      "disciplíny": [
+        "Hlavný beh (10 km)",
+        "Detské behy",
+        "Beh žiakov a stredoškolákov (3 km)"
+      ],
+      "registracia": "https://my.raceresult.com/429915/registration",
+      "web": "",
+      "propozicie": "https://casomierapt.com/wp-content/uploads/2026/10/PropoKrDe.pdf",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh oslobodenia mesta Strážske",
     "url": "https://vsetkybehy.sk/podujatie/beh-oslobodenia-mesta-strazske-2026",
     "datum": "2026-11-08",
@@ -12379,9 +12427,9 @@
         "Dlhá (18 km)",
         "Stredná (12 km)"
       ],
-      "registracia": "",
-      "web": "https://www.zemplinskyextrem.sk/",
-      "propozicie": "",
+      "registracia": "https://racetime.sk/reg/ze-muzeum-jesen-2026",
+      "web": "",
+      "propozicie": "https://racetime.sk/uploads/propozicie/beh-v-muzeu-2026.pdf",
       "vysledky": ""
     }
   },
@@ -12406,6 +12454,30 @@
       "registracia": "",
       "web": "https://cs.srichinmoyraces.org/beh-2-m%C3%ADle-bratislava",
       "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Šamorínska bežecká liga",
+    "url": "https://vsetkybehy.sk/podujatie/samorinska-bezecka-liga-6-kolo-2026",
+    "datum": "2026-11-15",
+    "mesto": "Šamorín",
+    "popis": "Beh dospelých (5 km), Detské behy",
+    "info": {
+      "Miesto": "Šamorín – Lesopark Pomlé pri amfiteátri",
+      "Dĺžka trate": "5 km",
+      "Štart": "10:30",
+      "kraj": "trnavsky",
+      "gps": "48.0275830,17.3115710",
+      "seria": "Propozície",
+      "disciplíny": [
+        "Beh dospelých (5 km)",
+        "Detské behy"
+      ],
+      "registracia": "https://pretekaj.sk/sk/podujatia/sbl2026/preteky/3031/registration/competitors",
+      "web": "",
+      "propozicie": "https://pretekaj.sk/sk/podujatia/sbl2026/info/propozicie",
       "vysledky": ""
     }
   },
@@ -12455,6 +12527,30 @@
       "registracia": "https://misosport.sk/pretek/fercekovska-desiatka-2023",
       "web": "",
       "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Hornokráľovský beh",
+    "url": "https://vsetkybehy.sk/podujatie/hornokralovsky-beh-2026",
+    "datum": "2026-11-15",
+    "mesto": "Horná Kráľová",
+    "popis": "Hlavný beh (5 km), Detské behy",
+    "info": {
+      "Miesto": "Horná Kráľová – Futbalové ihrisko",
+      "Dĺžka trate": "5 km",
+      "Štart": "13:00",
+      "kraj": "nitriansky",
+      "gps": "48.2410924,17.9150441",
+      "seria": "",
+      "disciplíny": [
+        "Hlavný beh (5 km)",
+        "Detské behy"
+      ],
+      "registracia": "",
+      "web": "",
+      "propozicie": "https://drive.google.com/file/d/1gJFuAWO9dyl3kGh8r5ZtGnIGKtqo_-_G/view",
       "vysledky": ""
     }
   },
@@ -12548,8 +12644,8 @@
         "Maratón (42,2 km)",
         "Polmaratón (21,1 km)"
       ],
-      "registracia": "",
-      "web": "https://nevergiveuprun.eu/",
+      "registracia": "https://nevergiveuprun.eu/registracia-na-maraton-a-polmaraton",
+      "web": "",
       "propozicie": "",
       "vysledky": ""
     }
@@ -12645,7 +12741,7 @@
       "seria": "",
       "disciplíny": [],
       "registracia": "",
-      "web": "https://www.hrdosport.sk/Online/987",
+      "web": "",
       "propozicie": "https://www.atletika.sk/wp-content/uploads/2026/05/Atleticke-sutaze-2026_final.pdf",
       "vysledky": ""
     }
@@ -13209,6 +13305,30 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Silvestrovský beh zdravia – Vrútky",
+    "url": "https://vsetkybehy.sk/podujatie/silvestrovsky-beh-zdravia-vrutky-2026",
+    "datum": "2026-12-31",
+    "mesto": "Vrútky",
+    "popis": "Open (10 km), Detské behy",
+    "info": {
+      "Miesto": "Vrútky – Pešia zóna Vrútky",
+      "Dĺžka trate": "10 km",
+      "Štart": "10:10",
+      "kraj": "zilinsky",
+      "gps": "49.1088600,18.9250700",
+      "seria": "",
+      "disciplíny": [
+        "Open (10 km)",
+        "Detské behy"
+      ],
+      "registracia": "https://kk-sporttiming.com/prihlaska/silvestrovsky-beh-zdravia-2026",
+      "web": "",
+      "propozicie": "https://beh.sk/wp-content/uploads/2026/10/261231_silv_mt_vrutky_p.docx",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Silvestrovský beh ulicami Klenovca",
     "url": "https://vsetkybehy.sk/podujatie/silvestrovsky-beh-ulicami-klenovca-2026",
     "datum": "2026-12-31",
@@ -13325,6 +13445,29 @@
       "registracia": "https://my.raceresult.com/422341/registration",
       "web": "",
       "propozicie": "https://beh.sk/wp-content/uploads/2026/08/270109_3kralovy_lietava_p.docx",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Ľudova 50",
+    "url": "https://vsetkybehy.sk/podujatie/ludova-50-2027",
+    "datum": "2027-01-30",
+    "mesto": "Uhrovec",
+    "popis": "Ultramaratón (51 km)",
+    "info": {
+      "Miesto": "Uhrovec – Námestie Ľudovíta Štúra",
+      "Dĺžka trate": "51 km",
+      "Štart": "07:00",
+      "kraj": "trenciansky",
+      "gps": "48.7441276,18.3378216",
+      "seria": "",
+      "disciplíny": [
+        "Ultramaratón (51 km)"
+      ],
+      "registracia": "",
+      "web": "https://ludova50.com/",
+      "propozicie": "",
       "vysledky": ""
     }
   },
@@ -33305,6 +33448,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Malá Kunratická",
+    "url": "https://www.bezeckyzavod.cz/mala-kunraticka-praha-kunratice-2026/",
+    "datum": "17.10.2026",
+    "mesto": "Praha-Kunratice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "3.25 km",
+      "Kraj": "Praha a okolí"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Klánovický terénní půlmaraton",
     "url": "https://www.bezeckyzavod.cz/klanovicky-terenni-praha-klanovice-2026/",
     "datum": "18.10.2026",
@@ -33917,18 +34072,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Kutná Hora",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-kutna-hora-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Kutná Hora",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5.7 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Milovice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-milovice-2026/",
     "datum": "28.10.2026",
@@ -33936,6 +34079,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5.2 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Kutná Hora",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-kutna-hora-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Kutná Hora",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5.7 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -34037,18 +34192,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Hlásná Třebaň",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-hlasna-treban-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Hlásná Třebaň",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "6.9 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Roztoky",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-roztoky-2026/",
     "datum": "28.10.2026",
@@ -34056,6 +34199,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "1.9 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Hlásná Třebaň",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-hlasna-treban-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Hlásná Třebaň",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "6.9 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -34849,18 +35004,6 @@
     "info": {
       "Dĺžka trate": "3.25 km",
       "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Mistrovství Jihočeského kraje v běhu na dráze na 10 000 m",
-    "url": "https://www.bezeckyzavod.cz/mistrovstvi-jihoceskeho-ceske-budejovice-2026/",
-    "datum": "14.10.2026",
-    "mesto": "České Budějovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Kraj": "Jihočeský kraj"
     }
   },
   {
@@ -36329,18 +36472,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Alšovice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-alsovice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Alšovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.7 km",
-      "Kraj": "Liberecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Zlatá Olešnice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zlata-olesnice-2026/",
     "datum": "28.10.2026",
@@ -36348,6 +36479,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5.2 km",
+      "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Alšovice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-alsovice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Alšovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.7 km",
       "Kraj": "Liberecký kraj"
     }
   },
@@ -36673,18 +36816,6 @@
     "info": {
       "Dĺžka trate": "10 km",
       "Kraj": "Liberecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Běh na Kraví horu",
-    "url": "https://www.bezeckyzavod.cz/beh-na-kravi-horu-teplice-nad-metuji-2026/",
-    "datum": "14.10.2026",
-    "mesto": "Teplice nad Metují",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "3.2 km",
-      "Kraj": "Královéhradecký kraj"
     }
   },
   {
@@ -37385,18 +37516,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Žamberk",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zamberk-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Žamberk",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.9 km",
-      "Kraj": "Pardubický kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Choceň",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-chocen-2026/",
     "datum": "28.10.2026",
@@ -37404,6 +37523,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "4.8 km",
+      "Kraj": "Pardubický kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Žamberk",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zamberk-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Žamberk",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.9 km",
       "Kraj": "Pardubický kraj"
     }
   },
@@ -38045,18 +38176,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Babice nad Svitavou",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Babice nad Svitavou",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "6.7 km",
-      "Kraj": "Jihomoravský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Syrovice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
     "datum": "28.10.2026",
@@ -38064,6 +38183,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Babice nad Svitavou",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Babice nad Svitavou",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "6.7 km",
       "Kraj": "Jihomoravský kraj"
     }
   },
@@ -39121,18 +39252,6 @@
     "info": {
       "Dĺžka trate": "5.7 km",
       "Kraj": "Zlínský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Zátopkova pětka",
-    "url": "https://www.bezeckyzavod.cz/zatopkova-petka-koprivnice-2026/",
-    "datum": "14.10.2026",
-    "mesto": "Kopřivnice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Kraj": "Moravskoslezský kraj"
     }
   },
   {

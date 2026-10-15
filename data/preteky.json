@@ -153,6 +153,20 @@
     }
   },
   {
+    "datum": "2027-01-09",
+    "url": "https://beh.sk/pretek/kolarovsky-trojkralovy-maraton-a-polmaraton-13/",
+    "nazov": "Kolárovský trojkráľový maratón a polmaratón",
+    "mesto": "Kolárovo",
+    "info": {
+      "Dĺžka trate": "42,195 km; 21,1 km",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod.",
+      "Miesto": "Kolárovo, Tržné námestie",
+      "Organizátor": "Maraton Klub Kolárovo - Maraton Klub Gúta",
+      "Informácie": "e-mail: zselyizoltan@post.sk"
+    }
+  },
+  {
     "datum": "2026-12-31",
     "url": "https://beh.sk/pretek/horovska-desiatka-17/",
     "nazov": "Horovská desiatka",
@@ -370,6 +384,19 @@
       "Miesto": "Kysucké Nové Mesto, Areál Svet dverí",
       "Organizátor": "Bajk Relax Kysuce o.z.",
       "Informácie": "Miroslav Ondrúšek, tel.: +421 911 825 244, e-mail: beh.jakubovsky@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-11-28",
+    "url": "https://beh.sk/pretek/beh-svataho-andreja-6/",
+    "nazov": "Beh Svätého Andreja",
+    "mesto": "Rajecké Teplice",
+    "info": {
+      "Dĺžka trate": "4,5 km",
+      "Povrch": "asfalt",
+      "Štart": "17:00 hod. - hlavné kategórie",
+      "Miesto": "Rajecké Teplice, Námestie SNP Rajecké Teplice",
+      "Informácie": "e-mail: valuch.jan@gmail.com"
     }
   },
   {
@@ -595,6 +622,19 @@
     }
   },
   {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/horsky-beh-smolnik-11/",
+    "nazov": "Horský beh Smolník",
+    "mesto": "Smolník",
+    "info": {
+      "Dĺžka trate": "51,3 km (prev. +2150 m), 33,4 km (prev. +1 400 m), 11 km (prev. +470 m)",
+      "Štart": "8:00 hod. - Ultra HBS, 10:00 hod. - Dlhá HBS; 10:10 hod. - Krátka HBS",
+      "Miesto": "Smolník, pred Reštauráciou Alžbetin dom",
+      "Organizátor": "OZ Vitalcity a Obec Smolnik",
+      "Informácie": "Kovaľ Martin, tel.: +421 915 786 816, e-mail: office@vitalcity.sk"
+    }
+  },
+  {
     "datum": "2026-11-12",
     "url": "https://beh.sk/pretek/topolcianska-bezecka-liga-2026-12-kolo/",
     "nazov": "Topoľčianska bežecká liga 2026 – 12. kolo",
@@ -752,8 +792,8 @@
     "nazov": "T1 Ring kros",
     "mesto": "Vechec (okr. Vranov nad Topľou)",
     "info": {
-      "Dĺžka trate": "9 km (prev. cca 210m), 4 km",
-      "Štart": "13:00 hod. hl. kat., 11:00 hod. deti",
+      "Dĺžka trate": "8,6 km (prev. cca 210m), 5,25 km",
+      "Štart": "13:00 hod. hl. kat., 12:00 hod. deti",
       "Miesto": "Vechec (okr. Vranov nad Topľou), Areál T1 ring",
       "Organizátor": "Michal Jenčo",
       "Informácie": "Michal Jenčo, tel.: 0908 371 241, e-mIL: t1ringkros@gmail.com"
@@ -767,7 +807,7 @@
     "info": {
       "Dĺžka trate": "2 km beh → 11,5 km MTB → 4,5 km beh)",
       "Povrch": "beh: lesné a poľné cesty, MTB: lesné a technické úseky, štrk",
-      "Štart": "13:00 hod.",
+      "Štart": "10:00 hod.",
       "Miesto": "Vechec (okr. Vranov nad Topľou), Areál T1 Ring",
       "Organizátor": "Mgr. Michal Jenčo",
       "Informácie": "Michal Jenčo, tel.: 0908 371 241, e-mail: miskojenco@gmail.com"
