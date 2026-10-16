@@ -2356,6 +2356,24 @@
     "popis": ""
   },
   {
+    "nazov": "ČSOB Bratislava marathon – desiatka, Minimaratón, deti, lezúni",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/csob-bratislava-marathon-desiatka-minimaraton-deti-lezuni-15/",
+    "datum": "2027-04-10",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "10 km, 4,2 km, 0,30 km - 0,80 km, 1,60 km",
+    "povrch": "asfalt, dlažba",
+    "start_cas": "14:00 hod.;  Minimaratón, Senior Run & Walk – Beh Dobrých Ročníkov; 10:00 hod.; Deti, Bratislavská míľa;  9:00 hod., Lezúni:",
+    "organizator": "BE COOL, s.r.o. v spolupráci s Hlavným mestom Slovenskej republiky Bratislava, Mestské časti Bratislava –Staré Mesto, Petržalka a Ružinov, Slovenský atletický zväz",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Horský půlmaraton Sušice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/horsky-pulmaraton-susice-2027/",
@@ -5708,6 +5726,24 @@
     "popis": ""
   },
   {
+    "nazov": "Na Kysacký hrad a ešte ďalej",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/na-kysacky-hrad-a-este-dalej-10/",
+    "datum": "2026-11-21",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kysak",
+    "kraj": "",
+    "dlzka": "5 km, prev. 0,27 km",
+    "povrch": "lesné cesty - 85%, asfalt - 15%",
+    "start_cas": "13:00 hod.",
+    "organizator": "Klub orientačného behu Kysak, Obec Kysak",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Trail do Háje VAŠÍ LIGY",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/trail-do-haje-vasi-hlubocepy-praha-2026/",
@@ -6286,24 +6322,6 @@
     "popis": ""
   },
   {
-    "nazov": "Ferčekovská desiatka",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/fercekovska-desiatka-13/",
-    "datum": "2026-11-15",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Ferčekovce, Spišská Nová Ves",
-    "kraj": "",
-    "dlzka": "10 km, 5 km",
-    "povrch": "Lesná cesta, tráva, zvlnený terén",
-    "start_cas": "11:00 hod. – deti, dorast; 13:00 hod. – dospelí 5 a 10 km; 12:15 hod. – Prebehni sa s nami",
-    "organizator": "Športový klub Ferčekovce, mesto Spišská Nová Ves, MsV č. 3",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Hornokráľovský beh",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/hornokralovsky-beh-5/",
@@ -6412,6 +6430,25 @@
     "popis": "Beh na Husárik (4 km)"
   },
   {
+    "nazov": "Ferčekovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/fercekovska-desiatka-2026",
+    "datum": "2026-11-15",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Ferčekovce",
+    "kraj": "",
+    "dlzka": "10 km, 5 km, 3 km",
+    "povrch": "",
+    "start_cas": "13:00",
+    "organizator": "",
+    "tagy": [
+      "ultra",
+      "teren"
+    ],
+    "popis": "Trail 10 km, Trail 5 km, Detské behy, Prebehni sa s nami (3 km)"
+  },
+  {
     "nazov": "Beh jastrabskými vŕškami - memoriál Jána Dobáka",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/beh-jastrabskymi-vrskami-memorial-jana-dobaka-2026",
@@ -6442,6 +6479,24 @@
     "povrch": "asfalt",
     "start_cas": "11.30 hod. - hlavné kategórie, 10.00 hod. - deti:",
     "organizator": "Zemplínsky extrém, RM-Developer s.r.o.",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Ferčekovská desiatka",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/fercekovska-desiatka-13/",
+    "datum": "2026-11-14",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Ferčekovce, Spišská Nová Ves",
+    "kraj": "",
+    "dlzka": "10 km, 5 km",
+    "povrch": "Lesná cesta, tráva, zvlnený terén",
+    "start_cas": "11:00 hod. – deti, dorast; 13:00 hod. – dospelí 5 a 10 km; 12:15 hod. – Prebehni sa s nami",
+    "organizator": "Športový klub Ferčekovce, mesto Spišská Nová Ves, MsV č. 3",
     "tagy": [
       "beh"
     ],
@@ -8874,24 +8929,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Voznice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-voznice-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Voznice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "5.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Říčanský běh, XI. ročník",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/ricansky-beh-xi--ricany-2026/",
@@ -8901,6 +8938,24 @@
     "mesto": "Říčany",
     "kraj": "Středočeský kraj",
     "dlzka": "9 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Voznice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-voznice-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Voznice",
+    "kraj": "Středočeský kraj",
+    "dlzka": "5.5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -9378,24 +9433,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Zásada",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zasada-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Zásada",
-    "kraj": "Liberecký kraj",
-    "dlzka": "6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Radčice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-radcice-2026/",
@@ -9405,6 +9442,24 @@
     "mesto": "Radčice",
     "kraj": "Liberecký kraj",
     "dlzka": "5.9 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Zásada",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-zasada-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Zásada",
+    "kraj": "Liberecký kraj",
+    "dlzka": "6 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -10149,6 +10204,25 @@
     "organizator": "Michal Šusták, blízka rodina a   kamaráti",
     "tagy": [
       "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kojša RUN – lesný beh „Bežkovanie bez lyží“",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/kojsa-run-lesny-beh-bezkovanie-bez-lyzi-4/",
+    "datum": "2026-10-25",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kojšovská hoľa",
+    "kraj": "",
+    "dlzka": "10 km, 5 km",
+    "povrch": "lesný chodník, lesná cesta, lesný skalnatý chodník",
+    "start_cas": "10:00 hod.",
+    "organizator": "Lyziarsky klub Metropol Kosice a OZ Vitalcity",
+    "tagy": [
+      "beh",
+      "teren"
     ],
     "popis": ""
   },
@@ -12362,24 +12436,6 @@
     "tagy": [
       "neznama_dlzka",
       "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Memoriál doc. Fialy",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/memorial-doc-fialy-plzen-2026/",
-    "datum": "2026-10-15",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Plzeň",
-    "kraj": "Plzeňský kraj",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
     ],
     "popis": ""
   },

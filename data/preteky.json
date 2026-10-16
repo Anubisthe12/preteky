@@ -111,6 +111,20 @@
     }
   },
   {
+    "datum": "2027-04-10",
+    "url": "https://beh.sk/pretek/csob-bratislava-marathon-desiatka-minimaraton-deti-lezuni-15/",
+    "nazov": "ČSOB Bratislava marathon – desiatka, Minimaratón, deti, lezúni",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "10 km, 4,2 km, 300 m - 800 m, 1 600m",
+      "Povrch": "asfalt, dlažba",
+      "Štart": "14:00 hod.;  Minimaratón, Senior Run & Walk – Beh Dobrých Ročníkov; 10:00 hod.; Deti, Bratislavská míľa;  9:00 hod., Lezúni:",
+      "Miesto": "Bratislava, Eurovea Galleria Bratislava",
+      "Organizátor": "BE COOL, s.r.o. v spolupráci s Hlavným mestom Slovenskej republiky Bratislava, Mestské časti Bratislava –Staré Mesto, Petržalka a Ružinov, Slovenský atletický zväz",
+      "Informácie": "BE COOL, s.r.o., Krajinská 37, 821 06 Bratislava, Slovenská republika, tel.: 00421/904404638, e-mail:  info@becool.sk"
+    }
+  },
+  {
     "datum": "2027-03-20",
     "url": "https://beh.sk/pretek/nitrianska-24-hodinovka-4/",
     "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
@@ -442,6 +456,20 @@
     }
   },
   {
+    "datum": "2026-11-21",
+    "url": "https://beh.sk/pretek/na-kysacky-hrad-a-este-dalej-10/",
+    "nazov": "Na Kysacký hrad a ešte ďalej",
+    "mesto": "Kysak",
+    "info": {
+      "Dĺžka trate": "5 km, prev. 270 m",
+      "Povrch": "lesné cesty - 85%, asfalt - 15%",
+      "Štart": "13:00 hod.",
+      "Miesto": "Kysak, pri Kultúrnom Dome",
+      "Organizátor": "Klub orientačného behu Kysak, Obec Kysak",
+      "Informácie": "tel.: +421905837844, e-mail: obkysak@obkysak.info"
+    }
+  },
+  {
     "datum": "2026-11-20",
     "url": "https://beh.sk/pretek/beh-o-stit-mesta-michalovce-17/",
     "nazov": "Beh oslobodenia mesta Michalovce",
@@ -526,20 +554,6 @@
   },
   {
     "datum": "2026-11-15",
-    "url": "https://beh.sk/pretek/fercekovska-desiatka-13/",
-    "nazov": "Ferčekovská desiatka",
-    "mesto": "Ferčekovce, Spišská Nová Ves",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "Lesná cesta, tráva, zvlnený terén",
-      "Štart": "11:00 hod. – deti, dorast; 13:00 hod. – dospelí 5 a 10 km; 12:15 hod. – Prebehni sa s nami",
-      "Miesto": "Ferčekovce, Spišská Nová Ves, Malé pole",
-      "Organizátor": "Športový klub Ferčekovce, mesto Spišská Nová Ves, MsV č. 3",
-      "Informácie": "e-mail: info@skfercekovce.sk"
-    }
-  },
-  {
-    "datum": "2026-11-15",
     "url": "https://beh.sk/pretek/hornokralovsky-beh-5/",
     "nazov": "Hornokráľovský beh",
     "mesto": "Horná Kráľova (okres Šaľa)",
@@ -564,6 +578,20 @@
       "Miesto": "Michalovce, areál Zemplínskeho múzea",
       "Organizátor": "Zemplínsky extrém, RM-Developer s.r.o.",
       "Informácie": "RM-Developer s.r.o., tel.: 0915 950 227, E-mail: info@zemplinskyextrem.sk"
+    }
+  },
+  {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/fercekovska-desiatka-13/",
+    "nazov": "Ferčekovská desiatka",
+    "mesto": "Ferčekovce, Spišská Nová Ves",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "Lesná cesta, tráva, zvlnený terén",
+      "Štart": "11:00 hod. – deti, dorast; 13:00 hod. – dospelí 5 a 10 km; 12:15 hod. – Prebehni sa s nami",
+      "Miesto": "Ferčekovce, Spišská Nová Ves, Malé pole",
+      "Organizátor": "Športový klub Ferčekovce, mesto Spišská Nová Ves, MsV č. 3",
+      "Informácie": "e-mail: info@skfercekovce.sk"
     }
   },
   {
@@ -853,6 +881,20 @@
       "Miesto": "Kozárovce, okr. Levice, priehrada",
       "Organizátor": "Michal Šusták, blízka rodina a   kamaráti",
       "Informácie": "Michal Šusták, tel.: 0948 151 541, e-mail: sustakmichal803@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-25",
+    "url": "https://beh.sk/pretek/kojsa-run-lesny-beh-bezkovanie-bez-lyzi-4/",
+    "nazov": "Kojša RUN – lesný beh „Bežkovanie bez lyží“",
+    "mesto": "Kojšovská hoľa",
+    "info": {
+      "Dĺžka trate": "10 km, 5 km",
+      "Povrch": "lesný chodník, lesná cesta, lesný skalnatý chodník",
+      "Štart": "10:00 hod.",
+      "Miesto": "Kojšovská hoľa, Areál bežeckého lyžovania LK Metropol",
+      "Organizátor": "Lyziarsky klub Metropol Kosice a OZ Vitalcity",
+      "Informácie": "tel.: +421 905 261 425 alebo +421 915 786 816"
     }
   },
   {
