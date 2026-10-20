@@ -13,6 +13,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh kolem Ameriky",
+    "url": "https://www.bezeckyzavod.cz/beh-kolem-ameriky-pisek-2027/",
+    "datum": "16.10.2027",
+    "mesto": "Písek",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "8 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Huť-Bratříkov-Huť",
     "url": "https://www.bezeckyzavod.cz/hut-bratrikov-hut-hut-pencin-2027/",
     "datum": "3.10.2027",
@@ -582,7 +594,7 @@
     "info": {
       "Miesto": "Komjatice – Komjatický park",
       "Dĺžka trate": "",
-      "Štart": "10:00",
+      "Štart": "12:00",
       "kraj": "nitriansky",
       "gps": "48.1570756,18.1826673",
       "seria": "",
@@ -861,8 +873,8 @@
       "gps": "48.2140997,17.1450956",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://www.terminovka.sk/podujatie/raciansky-kros-leto",
-      "web": "",
+      "registracia": "",
+      "web": "https://www.racianskykros.sk/leto/",
       "propozicie": "",
       "vysledky": ""
     }
@@ -3123,27 +3135,6 @@
     }
   },
   {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Silvestrovský beh na tartane",
-    "url": "https://vsetkybehy.sk/podujatie/silvestrovsky-beh-na-tartane-2026",
-    "datum": "2026-12-30",
-    "mesto": "Dubnica nad Váhom",
-    "popis": "",
-    "info": {
-      "Miesto": "Dubnica nad Váhom – Mestský štadión Dubnica nad Váhom, tartanová dráha",
-      "Dĺžka trate": "",
-      "Štart": "11:00",
-      "kraj": "trenciansky",
-      "gps": "48.9574050,18.1662970",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "https://www.hrdosport.sk/Entries/Create/1069",
-      "web": "",
-      "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "(Před)Silvestrovský běh Lysá nad Labem",
     "url": "https://www.bezeckyzavod.cz/-pred-silvestrovsky-lysa-nad-labem-2026/",
@@ -4379,6 +4370,27 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh Devínskou Kobylou",
+    "url": "https://vsetkybehy.sk/podujatie/beh-devinskou-kobylou-2026",
+    "datum": "2026-11-28",
+    "mesto": "Bratislava",
+    "popis": "",
+    "info": {
+      "Miesto": "Bratislava – Kráľova hora – Devínska Kobyla, Pasienok (Veľká lúka)",
+      "Dĺžka trate": "",
+      "Štart": "",
+      "kraj": "bratislavsky",
+      "gps": "48.1486000,17.1077000",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "https://www.bdk.sk/",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh okolím obce Dolné Obdokovce",
     "url": "https://vsetkybehy.sk/podujatie/beh-okolim-obce-dolne-obdokovce-2026",
     "datum": "2026-11-28",
@@ -5096,12 +5108,12 @@
     "nazov": "Zemplínsky extrém – Beh v múzeu",
     "mesto": "Michalovce",
     "info": {
-      "Dĺžka trate": "18 km, 12 km, 6 km",
+      "Dĺžka trate": "18,6 km, 6,2 km",
       "Povrch": "asfalt",
       "Štart": "11.30 hod. - hlavné kategórie, 10.00 hod. - deti:",
       "Miesto": "Michalovce, areál Zemplínskeho múzea",
-      "Organizátor": "Zemplínsky extrém, RM-Developer s.r.o.",
-      "Informácie": "RM-Developer s.r.o., tel.: 0915 950 227, E-mail: info@zemplinskyextrem.sk"
+      "Organizátor": "Zemplínsky extrém o. z., RM-Developer s.r.o., ZEMPLÍNSKE MÚZEUM",
+      "Informácie": "tel.: 0915 950 227, E-mail: info@zemplinskyextrem.sk"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -5575,6 +5587,21 @@
       "Miesto": "Strážske, pred budovou Mestského úradu",
       "Organizátor": "Mesto Strážske, CVČ v Strážskom, ZŠ v Strážskom a Bežecký klub MBO Strážske",
       "Informácie": "Vladislav Lipovský, tel.: 0905 517 610, e-mail: vladolipo24@gmail.com"
+    },
+    "zdroj": "beh.sk",
+    "popis": ""
+  },
+  {
+    "datum": "2026-11-08",
+    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-9-kolo-12/",
+    "nazov": "Trenčianská bežecká liga – 9. kolo",
+    "mesto": "Trenčianska Turná",
+    "info": {
+      "Dĺžka trate": "7,8 km a 123 m prevýšenie",
+      "Povrch": "asfalt 80% / terén 20%",
+      "Štart": "10:00 hod.",
+      "Miesto": "Trenčianska Turná, futbalové ihrisko",
+      "Informácie": "Ladislav Matejka, tel.: 0904 487 481, e-mail: info@tbl.sk  Milan Makiš, tel.: 0904 239 233, e-mail: info@tbl.sk"
     },
     "zdroj": "beh.sk",
     "popis": ""
@@ -6527,6 +6554,17 @@
     "popis": ""
   },
   {
+    "zdroj": "registrujsa.sk",
+    "nazov": "Druhá šanca 2026",
+    "url": "https://www.registrujsa.sk/druha-sanca-26",
+    "datum": "2026-10-31",
+    "mesto": "",
+    "popis": "Virtuálne podujatie o druhú šancu na métach, na ktoré si nedosiahol Vyber a vybehaj si medailu, ktorá Ti chýba Nie všetci ste mohli nastúpiť na každý štart na podujatiach Marathon Tour 2026. Aj preto sme sa rozhodli ponúknuť všetkým príležitosť doplniť si medailovú skladačku formou bonusovej virtuál",
+    "info": {
+      "cal_id": "303"
+    }
+  },
+  {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "Zombie Night Run Praha",
     "url": "https://www.bezeckyzavod.cz/zombie-night-run-praha-2026/",
@@ -6661,7 +6699,7 @@
   {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "Běh o rabštejnského kocoura",
-    "url": "https://www.bezeckyzavod.cz/beh-o-rabstejnskeho-libina-2026-10/",
+    "url": "https://www.bezeckyzavod.cz/beh-o-rabstejnskeho-libina-2026/",
     "datum": "31.10.2026",
     "mesto": "Libina",
     "popis": "",
@@ -6912,13 +6950,13 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Dobříš",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-dobris-2026/",
+    "nazov": "Sokolský běh republiky - Roztoky",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-roztoky-2026/",
     "datum": "28.10.2026",
-    "mesto": "Dobříš",
+    "mesto": "Roztoky",
     "popis": "",
     "info": {
-      "Dĺžka trate": "8 km",
+      "Dĺžka trate": "1.9 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -6936,13 +6974,13 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Roztoky",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-roztoky-2026/",
+    "nazov": "Sokolský běh republiky - Dobříš",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-dobris-2026/",
     "datum": "28.10.2026",
-    "mesto": "Roztoky",
+    "mesto": "Dobříš",
     "popis": "",
     "info": {
-      "Dĺžka trate": "1.9 km",
+      "Dĺžka trate": "8 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -6984,18 +7022,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Otradovice",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-otradovice-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Otradovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5.3 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Říčanský běh, XI. ročník",
     "url": "https://www.bezeckyzavod.cz/ricansky-beh-xi--ricany-2026/",
     "datum": "28.10.2026",
@@ -7003,6 +7029,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "9 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Otradovice",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-otradovice-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Otradovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5.3 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -7512,18 +7550,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Nové Město na Moravě",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-nove-mesto-na-morave-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Nové Město na Moravě",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "7 km",
-      "Kraj": "Kraj Vysočina"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Kamenice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-kamenice-2026/",
     "datum": "28.10.2026",
@@ -7531,6 +7557,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5.25 km",
+      "Kraj": "Kraj Vysočina"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Nové Město na Moravě",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-nove-mesto-na-morave-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Nové Město na Moravě",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "7 km",
       "Kraj": "Kraj Vysočina"
     }
   },
@@ -8121,7 +8159,7 @@
       "Dĺžka trate": "32 km/ 1 413 m+",
       "Povrch": "Lesný turistický chodník",
       "Štart": "9:00 hod.",
-      "Miesto": "Kamenica, okres Sabinov, Kamenica - Drienica",
+      "Miesto": "Kamenica, okres Sabinov, Kamenica (Farma Kamenica)",
       "Organizátor": "OZ Čergovrun",
       "Informácie": "Lukáš Višňovský, tel.: 00421 944 001 353, e-mail: visnovskylukas@gmail.com"
     },
@@ -8665,89 +8703,11 @@
       "gps": "49.0018000,21.2390000",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://statistika.atletika.sk/prihlaska/Account/LogOn?id=88891&idGroup=9",
-      "web": "",
+      "registracia": "",
+      "web": "https://statistika.atletika.sk/Propozicie/propozicie/88891",
       "propozicie": "",
       "vysledky": ""
     }
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/beh-2-mile-bratislava-10-kolo-16/",
-    "nazov": "Beh 2 míle Bratislava – 10. kolo",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "2 míle (3.218 km), deti cca 200m",
-      "Štart": "10:00 hod.",
-      "Miesto": "Bratislava, Kuchajda",
-      "Organizátor": "Sri Chinmoy Marathon Team",
-      "Informácie": "Sri Chinmoy Marathon Team, tel.: +421 2 444 542 61, +421 905 648 315, e-mail: scmt@scmt.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/slanaki-cup-beh-do-vrchu-dubnik-11/",
-    "nazov": "Slaňaki CUP – Beh do vrchu Dubník",
-    "mesto": "Zámutov okr. Vranov nad Topľou",
-    "info": {
-      "Dĺžka trate": "11,2 km, 600 m prevýšenie;",
-      "Povrch": "asfalt",
-      "Štart": "10:30 hod. beh, 10:00 hod. NW ( Štart od penziónu Kondor )",
-      "Miesto": "Zámutov okr. Vranov nad Topľou, pred Obecným úradom",
-      "Organizátor": "Klub otužilcov Vranovské vydry, Obecný úrad Zámutov, penzión Kondor Zámutov",
-      "Informácie": "Rastislav Košalko, tel.: 0904 461 575, e-mail: kosalko@s-autoservis.sk  Ing. Ján Rovňák , tel.: 0915 876 611, e-mail: jan.rovnak@gmail.com  Peter Buc, tel.: 0905 299 189, e-mail: peter.buc1959@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/zipovska-desiatka-18/",
-    "nazov": "Žipovská desiatka",
-    "mesto": "Nižný Žipov okr. Trebišov",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Povrch": "asfalt",
-      "Štart": "11:15 hod. hlavný pretek",
-      "Miesto": "Nižný Žipov okr. Trebišov, hlavná ulica Nižný Žipov",
-      "Organizátor": "Obec - Nižný Žipov",
-      "Informácie": "Obecný úrad - Nižný Žipov 076 17, tel.: 056/668 42 12 e-mail: obecniznyzipov@gmail.com  Pavol Obraz, tel.: 0907 210 910, e-mail: pavolobraz@gmail.com"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-8-kolo-12/",
-    "nazov": "Trenčianská bežecká liga – 8. kolo",
-    "mesto": "Trenčianske Teplice",
-    "info": {
-      "Dĺžka trate": "9,72 km",
-      "Povrch": "asfalt 30% / terén 70%",
-      "Štart": "10:00 hod.",
-      "Miesto": "Trenčianske Teplice, Namestie T.G. Masaryka",
-      "Informácie": "Ladislav Matejka, tel.: 0904 487 481, e-mail: info@tbl.sk  Milan Makiš, tel.: 0904 239 233, e-mail: info@tbl.sk"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/beh-okolo-dulova-18/",
-    "nazov": "Beh okolo Dulova",
-    "mesto": "Dulov okr. Ilava",
-    "info": {
-      "Dĺžka trate": "5 000 m",
-      "Povrch": "cesta s asfaltovým povrchom",
-      "Štart": "11:30 hod. detské, od 13.15 hod. dospelí",
-      "Miesto": "Dulov okr. Ilava, Kultúrny dom Dulov",
-      "Organizátor": "Obecný úrad Dulov v spolupráci s organizačným výborom, poslancami OZ, členmi DHZ, MŠ a ZŠ Dulov",
-      "Informácie": "Obecný úrad Dulov, 018 52  Dulov 168 tel.: 042/44 71 100, 0948 949 848, e-mail: obec@dulov.sk  Vladimír Backo, tel.: 0915 042 837  Anton Dobrodenka, tel.: 0905 482 822"
-    },
-    "zdroj": "beh.sk",
-    "popis": ""
   },
   {
     "zdroj": "hrdosport.sk",
@@ -8783,6 +8743,48 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Trenčianska bežecká liga – 8. kolo",
+    "url": "https://vsetkybehy.sk/podujatie/trencianska-bezecka-liga-trencianske-teplice-2026",
+    "datum": "2026-10-18",
+    "mesto": "Trenčianske Teplice",
+    "popis": "",
+    "info": {
+      "Miesto": "Trenčianske Teplice – Pódium na námestí T. G. Masaryka",
+      "Dĺžka trate": "",
+      "Štart": "10:00",
+      "kraj": "trenciansky",
+      "gps": "48.9094450,18.1702980",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "https://tbl.sk/",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Slaňaki CUP – Beh do vrchu Dubník",
+    "url": "https://vsetkybehy.sk/podujatie/slanaki-cup-beh-do-vrchu-dubnik-2026",
+    "datum": "2026-10-18",
+    "mesto": "Zámutov",
+    "popis": "",
+    "info": {
+      "Miesto": "Zámutov – pred Obecným úradom",
+      "Dĺžka trate": "",
+      "Štart": "10:30",
+      "kraj": "kosicky",
+      "gps": "48.9016820,21.5576580",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://pretekaj.sk/sk/vysledky/slanakicup2026"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Beháme srdcom v Moste pri Bratislave",
     "url": "https://vsetkybehy.sk/podujatie/behame-srdcom-v-moste-pri-bratislave-2026",
     "datum": "2026-10-18",
@@ -8804,6 +8806,27 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Žipovská desiatka",
+    "url": "https://vsetkybehy.sk/podujatie/zipovska-desiatka-2026",
+    "datum": "2026-10-18",
+    "mesto": "Nižný Žipov",
+    "popis": "",
+    "info": {
+      "Miesto": "Nižný Žipov – Hlavná ulica Nižný Žipov",
+      "Dĺžka trate": "",
+      "Štart": "11:15",
+      "kraj": "kosicky",
+      "gps": "48.5812590,21.6400450",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://my.raceresult.com/420207/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Bež, kto môžeš",
     "url": "https://vsetkybehy.sk/podujatie/bez-kto-mozes-2026",
     "datum": "2026-10-18",
@@ -8821,6 +8844,27 @@
       "web": "https://oazabernatovce.sk/",
       "propozicie": "",
       "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh okolo Dulova",
+    "url": "https://vsetkybehy.sk/podujatie/beh-okolo-dulova-2026",
+    "datum": "2026-10-18",
+    "mesto": "Dulov",
+    "popis": "",
+    "info": {
+      "Miesto": "Dulov – Kultúrny dom Dulov",
+      "Dĺžka trate": "",
+      "Štart": "",
+      "kraj": "trenciansky",
+      "gps": "49.0377550,18.2542454",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://www.hrdosport.sk/Online?CompetitionId=983&DisciplineListId=31706&DisciplineCode=6&Day=-1&Code=RES"
     }
   },
   {
@@ -16830,9 +16874,9 @@
       "seria": "",
       "disciplíny": [],
       "registracia": "",
-      "web": "",
+      "web": "https://www.obeckolonica.sk/",
       "propozicie": "",
-      "vysledky": "https://beh.sk/wp-content/uploads/2026/03/260705_cmb_kolonica_v.xls"
+      "vysledky": ""
     }
   },
   {
@@ -18446,17 +18490,17 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Račiansky kros LETO 2026",
+    "nazov": "Račiansky kros LETO",
     "url": "https://vsetkybehy.sk/podujatie/raciansky-kros-leto-2026",
     "datum": "2026-06-14",
     "mesto": "Bratislava-Rača",
     "popis": "",
     "info": {
-      "Miesto": "Bratislava-Rača",
+      "Miesto": "Bratislava-Rača – Amfiteáter, Knižková dolina",
       "Dĺžka trate": "",
       "Štart": "10:00",
       "kraj": "bratislavsky",
-      "gps": "48.2140347,17.1448835",
+      "gps": "48.2140997,17.1450956",
       "seria": "",
       "disciplíny": [],
       "registracia": "",
@@ -22302,27 +22346,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Wings for Life World Run - Bratislava",
-    "url": "https://vsetkybehy.sk/podujatie/wings-for-life-world-run-bratislava-bratislava-nove-mesto-2026",
-    "datum": "2026-05-10",
-    "mesto": "Bratislava",
-    "popis": "",
-    "info": {
-      "Miesto": "Bratislava – Sad Janka Kráľa",
-      "Dĺžka trate": "",
-      "Štart": "13:00",
-      "kraj": "bratislavsky",
-      "gps": "48.1343013,17.1106433",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "",
-      "web": "",
-      "propozicie": "",
-      "vysledky": "https://www.wingsforlifeworldrun.com/cs/results"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Svetový deň pohybu",
     "url": "https://vsetkybehy.sk/podujatie/svetovy-den-pohybu-2026",
     "datum": "2026-05-10",
@@ -22398,22 +22421,22 @@
   {
     "zdroj": "vsetkybehy.sk",
     "nazov": "Beh oslobodenia Lietavskej Lúčky",
-    "url": "https://vsetkybehy.sk/podujatie/3rocnik-behu-oslobodenia-lietavskej-lucky-2026",
+    "url": "https://vsetkybehy.sk/podujatie/beh-oslobodenia-lietavskej-lucky-2026",
     "datum": "2026-05-09",
     "mesto": "Lietavská Lúčka",
     "popis": "",
     "info": {
-      "Miesto": "Lietavská Lúčka – Zdravotné stredisko Lietavská Lúčka",
+      "Miesto": "Lietavská Lúčka – Pri zdravotnom stredisku; prezentácia v dome kultúry",
       "Dĺžka trate": "",
       "Štart": "09:30",
       "kraj": "zilinsky",
-      "gps": "49.2044000,18.7278000",
+      "gps": "49.1755047,18.7224237",
       "seria": "",
       "disciplíny": [],
       "registracia": "",
-      "web": "https://www.lietavskalucka.sk/oznamy/beh-oslobodenia-9--maja-2026-harmonogram.html",
+      "web": "",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://casomierapt.com/2026/05/3-rocnik-behu-oslobodenia-lietavskej-lucky-vysledky/"
     }
   },
   {
@@ -23072,7 +23095,7 @@
       "Štart": "09:00",
       "kraj": "kosicky",
       "gps": "48.7220196,21.2692121",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -23225,6 +23248,27 @@
       "web": "",
       "propozicie": "",
       "vysledky": "https://www.terminovka.sk/podujatie/vysledky/dojcansky-9/2026"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh okolo Lomnej",
+    "url": "https://vsetkybehy.sk/podujatie/beh-okolo-lomnej-2026",
+    "datum": "2026-05-02",
+    "mesto": "",
+    "popis": "",
+    "info": {
+      "Miesto": "",
+      "Dĺžka trate": "",
+      "Štart": "17:30",
+      "kraj": "zilinsky",
+      "gps": "",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://my.raceresult.com/397118/results"
     }
   },
   {
@@ -24135,7 +24179,7 @@
       "Štart": "",
       "kraj": "presovsky",
       "gps": "49.1362088,20.4308701",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -24736,7 +24780,7 @@
       "Štart": "10:00",
       "kraj": "trenciansky",
       "gps": "48.8389740,17.9872490",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -25117,7 +25161,7 @@
       "seria": "",
       "disciplíny": [],
       "registracia": "",
-      "web": "https://www.4elementy.sk/",
+      "web": "https://www.finishervyzva.sk/FINISHER-JARN%C3%81-V%C3%9DZVA.html",
       "propozicie": "",
       "vysledky": ""
     }
@@ -25776,7 +25820,7 @@
       "Štart": "13:00",
       "kraj": "kosicky",
       "gps": "48.6674880,21.4122830",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -25797,7 +25841,7 @@
       "Štart": "06:00",
       "kraj": "trenciansky",
       "gps": "48.8943000,18.0446000",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -26780,7 +26824,7 @@
       "Štart": "14:00",
       "kraj": "trnavsky",
       "gps": "48.7524000,19.2018000",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",

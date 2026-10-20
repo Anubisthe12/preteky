@@ -586,12 +586,12 @@
     "nazov": "Zemplínsky extrém – Beh v múzeu",
     "mesto": "Michalovce",
     "info": {
-      "Dĺžka trate": "18 km, 12 km, 6 km",
+      "Dĺžka trate": "18,6 km, 6,2 km",
       "Povrch": "asfalt",
       "Štart": "11.30 hod. - hlavné kategórie, 10.00 hod. - deti:",
       "Miesto": "Michalovce, areál Zemplínskeho múzea",
-      "Organizátor": "Zemplínsky extrém, RM-Developer s.r.o.",
-      "Informácie": "RM-Developer s.r.o., tel.: 0915 950 227, E-mail: info@zemplinskyextrem.sk"
+      "Organizátor": "Zemplínsky extrém o. z., RM-Developer s.r.o., ZEMPLÍNSKE MÚZEUM",
+      "Informácie": "tel.: 0915 950 227, E-mail: info@zemplinskyextrem.sk"
     }
   },
   {
@@ -715,6 +715,19 @@
       "Miesto": "Strážske, pred budovou Mestského úradu",
       "Organizátor": "Mesto Strážske, CVČ v Strážskom, ZŠ v Strážskom a Bežecký klub MBO Strážske",
       "Informácie": "Vladislav Lipovský, tel.: 0905 517 610, e-mail: vladolipo24@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-11-08",
+    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-9-kolo-12/",
+    "nazov": "Trenčianská bežecká liga – 9. kolo",
+    "mesto": "Trenčianska Turná",
+    "info": {
+      "Dĺžka trate": "7,8 km a 123 m prevýšenie",
+      "Povrch": "asfalt 80% / terén 20%",
+      "Štart": "10:00 hod.",
+      "Miesto": "Trenčianska Turná, futbalové ihrisko",
+      "Informácie": "Ladislav Matejka, tel.: 0904 487 481, e-mail: info@tbl.sk  Milan Makiš, tel.: 0904 239 233, e-mail: info@tbl.sk"
     }
   },
   {
@@ -960,7 +973,7 @@
       "Dĺžka trate": "32 km/ 1 413 m+",
       "Povrch": "Lesný turistický chodník",
       "Štart": "9:00 hod.",
-      "Miesto": "Kamenica, okres Sabinov, Kamenica - Drienica",
+      "Miesto": "Kamenica, okres Sabinov, Kamenica (Farma Kamenica)",
       "Organizátor": "OZ Čergovrun",
       "Informácie": "Lukáš Višňovský, tel.: 00421 944 001 353, e-mail: visnovskylukas@gmail.com"
     }
@@ -1042,74 +1055,6 @@
       "Miesto": "Martin, atletický štadión pri Strednej odbornej škole polytechnickej Martin, Ul. čs. armády 24 (pri „slimáku“)",
       "Organizátor": "Atletický klub Martin a Martinská tréningová akadémia v spolupráci s mestom Martin, Olympijským klubom Turiec a Združením martinských Rómov",
       "Informácie": "Ing. Ján Gigac, tel.: 0902 470 834, e-mail: jan.gigac@centrum.sk   Marián Kalabus, tel.: 0948 285 506, e-mail: marian.kalabus@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/beh-2-mile-bratislava-10-kolo-16/",
-    "nazov": "Beh 2 míle Bratislava – 10. kolo",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "2 míle (3.218 km), deti cca 200m",
-      "Štart": "10:00 hod.",
-      "Miesto": "Bratislava, Kuchajda",
-      "Organizátor": "Sri Chinmoy Marathon Team",
-      "Informácie": "Sri Chinmoy Marathon Team, tel.: +421 2 444 542 61, +421 905 648 315, e-mail: scmt@scmt.sk"
-    }
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/slanaki-cup-beh-do-vrchu-dubnik-11/",
-    "nazov": "Slaňaki CUP – Beh do vrchu Dubník",
-    "mesto": "Zámutov okr. Vranov nad Topľou",
-    "info": {
-      "Dĺžka trate": "11,2 km, 600 m prevýšenie;",
-      "Povrch": "asfalt",
-      "Štart": "10:30 hod. beh, 10:00 hod. NW ( Štart od penziónu Kondor )",
-      "Miesto": "Zámutov okr. Vranov nad Topľou, pred Obecným úradom",
-      "Organizátor": "Klub otužilcov Vranovské vydry, Obecný úrad Zámutov, penzión Kondor Zámutov",
-      "Informácie": "Rastislav Košalko, tel.: 0904 461 575, e-mail: kosalko@s-autoservis.sk  Ing. Ján Rovňák , tel.: 0915 876 611, e-mail: jan.rovnak@gmail.com  Peter Buc, tel.: 0905 299 189, e-mail: peter.buc1959@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/zipovska-desiatka-18/",
-    "nazov": "Žipovská desiatka",
-    "mesto": "Nižný Žipov okr. Trebišov",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Povrch": "asfalt",
-      "Štart": "11:15 hod. hlavný pretek",
-      "Miesto": "Nižný Žipov okr. Trebišov, hlavná ulica Nižný Žipov",
-      "Organizátor": "Obec - Nižný Žipov",
-      "Informácie": "Obecný úrad - Nižný Žipov 076 17, tel.: 056/668 42 12 e-mail: obecniznyzipov@gmail.com  Pavol Obraz, tel.: 0907 210 910, e-mail: pavolobraz@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-8-kolo-12/",
-    "nazov": "Trenčianská bežecká liga – 8. kolo",
-    "mesto": "Trenčianske Teplice",
-    "info": {
-      "Dĺžka trate": "9,72 km",
-      "Povrch": "asfalt 30% / terén 70%",
-      "Štart": "10:00 hod.",
-      "Miesto": "Trenčianske Teplice, Namestie T.G. Masaryka",
-      "Informácie": "Ladislav Matejka, tel.: 0904 487 481, e-mail: info@tbl.sk  Milan Makiš, tel.: 0904 239 233, e-mail: info@tbl.sk"
-    }
-  },
-  {
-    "datum": "2026-10-18",
-    "url": "https://beh.sk/pretek/beh-okolo-dulova-18/",
-    "nazov": "Beh okolo Dulova",
-    "mesto": "Dulov okr. Ilava",
-    "info": {
-      "Dĺžka trate": "5 000 m",
-      "Povrch": "cesta s asfaltovým povrchom",
-      "Štart": "11:30 hod. detské, od 13.15 hod. dospelí",
-      "Miesto": "Dulov okr. Ilava, Kultúrny dom Dulov",
-      "Organizátor": "Obecný úrad Dulov v spolupráci s organizačným výborom, poslancami OZ, členmi DHZ, MŠ a ZŠ Dulov",
-      "Informácie": "Obecný úrad Dulov, 018 52  Dulov 168 tel.: 042/44 71 100, 0948 949 848, e-mail: obec@dulov.sk  Vladimír Backo, tel.: 0915 042 837  Anton Dobrodenka, tel.: 0905 482 822"
     }
   }
 ]

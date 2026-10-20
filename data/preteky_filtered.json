@@ -18,6 +18,24 @@
     "popis": ""
   },
   {
+    "nazov": "Běh kolem Ameriky",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/beh-kolem-ameriky-pisek-2027/",
+    "datum": "2027-10-16",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Písek",
+    "kraj": "Jihočeský kraj",
+    "dlzka": "8 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Huť-Bratříkov-Huť",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/hut-bratrikov-hut-hut-pencin-2027/",
@@ -6034,10 +6052,10 @@
     "krajina": "Slovensko",
     "mesto": "Michalovce",
     "kraj": "",
-    "dlzka": "18 km, 12 km, 6 km",
+    "dlzka": "18,6 km, 6,2 km",
     "povrch": "asfalt",
     "start_cas": "11.30 hod. - hlavné kategórie, 10.00 hod. - deti:",
-    "organizator": "Zemplínsky extrém, RM-Developer s.r.o.",
+    "organizator": "Zemplínsky extrém o. z., RM-Developer s.r.o., ZEMPLÍNSKE MÚZEUM",
     "tagy": [
       "beh"
     ],
@@ -6530,6 +6548,24 @@
     "povrch": "cesta",
     "start_cas": "14:00 hod. - hlavný beh, 12:30 hod. - deti",
     "organizator": "Mesto Strážske, CVČ v Strážskom, ZŠ v Strážskom a Bežecký klub MBO Strážske",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Trenčianská bežecká liga – 9. kolo",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-9-kolo-12/",
+    "datum": "2026-11-08",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Trenčianska Turná",
+    "kraj": "",
+    "dlzka": "7,8 km a 0,12 km prevýšenie",
+    "povrch": "asfalt 80% / terén 20%",
+    "start_cas": "10:00 hod.",
+    "organizator": "",
     "tagy": [
       "beh"
     ],
@@ -7805,7 +7841,7 @@
   {
     "nazov": "Běh o rabštejnského kocoura",
     "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-o-rabstejnskeho-libina-2026-10/",
+    "url": "https://www.bezeckyzavod.cz/beh-o-rabstejnskeho-libina-2026/",
     "datum": "2026-10-31",
     "datum_do": "",
     "krajina": "Česká republika",
@@ -8127,15 +8163,15 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Dobříš",
+    "nazov": "Sokolský běh republiky - Roztoky",
     "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-dobris-2026/",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-roztoky-2026/",
     "datum": "2026-10-28",
     "datum_do": "",
     "krajina": "Česká republika",
-    "mesto": "Dobříš",
+    "mesto": "Roztoky",
     "kraj": "Středočeský kraj",
-    "dlzka": "8 km",
+    "dlzka": "1.9 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -8163,15 +8199,15 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Roztoky",
+    "nazov": "Sokolský běh republiky - Dobříš",
     "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-roztoky-2026/",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-dobris-2026/",
     "datum": "2026-10-28",
     "datum_do": "",
     "krajina": "Česká republika",
-    "mesto": "Roztoky",
+    "mesto": "Dobříš",
     "kraj": "Středočeský kraj",
-    "dlzka": "1.9 km",
+    "dlzka": "8 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -8235,24 +8271,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Otradovice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-otradovice-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Otradovice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "5.3 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Říčanský běh, XI. ročník",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/ricansky-beh-xi--ricany-2026/",
@@ -8262,6 +8280,24 @@
     "mesto": "Říčany",
     "kraj": "Středočeský kraj",
     "dlzka": "9 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Otradovice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-otradovice-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Otradovice",
+    "kraj": "Středočeský kraj",
+    "dlzka": "5.3 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -9027,24 +9063,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Nové Město na Moravě",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-nove-mesto-na-morave-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Nové Město na Moravě",
-    "kraj": "Kraj Vysočina",
-    "dlzka": "7 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Kamenice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-kamenice-2026/",
@@ -9054,6 +9072,24 @@
     "mesto": "Kamenice",
     "kraj": "Kraj Vysočina",
     "dlzka": "5.25 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Nové Město na Moravě",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-nove-mesto-na-morave-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Nové Město na Moravě",
+    "kraj": "Kraj Vysočina",
+    "dlzka": "7 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -10259,90 +10295,18 @@
     "popis": ""
   },
   {
-    "nazov": "Beh 2 míle Bratislava – 10. kolo",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-2-mile-bratislava-10-kolo-16/",
-    "datum": "2026-10-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "2 míle (3.218 km), deti cca 0,20 km",
-    "povrch": "",
-    "start_cas": "10:00 hod.",
-    "organizator": "Sri Chinmoy Marathon Team",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Slaňaki CUP – Beh do vrchu Dubník",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/slanaki-cup-beh-do-vrchu-dubnik-11/",
-    "datum": "2026-10-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Zámutov okr. Vranov nad Topľou",
-    "kraj": "",
-    "dlzka": "11,2 km, 0,60 km prevýšenie;",
-    "povrch": "asfalt",
-    "start_cas": "10:30 hod. beh, 10:00 hod. NW ( Štart od penziónu Kondor )",
-    "organizator": "Klub otužilcov Vranovské vydry, Obecný úrad Zámutov, penzión Kondor Zámutov",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Žipovská desiatka",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/zipovska-desiatka-18/",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/zipovska-desiatka-2026",
     "datum": "2026-10-18",
     "datum_do": "",
     "krajina": "Slovensko",
-    "mesto": "Nižný Žipov okr. Trebišov",
+    "mesto": "Nižný Žipov",
     "kraj": "",
     "dlzka": "10 km",
-    "povrch": "asfalt",
-    "start_cas": "11:15 hod. hlavný pretek",
-    "organizator": "Obec - Nižný Žipov",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Trenčianská bežecká liga – 8. kolo",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-8-kolo-12/",
-    "datum": "2026-10-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Trenčianske Teplice",
-    "kraj": "",
-    "dlzka": "9,72 km",
-    "povrch": "asfalt 30% / terén 70%",
-    "start_cas": "10:00 hod.",
+    "povrch": "",
+    "start_cas": "11:15",
     "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Beh okolo Dulova",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/beh-okolo-dulova-18/",
-    "datum": "2026-10-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Dulov okr. Ilava",
-    "kraj": "",
-    "dlzka": "5 km",
-    "povrch": "cesta s asfaltovým povrchom",
-    "start_cas": "11:30 hod. detské, od 13.15 hod. dospelí",
-    "organizator": "Obecný úrad Dulov v spolupráci s organizačným výborom, poslancami OZ, členmi DHZ, MŠ a ZŠ Dulov",
     "tagy": [
       "beh"
     ],
