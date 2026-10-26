@@ -306,6 +306,19 @@
     }
   },
   {
+    "datum": "2026-12-26",
+    "url": "https://beh.sk/pretek/stefansky-beh-11/",
+    "nazov": "Štefanský beh",
+    "mesto": "Bardejov",
+    "info": {
+      "Dĺžka trate": "10 km, 3 km",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod.",
+      "Miesto": "Bardejov, CSS Toplianska (oproti tenisovým kurtom)",
+      "Organizátor": "BarRan Team"
+    }
+  },
+  {
     "datum": "2026-12-24",
     "url": "https://beh.sk/pretek/vianocny-beh-prechadzka-7/",
     "nazov": "Vianočný beh – Spoznaj Trebišov behom",
@@ -719,6 +732,20 @@
     }
   },
   {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/memorial-janka-jakubca-17/",
+    "nazov": "Memoriál Janka Jakubca",
+    "mesto": "Bratislava – Rača",
+    "info": {
+      "Dĺžka trate": "8 500 m",
+      "Povrch": "asfalt",
+      "Štart": "10:00 hod.",
+      "Miesto": "Bratislava – Rača, amfiteáter v Knižkovej doline",
+      "Organizátor": "MČ Bratislava – Rača, SBS, o.z. LEONIDAS",
+      "Informácie": "Marek Porvazník, tel.: 0903 641 544  Ladislav Findl, tel.: 0908 773 957"
+    }
+  },
+  {
     "datum": "2026-11-13",
     "url": "https://beh.sk/pretek/vecerny-beh-obcou-velke-uherce-10/",
     "nazov": "Večerný beh obcou Veľké Uherce",
@@ -1020,164 +1047,6 @@
       "Miesto": "Levice, Holubyho ul. - zadný vchod do mestského úradu",
       "Organizátor": "Mesto Levice a Komisia MsZ športu",
       "Informácie": "tel.: 036/635 02 87, 0910 228 745, e-mail: sport@levice.sk"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/rajecka-12-minutovka-9/",
-    "nazov": "Rajecká 12-minútovka",
-    "mesto": "Rajec okr. Žilina",
-    "info": {
-      "Dĺžka trate": "12 - minútovka",
-      "Štart": "11:00 hod.",
-      "Miesto": "Rajec okr. Žilina, ihrisko pri ZŠ na Lipovej ulici",
-      "Organizátor": "Maratón klub Rajec"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/beh-vinicami-bojniciek-a-hlohovca-13/",
-    "nazov": "Beh vinicami Bojničiek a Hlohovca",
-    "mesto": "Bojničky",
-    "info": {
-      "Dĺžka trate": "8 km",
-      "Povrch": "tráva, asfalt",
-      "Štart": "10:00 hod.",
-      "Miesto": "Bojničky, Bojničky, kultúrny dom - pri kostole",
-      "Organizátor": "Atletický klub Bojničky, Obec Bojničky, Ing. Ivan Pavelka, Ján Šiška",
-      "Informácie": "Ing. Ivan Pavelka, tel.: 0905 236 204, e-mail: ivan.pavelka67@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/beh-hrebenom-cergova-9/",
-    "nazov": "Beh hrebeňom Čergova",
-    "mesto": "Kamenica, okres Sabinov",
-    "info": {
-      "Dĺžka trate": "32 km/ 1 413 m+",
-      "Povrch": "Lesný turistický chodník",
-      "Štart": "9:00 hod.",
-      "Miesto": "Kamenica, okres Sabinov, Kamenica (Farma Kamenica)",
-      "Organizátor": "OZ Čergovrun",
-      "Informácie": "Lukáš Višňovský, tel.: 00421 944 001 353, e-mail: visnovskylukas@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/ruzinska-desiatka-5/",
-    "nazov": "Ružínska desiatka",
-    "mesto": "Jaklovce okr. Gelnica",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt 90% / štrk (makadam) 10%",
-      "Štart": "11:00 hod. 10 km hl. kat., 11:10 hod. 5 km hl. kat.,10:00 hod. :detské kategórie",
-      "Miesto": "Jaklovce okr. Gelnica, Pytliakova krčma, Priehradná ulica",
-      "Organizátor": "Športový klub Jaklovce o.z. so spoluprácou obce Jaklovce",
-      "Informácie": "Peter Budinský, tel.: 0905 527 234  Peter Mitrík, tel.: 0905 377 836  E-mail: ruzinska.desiatka@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/moravska-sazava/",
-    "nazov": "Moravská sázava",
-    "mesto": "Zábřeh - Rudolfov",
-    "info": {
-      "Dĺžka trate": "50 km",
-      "Štart": "11:00 hod.",
-      "Miesto": "Zábřeh - Rudolfov, Skatepark Zábřeh",
-      "Organizátor": "MORAVA FLOW z.s."
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/beh-na-scob/",
-    "nazov": "Beh na Ščob",
-    "mesto": "Stropkov",
-    "info": {
-      "Dĺžka trate": "800 m,, prevýšenie 180m",
-      "Štart": "18:30 hod.",
-      "Miesto": "Stropkov, TIC areál pod vlekom"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/beh-rematskou-dolinou-2/",
-    "nazov": "Beh Rematskou dolinou",
-    "mesto": "Handlová – Remata",
-    "info": {
-      "Dĺžka trate": "5 km, 9 km",
-      "Povrch": "asfalt, les",
-      "Štart": "11:00 hod.",
-      "Miesto": "Handlová – Remata, Chata Ponilkec",
-      "Organizátor": "ŠK ACHILES Handlová o. z.",
-      "Informácie": "Ľubomír Blaho, tel.: 0905 426 592, email: achilleshandlova@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/jesenny-cani-cross-fatransky-vlcko-3/",
-    "nazov": "Jesenný Cani-Cross Fatranský Vĺčko",
-    "mesto": "Turčianske Jaseno",
-    "info": {
-      "Dĺžka trate": "7,7 km / prevýšenie +250m",
-      "Povrch": "trail",
-      "Štart": "10:00 hod. do 10:45 hod. - beh so psom  11:00 hod. - beh bez psa",
-      "Miesto": "Turčianske Jaseno, pri lezeckej stene Ovčín",
-      "Organizátor": "Fatractive OZ",
-      "Informácie": "Michal Miko, tel.: +421 907 319 756, e-mail: michal.miko@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/nivy-tower-run-3/",
-    "nazov": "Nivy Tower Run",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "28 poschodí s prevýšením 109 m a 650 schodov",
-      "Štart": "od 11:00 hod.  (štartuje sa individuálne v 30-sekundových intervaloch)",
-      "Miesto": "Bratislava, výškova budova Nivy Tower",
-      "Organizátor": "Športová Nadácia Kotrmelec",
-      "Informácie": "Tony Reichmann, tel.: 0908 685 855"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/run-tgtr/",
-    "nazov": "Run TGTR",
-    "mesto": "Martin",
-    "info": {
-      "Dĺžka trate": "42,195 km",
-      "Povrch": "tartan",
-      "Štart": "16:30 hod.",
-      "Miesto": "Martin, Atletický štadión v Martine",
-      "Organizátor": "bežecká komunita LOVE THEM RUNNING CLUB"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/spartansky-areal-challenge-3/",
-    "nazov": "Sparťanský Areál Challenge 3",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "5 km s prekážkami",
-      "Štart": "10:00 hod. Sparťanský Kids Challenge, 11:00  hod. prvá vlna Junior Challenge a Sparťanský Areál Challenge, 12:00 hod.  Štart poslednej vlny Sparťanský Areál Challenge",
-      "Miesto": "Bratislava, Bratislavský sparťanský areál",
-      "Organizátor": "Rozbehaj sa, Big-agency Slovakia s.r.o., v spolupráci so Športový areál - Na hrádzi o.z.",
-      "Informácie": "e-mail: spartan@rozbehajsa.sk"
-    }
-  },
-  {
-    "datum": "2026-10-24",
-    "url": "https://beh.sk/pretek/night-run-sastinskym-borom-3/",
-    "nazov": "Night run Šaštínským borom",
-    "mesto": "Šaštín – Stráže",
-    "info": {
-      "Dĺžka trate": "10,5 km, 5,7 km",
-      "Povrch": "lesná cesta a asfaltový povrch",
-      "Štart": "19:00 hod.",
-      "Miesto": "Šaštín – Stráže, rekreačná oblasť Gazárka",
-      "Organizátor": "Mesto Šaštín – Stráže",
-      "Informácie": "Vladimír Sofka, tel.: 0915 998 886, e-mail: sofkavladimir@gmail.com  Hana Komorná, tel.: 0917 932 772, e-mail: cvcbetarik@gmail.com"
     }
   }
 ]
