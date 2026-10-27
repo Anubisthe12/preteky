@@ -254,6 +254,24 @@
     "popis": ""
   },
   {
+    "nazov": "Zlatohorský treking",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/zlatohorsky-treking-zlate-hory-2027/",
+    "datum": "2027-10-02",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Zlaté Hory",
+    "kraj": "Olomoucký kraj",
+    "dlzka": "50 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "24DS",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/24ds-kouty-nad-desnou-loucna-nad-desnou-2027/",
@@ -268,24 +286,6 @@
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Zlatohorský treking",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/zlatohorsky-treking-zlate-hory-2027/",
-    "datum": "2027-10-02",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Zlaté Hory",
-    "kraj": "Olomoucký kraj",
-    "dlzka": "50 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
       "beh"
     ],
     "popis": ""
@@ -9988,6 +9988,24 @@
     "popis": ""
   },
   {
+    "nazov": "Sokolský běh republiky - Babice nad Svitavou",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Babice nad Svitavou",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "6.7 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Sokolský běh republiky - Vémyslice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-vemyslice-2026/",
@@ -10015,24 +10033,6 @@
     "mesto": "Syrovice",
     "kraj": "Jihomoravský kraj",
     "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Sokolský běh republiky - Babice nad Svitavou",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Babice nad Svitavou",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "6.7 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -10240,17 +10240,17 @@
     "popis": ""
   },
   {
-    "nazov": "Podnuselák #61",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/podnuselak-61-praha-2026/",
-    "datum": "2026-10-26",
+    "nazov": "Košickopolianska desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kosickopolianska-desiatka-2026",
+    "datum": "2026-10-25",
     "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Praha",
-    "kraj": "Praha a okolí",
-    "dlzka": "5 km",
+    "krajina": "Slovensko",
+    "mesto": "Košická Polianka",
+    "kraj": "",
+    "dlzka": "10 km",
     "povrch": "",
-    "start_cas": "",
+    "start_cas": "13:00",
     "organizator": "",
     "tagy": [
       "beh"
@@ -10258,146 +10258,18 @@
     "popis": ""
   },
   {
-    "nazov": "Račiansky kros – jeseň",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/raciansky-kros-jesen-10/",
-    "datum": "2026-10-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "16 km (prev. 0,50 km), 9,5 km (prev. 0,34 km)",
-    "povrch": "80% lesne cesticky a 20% asfalt",
-    "start_cas": "16 km o 10:00 hod. a na 9,5 km o 10:10 hod., 10:20 hod. deti",
-    "organizator": "PERUN o.z. v spolupráci s MČ Bratislava-Rača",
-    "tagy": [
-      "kros"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "T1 Ring kros",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/t1-ring-kros-6/",
-    "datum": "2026-10-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Vechec (okr. Vranov nad Topľou)",
-    "kraj": "",
-    "dlzka": "8,6 km (prev. cca 0,21 km), 5,25 km",
-    "povrch": "",
-    "start_cas": "13:00 hod. hl. kat., 12:00 hod. deti",
-    "organizator": "Michal Jenčo",
-    "tagy": [
-      "kros"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "T1 Ring duatlon kros",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/t1-ring-duatlon-kros/",
-    "datum": "2026-10-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Vechec (okr. Vranov nad Topľou)",
-    "kraj": "",
-    "dlzka": "2 km beh → 11,5 km MTB → 4,5 km beh)",
-    "povrch": "beh: lesné a poľné cesty, MTB: lesné a technické úseky, štrk",
-    "start_cas": "10:00 hod.",
-    "organizator": "Mgr. Michal Jenčo",
-    "tagy": [
-      "kros"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Košickopolianska desiatka",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/kosickopolianska-desiatka-8/",
-    "datum": "2026-10-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košická Polianka",
-    "kraj": "",
-    "dlzka": "10 km, 5 km",
-    "povrch": "asfalt",
-    "start_cas": "Hlavný pretek 13:00 hod. Deti 11:30 hod.",
-    "organizator": "Obec Košická Polianka",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Criterium de Kubín",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/criterium-de-kubin-4/",
-    "datum": "2026-10-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Dolný Kubín",
-    "kraj": "",
-    "dlzka": "hodinovka, 12 minútovka",
-    "povrch": "tartan",
-    "start_cas": "15:00 hod. žiactvo, Muži, Ženy - 12 minút, 15:30 hod. hlavné kategórie - hodinovka",
-    "organizator": "Mesto Dolný Kubín , Bežecký klub Dolný Kubín , OK ORAVA",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Atenčan",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/atencan/",
-    "datum": "2026-10-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Kozárovce, okr. Levice",
-    "kraj": "",
-    "dlzka": "8 km",
-    "povrch": "20% asfalt, 20% lúka, 60% poľná cesta",
-    "start_cas": "13:00 hod.",
-    "organizator": "Michal Šusták, blízka rodina a   kamaráti",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kojša RUN – lesný beh „Bežkovanie bez lyží“",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/kojsa-run-lesny-beh-bezkovanie-bez-lyzi-4/",
-    "datum": "2026-10-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Kojšovská hoľa",
-    "kraj": "",
-    "dlzka": "10 km, 5 km",
-    "povrch": "lesný chodník, lesná cesta, lesný skalnatý chodník",
-    "start_cas": "10:00 hod.",
-    "organizator": "Lyziarsky klub Metropol Kosice a OZ Vitalcity",
-    "tagy": [
-      "beh",
-      "teren"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Levická desiatka",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/levicka-desiatka-14/",
+    "nazov": "LEVICKÁ DESIATKA",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/levicka-desiatka-2026",
     "datum": "2026-10-25",
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Levice",
     "kraj": "",
     "dlzka": "10 km",
-    "povrch": "asfalt",
-    "start_cas": "14:00 hod. hl. kategórie, 12:30 hod. deti",
-    "organizator": "Mesto Levice a Komisia MsZ športu",
+    "povrch": "",
+    "start_cas": "14:00",
+    "organizator": "",
     "tagy": [
       "beh"
     ],

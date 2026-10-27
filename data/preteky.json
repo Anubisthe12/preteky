@@ -125,6 +125,16 @@
     }
   },
   {
+    "datum": "2027-03-21",
+    "url": "https://beh.sk/pretek/run-for-life/",
+    "nazov": "Run for life",
+    "mesto": "Bratislava",
+    "info": {
+      "Miesto": "Bratislava, Aupark a okolie Sadu Janka Kráľa",
+      "Organizátor": "Disponea s.r.o."
+    }
+  },
+  {
     "datum": "2027-03-20",
     "url": "https://beh.sk/pretek/nitrianska-24-hodinovka-4/",
     "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
@@ -936,117 +946,6 @@
       "Miesto": "Nové Zámky, Hlavné námestie",
       "Organizátor": "Spartan Training Group Nové Zámky, pod záštitou primátora mesta Nové Zámky",
       "Informácie": "Mgr. Marián Rybár, tel.: 0903 131 624, e-mail: mgr.marian.rybar@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-25",
-    "url": "https://beh.sk/pretek/raciansky-kros-jesen-10/",
-    "nazov": "Račiansky kros – jeseň",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "16 km (prev. 503 m), 9,5 km (prev. 335 m)",
-      "Povrch": "80% lesne cesticky a 20% asfalt",
-      "Štart": "16 km o 10:00 hod. a na 9,5 km o 10:10 hod., 10:20 hod. deti",
-      "Miesto": "Bratislava, Knižková dolina, Bratislava – Rača (amfiteáter)",
-      "Organizátor": "PERUN o.z. v spolupráci s MČ Bratislava-Rača",
-      "Informácie": "Rasťo Uličný, tel.: 0907 397 379, e-mail: racianskykros@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-25",
-    "url": "https://beh.sk/pretek/t1-ring-kros-6/",
-    "nazov": "T1 Ring kros",
-    "mesto": "Vechec (okr. Vranov nad Topľou)",
-    "info": {
-      "Dĺžka trate": "8,6 km (prev. cca 210m), 5,25 km",
-      "Štart": "13:00 hod. hl. kat., 12:00 hod. deti",
-      "Miesto": "Vechec (okr. Vranov nad Topľou), Areál T1 ring",
-      "Organizátor": "Michal Jenčo",
-      "Informácie": "Michal Jenčo, tel.: 0908 371 241, e-mIL: t1ringkros@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-25",
-    "url": "https://beh.sk/pretek/t1-ring-duatlon-kros/",
-    "nazov": "T1 Ring duatlon kros",
-    "mesto": "Vechec (okr. Vranov nad Topľou)",
-    "info": {
-      "Dĺžka trate": "2 km beh → 11,5 km MTB → 4,5 km beh)",
-      "Povrch": "beh: lesné a poľné cesty, MTB: lesné a technické úseky, štrk",
-      "Štart": "10:00 hod.",
-      "Miesto": "Vechec (okr. Vranov nad Topľou), Areál T1 Ring",
-      "Organizátor": "Mgr. Michal Jenčo",
-      "Informácie": "Michal Jenčo, tel.: 0908 371 241, e-mail: miskojenco@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-25",
-    "url": "https://beh.sk/pretek/kosickopolianska-desiatka-8/",
-    "nazov": "Košickopolianska desiatka",
-    "mesto": "Košická Polianka",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt",
-      "Štart": "Hlavný pretek 13:00 hod. Deti 11:30 hod.",
-      "Miesto": "Košická Polianka, pred kultúrnym domom",
-      "Organizátor": "Obec Košická Polianka",
-      "Informácie": "Obec Košická Polianka a zastupiteľstvo obce, tel.: 055/685 41 84. e-mail: sekretariat@kosickapolianka.sk  Daniel Lengyel, tel.: 0948 440 835, e-mail: lengyeldanko@gmail.com  Peter Buc, tel.: 0905 299 189, e-mail: peter.buc59@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-25",
-    "url": "https://beh.sk/pretek/criterium-de-kubin-4/",
-    "nazov": "Criterium de Kubín",
-    "mesto": "Dolný Kubín",
-    "info": {
-      "Dĺžka trate": "hodinovka, 12 minútovka",
-      "Povrch": "tartan",
-      "Štart": "15:00 hod. žiactvo, Muži, Ženy - 12 minút, 15:30 hod. hlavné kategórie - hodinovka",
-      "Miesto": "Dolný Kubín, štadión MUDr. Ivana Chodáka",
-      "Organizátor": "Mesto Dolný Kubín , Bežecký klub Dolný Kubín , OK ORAVA",
-      "Informácie": "Ing. Štefan Belvončík, tel.: 0915 847 514, 📧 stefan.belvoncik@dolnykubin.sk  Miroslav Hrabal, tel.: 0908 499 183, 📧 runclubdk@gmail.com  Ing. Michal Strežo, tel.: 0904 075 261"
-    }
-  },
-  {
-    "datum": "2026-10-25",
-    "url": "https://beh.sk/pretek/atencan/",
-    "nazov": "Atenčan",
-    "mesto": "Kozárovce, okr. Levice",
-    "info": {
-      "Dĺžka trate": "8 km",
-      "Povrch": "20% asfalt, 20% lúka, 60% poľná cesta",
-      "Štart": "13:00 hod.",
-      "Miesto": "Kozárovce, okr. Levice, priehrada",
-      "Organizátor": "Michal Šusták, blízka rodina a   kamaráti",
-      "Informácie": "Michal Šusták, tel.: 0948 151 541, e-mail: sustakmichal803@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-25",
-    "url": "https://beh.sk/pretek/kojsa-run-lesny-beh-bezkovanie-bez-lyzi-4/",
-    "nazov": "Kojša RUN – lesný beh „Bežkovanie bez lyží“",
-    "mesto": "Kojšovská hoľa",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "lesný chodník, lesná cesta, lesný skalnatý chodník",
-      "Štart": "10:00 hod.",
-      "Miesto": "Kojšovská hoľa, Areál bežeckého lyžovania LK Metropol",
-      "Organizátor": "Lyziarsky klub Metropol Kosice a OZ Vitalcity",
-      "Informácie": "tel.: +421 905 261 425 alebo +421 915 786 816"
-    }
-  },
-  {
-    "datum": "2026-10-25",
-    "url": "https://beh.sk/pretek/levicka-desiatka-14/",
-    "nazov": "Levická desiatka",
-    "mesto": "Levice",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Povrch": "asfalt",
-      "Štart": "14:00 hod. hl. kategórie, 12:30 hod. deti",
-      "Miesto": "Levice, Holubyho ul. - zadný vchod do mestského úradu",
-      "Organizátor": "Mesto Levice a Komisia MsZ športu",
-      "Informácie": "tel.: 036/635 02 87, 0910 228 745, e-mail: sport@levice.sk"
     }
   }
 ]

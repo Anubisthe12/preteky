@@ -7722,7 +7722,7 @@
     "datum": "19.06.2024 - 20.06.2024",
     "mesto": "Košice",
     "info": {
-      "propozicie": "",
+      "propozicie": "https://www.hrdosport.sk/Content/results/2024/6/VYS787.pdf",
       "vysledky": ""
     }
   },
@@ -10258,6 +10258,17 @@
   },
   {
     "zdroj": "hrdosport.sk",
+    "nazov": "Jumperia 2027",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2027&SelectedMonth=1",
+    "datum": "19.01.2027",
+    "mesto": "Banská Bystrica",
+    "info": {
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "hrdosport.sk",
     "nazov": "2. kolo TIPOS pohár v biatlone 2026/2027",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2027&SelectedMonth=1",
     "datum": "23.01.2027",
@@ -10372,6 +10383,17 @@
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2027&SelectedMonth=2",
     "datum": "27.02.2027 - 28.02.2027",
     "mesto": "Osrblie",
+    "info": {
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "hrdosport.sk",
+    "nazov": "Majstrovstvá SR a ČR v behu na 10000 m",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2027&SelectedMonth=4",
+    "datum": "24.04.2027",
+    "mesto": "Dubnica nad Váhom",
     "info": {
       "propozicie": "",
       "vysledky": ""
@@ -31103,18 +31125,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Podnuselák #61",
-    "url": "https://www.bezeckyzavod.cz/podnuselak-61-praha-2026/",
-    "datum": "26.10.2026",
-    "mesto": "Praha",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Kraj": "Praha a okolí"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Podzimní půlmaraton VAŠÍ LIGY",
     "url": "https://www.bezeckyzavod.cz/podzimni-pulmaraton-branik-praha-2026/",
     "datum": "28.10.2026",
@@ -35423,6 +35433,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Sokolský běh republiky - Babice nad Svitavou",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
+    "datum": "28.10.2026",
+    "mesto": "Babice nad Svitavou",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "6.7 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Sokolský běh republiky - Vémyslice",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-vemyslice-2026/",
     "datum": "28.10.2026",
@@ -35442,18 +35464,6 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5 km",
-      "Kraj": "Jihomoravský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Sokolský běh republiky - Babice nad Svitavou",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-babice-nad-svitavou-2026/",
-    "datum": "28.10.2026",
-    "mesto": "Babice nad Svitavou",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "6.7 km",
       "Kraj": "Jihomoravský kraj"
     }
   },
@@ -36239,18 +36249,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "24DS",
-    "url": "https://www.bezeckyzavod.cz/24ds-kouty-nad-desnou-loucna-nad-desnou-2027/",
-    "datum": "2.10.2027",
-    "mesto": "Kouty nad Desnou, Loučná nad Desnou",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "24 h",
-      "Kraj": "Olomoucký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Zlatohorský treking",
     "url": "https://www.bezeckyzavod.cz/zlatohorsky-treking-zlate-hory-2027/",
     "datum": "2.10.2027",
@@ -36258,6 +36256,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "50 km",
+      "Kraj": "Olomoucký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "24DS",
+    "url": "https://www.bezeckyzavod.cz/24ds-kouty-nad-desnou-loucna-nad-desnou-2027/",
+    "datum": "2.10.2027",
+    "mesto": "Kouty nad Desnou, Loučná nad Desnou",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "24 h",
       "Kraj": "Olomoucký kraj"
     }
   },
