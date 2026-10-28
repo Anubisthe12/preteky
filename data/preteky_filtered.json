@@ -18,15 +18,33 @@
     "popis": ""
   },
   {
-    "nazov": "Běh kolem Ameriky",
+    "nazov": "PREFA Brněnská 25",
     "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-kolem-ameriky-pisek-2027/",
-    "datum": "2027-10-16",
+    "url": "https://www.bezeckyzavod.cz/prefa-brnenska-25-brno-2027/",
+    "datum": "2027-10-17",
     "datum_do": "",
     "krajina": "Česká republika",
-    "mesto": "Písek",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "8 km",
+    "mesto": "Brno",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "25 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Brněnská 25",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/brnenska-25-modrice-2027/",
+    "datum": "2027-10-17",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Modřice",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "25 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -54,6 +72,24 @@
     "popis": ""
   },
   {
+    "nazov": "Běh kolem Ameriky",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/beh-kolem-ameriky-pisek-2027/",
+    "datum": "2027-10-16",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Písek",
+    "kraj": "Jihočeský kraj",
+    "dlzka": "8 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Běh Borským parkem",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/beh-borskym-parkem-plzen-2027/",
@@ -63,6 +99,24 @@
     "mesto": "Plzeň",
     "kraj": "Plzeňský kraj",
     "dlzka": "6 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Hranický horský běh - memoriál Petra Kroči",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/hranicky-horsky-beh-hranice-2027/",
+    "datum": "2027-10-16",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Hranice",
+    "kraj": "Olomoucký kraj",
+    "dlzka": "12 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -10006,24 +10060,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Vémyslice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-vemyslice-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Vémyslice",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "5.6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Syrovice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
@@ -10033,6 +10069,24 @@
     "mesto": "Syrovice",
     "kraj": "Jihomoravský kraj",
     "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Vémyslice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-vemyslice-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Vémyslice",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "5.6 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -10213,24 +10267,6 @@
     "mesto": "Opava",
     "kraj": "Moravskoslezský kraj",
     "dlzka": "4 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Smaltovaný bažant",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/smaltovany-bazant-hermanuv-mestec-2026/",
-    "datum": "2026-10-27",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Heřmanův Městec",
-    "kraj": "Pardubický kraj",
-    "dlzka": "1.5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",

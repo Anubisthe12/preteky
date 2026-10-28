@@ -37,15 +37,52 @@
     "popis": ""
   },
   {
-    "nazov": "Běh kolem Ameriky",
+    "nazov": "Račiansky kros JESEŇ 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/raciansky-kros-jesen-2027",
+    "datum": "2027-10-24",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Rača",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "kros"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "PREFA Brněnská 25",
     "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-kolem-ameriky-pisek-2027/",
-    "datum": "2027-10-16",
+    "url": "https://www.bezeckyzavod.cz/prefa-brnenska-25-brno-2027/",
+    "datum": "2027-10-17",
     "datum_do": "",
     "krajina": "Česká republika",
-    "mesto": "Písek",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "8 km",
+    "mesto": "Brno",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "25 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Brněnská 25",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/brnenska-25-modrice-2027/",
+    "datum": "2027-10-17",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Modřice",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "25 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -73,6 +110,24 @@
     "popis": ""
   },
   {
+    "nazov": "Běh kolem Ameriky",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/beh-kolem-ameriky-pisek-2027/",
+    "datum": "2027-10-16",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Písek",
+    "kraj": "Jihočeský kraj",
+    "dlzka": "8 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Běh Borským parkem",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/beh-borskym-parkem-plzen-2027/",
@@ -82,6 +137,24 @@
     "mesto": "Plzeň",
     "kraj": "Plzeňský kraj",
     "dlzka": "6 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Hranický horský běh - memoriál Petra Kroči",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/hranicky-horsky-beh-hranice-2027/",
+    "datum": "2027-10-16",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Hranice",
+    "kraj": "Olomoucký kraj",
+    "dlzka": "12 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -105,6 +178,25 @@
     "organizator": "",
     "tagy": [
       "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Nivy Tower Run 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/nivy-tower-run-2027",
+    "datum": "2027-10-16",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Ružinov",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
     ],
     "popis": ""
   },
@@ -142,6 +234,25 @@
     "tagy": [
       "ultra",
       "teren"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Rozhanovská dvanástka - 5.ročník",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/rozhanovska-dvanastka-5rocnik-2027",
+    "datum": "2027-10-09",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Rozhanovce",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "10:45",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
     ],
     "popis": ""
   },
@@ -693,6 +804,25 @@
     "popis": ""
   },
   {
+    "nazov": "Draždiak Run 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/drazdiak-run-2027",
+    "datum": "2027-08-29",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Malinô Brdo ULTRA Trifecta Weekend",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/spartan-malino-brdo-ultra-trifecta-weekend-2027",
@@ -1133,6 +1263,44 @@
     "popis": ""
   },
   {
+    "nazov": "Tatry Charity Run 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/tatry-charity-run-2027",
+    "datum": "2027-06-26",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Vysoké Tatry",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Ufo Vertical Sprint 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/ufo-vertical-sprint-2027",
+    "datum": "2027-06-26",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "UniCredit Pražská štafeta",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/unicredit-prazska-stafeta-praha-2027-6-6/",
@@ -1331,6 +1499,25 @@
     "popis": ""
   },
   {
+    "nazov": "Račiansky kros LETO",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/raciansky-kros-leto-2027",
+    "datum": "2027-06-13",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava-Rača",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "10:00",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "kros"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Army Urban Challenge Žatec",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/army-urban-challenge-zatec-2027/",
@@ -1471,25 +1658,6 @@
     "organizator": "",
     "tagy": [
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Račiansky kros LETO",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/raciansky-kros-leto-2027",
-    "datum": "2027-06-06",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava-Rača",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "kros"
     ],
     "popis": ""
   },
@@ -1775,6 +1943,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Bžany",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Horský Park Sprint 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/horsky-park-sprint-2027",
+    "datum": "2027-05-29",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -2206,6 +2393,25 @@
     "popis": ""
   },
   {
+    "nazov": "Petržalská 10 (P-10) 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/petrzalska-10-p-10-2027",
+    "datum": "2027-05-15",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Wings for Life World Run Brno",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/wings-for-life-world-brno-2027/",
@@ -2272,6 +2478,25 @@
     "dlzka": "",
     "povrch": "",
     "start_cas": "10:00",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Iuventa Sprint 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/iuventa-sprint-2027",
+    "datum": "2027-05-08",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
@@ -2870,6 +3095,25 @@
     "mesto": "Hlučín",
     "kraj": "Moravskoslezský kraj",
     "dlzka": "24 h",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Polus Tower Run 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/polus-tower-run-2027",
+    "datum": "2027-04-17",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nové Mesto",
+    "kraj": "",
+    "dlzka": "",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -3740,6 +3984,25 @@
     "popis": ""
   },
   {
+    "nazov": "ČSOB Zimná séria 2026/2027 - MDŽ edícia",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/csob-zimna-seria-mdz-edicia-bratislava-2027",
+    "datum": "2027-03-06",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Majstrovstvá SR v biatlone 2026/2027",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2027&SelectedMonth=2",
@@ -3774,6 +4037,25 @@
     "tagy": [
       "ultra",
       "teren"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Lakeside Park Run 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/lakeside-park-run-2027",
+    "datum": "2027-02-27",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nové Mesto",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
     ],
     "popis": ""
   },
@@ -3975,6 +4257,25 @@
     "dlzka": "",
     "povrch": "",
     "start_cas": "10:30",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "ČSOB Zimná séria 2026/2027 - Valentínska edícia",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/csob-zimna-seria-valentinska-edicia-bratislava-2027",
+    "datum": "2027-02-13",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
@@ -4426,6 +4727,25 @@
     "popis": ""
   },
   {
+    "nazov": "Aupark Tower Run 2027",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/aupark-tower-run-2027",
+    "datum": "2027-01-23",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Petržalka",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Freeport Night Run",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/freeport-night-run-chvalovice-2027/",
@@ -4692,6 +5012,25 @@
     "dlzka": "",
     "povrch": "",
     "start_cas": "10:30",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "ČSOB Zimná séria 2026/2027 - Trojkráľová edícia",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/csob-zimna-seria-trojkralova-edicia-bratislava-2027",
+    "datum": "2027-01-09",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
@@ -5808,6 +6147,25 @@
     "organizator": "",
     "tagy": [
       "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "MURAT Mikulášsky kros",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/murat-mikulassky-kros-pezinok-2026",
+    "datum": "2026-12-13",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Pezinok",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "11:00",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "kros"
     ],
     "popis": ""
   },
@@ -7047,6 +7405,25 @@
     "dlzka": "",
     "povrch": "",
     "start_cas": "16:30",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "CEASAR – Súťaž o najkrajšie vyzdobený vianočný kočík na behu BSA",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/ceasar-sutaz-o-najkrajsie-vyzdobeny-vianocny-kocik-na-behu-bsa-2026",
+    "datum": "2026-11-28",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Rajecké Teplice",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "16:50",
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
@@ -10491,25 +10868,6 @@
     "popis": ""
   },
   {
-    "nazov": "OK ZŠ v cezpoľnom behu",
-    "zdroj": "hrdosport.sk",
-    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Dubnica nad Váhom",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Podzimní půlmaraton VAŠÍ LIGY",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/podzimni-pulmaraton-branik-praha-2026/",
@@ -11842,24 +12200,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sokolský běh republiky - Vémyslice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-vemyslice-2026/",
-    "datum": "2026-10-28",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Vémyslice",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "5.6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Sokolský běh republiky - Syrovice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-syrovice-2026/",
@@ -11869,6 +12209,24 @@
     "mesto": "Syrovice",
     "kraj": "Jihomoravský kraj",
     "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sokolský běh republiky - Vémyslice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/sokolsky-beh-republiky-vemyslice-2026/",
+    "datum": "2026-10-28",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Vémyslice",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "5.6 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -12049,24 +12407,6 @@
     "mesto": "Opava",
     "kraj": "Moravskoslezský kraj",
     "dlzka": "4 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Smaltovaný bažant",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/smaltovany-bazant-hermanuv-mestec-2026/",
-    "datum": "2026-10-27",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Heřmanův Městec",
-    "kraj": "Pardubický kraj",
-    "dlzka": "1.5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
