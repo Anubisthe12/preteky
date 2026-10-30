@@ -10566,27 +10566,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "K500 Október",
-    "url": "https://vsetkybehy.sk/podujatie/k500-oktober-2026",
-    "datum": "2026-10-29",
-    "mesto": "Nová Polhora",
-    "popis": "",
-    "info": {
-      "Miesto": "Nová Polhora – STK Nová Polhora",
-      "Dĺžka trate": "",
-      "Štart": "18:00",
-      "kraj": "kosicky",
-      "gps": "48.8256155,21.3153215",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "https://zasrun.sk/preteky/390/prihlaska",
-      "web": "",
-      "propozicie": "",
-      "vysledky": "https://zasrun.sk/preteky/k500-oktober-2026/vysledky"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Večerný beh parkom v Krivanoch",
     "url": "https://vsetkybehy.sk/podujatie/vecerny-beh-parkom-v-krivanoch-2026",
     "datum": "2026-10-30",
@@ -10600,10 +10579,10 @@
       "gps": "49.1712130,20.9125960",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://zasrun.sk/preteky/386/prihlaska",
+      "registracia": "",
       "web": "",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://zasrun.sk/preteky/vecerny-beh-parkom-v-krivanoch/vysledky"
     }
   },
   {
@@ -11099,7 +11078,7 @@
     "info": {
       "Miesto": "Nitra – Pešia zóna, Štefánikova trieda",
       "Dĺžka trate": "",
-      "Štart": "",
+      "Štart": "18:05",
       "kraj": "nitriansky",
       "gps": "48.3069000,18.0844000",
       "seria": "",
@@ -11666,7 +11645,7 @@
     "info": {
       "Miesto": "Žiar nad Hronom – Základná škola Jilemnického 2",
       "Dĺžka trate": "",
-      "Štart": "",
+      "Štart": "13:45",
       "kraj": "banskobystricky",
       "gps": "48.5995942,18.8412749",
       "seria": "",
@@ -12131,7 +12110,7 @@
       "Štart": "09:20",
       "kraj": "kosicky",
       "gps": "48.6219878,21.7248821",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "https://spoznajtvbehom.sk",
@@ -12564,14 +12543,14 @@
     "nazov": "4. kolo ZBS – Tatranská Polianka – Sliezsky dom",
     "url": "https://vsetkybehy.sk/podujatie/zimna-bezecka-seria-vysoke-tatry-zbs-tatr-polianka-sliezsky-dom-2027",
     "datum": "2027-02-06",
-    "mesto": "Vysoké Tatry",
+    "mesto": "Tatranská Polianka",
     "popis": "",
     "info": {
-      "Miesto": "Vysoké Tatry – Tatranská Polianka, rampa na lesnej ceste",
+      "Miesto": "Tatranská Polianka – Parkovisko",
       "Dĺžka trate": "",
       "Štart": "10:00",
       "kraj": "presovsky",
-      "gps": "49.1999170,20.1798310",
+      "gps": "49.1256181,20.1845323",
       "seria": "",
       "disciplíny": [],
       "registracia": "https://pretekaj.sk/sk/podujatia/zbs2026/registration?iframe=0",
@@ -13632,6 +13611,27 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "K500 Október",
+    "url": "https://vsetkybehy.sk/podujatie/k500-oktober-2026",
+    "datum": "2026-10-29",
+    "mesto": "Nová Polhora",
+    "popis": "",
+    "info": {
+      "Miesto": "Nová Polhora – STK Nová Polhora",
+      "Dĺžka trate": "",
+      "Štart": "18:00",
+      "kraj": "kosicky",
+      "gps": "48.8256155,21.3153215",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://zasrun.sk/preteky/k500-oktober-2026/vysledky"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Detský štafetový kros – postupové kolo Banskobystrický kraj",
     "url": "https://vsetkybehy.sk/podujatie/detsky-stafetovy-kros-postupove-kolo-banskobystricky-kraj-2026",
     "datum": "2026-10-27",
@@ -14672,7 +14672,7 @@
       "Štart": "11:00",
       "kraj": "kosicky",
       "gps": "48.8259630,22.1371530",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -15197,7 +15197,7 @@
       "Štart": "10:30",
       "kraj": "kosicky",
       "gps": "48.7514380,21.9211950",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "https://jesennybeh.preteky.com/propozicie.html",
@@ -16247,7 +16247,7 @@
       "Štart": "15:00",
       "kraj": "zilinsky",
       "gps": "49.1458000,19.5017000",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -16772,7 +16772,7 @@
       "Štart": "19:00",
       "kraj": "zilinsky",
       "gps": "49.2234670,18.7393140",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -17297,7 +17297,7 @@
       "Štart": "10:00",
       "kraj": "banskobystricky",
       "gps": "48.5474665,19.2687695",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -17801,7 +17801,7 @@
       "Štart": "09:40",
       "kraj": "banskobystricky",
       "gps": "48.4815300,18.7249200",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -18851,7 +18851,7 @@
       "Štart": "10:00",
       "kraj": "kosicky",
       "gps": "48.5238680,21.6580020",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -19901,7 +19901,7 @@
       "Štart": "11:00",
       "kraj": "banskobystricky",
       "gps": "48.2406030,19.3340850",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -20426,7 +20426,7 @@
       "Štart": "17:30",
       "kraj": "zilinsky",
       "gps": "49.5261767,19.4733540",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "https://www.oravskapolhora.sk/obcan-a-samosprava/aktuality/babohorsky-bezecky-okruh-2026-1964sk.html",
@@ -20447,7 +20447,7 @@
       "Štart": "19:00",
       "kraj": "nitriansky",
       "gps": "48.5594350,18.1754390",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -21476,7 +21476,7 @@
       "Štart": "",
       "kraj": "banskobystricky",
       "gps": "48.7395000,19.1530000",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -21497,7 +21497,7 @@
       "Štart": "08:00",
       "kraj": "trenciansky",
       "gps": "48.7718360,18.6234920",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "https://www.youngrun.sk/",
@@ -22001,7 +22001,7 @@
       "Štart": "19:00",
       "kraj": "nitriansky",
       "gps": "48.5594350,18.1754390",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -24626,7 +24626,7 @@
       "Štart": "09:00",
       "kraj": "kosicky",
       "gps": "48.7416413,21.2558721",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -25172,7 +25172,7 @@
       "Štart": "11:00",
       "kraj": "zilinsky",
       "gps": "49.3352438,19.5532571",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -25676,7 +25676,7 @@
       "Štart": "20:00",
       "kraj": "presovsky",
       "gps": "49.1286860,20.0609680",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -26201,7 +26201,7 @@
       "Štart": "11:00",
       "kraj": "zilinsky",
       "gps": "49.1202000,19.1675000",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -27797,7 +27797,7 @@
       "Štart": "17:00",
       "kraj": "nitriansky",
       "gps": "47.9861840,18.1631410",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -28301,7 +28301,7 @@
       "Štart": "10:00",
       "kraj": "banskobystricky",
       "gps": "48.2892004,18.9872476",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -28322,7 +28322,7 @@
       "Štart": "10:00",
       "kraj": "kosicky",
       "gps": "48.7514380,21.9211950",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -29351,7 +29351,7 @@
       "Štart": "11:30",
       "kraj": "bratislavsky",
       "gps": "48.3043950,18.0878690",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -30401,7 +30401,7 @@
       "Štart": "10:00",
       "kraj": "trenciansky",
       "gps": "48.8950936,18.0300857",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -30422,7 +30422,7 @@
       "Štart": "10:00",
       "kraj": "kosicky",
       "gps": "48.7172270,21.2496770",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -30926,7 +30926,7 @@
       "Štart": "10:00",
       "kraj": "bratislavsky",
       "gps": "48.1559180,17.1313540",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -31794,7 +31794,7 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "UniCredit Pražská štafeta",
+    "nazov": "UniCredit Pražská štafeta (22. června 2027)",
     "url": "https://www.bezeckyzavod.cz/unicredit-prazska-stafeta-praha-2027/",
     "datum": "22.6.2027",
     "mesto": "Praha",
@@ -31806,7 +31806,7 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "UniCredit Pražská štafeta",
+    "nazov": "UniCredit Pražská štafeta (23. června 2027)",
     "url": "https://www.bezeckyzavod.cz/unicredit-prazska-stafeta-praha-2027-6/",
     "datum": "23.6.2027",
     "mesto": "Praha",
@@ -31818,7 +31818,7 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "UniCredit Pražská štafeta",
+    "nazov": "UniCredit Pražská štafeta (24. června 2027)",
     "url": "https://www.bezeckyzavod.cz/unicredit-prazska-stafeta-praha-2027-6-6/",
     "datum": "24.6.2027",
     "mesto": "Praha",
@@ -32101,18 +32101,6 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "12 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Podzimní běh lyžařů - memoriál Ály Syrovatského",
-    "url": "https://www.bezeckyzavod.cz/podzimni-beh-lyzaru-senohraby-2026/",
-    "datum": "29.11.2026",
-    "mesto": "Senohraby",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "8 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -32814,21 +32802,9 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Mizuno T2 běhy (5 km)",
-    "url": "https://www.bezeckyzavod.cz/mizuno-t2-behy-5-ceske-budejovice-2027/",
-    "datum": "19.3.2027",
-    "mesto": "České Budějovice",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Kraj": "Jihočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Mizuno T2 běhy",
     "url": "https://www.bezeckyzavod.cz/mizuno-t2-behy-ceske-budejovice-2027/",
-    "datum": "20.3.2027",
+    "datum": "19.3.2027",
     "mesto": "České Budějovice",
     "popis": "",
     "info": {
@@ -32994,18 +32970,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "3x Hradišťskou strání",
-    "url": "https://www.bezeckyzavod.cz/3x-hradistskou-strani-plzen-2026/",
-    "datum": "1.11.2026",
-    "mesto": "Plzeň",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "3.9 km",
-      "Kraj": "Plzeňský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Běh na Koráb",
     "url": "https://www.bezeckyzavod.cz/beh-na-korab-kdyne-2026/",
     "datum": "1.11.2026",
@@ -33037,6 +33001,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "6 km",
+      "Kraj": "Plzeňský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "3x Hradišťskou strání",
+    "url": "https://www.bezeckyzavod.cz/3x-hradistskou-strani-plzen-2026/",
+    "datum": "8.11.2026",
+    "mesto": "Plzeň",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "3.9 km",
       "Kraj": "Plzeňský kraj"
     }
   },
@@ -33222,18 +33198,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Půlmaraton Plzeňského kraje (10 km)",
-    "url": "https://www.bezeckyzavod.cz/pulmaraton-plzenskeho-2027/",
-    "datum": "24.4.2027",
-    "mesto": "Plzeň",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Kraj": "Plzeňský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Půlmaraton Plzeňského kraje",
     "url": "https://www.bezeckyzavod.cz/pulmaraton-plzenskeho-plzen-3-2027/",
     "datum": "24.4.2027",
@@ -33390,18 +33354,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Běh Labským údolím",
-    "url": "https://www.bezeckyzavod.cz/beh-labskym-udolim-decin-xiv-dolni-zleb-decin-2026/",
-    "datum": "31.10.2026",
-    "mesto": "Děčín XIV-Dolní Žleb, Děčín",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "16 km",
-      "Kraj": "Ústecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Benešovská dušičková soutěska",
     "url": "https://www.bezeckyzavod.cz/benesovska-dusickova-benesov-nad-ploucnici-2026/",
     "datum": "4.11.2026",
@@ -33433,6 +33385,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "10 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh na Chlum",
+    "url": "https://www.bezeckyzavod.cz/beh-na-chlum-decin-2026/",
+    "datum": "15.11.2026",
+    "mesto": "Děčín",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "8.5 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -33481,18 +33445,6 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "8 km",
-      "Kraj": "Ústecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Běh na Chlum",
-    "url": "https://www.bezeckyzavod.cz/beh-na-chlum-decin-2026/",
-    "datum": "22.11.2026",
-    "mesto": "Děčín",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "8.5 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -35479,7 +35431,7 @@
   {
     "zdroj": "bezeckyzavod.cz",
     "nazov": "Běh o rabštejnského kocoura",
-    "url": "https://www.bezeckyzavod.cz/beh-o-rabstejnskeho-libina-2026/",
+    "url": "https://www.bezeckyzavod.cz/beh-o-rabstejnskeho-libina-2026-10/",
     "datum": "31.10.2026",
     "mesto": "Libina",
     "popis": "",
@@ -35742,18 +35694,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "24DS",
-    "url": "https://www.bezeckyzavod.cz/24ds-kouty-nad-desnou-loucna-nad-desnou-2027/",
-    "datum": "2.10.2027",
-    "mesto": "Kouty nad Desnou, Loučná nad Desnou",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "24 h",
-      "Kraj": "Olomoucký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Zlatohorský treking",
     "url": "https://www.bezeckyzavod.cz/zlatohorsky-treking-zlate-hory-2027/",
     "datum": "2.10.2027",
@@ -35761,6 +35701,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "50 km",
+      "Kraj": "Olomoucký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "24DS",
+    "url": "https://www.bezeckyzavod.cz/24ds-kouty-nad-desnou-loucna-nad-desnou-2027/",
+    "datum": "2.10.2027",
+    "mesto": "Kouty nad Desnou, Loučná nad Desnou",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "24 h",
       "Kraj": "Olomoucký kraj"
     }
   },
@@ -36085,18 +36037,6 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "5 km",
-      "Kraj": "Moravskoslezský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Běh 17. listopadu - Hradec Králové",
-    "url": "https://www.bezeckyzavod.cz/beh-17-listopadu--ostrava-3-2026/",
-    "datum": "17.11.2026",
-    "mesto": "Ostrava 3",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
       "Kraj": "Moravskoslezský kraj"
     }
   },

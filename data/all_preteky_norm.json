@@ -420,6 +420,24 @@
     "popis": ""
   },
   {
+    "nazov": "Zlatohorský treking",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/zlatohorsky-treking-zlate-hory-2027/",
+    "datum": "2027-10-02",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Zlaté Hory",
+    "kraj": "Olomoucký kraj",
+    "dlzka": "50 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "24DS",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/24ds-kouty-nad-desnou-loucna-nad-desnou-2027/",
@@ -434,24 +452,6 @@
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Zlatohorský treking",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/zlatohorsky-treking-zlate-hory-2027/",
-    "datum": "2027-10-02",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Zlaté Hory",
-    "kraj": "Olomoucký kraj",
-    "dlzka": "50 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
       "beh"
     ],
     "popis": ""
@@ -1392,7 +1392,7 @@
     "popis": ""
   },
   {
-    "nazov": "UniCredit Pražská štafeta",
+    "nazov": "UniCredit Pražská štafeta (24. června 2027)",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/unicredit-prazska-stafeta-praha-2027-6-6/",
     "datum": "2027-06-24",
@@ -1410,7 +1410,7 @@
     "popis": ""
   },
   {
-    "nazov": "UniCredit Pražská štafeta",
+    "nazov": "UniCredit Pražská štafeta (23. června 2027)",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/unicredit-prazska-stafeta-praha-2027-6/",
     "datum": "2027-06-23",
@@ -1446,7 +1446,7 @@
     "popis": ""
   },
   {
-    "nazov": "UniCredit Pražská štafeta",
+    "nazov": "UniCredit Pražská štafeta (22. června 2027)",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/unicredit-prazska-stafeta-praha-2027/",
     "datum": "2027-06-22",
@@ -2834,24 +2834,6 @@
     "popis": ""
   },
   {
-    "nazov": "Půlmaraton Plzeňského kraje (10 km)",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/pulmaraton-plzenskeho-2027/",
-    "datum": "2027-04-24",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Plzeň",
-    "kraj": "Plzeňský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Půlmaraton Plzeňského kraje",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/pulmaraton-plzenskeho-plzen-3-2027/",
@@ -3746,24 +3728,6 @@
     "popis": ""
   },
   {
-    "nazov": "Mizuno T2 běhy",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/mizuno-t2-behy-ceske-budejovice-2027/",
-    "datum": "2027-03-20",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "České Budějovice",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "50 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Grand Prix Dříteč",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/grand-prix-dritec-2027/",
@@ -3857,15 +3821,15 @@
     "popis": ""
   },
   {
-    "nazov": "Mizuno T2 běhy (5 km)",
+    "nazov": "Mizuno T2 běhy",
     "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/mizuno-t2-behy-5-ceske-budejovice-2027/",
+    "url": "https://www.bezeckyzavod.cz/mizuno-t2-behy-ceske-budejovice-2027/",
     "datum": "2027-03-19",
     "datum_do": "",
     "krajina": "Česká republika",
     "mesto": "České Budějovice",
     "kraj": "Jihočeský kraj",
-    "dlzka": "5 km",
+    "dlzka": "50 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -4581,7 +4545,7 @@
     "datum": "2027-02-06",
     "datum_do": "",
     "krajina": "Slovensko",
-    "mesto": "Vysoké Tatry",
+    "mesto": "Tatranská Polianka",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -7188,24 +7152,6 @@
     "popis": ""
   },
   {
-    "nazov": "Podzimní běh lyžařů - memoriál Ály Syrovatského",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/podzimni-beh-lyzaru-senohraby-2026/",
-    "datum": "2026-11-29",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Senohraby",
-    "kraj": "Středočeský kraj",
-    "dlzka": "8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Podzimní běh lyžařů",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/podzimni-beh-lyzaru-senohraby-2026-11/",
@@ -7566,24 +7512,6 @@
     "mesto": "Plzeň",
     "kraj": "Plzeňský kraj",
     "dlzka": "30 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh na Chlum",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-na-chlum-decin-2026/",
-    "datum": "2026-11-22",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Děčín",
-    "kraj": "Ústecký kraj",
-    "dlzka": "8.5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -8265,24 +8193,6 @@
     "popis": ""
   },
   {
-    "nazov": "Běh 17. listopadu - Hradec Králové",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-17-listopadu--ostrava-3-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Ostrava 3",
-    "kraj": "Moravskoslezský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Mestský študentský beh",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/mestsky-studentsky-beh-2026",
@@ -8462,6 +8372,24 @@
     "organizator": "",
     "tagy": [
       "kros"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Běh na Chlum",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/beh-na-chlum-decin-2026/",
+    "datum": "2026-11-15",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Děčín",
+    "kraj": "Ústecký kraj",
+    "dlzka": "8.5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
     ],
     "popis": ""
   },
@@ -9194,7 +9122,7 @@
     "kraj": "",
     "dlzka": "",
     "povrch": "",
-    "start_cas": "",
+    "start_cas": "18:05",
     "organizator": "",
     "tagy": [
       "neznama_dlzka",
@@ -9358,6 +9286,24 @@
     "mesto": "Český Krumlov",
     "kraj": "Jihočeský kraj",
     "dlzka": "11 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "3x Hradišťskou strání",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/3x-hradistskou-strani-plzen-2026/",
+    "datum": "2026-11-08",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Plzeň",
+    "kraj": "Plzeňský kraj",
+    "dlzka": "3.9 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -10484,24 +10430,6 @@
     "popis": ""
   },
   {
-    "nazov": "3x Hradišťskou strání",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/3x-hradistskou-strani-plzen-2026/",
-    "datum": "2026-11-01",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Plzeň",
-    "kraj": "Plzeňský kraj",
-    "dlzka": "3.9 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Běh na Koráb",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/beh-na-korab-kdyne-2026/",
@@ -10774,24 +10702,6 @@
     "popis": ""
   },
   {
-    "nazov": "Běh Labským údolím",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-labskym-udolim-decin-xiv-dolni-zleb-decin-2026/",
-    "datum": "2026-10-31",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Děčín XIV-Dolní Žleb, Děčín",
-    "kraj": "Ústecký kraj",
-    "dlzka": "16 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Krospůlmaraton",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/krospulmaraton-sosnova-2026/",
@@ -10902,7 +10812,7 @@
   {
     "nazov": "Běh o rabštejnského kocoura",
     "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-o-rabstejnskeho-libina-2026/",
+    "url": "https://www.bezeckyzavod.cz/beh-o-rabstejnskeho-libina-2026-10/",
     "datum": "2026-10-31",
     "datum_do": "",
     "krajina": "Česká republika",
