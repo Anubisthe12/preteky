@@ -144,24 +144,6 @@
     "popis": ""
   },
   {
-    "nazov": "EXTRÉM MARATÓN Oščadnica",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/extrem-maraton-oscadnica-2027",
-    "datum": "2027-10-16",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Oščadnica",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Puma Třeboňský maraton, půlmaraton, 10 a 5 km",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/puma-trebonsky-maraton--2027/",
@@ -573,24 +555,6 @@
     "dlzka": "10 km",
     "povrch": "",
     "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kľačianska desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/klacianska-desiatka-2027",
-    "datum": "2027-09-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Kľačany",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "12:00",
     "organizator": "",
     "tagy": [
       "beh"
@@ -3025,25 +2989,6 @@
     "popis": ""
   },
   {
-    "nazov": "Pavúčikova hodinovka a 12 minútovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/pavucikova-hodinovka-a-12-minutovka-2027",
-    "datum": "2027-03-27",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Levice",
-    "kraj": "",
-    "dlzka": "hodinovka",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Jarní Silový Emil",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/jarni-silovy-emil-praha-letna-2027/",
@@ -3117,25 +3062,6 @@
   },
   {
     "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/nitrianska-24-hodinovka-memorial-alexandra-bogiho-2027",
-    "datum": "2027-03-21",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nitra",
-    "kraj": "",
-    "dlzka": "24-hodinovka",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/nitrianska-24-hodinovka-4/",
     "datum": "2027-03-20",
@@ -3204,25 +3130,6 @@
     "organizator": "",
     "tagy": [
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Nitrianska hodinovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/nitrianska-hodinovka-2027",
-    "datum": "2027-03-20",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nitra",
-    "kraj": "",
-    "dlzka": "hodinovka",
-    "povrch": "",
-    "start_cas": "15:15",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
     ],
     "popis": ""
   },
@@ -4040,20 +3947,38 @@
     "popis": ""
   },
   {
-    "nazov": "Kolárovský trojkráľový maratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kolarovsky-trojkralovy-maraton-a-polmaraton-2027",
-    "datum": "2027-01-09",
+    "nazov": "Trojkráľova šestka",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/trojkralova-sestka-17/",
+    "datum": "2027-01-06",
     "datum_do": "",
     "krajina": "Slovensko",
-    "mesto": "Kolárovo",
+    "mesto": "Trnava",
     "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
+    "dlzka": "6,5 km",
+    "povrch": "asfalt + terén",
+    "start_cas": "10:30 hod. - žiacke kategórie, 11:00 hod. - hlavná kategória",
+    "organizator": "Mesto Trnava, AK AŠK Slávia Trnava, Asociácia Stellantis Trnavské Rádio, Trnavský hlas",
     "tagy": [
-      "maraton"
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Trnavský novoročný beh – Memoriál Ladislava Kmeča",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/trnavsky-novorocny-beh-memorial-ladislava-kmeca-15/",
+    "datum": "2027-01-01",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Trnava",
+    "kraj": "",
+    "dlzka": "6 km, 1,5 km (0,6 km) deti ZŠ",
+    "povrch": "asfalt, dlažba",
+    "start_cas": "13:30 hod. deti, 14:00 hod. - 6 km",
+    "organizator": "Mesto Trnava, AK AŠK Slávia Trnava, Asociácia Stellantis Trnavské Rádio, Trnavský hlas",
+    "tagy": [
+      "beh"
     ],
     "popis": ""
   },
@@ -4598,6 +4523,24 @@
     "popis": ""
   },
   {
+    "nazov": "Zimný beh zdravia – Trnava",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/zimny-beh-zdravia-trnava-16/",
+    "datum": "2026-12-26",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Trnava",
+    "kraj": "",
+    "dlzka": "10 km, (3,9 km)",
+    "povrch": "asfalt + tráva",
+    "start_cas": "10:30 hod. deti, 11:00 hod. 10 km a 3,9 km",
+    "organizator": "Mesto Trnava, AK AŠK Slávia Trnava, Asociácia Stellantis Trnavské Rádio, Trnavský hlas",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Vánoční běh Třtice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/vanocni-beh-trtice-2026/",
@@ -4779,25 +4722,6 @@
     "popis": ""
   },
   {
-    "nazov": "Rajecká 12-minútovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/rajecka-12-minutovka-2026-2",
-    "datum": "2026-12-24",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Rajec",
-    "kraj": "",
-    "dlzka": "12-minútovka",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Zimný beh v Púchove",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/zimny-beh-v-puchove-7/",
@@ -4924,6 +4848,24 @@
     "popis": ""
   },
   {
+    "nazov": "Vianočný beh – Nová Duchonka",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/vianocny-beh-nova-duchonka/",
+    "datum": "2026-12-13",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Prašice",
+    "kraj": "",
+    "dlzka": "23, 4, 6, 8 a 13 km",
+    "povrch": "",
+    "start_cas": "11:00 hod. – 23 km, 12:00 hod. – 4, 6, 8 a 13 km",
+    "organizator": "ATC Nová Duchonka",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Trailová Závist",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/trailova-zavist-zvole-2026/",
@@ -5009,6 +4951,24 @@
     "povrch": "asfaltová cesta cez les, lúka",
     "start_cas": "11:00 hod.",
     "organizator": "Behači Bytča a okolie",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Krupanský Snow Run",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/krupansky-snow-run-2/",
+    "datum": "2026-12-12",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Dolná Krupá",
+    "kraj": "",
+    "dlzka": "6 km, 3 km NW",
+    "povrch": "asfalt",
+    "start_cas": "11:45 hod. - 3 km NW, 12:00 hod. - 6 km",
+    "organizator": "Bežecký klub Dolná Krupá & Obecný úrad Dolná Krupá",
     "tagy": [
       "beh"
     ],
@@ -5813,24 +5773,6 @@
     "popis": ""
   },
   {
-    "nazov": "Poľančanska päťka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/polancanska-patka-1-rocnik-2026",
-    "datum": "2026-11-29",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Sečovská Polianka",
-    "kraj": "",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "14:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Parádny nočný beh zima – Humenné",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/paradny-nocny-beh-humenne-4/",
@@ -6354,24 +6296,6 @@
     "organizator": "",
     "tagy": [
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "GoBala Pól&Maratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/gobala-polmaraton-2026",
-    "datum": "2026-11-21",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Komjatice",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
     ],
     "popis": ""
   },
@@ -8223,24 +8147,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sky maratón Partizán",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/sky-maraton-partizan-2026",
-    "datum": "2026-11-07",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Sklené",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "08:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Beh 17. novembra",
     "zdroj": "beh.sk",
     "url": "https://beh.sk/pretek/beh-17-novembra-12/",
@@ -8838,6 +8744,24 @@
     "popis": ""
   },
   {
+    "nazov": "Večerný beh parkom v Krivanoch",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/vecerny-beh-parkom-v-krivanoch/",
+    "datum": "2026-10-30",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Krivany",
+    "kraj": "",
+    "dlzka": "6 km",
+    "povrch": "asfalt",
+    "start_cas": "16:00 hod. štart detských behov, 17:00 hod. hlavné kategórie",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Ninja European Championship",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/ninja-european-championship-roudna-2026/",
@@ -8852,966 +8776,6 @@
     "organizator": "",
     "tagy": [
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Košickopolianska desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kosickopolianska-desiatka-2026",
-    "datum": "2026-10-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košická Polianka",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "13:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "LEVICKÁ DESIATKA",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/levicka-desiatka-2026",
-    "datum": "2026-10-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Levice",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "14:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Rajecká 12-minútovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/rajecka-12-minutovka-2026",
-    "datum": "2026-10-24",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Rajec",
-    "kraj": "",
-    "dlzka": "12-minútovka",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Ružínska desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/ruzinska-desiatka-2026",
-    "datum": "2026-10-24",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Jaklovce",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Žipovská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/zipovska-desiatka-2026",
-    "datum": "2026-10-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nižný Žipov",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "11:15",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Extrém maratón Oščadnica",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/extrem-maraton-oscadnica-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Oščadnica",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "STOP SHOP Liptovský Mikuláš Polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/stop-shop-polmaraton-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Liptovský Mikuláš",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Terchovský polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/terchovsky-polmaraton-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Terchová",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:17",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Šurianska desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/surianska-desiatka-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Šurany",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "13:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Vajnorský minimaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/vajnorsky-minimaraton-msr-v-5km-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "14:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Horský maratón bratstva - Jesenný polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/horsky-maraton-bratstva-jesenny-polmaraton-2026",
-    "datum": "2026-10-17",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bzince pod Javorinou",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Prešovská hodinovka na velodrome",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/presovska-hodinovka-na-tartane-2026",
-    "datum": "2026-10-15",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Prešov",
-    "kraj": "",
-    "dlzka": "hodinovka",
-    "povrch": "",
-    "start_cas": "17:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Medzinárodný maratón mieru",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/medzinarodny-maraton-mieru-2026",
-    "datum": "2026-10-04",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košice",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Zátopkova desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/zatopkova-desiatka-2026",
-    "datum": "2026-09-26",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Žilina",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Žilinský mestský polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/zilinsky-mestsky-polmaraton-12-rocnik-2026",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Žilina",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton",
-      "asfalt"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Drahovská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/drahovska-desiatka-2026",
-    "datum": "2026-09-20",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Drahovce",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "15:20",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Oktoberfest Run Nitra: Polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/oktoberfest-run-nitra-2026",
-    "datum": "2026-09-19",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nitra",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Dobšinská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/dobsinska-desiatka-2026",
-    "datum": "2026-09-19",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Dobšiná",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kľačianska desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/klacianska-desiatka-2026",
-    "datum": "2026-09-19",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Kľačany",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "16:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Malý pieninský maratón – memoriál Bohuša Ježíka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/maly-pieninsky-maraton-memorial-bohusa-jezika-2026",
-    "datum": "2026-09-15",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Červený Kláštor",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Krškanská krosová desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/krskanska-krosova-desiatka-2026",
-    "datum": "2026-09-12",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nitra",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "13:30",
-    "organizator": "",
-    "tagy": [
-      "kros"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Lugera Trenčiansky polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/lugera-trenciansky-polmaraton-2026",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Trenčín",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Ľubotická desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/12-rocnik-luboticka-desiatka-2026",
-    "datum": "2026-09-06",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Ľubotice",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "10:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Marathon Chopok",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/marathon-chopok-2026",
-    "datum": "2026-09-05",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Demänovská Dolina",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "07:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "6 hodinovka pod Šarišským hradom",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/6-hodinovka-pod-sarisskym-hradom-2026",
-    "datum": "2026-09-05",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Veľký Šariš",
-    "kraj": "",
-    "dlzka": "6-hodinovka",
-    "povrch": "",
-    "start_cas": "08:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Legendárna 5-ka, bežecké preteky maratónca Ondreja Pózmana (15:34,0)",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/legendarna-5-ka-bezecke-preteky-maratonca-ondreja-pozmana-15340-datum-2026",
-    "datum": "2026-09-05",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Krásnohorské Podhradie",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Goral Marathon",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/goral-marathon-2026",
-    "datum": "2026-08-30",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Čierne",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Garmin Prešov Half Marathon",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/garmin-presov-half-marathon-2026",
-    "datum": "2026-08-29",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Prešov",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Minimaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/minimaraton-2026",
-    "datum": "2026-08-23",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Banská Bystrica",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Domašská desiatka na Eve",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/15rocnik-domasska-desiatka-na-eve-2026",
-    "datum": "2026-08-23",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Vranov nad Topľou",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Čachtický polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/cachticky-polmaraton-2026",
-    "datum": "2026-08-22",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Čachtice",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:30",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Harhovská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/harhovska-desiatka-2026",
-    "datum": "2026-08-22",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Spišský Hrhov",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Jazerný maratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/jazerny-maraton-2026",
-    "datum": "2026-08-16",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košice",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Rajecký maratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/rajecky-maraton-2026",
-    "datum": "2026-08-08",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Rajec",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Malý Kavečianský maratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/maly-kaveciansky-maraton-2026",
-    "datum": "2026-08-02",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košice – Kavečany",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Klokočovská päťka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/klokocovska-patka-2026",
-    "datum": "2026-08-02",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Klokočov",
-    "kraj": "",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kozárovska hodinovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kozarovska-hodinovka-2026",
-    "datum": "2026-08-02",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Kozárovce",
-    "kraj": "",
-    "dlzka": "hodinovka",
-    "povrch": "",
-    "start_cas": "14:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Novozámocká večerná desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/novozamocka-vecerna-desiatka-2026",
-    "datum": "2026-08-01",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nové Zámky",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "20:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Trebatická desiatka – Memoriál Petra Minárecha",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/trebaticka-desiatka-mem-petra-minarecha-2026",
-    "datum": "2026-07-26",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Trebatice",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "10:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "eXtrém maratón Košice - Furča",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/extrem-maraton-kosice-furca-2026",
-    "datum": "2026-07-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košice",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "08:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Tatra Skymarathon",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/tatra-skymarathon-2026",
-    "datum": "2026-07-24",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Tvrdošín",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "07:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Bančanská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/bancanska-desiatka-2026",
-    "datum": "2026-07-19",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Banské",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Malý štrbský maratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/maly-strbsky-maraton-2026",
-    "datum": "2026-07-12",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Štrba",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:30",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Žaškovský minimaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/zaskovsky-minimaraton-2026",
-    "datum": "2026-07-05",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Žaškov",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "13:15",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Hámornícky polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/hamornicky-polmaraton-2026",
-    "datum": "2026-06-27",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Medzev",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Vranovská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/vranovska-desiatka-2026",
-    "datum": "2026-06-14",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Vranov nad Topľou",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "16:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kysucký maratón 2026",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kysucky-maraton-2026",
-    "datum": "2026-06-13",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Čadca",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "08:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Záhorácky maratón a polmaratón 2026",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/zahoracky-maraton-a-polmaraton-2026",
-    "datum": "2026-06-13",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Senica",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Pucovská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/pucovska-desiatka-2026",
-    "datum": "2026-06-13",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Pucov",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "3. ročník Bathory run 5/10km",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/3-rocnik-bathory-run-510km-2026",
-    "datum": "2026-06-07",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Sedliská",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "10:30",
-    "organizator": "",
-    "tagy": [
-      "beh",
-      "teren"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kvetoslavovská päťka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kvetoslavovska-patka-samorinska-bezecka-liga-2026",
-    "datum": "2026-06-07",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Kvetoslavov",
-    "kraj": "",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "10:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Starostovská desiatka 2026",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/starostovska-desiatka-2026",
-    "datum": "2026-06-06",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Hôrka",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "13:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Banskobystrický maratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/banskobystricky-maraton-2026",
-    "datum": "2026-06-06",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Banská Bystrica",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "17:30",
-    "organizator": "",
-    "tagy": [
-      "maraton"
     ],
     "popis": ""
   },
@@ -9835,499 +8799,6 @@
     "popis": ""
   },
   {
-    "nazov": "Dubnická hodinovka a 12-minútovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/dubnicka-hodinovka-a-12-minutovka-2026",
-    "datum": "2026-06-03",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Dubnica nad Váhom",
-    "kraj": "",
-    "dlzka": "hodinovka",
-    "povrch": "",
-    "start_cas": "18:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "MEA GRATI Ultramaratón Vďačnosti",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/mea-grati-ultramaraton-vdacnosti-2026",
-    "datum": "2026-05-30",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košice",
-    "kraj": "",
-    "dlzka": "ultramaratón",
-    "povrch": "",
-    "start_cas": "07:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "ultra"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Sri Chinmoy Self-Transcendence 6/12hod a 100km beh Šamorín",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/self-transcendence-612h-a-100km-beh-2026",
-    "datum": "2026-05-30",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Šamorín",
-    "kraj": "",
-    "dlzka": "100 km",
-    "povrch": "",
-    "start_cas": "07:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Salibský polmaratón – Hornosalibská desiatka + Trojka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/salibsky-polmaraton-hornosalibska-desiatka-trojka-2026",
-    "datum": "2026-05-30",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Horné Saliby",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Detský maratón Dunajská Streda",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/detsky-maraton-dunajska-streda-2026",
-    "datum": "2026-05-28",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Dunajská Streda",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Martinský offroad maratón a polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/martinsky-offroad-maraton-a-polmaraton-2026",
-    "datum": "2026-05-23",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Martin",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton",
-      "asfalt"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Medzinárodný Novohradský Maratón štafety",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/medzinarodny-novohradsky-maraton-stafety-2026",
-    "datum": "2026-05-23",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Lučenec",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Sninský trailový polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/sninsky-trailovy-polmaraton-2026",
-    "datum": "2026-05-23",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Snina",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "11:00",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Minimaratón primátora mesta Sobrance",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/minimaraton-primatora-mesta-sobrance-2026",
-    "datum": "2026-05-17",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Sobrance",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "15:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Minimaratón primátora mesta Sobrance Ing. Jána Sklára",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/minimaraton-sobrance-2026",
-    "datum": "2026-05-17",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Sobrance",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "15:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Horský maratón bratstva - Jarný maratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/horsky-maraton-bratstva-jarny-maraton-2026",
-    "datum": "2026-05-16",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bzince pod Javorinou",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "08:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Horský Maratón Martinky",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/sky-marathon-martinky-2026",
-    "datum": "2026-05-16",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Martin",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "08:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Severská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/severska-desiatka-kosice-2026",
-    "datum": "2026-05-15",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košice",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "16:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Krupanská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/krupanska-desiatka-2026",
-    "datum": "2026-05-09",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Dolná Krupá",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "12:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Košice Peace Half Marathon",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kosice-peace-half-marathon-2026",
-    "datum": "2026-05-09",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košice",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "15:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "SQUAREBIZZ 6 hodinovka a M-SR v behu na 50 km",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/ultra-maraton-na-6-hod-a-m-sr-v-behu-na-50-km-2026",
-    "datum": "2026-05-09",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava – Devínska Nová Ves",
-    "kraj": "",
-    "dlzka": "6-hodinovka",
-    "povrch": "",
-    "start_cas": "20:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Squarebizz Ultramaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/majstrovstva-slovenska-v-behu-na-50-km-2026",
-    "datum": "2026-05-09",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "ultramaratón",
-    "povrch": "",
-    "start_cas": "20:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "ultra"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Tlmačský polmaratón a desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/tlmacsky-polmaraton-2026",
-    "datum": "2026-05-02",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Tlmače",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Podvihorlatský maratón, Michalovský polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/podvihorlatsky-maraton-michalovsky-polmaraton-2026",
-    "datum": "2026-05-01",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Michalovce",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Primátorská desiatka Poprad",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/primatorska-desiatka-poprad-2026",
-    "datum": "2026-05-01",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Poprad",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "10:45",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Račiansky polmaratón, Račianska desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/raciansky-polmaraton-racianska-desiatka-2026",
-    "datum": "2026-04-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Jablonická desiatka - Memoriál Felixa Rímeša",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/jablonicka-desiatka-memorial-felixa-rimesa-2026",
-    "datum": "2026-04-25",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Jablonica",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "17:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Čadčianska desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/cadcianska-desiatka-2026",
-    "datum": "2026-04-19",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Čadca",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kajňanská desiatka – Memoriál Jána Osloviča",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kajnanska-desiatka-memorial-jana-oslovica-2026",
-    "datum": "2026-04-19",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Slovenská Kajňa",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "13:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Ultramaratón Košice – Miskolc",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/ultramaraton-miskolc-kosice-2026",
-    "datum": "2026-04-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Košice",
-    "kraj": "",
-    "dlzka": "ultramaratón",
-    "povrch": "",
-    "start_cas": "06:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "ultra"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Malkovský krosový polmaratón – Memoriál Vlada Dančišina",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/malkovsky-krosovy-polmaraton-memorial-vlada-dancisina-2026",
-    "datum": "2026-04-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Haniska pri Prešove",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Memoriál Vlada Dančišina – Malkovský krosový polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/memorial-vlada-dancisina-malkovsky-krosovy-polmaraton-2026",
-    "datum": "2026-04-18",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Haniska",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Kysucká desiatka 2026",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=4",
@@ -10342,244 +8813,6 @@
     "organizator": "",
     "tagy": [
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "ČSOB Bratislava Marathon",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/csob-bratislava-marathon-2026",
-    "datum": "2026-04-12",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "09:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kysucká desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kysucka-desiatka-2026",
-    "datum": "2026-04-12",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Kysucké Nové Mesto",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "10:30",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "ČSOB Bratislava Marathon – desiatka, minimaratón, deti, lezúni",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/csob-bratislava-marathon-desiatka-minimaraton-deti-lezuni-2026",
-    "datum": "2026-04-11",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "14:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Pavúčik hodinovka a 12 minútovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/pavucik-hodinovka-a-12-minutovka-2026",
-    "datum": "2026-04-04",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Levice",
-    "kraj": "",
-    "dlzka": "hodinovka",
-    "povrch": "",
-    "start_cas": "10:30",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Pavúčiková hodinovka a 12 minútovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/pavucikova-hodinovka-a-12-minutovka-2026",
-    "datum": "2026-04-04",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Levice",
-    "kraj": "",
-    "dlzka": "hodinovka",
-    "povrch": "",
-    "start_cas": "10:30",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/nitrianska-24-hodinovka-2026",
-    "datum": "2026-03-22",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nitra",
-    "kraj": "",
-    "dlzka": "24-hodinovka",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Čečehovský polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/cecehovsky-polmaraton-2026",
-    "datum": "2026-03-22",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Čečehov",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "13:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Nitrianska hodinovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/nitrianska-hodinovka-2026",
-    "datum": "2026-03-21",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nitra",
-    "kraj": "",
-    "dlzka": "hodinovka",
-    "povrch": "",
-    "start_cas": "15:00",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Laborecká desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/laborecka-desiatka-2026",
-    "datum": "2026-03-14",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Strážske",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "13:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Laborecká desiatka – Memoriál Jozefa Lipovského",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/20rocnik-medzinarodneho-cestneho-behu-laborecka-desiatka-memorial-jozefa-lipovskeho-2026",
-    "datum": "2026-03-14",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Strážske",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "13:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Bzenovská Päťka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/1rocnik-pretekov-v-atletickej-chodzi-bzenovska-patka-2026",
-    "datum": "2026-03-14",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Bzenov",
-    "kraj": "",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "14:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Majcichovská desiatka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/majcichovska-desiatka-2026",
-    "datum": "2026-03-08",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Majcichov",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "12:00",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Kolárovský trojkráľový maratón a polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/kolarovsky-trojkralovy-maraton-a-polmaraton-2026",
-    "datum": "2026-01-10",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Kolárovo",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "10:00",
-    "organizator": "",
-    "tagy": [
-      "maraton"
     ],
     "popis": ""
   },
@@ -11114,6 +9347,1877 @@
     "organizator": "",
     "tagy": [
       "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sky maratón Partizán",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/sky-maraton-partizan-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Sklené",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kováčovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kovacovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kováčová",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Krásňanská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/krasnanska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Krásno nad Kysucou",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Šutrovský bežecký maratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/sutrovsky-bezecky-maraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Ivanka pri Dunaji",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Ferčekovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/fercekovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Ferčekovce",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Hermanovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/hermanovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Hermanovce nad Topľou",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "GoBala Pól&Maratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/gobala-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Komjatice",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Poľančanska päťka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/polancanska-patka-1-rocnik-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Sečovská Polianka",
+    "kraj": "",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Rajecká 12-minútovka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/rajecka-12-minutovka-2026-2",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Rajec",
+    "kraj": "",
+    "dlzka": "12-minútovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Horovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/horovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Horovce",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kolárovský trojkráľový maratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kolarovsky-trojkralovy-maraton-a-polmaraton-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kolárovo",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Majcichovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/majcichovska-desiatka-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Majcichov",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Nitrianska hodinovka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/nitrianska-hodinovka-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nitra",
+    "kraj": "",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/nitrianska-24-hodinovka-memorial-alexandra-bogiho-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nitra",
+    "kraj": "",
+    "dlzka": "24-hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Pavúčikova hodinovka a 12 minútovka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/pavucikova-hodinovka-a-12-minutovka-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Levice",
+    "kraj": "",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "ČSOB Bratislava Marathon – desiatka, minimaratón, deti, lezúni",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/csob-bratislava-marathon-desiatka-minimaraton-deti-lezuni-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "ČSOB Bratislava Marathon",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/csob-bratislava-marathon-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Bančanská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/32-rocnik-bancanskej-desiatky-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Banské",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kľačianska desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/klacianska-desiatka-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kľačany",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "EXTRÉM MARATÓN Oščadnica",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/extrem-maraton-oscadnica-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Oščadnica",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Novozámocká večerná desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/novozamocka-vecerna-desiatka-nove-zamky-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nové Zámky",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Košickopolianska desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kosickopolianska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Košická Polianka",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "LEVICKÁ DESIATKA",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/levicka-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Levice",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Ružínska desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/ruzinska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Jaklovce",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Žipovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/zipovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nižný Žipov",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "STOP SHOP Liptovský Mikuláš Polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/stop-shop-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Liptovský Mikuláš",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Terchovský polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/terchovsky-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Terchová",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Šurianska desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/surianska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Šurany",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Vajnorský minimaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/vajnorsky-minimaraton-msr-v-5km-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Horský maratón bratstva - Jesenný polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/horsky-maraton-bratstva-jesenny-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bzince pod Javorinou",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Prešovská hodinovka na velodrome",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/presovska-hodinovka-na-tartane-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Prešov",
+    "kraj": "",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Medzinárodný maratón mieru",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/medzinarodny-maraton-mieru-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Košice",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Zátopkova desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/zatopkova-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Žilina",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Žilinský mestský polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/zilinsky-mestsky-polmaraton-12-rocnik-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Žilina",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton",
+      "asfalt"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Drahovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/drahovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Drahovce",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Oktoberfest Run Nitra: Polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/oktoberfest-run-nitra-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nitra",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Dobšinská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/dobsinska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Dobšiná",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Malý pieninský maratón – memoriál Bohuša Ježíka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/maly-pieninsky-maraton-memorial-bohusa-jezika-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Červený Kláštor",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Krškanská krosová desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/krskanska-krosova-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nitra",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "kros"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Lugera Trenčiansky polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/lugera-trenciansky-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Trenčín",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Ľubotická desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/12-rocnik-luboticka-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Ľubotice",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Marathon Chopok",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/marathon-chopok-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Demänovská Dolina",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "6 hodinovka pod Šarišským hradom",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/6-hodinovka-pod-sarisskym-hradom-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Veľký Šariš",
+    "kraj": "",
+    "dlzka": "6-hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Legendárna 5-ka, bežecké preteky maratónca Ondreja Pózmana (15:34,0)",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/legendarna-5-ka-bezecke-preteky-maratonca-ondreja-pozmana-15340-datum-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Krásnohorské Podhradie",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Goral Marathon",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/goral-marathon-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Čierne",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Garmin Prešov Half Marathon",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/garmin-presov-half-marathon-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Prešov",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Minimaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/minimaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Banská Bystrica",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Domašská desiatka na Eve",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/15rocnik-domasska-desiatka-na-eve-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Vranov nad Topľou",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Čachtický polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/cachticky-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Čachtice",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Harhovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/harhovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Spišský Hrhov",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Jazerný maratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/jazerny-maraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Košice",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Rajecký maratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/rajecky-maraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Rajec",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Malý Kavečianský maratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/maly-kaveciansky-maraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Košice – Kavečany",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Klokočovská päťka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/klokocovska-patka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Klokočov",
+    "kraj": "",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kozárovska hodinovka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kozarovska-hodinovka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kozárovce",
+    "kraj": "",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Trebatická desiatka – Memoriál Petra Minárecha",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/trebaticka-desiatka-mem-petra-minarecha-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Trebatice",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "eXtrém maratón Košice - Furča",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/extrem-maraton-kosice-furca-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Košice",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Tatra Skymarathon",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/tatra-skymarathon-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Tvrdošín",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Malý štrbský maratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/maly-strbsky-maraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Štrba",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Žaškovský minimaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/zaskovsky-minimaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Žaškov",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Hámornícky polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/hamornicky-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Medzev",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Vranovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/vranovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Vranov nad Topľou",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kysucký maratón 2026",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kysucky-maraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Čadca",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Záhorácky maratón a polmaratón 2026",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/zahoracky-maraton-a-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Senica",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Pucovská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/pucovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Pucov",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "3. ročník Bathory run 5/10km",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/3-rocnik-bathory-run-510km-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Sedliská",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh",
+      "teren"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kvetoslavovská päťka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kvetoslavovska-patka-samorinska-bezecka-liga-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kvetoslavov",
+    "kraj": "",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Starostovská desiatka 2026",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/starostovska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Hôrka",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Banskobystrický maratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/banskobystricky-maraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Banská Bystrica",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Dubnická hodinovka a 12-minútovka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/dubnicka-hodinovka-a-12-minutovka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Dubnica nad Váhom",
+    "kraj": "",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "MEA GRATI Ultramaratón Vďačnosti",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/mea-grati-ultramaraton-vdacnosti-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Košice",
+    "kraj": "",
+    "dlzka": "ultramaratón",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "ultra"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sri Chinmoy Self-Transcendence 6/12hod a 100km beh Šamorín",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/self-transcendence-612h-a-100km-beh-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Šamorín",
+    "kraj": "",
+    "dlzka": "100 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Salibský polmaratón – Hornosalibská desiatka + Trojka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/salibsky-polmaraton-hornosalibska-desiatka-trojka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Horné Saliby",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Detský maratón Dunajská Streda",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/detsky-maraton-dunajska-streda-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Dunajská Streda",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Martinský offroad maratón a polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/martinsky-offroad-maraton-a-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Martin",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton",
+      "asfalt"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Medzinárodný Novohradský Maratón štafety",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/medzinarodny-novohradsky-maraton-stafety-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Lučenec",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Sninský trailový polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/sninsky-trailovy-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Snina",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "ultra",
+      "teren"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Minimaratón primátora mesta Sobrance",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/minimaraton-primatora-mesta-sobrance-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Sobrance",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Minimaratón primátora mesta Sobrance Ing. Jána Sklára",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/minimaraton-sobrance-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Sobrance",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Horský maratón bratstva - Jarný maratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/horsky-maraton-bratstva-jarny-maraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bzince pod Javorinou",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Horský Maratón Martinky",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/sky-marathon-martinky-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Martin",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Severská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/severska-desiatka-kosice-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Košice",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Krupanská desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/krupanska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Dolná Krupá",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Košice Peace Half Marathon",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kosice-peace-half-marathon-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Košice",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "SQUAREBIZZ 6 hodinovka a M-SR v behu na 50 km",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/ultra-maraton-na-6-hod-a-m-sr-v-behu-na-50-km-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava – Devínska Nová Ves",
+    "kraj": "",
+    "dlzka": "6-hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Squarebizz Ultramaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/majstrovstva-slovenska-v-behu-na-50-km-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "ultramaratón",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "ultra"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Tlmačský polmaratón a desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/tlmacsky-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Tlmače",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Podvihorlatský maratón, Michalovský polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/podvihorlatsky-maraton-michalovsky-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Michalovce",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Primátorská desiatka Poprad",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/primatorska-desiatka-poprad-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Poprad",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Račiansky polmaratón, Račianska desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/raciansky-polmaraton-racianska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Jablonická desiatka - Memoriál Felixa Rímeša",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/jablonicka-desiatka-memorial-felixa-rimesa-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Jablonica",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Čadčianska desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/cadcianska-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Čadca",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kajňanská desiatka – Memoriál Jána Osloviča",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kajnanska-desiatka-memorial-jana-oslovica-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Slovenská Kajňa",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Ultramaratón Košice – Miskolc",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/ultramaraton-miskolc-kosice-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Košice",
+    "kraj": "",
+    "dlzka": "ultramaratón",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "ultra"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Malkovský krosový polmaratón – Memoriál Vlada Dančišina",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/malkovsky-krosovy-polmaraton-memorial-vlada-dancisina-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Haniska pri Prešove",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Memoriál Vlada Dančišina – Malkovský krosový polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/memorial-vlada-dancisina-malkovsky-krosovy-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Haniska",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kysucká desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kysucka-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kysucké Nové Mesto",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Pavúčik hodinovka a 12 minútovka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/pavucik-hodinovka-a-12-minutovka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Levice",
+    "kraj": "",
+    "dlzka": "hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Čečehovský polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/cecehovsky-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Čečehov",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Laborecká desiatka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/laborecka-desiatka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Strážske",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Laborecká desiatka – Memoriál Jozefa Lipovského",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/20rocnik-medzinarodneho-cestneho-behu-laborecka-desiatka-memorial-jozefa-lipovskeho-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Strážske",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Bzenovská Päťka",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/1rocnik-pretekov-v-atletickej-chodzi-bzenovska-patka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bzenov",
+    "kraj": "",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Kolárovský trojkráľový maratón a polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/kolarovsky-trojkralovy-maraton-a-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kolárovo",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
     ],
     "popis": ""
   }

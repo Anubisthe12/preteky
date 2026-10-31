@@ -191,6 +191,34 @@
     }
   },
   {
+    "datum": "2027-01-06",
+    "url": "https://beh.sk/pretek/trojkralova-sestka-17/",
+    "nazov": "Trojkráľova šestka",
+    "mesto": "Trnava",
+    "info": {
+      "Dĺžka trate": "6,5 km",
+      "Povrch": "asfalt + terén",
+      "Štart": "10:30 hod. - žiacke kategórie, 11:00 hod. - hlavná kategória",
+      "Miesto": "Trnava, Športový areál AŠK Slávia Trnava",
+      "Organizátor": "Mesto Trnava, AK AŠK Slávia Trnava, Asociácia Stellantis Trnavské Rádio, Trnavský hlas",
+      "Informácie": "e-mail: asktt@asktt.sk"
+    }
+  },
+  {
+    "datum": "2027-01-01",
+    "url": "https://beh.sk/pretek/trnavsky-novorocny-beh-memorial-ladislava-kmeca-15/",
+    "nazov": "Trnavský novoročný beh – Memoriál Ladislava Kmeča",
+    "mesto": "Trnava",
+    "info": {
+      "Dĺžka trate": "6 000 m, 1,5 km (0,6 km) deti ZŠ",
+      "Povrch": "asfalt, dlažba",
+      "Štart": "13:30 hod. deti, 14:00 hod. - 6 km",
+      "Miesto": "Trnava, Trojičné námestie",
+      "Organizátor": "Mesto Trnava, AK AŠK Slávia Trnava, Asociácia Stellantis Trnavské Rádio, Trnavský hlas",
+      "Informácie": "e-mail: asktt@asktt.sk"
+    }
+  },
+  {
     "datum": "2026-12-31",
     "url": "https://beh.sk/pretek/horovska-desiatka-17/",
     "nazov": "Horovská desiatka",
@@ -329,6 +357,20 @@
     }
   },
   {
+    "datum": "2026-12-26",
+    "url": "https://beh.sk/pretek/zimny-beh-zdravia-trnava-16/",
+    "nazov": "Zimný beh zdravia – Trnava",
+    "mesto": "Trnava",
+    "info": {
+      "Dĺžka trate": "10 km, (3,9 km)",
+      "Povrch": "asfalt + tráva",
+      "Štart": "10:30 hod. deti, 11:00 hod. 10 km a 3,9 km",
+      "Miesto": "Trnava, Športový areál AŠK Slávia Trnava",
+      "Organizátor": "Mesto Trnava, AK AŠK Slávia Trnava, Asociácia Stellantis Trnavské Rádio, Trnavský hlas",
+      "Informácie": "e-mail: asktt@asktt.sk"
+    }
+  },
+  {
     "datum": "2026-12-24",
     "url": "https://beh.sk/pretek/vianocny-beh-prechadzka-7/",
     "nazov": "Vianočný beh – Spoznaj Trebišov behom",
@@ -356,6 +398,18 @@
     }
   },
   {
+    "datum": "2026-12-13",
+    "url": "https://beh.sk/pretek/vianocny-beh-nova-duchonka/",
+    "nazov": "Vianočný beh – Nová Duchonka",
+    "mesto": "Prašice",
+    "info": {
+      "Dĺžka trate": "23, 4, 6, 8 a 13 km",
+      "Štart": "11:00 hod. – 23 km, 12:00 hod. – 4, 6, 8 a 13 km",
+      "Miesto": "Prašice, ATC Nová Duchonka",
+      "Organizátor": "ATC Nová Duchonka"
+    }
+  },
+  {
     "datum": "2026-12-12",
     "url": "https://beh.sk/pretek/mikulassky-beh-na-tancovu-3/",
     "nazov": "Mikulášsky beh na Tancovú",
@@ -367,6 +421,20 @@
       "Miesto": "Bytča, park pri Kaplnke",
       "Organizátor": "Behači Bytča a okolie",
       "Informácie": "Bc. Slavomíra Lokajová, tel.: 0911 138 553  Martin Mahút, tel.: 0911 252 343  e-mail: behacibo@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-12-12",
+    "url": "https://beh.sk/pretek/krupansky-snow-run-2/",
+    "nazov": "Krupanský Snow Run",
+    "mesto": "Dolná Krupá",
+    "info": {
+      "Dĺžka trate": "6 km, 3 km NW",
+      "Povrch": "asfalt",
+      "Štart": "11:45 hod. - 3 km NW, 12:00 hod. - 6 km",
+      "Miesto": "Dolná Krupá, Starý mlyn",
+      "Organizátor": "Bežecký klub Dolná Krupá & Obecný úrad Dolná Krupá",
+      "Informácie": "p. Drahomír Horváth, tel.: +421 944 692 719, e-mail: bezeckyklub.dolnakrupa@gmail.com"
     }
   },
   {
@@ -960,6 +1028,18 @@
       "Miesto": "Nové Zámky, Hlavné námestie",
       "Organizátor": "Spartan Training Group Nové Zámky, pod záštitou primátora mesta Nové Zámky",
       "Informácie": "Mgr. Marián Rybár, tel.: 0903 131 624, e-mail: mgr.marian.rybar@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-10-30",
+    "url": "https://beh.sk/pretek/vecerny-beh-parkom-v-krivanoch/",
+    "nazov": "Večerný beh parkom v Krivanoch",
+    "mesto": "Krivany",
+    "info": {
+      "Dĺžka trate": "6 km",
+      "Povrch": "asfalt",
+      "Štart": "16:00 hod. štart detských behov, 17:00 hod. hlavné kategórie",
+      "Miesto": "Krivany, Krivany"
     }
   }
 ]
