@@ -617,6 +617,19 @@
     }
   },
   {
+    "datum": "2026-11-20",
+    "url": "https://beh.sk/pretek/katarinsky-vecerny-beh/",
+    "nazov": "Katarínsky večerný beh",
+    "mesto": "Dolný Kubín",
+    "info": {
+      "Dĺžka trate": "9 km",
+      "Štart": "18:00 hod.",
+      "Miesto": "Dolný Kubín, Námestie Jána Vojtaššáka",
+      "Organizátor": "Mesto Dolný Kubín , Bežecký klub Dolný Kubín , OK ORAVA",
+      "Informácie": "Ing. Štefan Belvončík, tel.: 0915 847 514, e-mail: stefan.belvoncik1@gmail.com  Miroslav Hrabal, tel.: 0908 499 183, e-mail: runclubdk@gmail.com  Ing. Michal Strežo, tel.: 0904 075 261"
+    }
+  },
+  {
     "datum": "2026-11-15",
     "url": "https://beh.sk/pretek/beh-jastrabskymi-vrskami-memorialujana-dobaka-3/",
     "nazov": "Beh jastrabskými vŕškami – 3. ročnik memoriálu Jána Dobáka",
@@ -824,6 +837,20 @@
     }
   },
   {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/svatomartinsky-beh-pod-straznym-vrchom-vo-vinici/",
+    "nazov": "Svätomartinsky beh pod Strážnym vrchom vo Vinici",
+    "mesto": "Vinica",
+    "info": {
+      "Dĺžka trate": "11 km, 5 km",
+      "Povrch": "tráva, lúka, asfalt, betónová cesta, pomedzi vinohrady, poľné a lesné cesty",
+      "Štart": "10:00 hod. – 11 km, 10:10 hod. –  5 km a 5 km NW",
+      "Miesto": "Vinica, futbalové ihrisko",
+      "Organizátor": "Obec Vinica v spolupráci s miestnymi civilnými organizáciami a GRAND centrum o. z.",
+      "Informácie": "Ivan György, tel.: 0907 765 097"
+    }
+  },
+  {
     "datum": "2026-11-13",
     "url": "https://beh.sk/pretek/vecerny-beh-obcou-velke-uherce-10/",
     "nazov": "Večerný beh obcou Veľké Uherce",
@@ -986,60 +1013,6 @@
       "Miesto": "Žilina, Veľký Diel – cca 150 m od telocvične T1",
       "Organizátor": "Ústav telesnej výchovy Žilinskej univerzity, AC UNIZA, Slovenská asociácia univerzitného športu",
       "Informácie": "PaedDr. Ľudmila Malachová, Ústav telesnej výchovy ŽU Univerzitná 8215/1, 010 26 Žilina, tel.: 041/513 52 51, e-mail: malachova@uniza.sk"
-    }
-  },
-  {
-    "datum": "2026-10-31",
-    "url": "https://beh.sk/pretek/sninsky-cross-5/",
-    "nazov": "Sninsky Cross",
-    "mesto": "Snina",
-    "info": {
-      "Dĺžka trate": "11 km, 5,4 km",
-      "Povrch": "asfalt / lesné cesty",
-      "Štart": "11:00 hod. hl. kat., 10:00 hod. deri",
-      "Miesto": "Snina, Amfiteáter RO Rybníky",
-      "Organizátor": "BehajmeSpolu o.z. spolu s Mestom Snina a mestským kultúrnym a osvetovým strediskom",
-      "Informácie": "tel.: 0940 643 925,  e-mail: karla.patrik865@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-31",
-    "url": "https://beh.sk/pretek/majcichovsky-maraton-8/",
-    "nazov": "Majcichovský maratón",
-    "mesto": "Majcichov",
-    "info": {
-      "Dĺžka trate": "Maratón, Polmaratón, 10 km",
-      "Povrch": "70% trate je asfalt, 30% trate je poľná cesta",
-      "Štart": "10:00 hod.",
-      "Miesto": "Majcichov, od ZŠ J. Palárika Majcichov",
-      "Organizátor": "Cyril Bohunický",
-      "Informácie": "Cyril Bohunický, tel.: 0915 654 547, e-mail: cyril.bohunicky63@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-30",
-    "url": "https://beh.sk/pretek/novozamocka-vecerna-desiatka-2/",
-    "nazov": "Novozámocká večerná desiatka",
-    "mesto": "Nové Zámky",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt",
-      "Štart": "17:30 hod. – Štart detských behov, 18:30 hod. – Štart hlavných behov (5 km a 10 km)",
-      "Miesto": "Nové Zámky, Hlavné námestie",
-      "Organizátor": "Spartan Training Group Nové Zámky, pod záštitou primátora mesta Nové Zámky",
-      "Informácie": "Mgr. Marián Rybár, tel.: 0903 131 624, e-mail: mgr.marian.rybar@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-10-30",
-    "url": "https://beh.sk/pretek/vecerny-beh-parkom-v-krivanoch/",
-    "nazov": "Večerný beh parkom v Krivanoch",
-    "mesto": "Krivany",
-    "info": {
-      "Dĺžka trate": "6 km",
-      "Povrch": "asfalt",
-      "Štart": "16:00 hod. štart detských behov, 17:00 hod. hlavné kategórie",
-      "Miesto": "Krivany, Krivany"
     }
   }
 ]
