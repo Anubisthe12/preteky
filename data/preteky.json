@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2027-10-24",
+    "url": "https://beh.sk/pretek/raciansky-kros-jesen-11/",
+    "nazov": "Račiansky kros – jeseň",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "16 km (prev. 503 m), 9,5 km (prev. 335 m)",
+      "Povrch": "80% lesne cesticky a 20% asfalt",
+      "Štart": "16 km o 10:00 hod. a na 9,5 km o 10:10 hod., 10:20 hod. deti",
+      "Miesto": "Bratislava, Knižková dolina, Bratislava – Rača (amfiteáter)",
+      "Organizátor": "PERUN o.z. v spolupráci s MČ Bratislava-Rača",
+      "Informácie": "Rasťo Uličný, tel.: 0907 397 379, e-mail: racianskykros@gmail.com"
+    }
+  },
+  {
     "datum": "2027-09-04",
     "url": "https://beh.sk/pretek/beh-novoveskou-hutou-19/",
     "nazov": "Beh Novoveskou Hutou",
@@ -39,6 +53,20 @@
       "Miesto": "Banské okr. Vranov nad Topľou, pred Kultúrnym domom",
       "Organizátor": "Športový klub Banské, Obecný úrad Banské",
       "Informácie": "Bc. Michal Ivančo, 094 12 Banské 324, tel.: 0905 654 004, e-mail: michalivanco@gmail.com"
+    }
+  },
+  {
+    "datum": "2027-06-13",
+    "url": "https://beh.sk/pretek/raciansky-kros-leto-10/",
+    "nazov": "Račiansky kros – leto",
+    "mesto": "Bratislava",
+    "info": {
+      "Dĺžka trate": "16 km / 503 m prev., 9,5 km / 335 m prevysenie",
+      "Povrch": "80% lesne cestičky a 20% asfalt",
+      "Štart": "16 km o 10:00 hod. a na 9,5 km o 10:10 hod., detské behy od 10:20 hod.",
+      "Miesto": "Bratislava, Knižková dolina, Bratislava – Rača (nad amfiteátrom)",
+      "Organizátor": "PERUN o.z. v spolupráci s MČ Bratislava-Rača",
+      "Informácie": "Rasťo Uličný, tel.: 0907 397 379, e-mail: racianskykros@gmail.com"
     }
   },
   {
@@ -160,6 +188,20 @@
       "Miesto": "Majcichov, okr. Trnava, pred obecným úradom",
       "Organizátor": "Obec Majcichov, Základná škola Jána Palárika v Majcichove, Materská škola v Majcichove, Obecný futbalový klub Majcichov, Slovenský Červený kríž v Majcichove, Slovenský bežecký spolok",
       "Informácie": "Obecný úrad 606, 919 22 Majcichov, okres Trnava, tel.: 0907 407 804 e-mail:   starosta@majcichov.sk  Milan Kraic, tel.: 0903 243 206"
+    }
+  },
+  {
+    "datum": "2027-02-07",
+    "url": "https://beh.sk/pretek/raciansky-kros-zima-10/",
+    "nazov": "Račiansky kros – zima",
+    "mesto": "Bratislava - Rača",
+    "info": {
+      "Dĺžka trate": "16 km prev. 503 m; 9 km prev. 335 m",
+      "Povrch": "80% lesne cesticky a 20% asfalt",
+      "Štart": "16 km o 10:00 hod.,  10:15 hod. - 9,5 km,  10:20 hod, detské behy od 10:20",
+      "Miesto": "Bratislava - Rača, amfiteáter, Knižková dolina",
+      "Organizátor": "PERUN o.z.",
+      "Informácie": "Rasťo Uličný, tel.: 0907 397 379, e-mail: racianskykros@gmail.com"
     }
   },
   {
@@ -321,9 +363,9 @@
     "nazov": "Vianočný beh mesta Lučenec",
     "mesto": "Lučenec",
     "info": {
-      "Dĺžka trate": "20 km, 10 km, 5 km, 3 km, 200 m deti",
+      "Dĺžka trate": "20 km, 10 km, 5 km, 1,5 km, 200 m deti",
       "Povrch": "asfalt",
-      "Štart": "9:30 hod. deti, 10:00 hod. hromadný štart pretekov na 20km, 10km, 10:05 hod. 5km; 10:06 hod. Nordic Walking, 10:10 hod. štart Minibehu na 3km",
+      "Štart": "9:30 hod. deti, 10:00 hod. hromadný štart pretekov na 20 km, 10 km, 10:05 hod. Minibeh a Nordic Walking, 10:20 hod. Beh Vladimíra Findru na 5 km",
       "Miesto": "Lučenec, Námestie Republiky (pred OC Galéria LC)",
       "Organizátor": "Mesto Lučenec, OZ Novohrad Lučenec, Marathon Banska Bystrica, s.r.o",
       "Informácie": "Marian Duzbaba, tel.: 0907 146 181"
@@ -407,6 +449,20 @@
       "Štart": "11:00 hod. – 23 km, 12:00 hod. – 4, 6, 8 a 13 km",
       "Miesto": "Prašice, ATC Nová Duchonka",
       "Organizátor": "ATC Nová Duchonka"
+    }
+  },
+  {
+    "datum": "2026-12-13",
+    "url": "https://beh.sk/pretek/mikulassky-kros-pezinok-11/",
+    "nazov": "Murat Mikulášsky kros",
+    "mesto": "Pezinok",
+    "info": {
+      "Dĺžka trate": "14 km - prevýšenie: 354 m; 9,4 km, prevýšenie 225 m",
+      "Povrch": "97% lesný povrch",
+      "Štart": "11:00 hod. hlavný beh, 10:50 hod. beh so psom",
+      "Miesto": "Pezinok, Vitamín Pub Gallery",
+      "Organizátor": "LucPromotion, s.r.o.",
+      "Informácie": "Mgr. Lucia Bizoňová, tel.: +421 905 601 749, e-mail: info@behpezinkom.com"
     }
   },
   {
@@ -839,7 +895,7 @@
   {
     "datum": "2026-11-14",
     "url": "https://beh.sk/pretek/svatomartinsky-beh-pod-straznym-vrchom-vo-vinici/",
-    "nazov": "Svätomartinsky beh pod Strážnym vrchom vo Vinici",
+    "nazov": "Svätomartinský beh pod Strážnym vrchom vo Vinici",
     "mesto": "Vinica",
     "info": {
       "Dĺžka trate": "11 km, 5 km",
