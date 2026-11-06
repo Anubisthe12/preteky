@@ -1666,6 +1666,24 @@
     "popis": ""
   },
   {
+    "nazov": "Olympijský běh – Čelákovice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-celakovice-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Čelákovice",
+    "kraj": "Středočeský kraj",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Olympijský běh – Horoměřice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-horomerice-2027/",
@@ -1727,24 +1745,6 @@
     "datum_do": "",
     "krajina": "Česká republika",
     "mesto": "Mělník",
-    "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Olympijský běh – Čelákovice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-celakovice-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Čelákovice",
     "kraj": "Středočeský kraj",
     "dlzka": "10 km",
     "povrch": "",
@@ -1846,6 +1846,24 @@
     "popis": ""
   },
   {
+    "nazov": "Olympijský běh – Ústí nad Labem",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-usti-usti-nad-labem-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Ústí nad Labem",
+    "kraj": "Ústecký kraj",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Olympijský běh – Žatec",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-zatec-2027/",
@@ -1909,24 +1927,6 @@
     "mesto": "Dobroměřice",
     "kraj": "Ústecký kraj",
     "dlzka": "4 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Olympijský běh – Ústí nad Labem",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-usti-usti-nad-labem-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Ústí nad Labem",
-    "kraj": "Ústecký kraj",
-    "dlzka": "10 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2784,24 +2784,6 @@
     "popis": ""
   },
   {
-    "nazov": "Konopišťský miniželezňák",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/konopistsky-minizeleznak-konopiste-2027/",
-    "datum": "2027-05-29",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Konopiště",
-    "kraj": "Středočeský kraj",
-    "dlzka": "4.2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Berounská 10",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/berounska-10-2027/",
@@ -2811,6 +2793,24 @@
     "mesto": "Beroun",
     "kraj": "Středočeský kraj",
     "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Konopišťský miniželezňák",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/konopistsky-minizeleznak-konopiste-2027/",
+    "datum": "2027-05-29",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Konopiště",
+    "kraj": "Středočeský kraj",
+    "dlzka": "4.2 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -3528,24 +3528,6 @@
     "popis": ""
   },
   {
-    "nazov": "Vltava Run TAM A ZPÁTKY",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/vltava-run-tam-a-stachy-2027/",
-    "datum": "2027-05-08",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Stachy",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "243 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Vltava Run",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/vltava-run-stachy-2027/",
@@ -3555,6 +3537,24 @@
     "mesto": "Stachy",
     "kraj": "Jihočeský kraj",
     "dlzka": "375 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Vltava Run TAM A ZPÁTKY",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/vltava-run-tam-a-stachy-2027/",
+    "datum": "2027-05-08",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Stachy",
+    "kraj": "Jihočeský kraj",
+    "dlzka": "243 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -3954,6 +3954,24 @@
     "mesto": "Ždánice",
     "kraj": "Jihomoravský kraj",
     "dlzka": "12 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Charitativní běh Ždánice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/charitativni-beh-zdanice-2027/",
+    "datum": "2027-04-24",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Ždánice",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "13 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -5704,6 +5722,24 @@
     "popis": ""
   },
   {
+    "nazov": "Zimná bežecká séria 4. kolo",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/zimna-bezecka-seria-4-kolo-3/",
+    "datum": "2027-02-06",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Vysoké Tatry, Tatranská Polianka",
+    "kraj": "",
+    "dlzka": "cca. 6,7 km s prevýšením cca 0,67 km",
+    "povrch": "terén, v závislosti od počasia môže byť sneh/ľad",
+    "start_cas": "10:00 hod.",
+    "organizator": "Sport Tatry o.z. v spolupráci s OOCR Región Vysoké Tatry",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "3. kolo TIPOS pohár biatlone 2026/2027",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2027&SelectedMonth=2",
@@ -6267,6 +6303,24 @@
     "organizator": "Maraton Klub Kolárovo - Maraton Klub Gúta",
     "tagy": [
       "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Zimná bežecká séria 3. kolo",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/zimna-bezecka-seria-3-kolo-3/",
+    "datum": "2027-01-09",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Vysoké Tatry, Starý Smokovec",
+    "kraj": "",
+    "dlzka": "ženy - cca. 5 km, muži cca. 7 km",
+    "povrch": "terén, v závislosti od počasia môže byť sneh/ľad",
+    "start_cas": "10:00  hod.",
+    "organizator": "Sport Tatry o.z. v spolupráci s OOCR Región Vysoké Tatry",
+    "tagy": [
+      "beh"
     ],
     "popis": ""
   },
@@ -8394,6 +8448,24 @@
     "popis": ""
   },
   {
+    "nazov": "Zimná bežecká séria 2. kolo",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/zimna-bezecka-seria-2-kolo-7/",
+    "datum": "2026-12-02",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nová Polianka",
+    "kraj": "",
+    "dlzka": "ženy - cca. 5 km, muži cca. 7 km",
+    "povrch": "terén, v závislosti od počasia môže byť sneh/ľad",
+    "start_cas": "10:00 hod.",
+    "organizator": "Sport Tatry o.z. v spolupráci s OOCR Región Vysoké Tatry",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "SK Ždárák – Do Veselí",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/sk-zdarak-do-hamry-nad-sazavou-2026/",
@@ -8660,6 +8732,24 @@
     "povrch": "",
     "start_cas": "",
     "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Hermanovská desiatka",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/hermanovska-desiatka-9/",
+    "datum": "2026-11-22",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Hermanovce nad Topľou, okr. Vranov nad Topľou",
+    "kraj": "",
+    "dlzka": "10 km",
+    "povrch": "asfalt",
+    "start_cas": "12:00 hod. - deti a mládež, 14:00 hod. - dospelí",
+    "organizator": "Obec Hermanovce nad Topľou a Hermanovský bežecký oddiel",
     "tagy": [
       "beh"
     ],
@@ -9439,24 +9529,6 @@
     "povrch": "asfalt",
     "start_cas": "10:00 hod. deti, 10:30 hod. Hlavný beh",
     "organizator": "3klub Šamorín o.z. v spolupráci s mestom Šamorín",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Hermanovská desiatka",
-    "zdroj": "beh.sk",
-    "url": "https://beh.sk/pretek/hermanovska-desiatka-9/",
-    "datum": "2026-11-15",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Hermanovce nad Topľou, okr. Vranov nad Topľou",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "asfalt",
-    "start_cas": "12:00 hod. - deti a mládež, 14:00 hod. - dospelí",
-    "organizator": "Obec Hermanovce nad Topľou a Hermanovský bežecký oddiel",
     "tagy": [
       "beh"
     ],
@@ -10584,6 +10656,42 @@
     "povrch": "čiastočne asfaltový, zámková dlažba, prírodný spevnený povrch",
     "start_cas": "14:00 – 16:00 hod. Halloweensky detský program, 18:00 hod. 10 km a 5 km, 18:05 hod. Nordic Walking",
     "organizator": "Rozbehaj sa, Big-agency Slovakia s.r.o.",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Choď ako môžeš",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/bobrovecky-beh-do-vrchu-chod-ako-mozes-16/",
+    "datum": "2026-11-07",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bobrovec",
+    "kraj": "",
+    "dlzka": "3,7 km, prevýšenie 0,60 km",
+    "povrch": "lesná cesta, chodník",
+    "start_cas": "10.00 hod. - štart kategórií :škôlkári, žiaci, žiačky, juniori, juniorky, \t\t\t\t\t           ženy E,F,G,H, muži D,X,, 10.30 hod. - štart kategórií : muži A,B,C",
+    "organizator": "Obec Bobrovec, ŠK Bobrovec - Lyžiarsky oddiel",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Zimna bezecka seria 1. kolo – Steeplechase",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/steeplechase-run-14/",
+    "datum": "2026-11-07",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Tatranská Lomnica",
+    "kraj": "",
+    "dlzka": "ženy - cca. 4 km, muži cca. 7 km",
+    "povrch": "100% tráva, pevné prekážky na trati",
+    "start_cas": "13:00 hod. muži, ženy, 11:00 hod.- detské súťaže",
+    "organizator": "Sport Tatry o.z. v spolupráci s OOCR Región Vysoké Tatry",
     "tagy": [
       "beh"
     ],
@@ -29465,25 +29573,6 @@
     "popis": ""
   },
   {
-    "nazov": "Svätomartinský beh pod Strážnym vrchom vo Vinici",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/1-rocnika-svatomartinskeho-behu-pod-straznym-vrchom-vo-vinici-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Vinica",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Beh na Minčol",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/beh-na-mincol-2026",
@@ -29510,6 +29599,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Svätomartinský beh pod Strážnym vrchom vo Vinici",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/1-rocnika-svatomartinskeho-behu-pod-straznym-vrchom-vo-vinici-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Vinica",
     "kraj": "",
     "dlzka": "",
     "povrch": "",

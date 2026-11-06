@@ -10594,10 +10594,10 @@
       "gps": "49.2061562,18.7578654",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://my.raceresult.com/428419/registration",
+      "registracia": "",
       "web": "",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://my.raceresult.com/428419/results"
     }
   },
   {
@@ -11127,27 +11127,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Svätomartinský beh pod Strážnym vrchom vo Vinici",
-    "url": "https://vsetkybehy.sk/podujatie/1-rocnika-svatomartinskeho-behu-pod-straznym-vrchom-vo-vinici-2026",
-    "datum": "",
-    "mesto": "Vinica",
-    "popis": "",
-    "info": {
-      "Miesto": "Vinica – Futbalové ihrisko",
-      "Dĺžka trate": "",
-      "Štart": "",
-      "kraj": "banskobystricky",
-      "gps": "48.1160786,19.1236839",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "https://my.raceresult.com/429178/registration",
-      "web": "",
-      "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Beh na Minčol",
     "url": "https://vsetkybehy.sk/podujatie/beh-na-mincol-2026",
     "datum": "",
@@ -11183,6 +11162,27 @@
       "seria": "",
       "disciplíny": [],
       "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Svätomartinský beh pod Strážnym vrchom vo Vinici",
+    "url": "https://vsetkybehy.sk/podujatie/1-rocnika-svatomartinskeho-behu-pod-straznym-vrchom-vo-vinici-2026",
+    "datum": "",
+    "mesto": "Vinica",
+    "popis": "",
+    "info": {
+      "Miesto": "Vinica – Futbalové ihrisko",
+      "Dĺžka trate": "",
+      "Štart": "",
+      "kraj": "banskobystricky",
+      "gps": "48.1160786,19.1236839",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "https://my.raceresult.com/429178/registration",
       "web": "",
       "propozicie": "",
       "vysledky": ""
@@ -20927,9 +20927,9 @@
       "seria": "",
       "disciplíny": [],
       "registracia": "",
-      "web": "https://www.kluknava.sk/aktualne/aktuality/beneficny-beh-pre-tomasa-3177sk.html",
+      "web": "",
       "propozicie": "",
-      "vysledky": ""
+      "vysledky": "https://zasrun.sk/preteky/beneficny-beh-pre-tomasa/vysledky"
     }
   },
   {
@@ -31731,18 +31731,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Konopišťský miniželezňák",
-    "url": "https://www.bezeckyzavod.cz/konopistsky-minizeleznak-konopiste-2027/",
-    "datum": "29.5.2027",
-    "mesto": "Konopiště",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.2 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Berounská 10",
     "url": "https://www.bezeckyzavod.cz/berounska-10-2027/",
     "datum": "29.5.2027",
@@ -31750,6 +31738,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "10 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Konopišťský miniželezňák",
+    "url": "https://www.bezeckyzavod.cz/konopistsky-minizeleznak-konopiste-2027/",
+    "datum": "29.5.2027",
+    "mesto": "Konopiště",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.2 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -31839,6 +31839,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Olympijský běh – Čelákovice",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-celakovice-2027/",
+    "datum": "23.6.2027",
+    "mesto": "Čelákovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Olympijský běh – Horoměřice",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-horomerice-2027/",
     "datum": "23.6.2027",
@@ -31879,18 +31891,6 @@
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-melnik-2027/",
     "datum": "23.6.2027",
     "mesto": "Mělník",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Kraj": "Středočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Olympijský běh – Čelákovice",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-celakovice-2027/",
-    "datum": "23.6.2027",
-    "mesto": "Čelákovice",
     "popis": "",
     "info": {
       "Dĺžka trate": "10 km",
@@ -32307,18 +32307,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Vltava Run TAM A ZPÁTKY",
-    "url": "https://www.bezeckyzavod.cz/vltava-run-tam-a-stachy-2027/",
-    "datum": "8.5.2027",
-    "mesto": "Stachy",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "243 km",
-      "Kraj": "Jihočeský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Vltava Run",
     "url": "https://www.bezeckyzavod.cz/vltava-run-stachy-2027/",
     "datum": "8.5.2027",
@@ -32326,6 +32314,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "375 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Vltava Run TAM A ZPÁTKY",
+    "url": "https://www.bezeckyzavod.cz/vltava-run-tam-a-stachy-2027/",
+    "datum": "8.5.2027",
+    "mesto": "Stachy",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "243 km",
       "Kraj": "Jihočeský kraj"
     }
   },
@@ -33339,6 +33339,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Olympijský běh – Ústí nad Labem",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-usti-usti-nad-labem-2027/",
+    "datum": "23.6.2027",
+    "mesto": "Ústí nad Labem",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Olympijský běh – Žatec",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-zatec-2027/",
     "datum": "23.6.2027",
@@ -33382,18 +33394,6 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "4 km",
-      "Kraj": "Ústecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Olympijský běh – Ústí nad Labem",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-usti-usti-nad-labem-2027/",
-    "datum": "23.6.2027",
-    "mesto": "Ústí nad Labem",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "10 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -35254,6 +35254,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "12 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Charitativní běh Ždánice",
+    "url": "https://www.bezeckyzavod.cz/charitativni-beh-zdanice-2027/",
+    "datum": "24.4.2027",
+    "mesto": "Ždánice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "13 km",
       "Kraj": "Jihomoravský kraj"
     }
   },
