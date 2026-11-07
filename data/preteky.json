@@ -219,6 +219,34 @@
     }
   },
   {
+    "datum": "2027-01-16",
+    "url": "https://beh.sk/pretek/stupava-winter-trophy-beh-25km-5/",
+    "nazov": "BAJKSERVIS Stupava ZIMNÝ maratón 2027- run 25 km",
+    "mesto": "Stupava",
+    "info": {
+      "Dĺžka trate": "25 km, prev. 500 m",
+      "Povrch": "...",
+      "Štart": "11:00 hod.",
+      "Miesto": "Stupava, Penzión INTENZÍVA/BAJKSERVIS (Nová ulica 66)",
+      "Organizátor": "BAJKSERVIS",
+      "Informácie": "Lucia Jánošíková, e-mail: lucia@stupavskymaraton.sk, info@stupavskymaraton.sk"
+    }
+  },
+  {
+    "datum": "2027-01-16",
+    "url": "https://beh.sk/pretek/stupava-winter-trophy-beh-5/",
+    "nazov": "Winter Stupava maraton – run 10 km",
+    "mesto": "Stupava",
+    "info": {
+      "Dĺžka trate": "10 km, ( 170 m prevýšenie )",
+      "Povrch": "...",
+      "Štart": "11:00 hod.",
+      "Miesto": "Stupava, Penzión INTENZÍVA/BAJKSERVIS (Nová ulica 66)",
+      "Organizátor": "BAJKSERVIS",
+      "Informácie": "Lucia Jánošíková, e-mail: lucia@stupavskymaraton.sk, info@stupavskymaraton.sk"
+    }
+  },
+  {
     "datum": "2027-01-09",
     "url": "https://beh.sk/pretek/trojkralovy-beh-na-hrad-lietava-2/",
     "nazov": "Trojkráľový beh na Hrad Lietava",
@@ -522,6 +550,20 @@
     }
   },
   {
+    "datum": "2026-12-12",
+    "url": "https://beh.sk/pretek/vianocny-beh-mesta-zlate-moravce-3/",
+    "nazov": "Vianočný beh mesta Zlaté Moravce",
+    "mesto": "Zlaté Moravce",
+    "info": {
+      "Dĺžka trate": "8,5 km; 5 km",
+      "Povrch": "prevažne nespevnená cesta, trailový povrch",
+      "Štart": "10:30 hod. - žiaci, 13:00 hod. - 5 km a 8,5 km , NW",
+      "Miesto": "Zlaté Moravce, mestský štadión Calex Zlaté Moravce",
+      "Organizátor": "Atletický klub Zlaté Moravce, Mesto Zlaté Moravce, Peter Boďo",
+      "Informácie": "Martina Pavelková, tel.: 0908 139 370  Peter Boďo, tel.: 0903 949 816"
+    }
+  },
+  {
     "datum": "2026-12-06",
     "url": "https://beh.sk/pretek/beh-2-mile-bratislava-12-kolo-16/",
     "nazov": "Beh 2 míle Bratislava – 12. kolo",
@@ -573,6 +615,20 @@
       "Miesto": "Machulince, okr. Zlaté Moravce, stred obce",
       "Organizátor": "ObÚ, Slovenský Orol",
       "Informácie": "Peter Gašparík, tel.: 0908 755 887, e-mail: pgasparik@gmail.com  obec, tel.: 037 / 630 17 22"
+    }
+  },
+  {
+    "datum": "2026-12-05",
+    "url": "https://beh.sk/pretek/seria-adventnych-behov-1-kolo-4/",
+    "nazov": "Séria Adventných behov 1. kolo",
+    "mesto": "Dvorníky",
+    "info": {
+      "Dĺžka trate": "11,1 km, 5,5 km, 900 m",
+      "Povrch": "asfalt, šotolina, trail",
+      "Štart": "11:45 hod. štart nesúťažnej detskej kategórie a následne štarty súťažných kategórií, 12:00 hod. Predpokladaný štart HERO, následne cca o 2 minúty štart ACTIVE",
+      "Miesto": "Dvorníky, amfiteáter",
+      "Organizátor": "Samospráva obce Dvorníky, starosta obce Ing. Waldemar Vislay, Občianske združenie Time4fun, o.z.",
+      "Informácie": "e-mail: info@time4fun.sk"
     }
   },
   {
@@ -656,6 +712,18 @@
       "Miesto": "Hermanovce nad Topľou, okr. Vranov nad Topľou, Pred budovou OcÚ Hermanovce n/T",
       "Organizátor": "Obec Hermanovce nad Topľou a Hermanovský bežecký oddiel",
       "Informácie": "Jozef Niko, tel.: 0908 375 490, e-mail: joniko24@gmail.com"
+    }
+  },
+  {
+    "datum": "2026-11-22",
+    "url": "https://beh.sk/pretek/biely-chotar/",
+    "nazov": "Biely chotár",
+    "mesto": "Kozárovce, okr. Levice",
+    "info": {
+      "Povrch": "beh 9,5 km, chôdza 5 km",
+      "Štart": "13:00 hod.",
+      "Miesto": "Kozárovce, okr. Levice, priehrada družstevná pivnica",
+      "Informácie": "Michal Šusták, tel.: 0948 115 545, e-mail: sustakmichal803@gmail.com"
     }
   },
   {
