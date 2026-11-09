@@ -324,7 +324,7 @@
     "info": {
       "Dĺžka trate": "10 km",
       "Štart": "11:30 hod. dospelí, 9:30 hod. deti",
-      "Miesto": "Horovce (okr. Michalovce), Kultúrny dom",
+      "Miesto": "Horovce (okr. Michalovce), pri novom amfiteátri",
       "Organizátor": "Obec Horovce",
       "Informácie": "OcÚ-Horovce, tel.: 056/649 57 31, e-mail: obec@obechorovce.sk"
     }
@@ -783,6 +783,20 @@
     }
   },
   {
+    "datum": "2026-11-21",
+    "url": "https://beh.sk/pretek/gobala-polmaraton/",
+    "nazov": "GoBala pól&maratón",
+    "mesto": "Komjatice",
+    "info": {
+      "Dĺžka trate": "42,2 km; 21 km",
+      "Povrch": "jemný udupaný štrk",
+      "Štart": "9:00 hod. maratón, 9:10 hod. polmaratón",
+      "Miesto": "Komjatice, kaštielsky park",
+      "Organizátor": "Never give up Teamu",
+      "Informácie": "Baladev Pavol Saraz, tel.: SK:+421 951 370 299, CZ:+420 724 178 631, e-mail: baladev24@gmail.com"
+    }
+  },
+  {
     "datum": "2026-11-20",
     "url": "https://beh.sk/pretek/beh-o-stit-mesta-michalovce-17/",
     "nazov": "Beh oslobodenia mesta Michalovce",
@@ -1096,131 +1110,6 @@
       "Miesto": "Turčianske Teplice, pri pamätníku 2. sv. vojny Lesopark Bôr",
       "Organizátor": "Klub bežeckého lyžovania Turčianske Teplice, Mesto Turčianské Teplice, Obec Čremošné v spolupráci s Aquapark Triatlon Turčianske Teplice",
       "Informácie": "Ivan Pavlík, tel.: 0905 791 886  Roman Pavlík, tel.: 0907 481 250"
-    }
-  },
-  {
-    "datum": "2026-11-07",
-    "url": "https://beh.sk/pretek/airport-run-3/",
-    "nazov": "Challenge Airport Run",
-    "mesto": "Prešov",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfaltová cesta a panelová cesta",
-      "Štart": "9:35 hod. - 10 km, 9:45 hod. - 5 km, 9:00 hod. - deti",
-      "Miesto": "Prešov, vojenská letecká základna v Prešove",
-      "Organizátor": "Prešov Running, o.z.",
-      "Informácie": "PaedDr. Evka Lange, PhD., tel.:+421 904 850 180, e-mail: presovrunningseries@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-11-07",
-    "url": "https://beh.sk/pretek/runway-trail-run-surany/",
-    "nazov": "Runway Trail Run Šurany",
-    "mesto": "Šurany",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Štart": "9:00 hod. detské behy, 10:00 hod. 10 km, 5 km, NW",
-      "Miesto": "Šurany, Airport Golf Club Šurany",
-      "Organizátor": "GOLF AIRPORT, s.r.o.",
-      "Informácie": "Maroš Očadlík, tel.: +421905421997, e-mail: info@airportgolf.sk"
-    }
-  },
-  {
-    "datum": "2026-11-07",
-    "url": "https://beh.sk/pretek/kovacovska-desiatka-17/",
-    "nazov": "Kováčovská desiatka",
-    "mesto": "Kováčová",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfalt, lesná cesta",
-      "Štart": "11:00 hod. hlavné behy, 10:15 hod. detské behy",
-      "Miesto": "Kováčová, futbalový štadión Kováčová",
-      "Organizátor": "Obec Kováčová",
-      "Informácie": "Mikulová Zuzana, e-mail: zuzana.mikulova@kovacova.sk"
-    }
-  },
-  {
-    "datum": "2026-11-07",
-    "url": "https://beh.sk/pretek/beh-okolo-luborce-16/",
-    "nazov": "Beh okolo Ľuborče",
-    "mesto": "Nemšová - Ľuborča",
-    "info": {
-      "Dĺžka trate": "29 km; 7,5 km",
-      "Povrch": "asfalt",
-      "Štart": "8:00 hod. 29 km, od 10:00 hod. žiactvo, 12:30 hod. dospelí na 7,5 km",
-      "Miesto": "Nemšová - Ľuborča, štadión TJ Ľuborča",
-      "Organizátor": "Mesto Nemšová, TJ Ľuborča PD Vlára Nemšová a mládež z Namšovej",
-      "Informácie": "Mestský úrad Nemšová, ul. Janka Palu 2/3, 914 41  Oliver Vavro: tel.: 0949 799 990,  Ing. Eva Brandoburová, tel.: 032/650 96 19,  Vladimír Gajdoš, tel.: 0908 291 570,  Mestský úrad e-mail: sekretariat@nemsova.sk, zivotne@nemsova.sk"
-    }
-  },
-  {
-    "datum": "2026-11-07",
-    "url": "https://beh.sk/pretek/vrakunsky-beh-halloween-4/",
-    "nazov": "Halloween run",
-    "mesto": "Bratislava",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "čiastočne asfaltový, zámková dlažba, prírodný spevnený povrch",
-      "Štart": "14:00 – 16:00 hod. Halloweensky detský program, 18:00 hod. 10 km a 5 km, 18:05 hod. Nordic Walking",
-      "Miesto": "Bratislava, Eurovea, Pribinova 8",
-      "Organizátor": "Rozbehaj sa, Big-agency Slovakia s.r.o.",
-      "Informácie": "Rozbehaj sa, e-mail: info@rozbehajsa.sk"
-    }
-  },
-  {
-    "datum": "2026-11-07",
-    "url": "https://beh.sk/pretek/bobrovecky-beh-do-vrchu-chod-ako-mozes-16/",
-    "nazov": "Choď ako môžeš",
-    "mesto": "Bobrovec",
-    "info": {
-      "Dĺžka trate": "3,7 km, prevýšenie 600 m",
-      "Povrch": "lesná cesta, chodník",
-      "Štart": "10.00 hod. - štart kategórií :škôlkári, žiaci, žiačky, juniori, juniorky, \t\t\t\t\t           ženy E,F,G,H, muži D,X,, 10.30 hod. - štart kategórií : muži A,B,C",
-      "Miesto": "Bobrovec, Bobrovecký Kameňolom - Bobrovecká dolina",
-      "Organizátor": "Obec Bobrovec, ŠK Bobrovec - Lyžiarsky oddiel",
-      "Informácie": "Martina Balážová, tel.: 0907 964 932"
-    }
-  },
-  {
-    "datum": "2026-11-07",
-    "url": "https://beh.sk/pretek/airport-run-3-2/",
-    "nazov": "Challenge Airport Run",
-    "mesto": "Prešov",
-    "info": {
-      "Dĺžka trate": "10 km, 5 km",
-      "Povrch": "asfaltová cesta a panelová cesta",
-      "Štart": "9:00 hod. - deti, 9:35 hod. -10 km, 9:45 hod. - 5 km",
-      "Miesto": "Prešov, vojenská letecká základna v Prešove",
-      "Organizátor": "Prešov Running, BOSP v spolupráci s Vojenskou leteckou základňou v Prešove",
-      "Informácie": "PaedDr. Evka Lange, PhD., tel.:+421 904 850 180, e-mail: presovrunningseries@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-11-07",
-    "url": "https://beh.sk/pretek/steeplechase-run-14/",
-    "nazov": "Zimna bezecka seria 1. kolo – Steeplechase",
-    "mesto": "Tatranská Lomnica",
-    "info": {
-      "Dĺžka trate": "ženy - cca. 4 km, muži cca. 7 km",
-      "Povrch": "100% tráva, pevné prekážky na trati",
-      "Štart": "13:00 hod. muži, ženy, 11:00 hod.- detské súťaže",
-      "Miesto": "Tatranská Lomnica, jazdecký areál",
-      "Organizátor": "Sport Tatry o.z. v spolupráci s OOCR Región Vysoké Tatry",
-      "Informácie": "Viera Halásová, tel.: 0918 651 256, e-mail: sport@sporttatry.sk"
-    }
-  },
-  {
-    "datum": "2026-11-07",
-    "url": "https://beh.sk/pretek/beh-2-mile-kosice-112/",
-    "nazov": "Beh 2 míle Košice",
-    "mesto": "Košice",
-    "info": {
-      "Dĺžka trate": "2 míle (1 km)",
-      "Povrch": "asfalt",
-      "Štart": "9:00 hod.",
-      "Miesto": "Košice, park Anička v Košiciach",
-      "Organizátor": "Sri Chinmoy Marathon Team",
-      "Informácie": "Peter Hlač, tel.: 0905 306 551, e-mail: info@behkosice.sk"
     }
   }
 ]
