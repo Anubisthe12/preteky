@@ -604,6 +604,19 @@
     }
   },
   {
+    "datum": "2026-12-06",
+    "url": "https://beh.sk/pretek/mikulas-beha-v-jame-2/",
+    "nazov": "Mikuláš behá v Jame",
+    "mesto": "Bratislava - časť Nové Mesto",
+    "info": {
+      "Dĺžka trate": "5 000 m",
+      "Povrch": "príjemná, mäkká trať a čarovný výhľad..",
+      "Štart": "14.10 hod. deti, 14:40 hod. dospeláci - 5 000 m, 15:24 hod. dospeláci 3 150 m",
+      "Miesto": "Bratislava - časť Nové Mesto, Park Jama",
+      "Informácie": "tel.: 0951 070 375"
+    }
+  },
+  {
     "datum": "2026-12-05",
     "url": "https://beh.sk/pretek/machulinska-dvadsiatka-17/",
     "nazov": "Machulinská dvadsiatka",
@@ -629,6 +642,19 @@
       "Miesto": "Dvorníky, amfiteáter",
       "Organizátor": "Samospráva obce Dvorníky, starosta obce Ing. Waldemar Vislay, Občianske združenie Time4fun, o.z.",
       "Informácie": "e-mail: info@time4fun.sk"
+    }
+  },
+  {
+    "datum": "2026-12-05",
+    "url": "https://beh.sk/pretek/mikulassky-charitativny-beh-pre-zatulane-psiky-2/",
+    "nazov": "Mikulášsky charitatívny beh pre Zatúlané psíky",
+    "mesto": "Šaľa",
+    "info": {
+      "Dĺžka trate": "cca 4,5 km.",
+      "Povrch": "lesný terén",
+      "Štart": "11:00 hod.",
+      "Miesto": "Šaľa, Lesopark pri hrádzi",
+      "Organizátor": "Judita Mitalová Ml a Zatúlaní bežci Šaľa"
     }
   },
   {
@@ -1055,61 +1081,6 @@
       "Miesto": "Topoľčany, park Tovarníky - ulica Odbojárov",
       "Organizátor": "Bežecký klub TBK TORA Topoľčany, o. z.",
       "Informácie": "Milan Barányi, tel.: 0948 866 856 ( 12,00-19,00 hod.), e-mail : mbaranyi8@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-11-08",
-    "url": "https://beh.sk/pretek/beh-oslobodenia-mesta-strazske-16/",
-    "nazov": "Beh oslobodenia mesta Strážske",
-    "mesto": "Strážske",
-    "info": {
-      "Dĺžka trate": "6 400 m",
-      "Povrch": "cesta",
-      "Štart": "14:00 hod. - hlavný beh, 12:30 hod. - deti",
-      "Miesto": "Strážske, pred budovou Mestského úradu",
-      "Organizátor": "Mesto Strážske, CVČ v Strážskom, ZŠ v Strážskom a Bežecký klub MBO Strážske",
-      "Informácie": "Vladislav Lipovský, tel.: 0905 517 610, e-mail: vladolipo24@gmail.com"
-    }
-  },
-  {
-    "datum": "2026-11-08",
-    "url": "https://beh.sk/pretek/trencianska-bezecka-liga-9-kolo-12/",
-    "nazov": "Trenčianská bežecká liga – 9. kolo",
-    "mesto": "Trenčianska Turná",
-    "info": {
-      "Dĺžka trate": "7,8 km a 123 m prevýšenie",
-      "Povrch": "asfalt 80% / terén 20%",
-      "Štart": "10:00 hod.",
-      "Miesto": "Trenčianska Turná, futbalové ihrisko",
-      "Informácie": "Ladislav Matejka, tel.: 0904 487 481, e-mail: info@tbl.sk  Milan Makiš, tel.: 0904 239 233, e-mail: info@tbl.sk"
-    }
-  },
-  {
-    "datum": "2026-11-08",
-    "url": "https://beh.sk/pretek/krasnanska-desiatka-17/",
-    "nazov": "Krasňanská desiatka",
-    "mesto": "Krásno nad Kysucou",
-    "info": {
-      "Dĺžka trate": "10 km",
-      "Povrch": "asfalt",
-      "Štart": "10:00 hod.",
-      "Miesto": "Krásno nad Kysucou, TJ Tatran Krásno nad Kysucou",
-      "Organizátor": "Organizačný výbor „Krasňanská desiatka“, Mesto Krásno nad Kysucou",
-      "Informácie": "Vladimír Kormanec, tel.: 0940 997 765, email: vladimir.kormanec@mestokrasno.sk"
-    }
-  },
-  {
-    "datum": "2026-11-08",
-    "url": "https://beh.sk/pretek/beh-na-cremosnianske-lazy-10/",
-    "nazov": "Beh na Čremošnianske lazy",
-    "mesto": "Turčianske Teplice",
-    "info": {
-      "Dĺžka trate": "7 350 m, prev. 312 m",
-      "Povrch": "lesna zvaznica, luky, 5 % asfalt",
-      "Štart": "10.30 hod - deti; 12:00 hod. - hlavný beh, 11:45 - Nordic Walking",
-      "Miesto": "Turčianske Teplice, pri pamätníku 2. sv. vojny Lesopark Bôr",
-      "Organizátor": "Klub bežeckého lyžovania Turčianske Teplice, Mesto Turčianské Teplice, Obec Čremošné v spolupráci s Aquapark Triatlon Turčianske Teplice",
-      "Informácie": "Ivan Pavlík, tel.: 0905 791 886  Roman Pavlík, tel.: 0907 481 250"
     }
   }
 ]
