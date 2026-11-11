@@ -84,6 +84,34 @@
     }
   },
   {
+    "datum": "2027-05-30",
+    "url": "https://beh.sk/pretek/vertikal-martinky-5/",
+    "nazov": "Vertikal Martinky",
+    "mesto": "Martin",
+    "info": {
+      "Dĺžka trate": "4,26 km, prevýšenie 944 m",
+      "Povrch": "asfalt, Lesný terén",
+      "Štart": "10:00 hod. - hl. kategórie  11:00 hod. - štart ( registrácia ) detských kategórii je pri reštaurácii Nová Ponorka na Martinských holiach",
+      "Miesto": "Martin, konečná zástavka autobusov Martin – Stráne",
+      "Organizátor": "Fatra Outdoor Team a stredisko Winter Park Martinky",
+      "Informácie": "Ing Maroš Harenčák, tel.: +421 910 970 225, e-mail: info@fatraoutdoorteam.sk"
+    }
+  },
+  {
+    "datum": "2027-05-29",
+    "url": "https://beh.sk/pretek/sky-marathon-martinky-3/",
+    "nazov": "Horský Maratón Martinky",
+    "mesto": "Martinské hole",
+    "info": {
+      "Dĺžka trate": "42km/3006m+, 26km/1950m+, 10 km/360m",
+      "Povrch": "turistický chodník",
+      "Štart": "8:00 hod.",
+      "Miesto": "Martinské hole, reštaurácia Nová Ponorka na Martinských holiach",
+      "Organizátor": "Fatra Outdoor Team",
+      "Informácie": "Ing Maroš Harenčák, tel.: +421 910 970 225, e-mail: marosharencak@gmail.com"
+    }
+  },
+  {
     "datum": "2027-05-22",
     "url": "https://beh.sk/pretek/memorial-frantiska-danisa-cezpolny-beh-18/",
     "nazov": "Memoriál Františka Daniša – cezpoľný beh",

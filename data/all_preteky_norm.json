@@ -2013,24 +2013,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Čelákovice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-celakovice-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Čelákovice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Červené Pečky",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-cervene-cervene-pecky-2027/",
@@ -2040,6 +2022,24 @@
     "mesto": "Červené Pečky",
     "kraj": "Středočeský kraj",
     "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Čelákovice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-celakovice-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Čelákovice",
+    "kraj": "Středočeský kraj",
+    "dlzka": "10 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2193,24 +2193,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh - Děčín",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-decin-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Děčín",
-    "kraj": "Ústecký kraj",
-    "dlzka": "4.6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Žatec",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-zatec-2027/",
@@ -2229,24 +2211,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Louny",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-louny-dobromerice-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Dobroměřice",
-    "kraj": "Ústecký kraj",
-    "dlzka": "4 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Lovosice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-lovosice-2027/",
@@ -2256,6 +2220,42 @@
     "mesto": "Lovosice",
     "kraj": "Ústecký kraj",
     "dlzka": "8 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh - Děčín",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-decin-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Děčín",
+    "kraj": "Ústecký kraj",
+    "dlzka": "4.6 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Louny",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-louny-dobromerice-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Dobroměřice",
+    "kraj": "Ústecký kraj",
+    "dlzka": "4 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2463,6 +2463,24 @@
     "popis": ""
   },
   {
+    "nazov": "Olympijský běh – Rožnov pod Radhoštěm",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-b-h--roznov-pod-radhostem-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Rožnov pod Radhoštěm",
+    "kraj": "Zlínský kraj",
+    "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Olympijský běh – Valašské Klobouky",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-valasske-valasske-klobouky-2027/",
@@ -2488,24 +2506,6 @@
     "datum_do": "",
     "krajina": "Česká republika",
     "mesto": "Bystřice pod Hostýnem",
-    "kraj": "Zlínský kraj",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Olympijský běh – Rožnov pod Radhoštěm",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-b-h--roznov-pod-radhostem-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Rožnov pod Radhoštěm",
     "kraj": "Zlínský kraj",
     "dlzka": "5 km",
     "povrch": "",
@@ -3132,6 +3132,24 @@
     "popis": ""
   },
   {
+    "nazov": "Vertikal Martinky",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/vertikal-martinky-5/",
+    "datum": "2027-05-30",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Martin",
+    "kraj": "",
+    "dlzka": "4,26 km, prevýšenie 0,94 km",
+    "povrch": "asfalt, Lesný terén",
+    "start_cas": "10:00 hod. - hl. kategórie  11:00 hod. - štart ( registrácia ) detských kategórii je pri reštaurácii Nová Ponorka na Martinských holiach",
+    "organizator": "Fatra Outdoor Team a stredisko Winter Park Martinky",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Zahořanská 10",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/zahoranska-10-zahorany-2027/",
@@ -3183,6 +3201,24 @@
     "organizator": "",
     "tagy": [
       "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Horský Maratón Martinky",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/sky-marathon-martinky-3/",
+    "datum": "2027-05-29",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Martinské hole",
+    "kraj": "",
+    "dlzka": "42km/3,01 km+, 26km/1,95 km+, 10 km/0,36 km",
+    "povrch": "turistický chodník",
+    "start_cas": "8:00 hod.",
+    "organizator": "Fatra Outdoor Team",
+    "tagy": [
+      "maraton"
     ],
     "popis": ""
   },
@@ -11117,6 +11153,25 @@
     "start_cas": "",
     "organizator": "",
     "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "KK ZŠ v cezpoľnom behu",
+    "zdroj": "hrdosport.sk",
+    "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=11",
+    "datum": "2026-11-10",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Dubnica nad Váhom",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
       "beh"
     ],
     "popis": ""
@@ -29326,6 +29381,25 @@
     "popis": ""
   },
   {
+    "nazov": "MŠ Hamburg 76/12",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/ms-hamburg-76-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Žilina",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Mestský študentský beh",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/mestsky-studentsky-beh-2026",
@@ -29479,6 +29553,25 @@
     "popis": ""
   },
   {
+    "nazov": "Krásne behy v Krásne 2. ročník",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/krasne-behy-v-krasne-2-rocnik-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Krásno nad Kysucou",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Biely chotár",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/biely-chotar-2026",
@@ -29486,6 +29579,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Kozárovce",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "K500 November",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/k500-november-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nová Polhora",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -29829,6 +29941,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Nitra",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Mikuláš behá v Jame",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/mikulas-beha-v-jame-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Bratislava",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -30675,6 +30806,25 @@
     "popis": ""
   },
   {
+    "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/nitrianska-24-hodinovka-memorial-alexandra-bogiho-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nitra",
+    "kraj": "",
+    "dlzka": "24-hodinovka",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "casova"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Teamative Cross",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/teamative-cross-2027",
@@ -30728,25 +30878,6 @@
     "tagy": [
       "neznama_dlzka",
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Nitrianska 24 hodinovka – Memoriál Alexandra Bögiho",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/nitrianska-24-hodinovka-memorial-alexandra-bogiho-2027",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nitra",
-    "kraj": "",
-    "dlzka": "24-hodinovka",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
     ],
     "popis": ""
   },
@@ -31190,6 +31321,24 @@
     "popis": ""
   },
   {
+    "nazov": "Horský Maratón Martinky",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/horsky-maraton-martinky-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Martin",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Memoriál Jozefa Gabčíka",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/memorial-jozefa-gabcika-2027",
@@ -31235,6 +31384,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Vertikal Martinky",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/vertikal-martinky-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Martin",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -31679,6 +31847,25 @@
       "neznama_dlzka",
       "ultra",
       "teren"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Tajovský beh",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/tajovsky-beh-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Tajov",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
     ],
     "popis": ""
   },
@@ -32966,25 +33153,6 @@
     "popis": ""
   },
   {
-    "nazov": "Tajovský beh",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/tajovsky-beh-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Tajov",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Terchovský polmaratón",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/terchovsky-polmaraton-2026",
@@ -34180,25 +34348,6 @@
     "popis": ""
   },
   {
-    "nazov": "BeŽime so Svetielkom nádeje",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/bezime-so-svetielkom-nadeje-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Lesný beh okolo Poludnice",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/lesny-beh-okolo-poludnice-56-rocnik-2026",
@@ -34835,6 +34984,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Sereď",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "BeŽime so Svetielkom nádeje",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/bezime-so-svetielkom-nadeje-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -43187,25 +43355,6 @@
     "popis": ""
   },
   {
-    "nazov": "Vertikal Martinky",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/vertikal-martinky-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Martin",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Beh Zabudišovou",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/beh-zabudisovou-1752026-2026",
@@ -43344,24 +43493,6 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Bzince pod Javorinou",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Horský Maratón Martinky",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/sky-marathon-martinky-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Martin",
     "kraj": "",
     "dlzka": "42,2 km",
     "povrch": "",
