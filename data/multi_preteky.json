@@ -10570,69 +10570,6 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Beh na počesť vojnových veteránov",
-    "url": "https://vsetkybehy.sk/podujatie/beh-na-pocest-vojnovych-veteranov-2026",
-    "datum": "",
-    "mesto": "Bratislava",
-    "popis": "",
-    "info": {
-      "Miesto": "Bratislava – Bunker B-S 8 pri vojenskom cintoríne v Petržalke-Kopčanoch",
-      "Dĺžka trate": "",
-      "Štart": "",
-      "kraj": "bratislavsky",
-      "gps": "48.1486000,17.1077000",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "",
-      "web": "",
-      "propozicie": "",
-      "vysledky": "https://my.raceresult.com/429684/results"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Detský štafetový kros – postupové kolo Bratislavský kraj",
-    "url": "https://vsetkybehy.sk/podujatie/detsky-stafetovy-kros-postupove-kolo-bratislavsky-kraj-2026",
-    "datum": "",
-    "mesto": "Bratislava",
-    "popis": "",
-    "info": {
-      "Miesto": "Bratislava – Atletický štadión FTVŠ",
-      "Dĺžka trate": "",
-      "Štart": "",
-      "kraj": "bratislavsky",
-      "gps": "48.1486000,17.1077000",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "",
-      "web": "https://www.detskaatletika.sk/",
-      "propozicie": "",
-      "vysledky": ""
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
-    "nazov": "Večerný beh Nitrou",
-    "url": "https://vsetkybehy.sk/podujatie/vecerny-beh-nitrou-2026",
-    "datum": "",
-    "mesto": "Nitra",
-    "popis": "",
-    "info": {
-      "Miesto": "Nitra – Pešia zóna, Štefánikova trieda",
-      "Dĺžka trate": "",
-      "Štart": "",
-      "kraj": "nitriansky",
-      "gps": "48.3069000,18.0844000",
-      "seria": "",
-      "disciplíny": [],
-      "registracia": "https://www.kril.sk/registracia/vbn",
-      "web": "",
-      "propozicie": "",
-      "vysledky": "https://my.raceresult.com/429600/results"
-    }
-  },
-  {
-    "zdroj": "vsetkybehy.sk",
     "nazov": "Topoľčianska bežecká liga – 12. kolo",
     "url": "https://vsetkybehy.sk/podujatie/topolcianska-bezecka-liga-12-kolo-2026",
     "datum": "",
@@ -10702,11 +10639,11 @@
     "mesto": "Višňové",
     "popis": "",
     "info": {
-      "Miesto": "Višňové – Parkovisko pri vstupe do doliny",
+      "Miesto": "Višňové – Parkovisko",
       "Dĺžka trate": "",
       "Štart": "",
       "kraj": "zilinsky",
-      "gps": "48.9504000,19.1572000",
+      "gps": "49.1536500,18.8039500",
       "seria": "",
       "disciplíny": [],
       "registracia": "https://docs.google.com/forms/d/e/1FAIpQLSfBy8nI0xIpQ8mQNKpkalIWEb_YBhHz5n214Oxbl9FEMZcrtA/viewform?usp=header",
@@ -11003,7 +10940,7 @@
       "gps": "48.0275830,17.3115710",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://pretekaj.sk/sk/podujatia/sbl2026/preteky/3031/registration/competitors",
+      "registracia": "https://pretekaj.sk/en/events/sbl2026/races/3031/registration?href=&sort=category_code",
       "web": "",
       "propozicie": "",
       "vysledky": ""
@@ -11148,7 +11085,7 @@
       "Štart": "",
       "kraj": "kosicky",
       "gps": "48.7575309,21.9218914",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "https://bomm.preteky.com/registracia.html",
       "web": "",
@@ -11192,7 +11129,7 @@
       "gps": "48.1570756,18.1826673",
       "seria": "",
       "disciplíny": [],
-      "registracia": "https://nevergiveuprun.eu/registracia-na-maraton-a-polmaraton",
+      "registracia": "https://nevergiveuprun.eu/registracia-na-maraton-a-polmaraton/",
       "web": "",
       "propozicie": "",
       "vysledky": ""
@@ -11578,7 +11515,7 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
-    "nazov": "Zimná bežecká séria Vysoké Tatry – 2. kolo ZBS",
+    "nazov": "2. kolo ZBS – Beh na Horský Hotel Popradské Pleso",
     "url": "https://vsetkybehy.sk/podujatie/zimna-bezecka-seria-vysoke-tatry-zbs-2026",
     "datum": "",
     "mesto": "Vysoké Tatry",
@@ -11610,7 +11547,7 @@
       "Štart": "",
       "kraj": "bratislavsky",
       "gps": "48.1486000,17.1077000",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "https://register.hakuapp.com/?event=50977d069eb0ac97ceee",
       "web": "",
@@ -13951,6 +13888,69 @@
   },
   {
     "zdroj": "vsetkybehy.sk",
+    "nazov": "Beh na počesť vojnových veteránov",
+    "url": "https://vsetkybehy.sk/podujatie/beh-na-pocest-vojnovych-veteranov-2026",
+    "datum": "",
+    "mesto": "Bratislava",
+    "popis": "",
+    "info": {
+      "Miesto": "Bratislava – Bunker B-S 8 pri vojenskom cintoríne v Petržalke-Kopčanoch",
+      "Dĺžka trate": "",
+      "Štart": "",
+      "kraj": "bratislavsky",
+      "gps": "48.1486000,17.1077000",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://my.raceresult.com/429684/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Detský štafetový kros – postupové kolo Bratislavský kraj",
+    "url": "https://vsetkybehy.sk/podujatie/detsky-stafetovy-kros-postupove-kolo-bratislavsky-kraj-2026",
+    "datum": "",
+    "mesto": "Bratislava",
+    "popis": "",
+    "info": {
+      "Miesto": "Bratislava – Atletický štadión FTVŠ",
+      "Dĺžka trate": "",
+      "Štart": "",
+      "kraj": "bratislavsky",
+      "gps": "48.1486000,17.1077000",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "https://www.detskaatletika.sk/",
+      "propozicie": "",
+      "vysledky": ""
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
+    "nazov": "Večerný beh Nitrou",
+    "url": "https://vsetkybehy.sk/podujatie/vecerny-beh-nitrou-2026",
+    "datum": "",
+    "mesto": "Nitra",
+    "popis": "",
+    "info": {
+      "Miesto": "Nitra – Pešia zóna, Štefánikova trieda",
+      "Dĺžka trate": "",
+      "Štart": "",
+      "kraj": "nitriansky",
+      "gps": "48.3069000,18.0844000",
+      "seria": "",
+      "disciplíny": [],
+      "registracia": "",
+      "web": "",
+      "propozicie": "",
+      "vysledky": "https://my.raceresult.com/429600/results"
+    }
+  },
+  {
+    "zdroj": "vsetkybehy.sk",
     "nazov": "Krásňanská desiatka",
     "url": "https://vsetkybehy.sk/podujatie/krasnanska-desiatka-2026",
     "datum": "",
@@ -14844,7 +14844,7 @@
       "Štart": "",
       "kraj": "trnavsky",
       "gps": "48.6380410,17.1439380",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "https://www.mestosastinstraze.sk/",
@@ -15390,7 +15390,7 @@
       "Štart": "",
       "kraj": "kosicky",
       "gps": "48.8259630,22.1371530",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -15894,7 +15894,7 @@
       "Štart": "",
       "kraj": "kosicky",
       "gps": "48.7514380,21.9211950",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "https://jesennybeh.preteky.com/propozicie.html",
@@ -17427,7 +17427,7 @@
       "Štart": "",
       "kraj": "zilinsky",
       "gps": "49.2234670,18.7393140",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -17952,7 +17952,7 @@
       "Štart": "",
       "kraj": "banskobystricky",
       "gps": "48.5474665,19.2687695",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -18372,7 +18372,7 @@
       "Štart": "",
       "kraj": "zilinsky",
       "gps": "48.8786609,18.7235528",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -19380,7 +19380,7 @@
       "Štart": "",
       "kraj": "zilinsky",
       "gps": "49.0455000,19.8340000",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -20913,7 +20913,7 @@
       "Štart": "",
       "kraj": "nitriansky",
       "gps": "48.5594350,18.1754390",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -21795,7 +21795,7 @@
       "Štart": "",
       "kraj": "zilinsky",
       "gps": "49.2081891,19.2853228",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -21858,7 +21858,7 @@
       "Štart": "",
       "kraj": "trenciansky",
       "gps": "48.7718360,18.6234920",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "https://www.youngrun.sk/",
@@ -23265,7 +23265,7 @@
       "Štart": "",
       "kraj": "banskobystricky",
       "gps": "48.0898531,19.1545637",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -23748,7 +23748,7 @@
       "Štart": "",
       "kraj": "kosicky",
       "gps": "48.9435340,20.5629640",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "https://www.spisskanovaves.eu/podujatia/charitativny-doverun",
@@ -23811,7 +23811,7 @@
       "Štart": "",
       "kraj": "presovsky",
       "gps": "49.1163282,20.3586547",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -24252,7 +24252,7 @@
       "Štart": "",
       "kraj": "trnavsky",
       "gps": "48.6787560,17.3661530",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -24315,7 +24315,7 @@
       "Štart": "",
       "kraj": "kosicky",
       "gps": "48.9887019,20.7834085",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -26772,7 +26772,7 @@
       "Štart": "",
       "kraj": "trenciansky",
       "gps": "48.8301432,17.7261276",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -27234,7 +27234,7 @@
       "Štart": "",
       "kraj": "presovsky",
       "gps": "",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -28578,7 +28578,7 @@
       "Štart": "",
       "kraj": "nitriansky",
       "gps": "48.2907240,18.1837500",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -28620,7 +28620,7 @@
       "Štart": "",
       "kraj": "trenciansky",
       "gps": "48.5865430,18.4990410",
-      "seria": " ",
+      "seria": "",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -29040,7 +29040,7 @@
       "Štart": "",
       "kraj": "banskobystricky",
       "gps": "48.2493565,19.4905854",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -30321,7 +30321,7 @@
       "Štart": "",
       "kraj": "kosicky",
       "gps": "48.7172270,21.2496770",
-      "seria": "",
+      "seria": " ",
       "disciplíny": [],
       "registracia": "",
       "web": "",
@@ -30832,6 +30832,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běhej lesy Divoká Šárka",
+    "url": "https://www.bezeckyzavod.cz/behej-lesy-divoka-sarka-praha-2027/",
+    "datum": "19.3.2027",
+    "mesto": "Praha",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "18 km",
+      "Kraj": "Praha a okolí"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Jarní Silový Emil",
     "url": "https://www.bezeckyzavod.cz/jarni-silovy-emil-praha-letna-2027/",
     "datum": "21.3.2027",
@@ -31127,6 +31139,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "10.031 km",
+      "Kraj": "Praha a okolí"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "RunTour Praha",
+    "url": "https://www.bezeckyzavod.cz/runtour-praha-2027/",
+    "datum": "2.10.2027",
+    "mesto": "Praha",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
       "Kraj": "Praha a okolí"
     }
   },
@@ -31696,6 +31720,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běhej lesy Karlštejn",
+    "url": "https://www.bezeckyzavod.cz/behej-lesy-karlstejn-bubovice-2027/",
+    "datum": "17.4.2027",
+    "mesto": "Bubovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "18 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Inov-8 Kros Bučiny",
     "url": "https://www.bezeckyzavod.cz/inov-8-kros-buciny-cerne-voderady-2027/",
     "datum": "18.4.2027",
@@ -31792,6 +31828,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Zručský májový běh",
+    "url": "https://www.bezeckyzavod.cz/zrucsky-majovy-beh-zruc-nad-sazavou-2027/",
+    "datum": "14.5.2027",
+    "mesto": "Zruč nad Sázavou",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10.1 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Terénní triatlon Poděbrady",
     "url": "https://www.bezeckyzavod.cz/terenni-triatlon-podebrady-2027/",
     "datum": "22.5.2027",
@@ -31823,6 +31871,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "7.5 km",
+      "Kraj": "Středočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běhej lesy Brdy",
+    "url": "https://www.bezeckyzavod.cz/behej-lesy-brdy-obecnice-2027/",
+    "datum": "22.5.2027",
+    "mesto": "Obecnice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "22 km",
       "Kraj": "Středočeský kraj"
     }
   },
@@ -32380,6 +32440,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Vožický vytrvalostní běh",
+    "url": "https://www.bezeckyzavod.cz/vozicky-vytrvalostni-mlada-vozice-2027/",
+    "datum": "6.3.2027",
+    "mesto": "Mladá Vožice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "14 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Mizuno T2 běhy",
     "url": "https://www.bezeckyzavod.cz/mizuno-t2-behy-ceske-budejovice-2027/",
     "datum": "19.3.2027",
@@ -32416,6 +32488,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh kolem Hluboké",
+    "url": "https://www.bezeckyzavod.cz/beh-kolem-hluboke-hluboka-nad-vltavou-2027/",
+    "datum": "11.4.2027",
+    "mesto": "Hluboká nad Vltavou",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "25 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Dokola Kletě 2027",
     "url": "https://www.bezeckyzavod.cz/dokola-klete-2027-trisov-holubov-2027/",
     "datum": "17.4.2027",
@@ -32428,13 +32512,25 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Běh kolem Hluboké",
-    "url": "https://www.bezeckyzavod.cz/beh-kolem-hluboke-hluboka-nad-vltavou-2027/",
-    "datum": "18.4.2027",
-    "mesto": "Hluboká nad Vltavou",
+    "nazov": "Benefiční Modrý běh pro Autis centrum",
+    "url": "https://www.bezeckyzavod.cz/beneficni-modry-beh-ceske-budejovice-2027/",
+    "datum": "24.4.2027",
+    "mesto": "České Budějovice",
     "popis": "",
     "info": {
-      "Dĺžka trate": "25 km",
+      "Dĺžka trate": "9 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "RunTour České Budějovice",
+    "url": "https://www.bezeckyzavod.cz/runtour-ceske-budejovice-2027/",
+    "datum": "24.4.2027",
+    "mesto": "České Budějovice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21.1 km",
       "Kraj": "Jihočeský kraj"
     }
   },
@@ -32488,6 +32584,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Písecká hodinovka",
+    "url": "https://www.bezeckyzavod.cz/pisecka-hodinovka-pisek-2027/",
+    "datum": "8.5.2027",
+    "mesto": "Písek",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "1 h",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Vltava Run ČTYŘKA",
     "url": "https://www.bezeckyzavod.cz/vltava-run-ctyrka-stachy-2027/",
     "datum": "9.5.2027",
@@ -32500,6 +32608,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "SeziRun",
+    "url": "https://www.bezeckyzavod.cz/sezirun-sezimovo-usti-2027/",
+    "datum": "22.5.2027",
+    "mesto": "Sezimovo Ústí",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Mattoni Running Festival České Budějovice",
     "url": "https://www.bezeckyzavod.cz/mattoni-1-2maraton-ceske-ceske-budejovice-2027/",
     "datum": "29.5.2027",
@@ -32507,6 +32627,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "21.1 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Jindřichohradecký půlmaraton",
+    "url": "https://www.bezeckyzavod.cz/jindrichohradecky-pulmaraton-jindrichuv-hradec-2027/",
+    "datum": "12.6.2027",
+    "mesto": "Jindřichův Hradec",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21.097 km",
       "Kraj": "Jihočeský kraj"
     }
   },
@@ -32584,6 +32716,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh kolem středu Evropy",
+    "url": "https://www.bezeckyzavod.cz/beh-kolem-stredu-evropy-lisov-2027/",
+    "datum": "28.8.2027",
+    "mesto": "Lišov",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "8 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Mirovice - Běh do Háje",
     "url": "https://www.bezeckyzavod.cz/mirovice-beh-do-2027/",
     "datum": "4.9.2027",
@@ -32608,6 +32752,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Večerní běh Kaplicí",
+    "url": "https://www.bezeckyzavod.cz/vecerni-beh-kaplici-kaplice-2027/",
+    "datum": "16.9.2027",
+    "mesto": "Kaplice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "6 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Lipno.trail.run. 2",
     "url": "https://www.bezeckyzavod.cz/lipno-trail-run-2-lipno-nad-vltavou-2027/",
     "datum": "18.9.2027",
@@ -32615,6 +32771,30 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "108 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Svatojánský kopeček",
+    "url": "https://www.bezeckyzavod.cz/svatojansky-kopecek-svaty-jan-nad-malsi-2027/",
+    "datum": "18.9.2027",
+    "mesto": "Svatý Jan nad Malší",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh okolo Kuřidla",
+    "url": "https://www.bezeckyzavod.cz/beh-okolo-kuridla-strakonice-2027/",
+    "datum": "2.10.2027",
+    "mesto": "Strakonice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "7 km",
       "Kraj": "Jihočeský kraj"
     }
   },
@@ -32651,6 +32831,54 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "8 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běh kolem Hejtmanu",
+    "url": "https://www.bezeckyzavod.cz/beh-kolem-hejtmanu-chlum-u-trebone-2027/",
+    "datum": "23.10.2027",
+    "mesto": "Chlum u Třeboně",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Krumlovská 11",
+    "url": "https://www.bezeckyzavod.cz/krumlovska-11-cesky-krumlov-2027/",
+    "datum": "7.11.2027",
+    "mesto": "Český Krumlov",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "11 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Grand Prix vytrvalců Kamenný Újezd 6.5 km kros",
+    "url": "https://www.bezeckyzavod.cz/grand-prix-vytrvalcu-kamenny-ujezd-2027/",
+    "datum": "20.11.2027",
+    "mesto": "Kamenný Újezd",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "6.5 km",
+      "Kraj": "Jihočeský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Štěpánský běh",
+    "url": "https://www.bezeckyzavod.cz/stepansky-beh-prachatice-2027/",
+    "datum": "26.12.2027",
+    "mesto": "Prachatice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
       "Kraj": "Jihočeský kraj"
     }
   },
@@ -32908,6 +33136,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "RunTour Plzeň",
+    "url": "https://www.bezeckyzavod.cz/runtour-plzen-2027/",
+    "datum": "20.6.2027",
+    "mesto": "Plzeň",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21.1 km",
+      "Kraj": "Plzeňský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Olympijský běh – Stříbro",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-stribro-2027/",
     "datum": "23.6.2027",
@@ -32975,6 +33215,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "21 km",
+      "Kraj": "Plzeňský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běhej lesy Železná Ruda",
+    "url": "https://www.bezeckyzavod.cz/behej-lesy-zelezna-spicak-zelezna-ruda-2027/",
+    "datum": "18.9.2027",
+    "mesto": "Špičák, Železná Ruda",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "18 km",
       "Kraj": "Plzeňský kraj"
     }
   },
@@ -33203,6 +33455,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "3 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Půl/Maraton Liběchovským lesem",
+    "url": "https://www.bezeckyzavod.cz/pul-maraton-libechovskym-straci-steti-2026/",
+    "datum": "28.11.2026",
+    "mesto": "Stračí, Štětí",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "42.5 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -33496,6 +33760,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Olympijský běh - Děčín",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-decin-2027/",
+    "datum": "23.6.2027",
+    "mesto": "Děčín",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "4.6 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Olympijský běh – Žatec",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-zatec-2027/",
     "datum": "23.6.2027",
@@ -33515,18 +33791,6 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "8 km",
-      "Kraj": "Ústecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Olympijský běh - Děčín",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-decin-2027/",
-    "datum": "23.6.2027",
-    "mesto": "Děčín",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "4.6 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -33563,6 +33827,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "10 km",
+      "Kraj": "Ústecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běhej lesy Klínovec",
+    "url": "https://www.bezeckyzavod.cz/behej-lesy-klinovec-loucna-pod-klinovcem-2027/",
+    "datum": "10.7.2027",
+    "mesto": "Loučná pod Klínovcem",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "22 km",
       "Kraj": "Ústecký kraj"
     }
   },
@@ -33916,10 +34192,10 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Olympijský běh – Turnov",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-turnov-2027/",
+    "nazov": "Olympijský běh – Liberec",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-liberec-2027/",
     "datum": "23.6.2027",
-    "mesto": "Turnov",
+    "mesto": "Liberec",
     "popis": "",
     "info": {
       "Dĺžka trate": "6 km",
@@ -33928,10 +34204,10 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Olympijský běh – Liberec",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-liberec-2027/",
+    "nazov": "Olympijský běh – Turnov",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-turnov-2027/",
     "datum": "23.6.2027",
-    "mesto": "Liberec",
+    "mesto": "Turnov",
     "popis": "",
     "info": {
       "Dĺžka trate": "6 km",
@@ -33959,6 +34235,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "42 km",
+      "Kraj": "Liberecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běhej lesy Jizerská",
+    "url": "https://www.bezeckyzavod.cz/behej-lesy-jizerska-albrechtice-v-jizerskych-horach-2027/",
+    "datum": "28.8.2027",
+    "mesto": "Albrechtice v Jizerských horách",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "50 km",
       "Kraj": "Liberecký kraj"
     }
   },
@@ -34020,18 +34308,6 @@
     "info": {
       "Dĺžka trate": "666 km",
       "Kraj": "Liberecký kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
-    "nazov": "Běh na Dobrošov",
-    "url": "https://www.bezeckyzavod.cz/beh-na-dobrosov-beloves-nachod-2026/",
-    "datum": "11.11.2026",
-    "mesto": "Běloves, Náchod",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "3.8 km",
-      "Kraj": "Královéhradecký kraj"
     }
   },
   {
@@ -34255,6 +34531,18 @@
     "nazov": "Český půlmaraton",
     "url": "https://www.bezeckyzavod.cz/cesky-pulmaraton-hradec-kralove-2027/",
     "datum": "14.3.2027",
+    "mesto": "Hradec Králové",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21 km",
+      "Kraj": "Královéhradecký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "RunTour Hradec Králové",
+    "url": "https://www.bezeckyzavod.cz/runtour-hradec-kralove-2027/",
+    "datum": "10.4.2027",
     "mesto": "Hradec Králové",
     "popis": "",
     "info": {
@@ -34564,6 +34852,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Vánoční běh do vrchu",
+    "url": "https://www.bezeckyzavod.cz/vanocni-beh-do-vrchu-tremosnice-2026/",
+    "datum": "5.12.2026",
+    "mesto": "Třemošnice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "3.6 km",
+      "Kraj": "Pardubický kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Malá cena Velké Verandy",
     "url": "https://www.bezeckyzavod.cz/mala-cena-velke-verandy-chocen-2026/",
     "datum": "6.12.2026",
@@ -34720,6 +35020,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Hradubický běh",
+    "url": "https://www.bezeckyzavod.cz/hradubicky-beh-start-pardubice-2027/",
+    "datum": "15.5.2027",
+    "mesto": "Pardubice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
+      "Kraj": "Pardubický kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "CZECHMAN Triatlon",
     "url": "https://www.bezeckyzavod.cz/czechman-triatlon-stare-zdanice-2027/",
     "datum": "12.6.2027",
@@ -34775,6 +35087,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "10 km",
+      "Kraj": "Pardubický kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "RunTour Pardubice",
+    "url": "https://www.bezeckyzavod.cz/runtour-pardubice-2027/",
+    "datum": "16.10.2027",
+    "mesto": "Pardubice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21.1 km",
       "Kraj": "Pardubický kraj"
     }
   },
@@ -34912,6 +35236,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běhej lesy Týmovka",
+    "url": "https://www.bezeckyzavod.cz/behej-lesy-tymovka-zdar-nad-sazavou-2027/",
+    "datum": "25.6.2027",
+    "mesto": "Žďár nad Sázavou",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "220 km",
+      "Kraj": "Kraj Vysočina"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Jihlavský půlmaraton",
     "url": "https://www.bezeckyzavod.cz/jihlavsky-pulmaraton-jihlava-2027/",
     "datum": "5.9.2027",
@@ -34931,6 +35267,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "21.1 km",
+      "Kraj": "Kraj Vysočina"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Třebíčský maraton",
+    "url": "https://www.bezeckyzavod.cz/trebicsky-maraton-2027/",
+    "datum": "23.10.2027",
+    "mesto": "Třebíč",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "42 km",
       "Kraj": "Kraj Vysočina"
     }
   },
@@ -35356,6 +35704,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "Strážnická stovka",
+    "url": "https://www.bezeckyzavod.cz/straznicka-stovka-straznice-2027/",
+    "datum": "8.5.2027",
+    "mesto": "Strážnice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "100 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Wings for Life World Run Brno",
     "url": "https://www.bezeckyzavod.cz/wings-for-life-world-brno-2027/",
     "datum": "9.5.2027",
@@ -35411,6 +35771,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "21.097 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "RunTour Brno",
+    "url": "https://www.bezeckyzavod.cz/runtour-brno-2027/",
+    "datum": "22.5.2027",
+    "mesto": "Brno",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "10 km",
       "Kraj": "Jihomoravský kraj"
     }
   },
@@ -35495,6 +35867,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "15.7 km",
+      "Kraj": "Jihomoravský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Běhej lesy Lednice",
+    "url": "https://www.bezeckyzavod.cz/behej-lesy-lednice-2027/",
+    "datum": "9.10.2027",
+    "mesto": "Lednice",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "42 km",
       "Kraj": "Jihomoravský kraj"
     }
   },
@@ -35776,6 +36160,18 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
+    "nazov": "RunTour Olomouc",
+    "url": "https://www.bezeckyzavod.cz/runtour-olomouc-2027/",
+    "datum": "17.7.2027",
+    "mesto": "Olomouc",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21.1 km",
+      "Kraj": "Olomoucký kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
     "nazov": "Horský triatlon Úžas",
     "url": "https://www.bezeckyzavod.cz/horsky-triatlon-uzas-stare-mesto-2027/",
     "datum": "14.8.2027",
@@ -36052,18 +36448,6 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Olympijský běh – Rožnov pod Radhoštěm",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-b-h--roznov-pod-radhostem-2027/",
-    "datum": "23.6.2027",
-    "mesto": "Rožnov pod Radhoštěm",
-    "popis": "",
-    "info": {
-      "Dĺžka trate": "5 km",
-      "Kraj": "Zlínský kraj"
-    }
-  },
-  {
-    "zdroj": "bezeckyzavod.cz",
     "nazov": "Olympijský běh – Valašské Klobouky",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-valasske-valasske-klobouky-2027/",
     "datum": "23.6.2027",
@@ -36071,6 +36455,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "10 km",
+      "Kraj": "Zlínský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "Olympijský běh – Rožnov pod Radhoštěm",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-b-h--roznov-pod-radhostem-2027/",
+    "datum": "23.6.2027",
+    "mesto": "Rožnov pod Radhoštěm",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "5 km",
       "Kraj": "Zlínský kraj"
     }
   },
@@ -36652,7 +37048,19 @@
   },
   {
     "zdroj": "bezeckyzavod.cz",
-    "nazov": "Beskydská sedmička",
+    "nazov": "Běhej lesy Bílá",
+    "url": "https://www.bezeckyzavod.cz/behej-lesy-bila-2027/",
+    "datum": "31.7.2027",
+    "mesto": "Bílá",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "20 km",
+      "Kraj": "Moravskoslezský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "IMOS Beskydská sedmička",
     "url": "https://www.bezeckyzavod.cz/beskydska-sedmicka-trinec-2027/",
     "datum": "27.8.2027",
     "mesto": "Třinec",
@@ -36671,6 +37079,18 @@
     "popis": "",
     "info": {
       "Dĺžka trate": "42.2 km",
+      "Kraj": "Moravskoslezský kraj"
+    }
+  },
+  {
+    "zdroj": "bezeckyzavod.cz",
+    "nazov": "RunTour Ostrava",
+    "url": "https://www.bezeckyzavod.cz/runtour-ostrava-2027/",
+    "datum": "11.9.2027",
+    "mesto": "Ostrava",
+    "popis": "",
+    "info": {
+      "Dĺžka trate": "21.1 km",
       "Kraj": "Moravskoslezský kraj"
     }
   },
