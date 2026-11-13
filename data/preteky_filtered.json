@@ -2215,24 +2215,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Praha - Královka",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-praha-brevnov-2027-6/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Břevnov",
-    "kraj": "Praha a okolí",
-    "dlzka": "3.8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Praha - Letná",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-praha-2027-6/",
@@ -2242,6 +2224,24 @@
     "mesto": "Praha",
     "kraj": "Praha a okolí",
     "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Praha - Královka",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-praha-brevnov-2027-6/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Břevnov",
+    "kraj": "Praha a okolí",
+    "dlzka": "3.8 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2305,24 +2305,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Kunice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-kunice-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Kunice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Horoměřice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-horomerice-2027/",
@@ -2332,6 +2314,24 @@
     "mesto": "Horoměřice",
     "kraj": "Středočeský kraj",
     "dlzka": "7 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Kunice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-kunice-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Kunice",
+    "kraj": "Středočeský kraj",
+    "dlzka": "10 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2503,24 +2503,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Chotiměř",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-chotimer-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Chotiměř",
-    "kraj": "Ústecký kraj",
-    "dlzka": "6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh - Děčín",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-decin-2027/",
@@ -2530,6 +2512,24 @@
     "mesto": "Děčín",
     "kraj": "Ústecký kraj",
     "dlzka": "4.6 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Chotiměř",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-chotimer-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Chotiměř",
+    "kraj": "Ústecký kraj",
+    "dlzka": "6 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2791,24 +2791,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Valašské Klobouky",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-valasske-valasske-klobouky-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Valašské Klobouky",
-    "kraj": "Zlínský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Rožnov pod Radhoštěm",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-b-h--roznov-pod-radhostem-2027/",
@@ -2818,6 +2800,24 @@
     "mesto": "Rožnov pod Radhoštěm",
     "kraj": "Zlínský kraj",
     "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Valašské Klobouky",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-valasske-valasske-klobouky-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Valašské Klobouky",
+    "kraj": "Zlínský kraj",
+    "dlzka": "10 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -3514,24 +3514,6 @@
     "popis": ""
   },
   {
-    "nazov": "Zahořanská 10",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/zahoranska-10-zahorany-2027/",
-    "datum": "2027-05-30",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Zahořany",
-    "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Babický Trail 1/4 Maraton",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/babicky-trail-1-4-maraton-babice-2027/",
@@ -3547,6 +3529,24 @@
     "tagy": [
       "ultra",
       "teren"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Zahořanská 10",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/zahoranska-10-zahorany-2027/",
+    "datum": "2027-05-30",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Zahořany",
+    "kraj": "Středočeský kraj",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
     ],
     "popis": ""
   },
@@ -7643,6 +7643,24 @@
     "popis": ""
   },
   {
+    "nazov": "Silvestrovský kros – Dolné Orešany",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/silvestrovsky-kros-dolne-oresany-17/",
+    "datum": "2026-12-31",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Dolné Orešany okr. Trnava",
+    "kraj": "",
+    "dlzka": "6,5 km",
+    "povrch": "terén + asfalt",
+    "start_cas": "11:00 hod.",
+    "organizator": "KRB Dolné Orešany, Obec Dolné Orešany",
+    "tagy": [
+      "kros"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Silvestrovský beh Prešov 2026",
     "zdroj": "pretekaj.sk",
     "url": "https://pretekaj.sk/presovsilvester2026",
@@ -10935,6 +10953,24 @@
     "popis": ""
   },
   {
+    "nazov": "Chateau Run Topolčianky",
+    "zdroj": "beh.sk",
+    "url": "https://beh.sk/pretek/chateau-run-topolcianky-9-2/",
+    "datum": "2026-11-14",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Topoľčianky",
+    "kraj": "",
+    "dlzka": "16 km, 8 km",
+    "povrch": "asfaltové a lesné cesty",
+    "start_cas": "10:30 hod. Štart 16 km behu, 10:45 hod. Štart 8 km behu",
+    "organizator": "Vinárske závody Topoľčianky s.r.o. , Obecný úrad Topoľčianky, OZ Obehni Slovensko Bratislava, Základná škola Topoľčianky",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Rokytka Challenge",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/rokytka-challenge-praha-2026/",
@@ -11277,24 +11313,6 @@
     "povrch": "",
     "start_cas": "16:00 hod.",
     "organizator": "Bežecký klub TBK TORA Topoľčany, o. z.",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Listopadový běh Smetanovými sady",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/listopadovy-beh-smetanovymi-olomouc-2026/",
-    "datum": "2026-11-12",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Olomouc",
-    "kraj": "Olomoucký kraj",
-    "dlzka": "6.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
     "tagy": [
       "beh"
     ],
@@ -12340,6 +12358,24 @@
     "organizator": "",
     "tagy": [
       "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Hamburg „polmaratón“",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/hamburg-polmaraton-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Smižany",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
     ],
     "popis": ""
   },

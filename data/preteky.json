@@ -414,6 +414,20 @@
     }
   },
   {
+    "datum": "2026-12-31",
+    "url": "https://beh.sk/pretek/silvestrovsky-kros-dolne-oresany-17/",
+    "nazov": "Silvestrovský kros – Dolné Orešany",
+    "mesto": "Dolné Orešany okr. Trnava",
+    "info": {
+      "Dĺžka trate": "6,5 km",
+      "Povrch": "terén + asfalt",
+      "Štart": "11:00 hod.",
+      "Miesto": "Dolné Orešany okr. Trnava, pred Kultúrnym domom",
+      "Organizátor": "KRB Dolné Orešany, Obec Dolné Orešany",
+      "Informácie": "Marek Zuzčák, tel.: 0907 037 996, e-mail: marek.zuzčák@gmail.com"
+    }
+  },
+  {
     "datum": "2026-12-30",
     "url": "https://beh.sk/pretek/silvestrovsky-beh-na-tartane-17/",
     "nazov": "Silvestrovský beh na tartane – „Memoriál Pavla Rajca“",
@@ -1096,6 +1110,20 @@
       "Miesto": "Vinica, futbalové ihrisko",
       "Organizátor": "Obec Vinica v spolupráci s miestnymi civilnými organizáciami a GRAND centrum o. z.",
       "Informácie": "Ivan György, tel.: 0907 765 097"
+    }
+  },
+  {
+    "datum": "2026-11-14",
+    "url": "https://beh.sk/pretek/chateau-run-topolcianky-9-2/",
+    "nazov": "Chateau Run Topolčianky",
+    "mesto": "Topoľčianky",
+    "info": {
+      "Dĺžka trate": "16 km, 8 km",
+      "Povrch": "asfaltové a lesné cesty",
+      "Štart": "10:30 hod. Štart 16 km behu, 10:45 hod. Štart 8 km behu",
+      "Miesto": "Topoľčianky, Zámocky park Topoľčianky",
+      "Organizátor": "Vinárske závody Topoľčianky s.r.o. , Obecný úrad Topoľčianky, OZ Obehni Slovensko Bratislava, Základná škola Topoľčianky",
+      "Informácie": "OZ Obehni Slovensko, tel: 0903 263 390, e-mail: info@winerun.sk"
     }
   },
   {
