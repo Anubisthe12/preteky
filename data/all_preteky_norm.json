@@ -36,6 +36,24 @@
     "popis": ""
   },
   {
+    "nazov": "Silvestrovský běh ulicemi města Soběslavi",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/silvestrovsky-beh-ulicemi-sobeslav-2027/",
+    "datum": "2027-12-30",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Soběslav",
+    "kraj": "Jihočeský kraj",
+    "dlzka": "2.026 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Štěpánský běh",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/stepansky-beh-prachatice-2027/",
@@ -2289,24 +2307,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Kolín",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-kolin-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Kolín",
-    "kraj": "Středočeský kraj",
-    "dlzka": "3 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Mělník",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-melnik-2027/",
@@ -2316,6 +2316,24 @@
     "mesto": "Mělník",
     "kraj": "Středočeský kraj",
     "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Kolín",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-kolin-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Kolín",
+    "kraj": "Středočeský kraj",
+    "dlzka": "3 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2361,24 +2379,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Červené Pečky",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-cervene-cervene-pecky-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Červené Pečky",
-    "kraj": "Středočeský kraj",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Čelákovice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-celakovice-2027/",
@@ -2388,6 +2388,24 @@
     "mesto": "Čelákovice",
     "kraj": "Středočeský kraj",
     "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Červené Pečky",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-cervene-cervene-pecky-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Červené Pečky",
+    "kraj": "Středočeský kraj",
+    "dlzka": "5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2577,24 +2595,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Lovosice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-lovosice-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Lovosice",
-    "kraj": "Ústecký kraj",
-    "dlzka": "8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Louny",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-louny-dobromerice-2027/",
@@ -2604,6 +2604,24 @@
     "mesto": "Dobroměřice",
     "kraj": "Ústecký kraj",
     "dlzka": "4 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Lovosice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-lovosice-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Lovosice",
+    "kraj": "Ústecký kraj",
+    "dlzka": "8 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -3388,6 +3406,24 @@
     "popis": ""
   },
   {
+    "nazov": "NN Prague Run",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/nn-prague-run-praha-7-2027/",
+    "datum": "2027-06-05",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Praha 7",
+    "kraj": "Praha a okolí",
+    "dlzka": "21.1 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Čertovskej ultratrail",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/certovskej-ultratrail-hamr-na-jezere-2027/",
@@ -3534,6 +3570,24 @@
     "popis": ""
   },
   {
+    "nazov": "Zahořanská 10",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/zahoranska-10-zahorany-2027/",
+    "datum": "2027-05-30",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Zahořany",
+    "kraj": "Středočeský kraj",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Babický Trail 1/4 Maraton",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/babicky-trail-1-4-maraton-babice-2027/",
@@ -3549,24 +3603,6 @@
     "tagy": [
       "ultra",
       "teren"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Zahořanská 10",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/zahoranska-10-zahorany-2027/",
-    "datum": "2027-05-30",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Zahořany",
-    "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
     ],
     "popis": ""
   },
@@ -4408,6 +4444,24 @@
     "popis": ""
   },
   {
+    "nazov": "Olza RUN",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olza-run-bohumin-sunychl-2027/",
+    "datum": "2027-05-15",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Bohumín - Šunychl",
+    "kraj": "Moravskoslezský kraj",
+    "dlzka": "100 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Zručský májový běh",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/zrucsky-majovy-beh-zruc-nad-sazavou-2027/",
@@ -4516,24 +4570,6 @@
     "popis": ""
   },
   {
-    "nazov": "Vltava Run TAM A ZPÁTKY",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/vltava-run-tam-a-stachy-2027/",
-    "datum": "2027-05-08",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Stachy",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "243 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Vltava Run",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/vltava-run-stachy-2027/",
@@ -4543,6 +4579,24 @@
     "mesto": "Stachy",
     "kraj": "Jihočeský kraj",
     "dlzka": "375 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Vltava Run TAM A ZPÁTKY",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/vltava-run-tam-a-stachy-2027/",
+    "datum": "2027-05-08",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Stachy",
+    "kraj": "Jihočeský kraj",
+    "dlzka": "243 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -4780,6 +4834,24 @@
     "mesto": "Horní Bludovice",
     "kraj": "Moravskoslezský kraj",
     "dlzka": "7 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Gladiator Race Milovice OCRC + GR RUN",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/gladiator-race-milovice-2027/",
+    "datum": "2027-04-30",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Milovice",
+    "kraj": "Středočeský kraj",
+    "dlzka": "15 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -7842,6 +7914,25 @@
     "popis": ""
   },
   {
+    "nazov": "Pohár Vysokých Tatier 2027",
+    "zdroj": "pretekaj.sk",
+    "url": "https://pretekaj.sk/vt27",
+    "datum": "2027-01-01",
+    "datum_do": "2027-04-01",
+    "krajina": "Slovensko",
+    "mesto": "Vysoké Tatry",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": "Pohár Vysokých Tatier je viackolová regionálna súťaž organizovaná v spolupráci s ŠKP Vysoké Tatry v regióne Vysokých Tatier a okolia."
+  },
+  {
     "nazov": "Křinecký novoroční běh",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/krinecky-novorocni-2027/",
@@ -8893,6 +8984,24 @@
     "popis": ""
   },
   {
+    "nazov": "Běh pod Pálavou",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/beh-pod-palavou-perna-2026/",
+    "datum": "2026-12-19",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Perná",
+    "kraj": "Jihomoravský kraj",
+    "dlzka": "9.8 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Vianočná žiacka hala 2026",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=12",
@@ -9284,6 +9393,24 @@
     "mesto": "Praha",
     "kraj": "Praha a okolí",
     "dlzka": "3 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Podnuselák #62",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/podnuselak-62-praha-2026/",
+    "datum": "2026-12-07",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Praha",
+    "kraj": "Praha a okolí",
+    "dlzka": "5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -11270,6 +11397,24 @@
     "popis": ""
   },
   {
+    "nazov": "Cyklostezkou podél Ohře",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/cyklostezkou-podel-ohre-kadan-2026/",
+    "datum": "2026-11-15",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Kadaň",
+    "kraj": "Ústecký kraj",
+    "dlzka": "6.59 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Hořický kros",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/horicky-kros-horice-2026/",
@@ -11911,25 +12056,6 @@
     "popis": ""
   },
   {
-    "nazov": "Druhá šanca 2026",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/druha-sanca-26",
-    "datum": "2026-10-31",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "maraton"
-    ],
-    "popis": "Virtuálne podujatie o druhú šancu na métach, na ktoré si nedosiahol Vyber a vybehaj si medailu, ktorá Ti chýba Nie všetci ste mohli nastúpiť na každý štart na podujatiach Marathon Tour 2026. Aj preto sme sa rozhodli ponúknuť všetkým príležitosť dopln"
-  },
-  {
     "nazov": "OK ZŠ v cezpoľnom behu",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
@@ -11987,25 +12113,6 @@
     "popis": ""
   },
   {
-    "nazov": "Lion Car RUN UP - beh po schodoch",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/run-up-26",
-    "datum": "2026-10-10",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": "Najprestížnejšie preteky v tower runningu na Slovensku s dobročinným úmyslom 200 športovcov - 20 poschodí - jeden spoločný cieľ. Vybehni 20 poschodí v najvyššej budove v Banskej Bystrici a pomôž vybehať až 2 000 € pre dobrú vec. 5 € z každého štartov"
-  },
-  {
     "nazov": "Turčianska žiacka liga 2026",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=10",
@@ -12042,25 +12149,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Jarabský polmaratón 2026",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/jaraba26",
-    "datum": "2026-10-03",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "21.8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "BEŽECKÁ VÝZVA V SRDCI NÍZKYCH TATIER Tento trailový pretek (Sky Race) s dĺžkou 21,8 km nie je len o výkone, ale aj o zážitku. Náročná trasa plná stúpaní, klesaní a technického terénu preverí každého bežca - no zároveň každého odmení nezabudnuteľnými "
   },
   {
     "nazov": "Majstrovstvá SR družstiev staršieho žiactva",
@@ -12194,25 +12282,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Beh Tekvičiarov 2026",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/beh-tekviciarov-2026",
-    "datum": "2026-09-12",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh",
-      "asfalt"
-    ],
-    "popis": "Šiesty ročník zážitkového 8km cestného behu so štartom na plochodrážnom ovále Mestského športového areálu v Žarnovici. POZOR! Štartujeme originál plochodrážnym štartovacím zariadením. 8km trasa behu vedie prímestskými komunikáciami s nenáročným profi"
   },
   {
     "nazov": "2.kolo TIPOS pohár v letnom biatlone na KL 2026, 1.kolo Biatloncrossu",
@@ -12386,24 +12455,6 @@
     "popis": ""
   },
   {
-    "nazov": "Donovalský Drapák",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/drapak26",
-    "datum": "2026-08-01",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": "DONOVALSKÝ DRAPÁK: RUN & BIKE SHOW DONOVALY 2026 Vyber si RUN alebo BIKE a postav sa tratiam, na ktorých sa ukáže, čo je v tebe. RUN: DRAPÁK BEH (10km) DRAPÁK BEH (20km) BIKE: DRAPÁK MARATÓN (50km) DRAPÁK HOBBY (22,5km) DRAPÁČIK JUNIORI (1,5km, 2,5km"
-  },
-  {
     "nazov": "3. kolo M-SsAZ mladšieho žiactva skupina Sever",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=7",
@@ -12421,25 +12472,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "HLOBIŠOVSKÁ DEVIATKA 2026",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/hlobisov26",
-    "datum": "2026-06-27",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "8.6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Trailový beh v malebnom rozprávkovom prostredí Hájneho grúňa na upätí pohoria Poľana. Pripravili sme pre Vás trať 8,6 km s prevýšením 440m plnú nadherných technických chodníkov, horských luk a očarujucich výhladov na hrebeň Nízkych tatier. Miesto kon"
   },
   {
     "nazov": "1. kolo TIPOS pohár v letnom biatlone 2026",
@@ -12744,26 +12776,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Jarný lesný beh v Michalovej XII ročník",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/mich26",
-    "datum": "2026-05-30",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh",
-      "teren"
-    ],
-    "popis": "Už XII. ročník populárneho Lesného behu v Michalovej, s online registráciou veverkovask"
   },
   {
     "nazov": "Memoriál Jozefa Gabčíka 2026",
@@ -13659,25 +13671,6 @@
     "popis": ""
   },
   {
-    "nazov": "Silvestrovský beh obce Michalová, XXVII. ročník",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/sbom25",
-    "datum": "2025-12-31",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": "XXVII. ročník populárneho Silvestrovského behu v Michalovej s online registráciou veverkovask"
-  },
-  {
     "nazov": "Silvestrovský beh na tartane - Memoriál Pavla Rajca",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=12",
@@ -13811,25 +13804,6 @@
     "popis": ""
   },
   {
-    "nazov": "Druhá šanca 2025",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/druha-sanca-25",
-    "datum": "2025-11-02",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "maraton"
-    ],
-    "popis": "Virtuálne podujatie o druhú šancu na métach, na ktoré si nedosiahol Vyber a vybehaj si medailu, ktorá Ti chýba Nie všetci ste mohli nastúpiť na každý štart na podujatiach Marathon Tour 2025. Aj preto sme sa rozhodli ponúknuť všetkým príležitosť dopln"
-  },
-  {
     "nazov": "AMATER CUP 5.ročník",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=10",
@@ -13923,25 +13897,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Jarabský polmaratón 2025",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/jaraba25",
-    "datum": "2025-10-04",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "21.8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "BEŽECKÁ VÝZVA V SRDCI NÍZKYCH TATIER Tento trailový pretek (Sky Race) s dĺžkou 21,8 km nie je len o výkone, ale aj o zážitku. Náročná trasa plná stúpaní, klesaní a technického terénu preverí každého bežca - no zároveň každého odmení nezabudnuteľnými "
   },
   {
     "nazov": "Turčianská žiacka liga",
@@ -14075,25 +14030,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Útek do divočiny",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/divocina2025",
-    "datum": "2025-09-15",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "11 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Útek do divočiny je obľúbený horský trailový beh, ktorý sa každoročne koná v okolí Brezna (štart pri OD Kaufland). Ide o: Dĺžku trate: približne 11 km Prevýšenie: asi 550 m Typ terénu: poľné cesty, lesné chodníky a spevnené turistické chodníky Trasa "
   },
   {
     "nazov": "CERC a 1. kolo TIPOS pohár v letnom biatlone na KL 2025",
@@ -14495,25 +14431,6 @@
     "popis": ""
   },
   {
-    "nazov": "HLOBIŠOVSKÁ DEVIATKA 2025",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/hlobisov2025",
-    "datum": "2025-06-14",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "8.6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "ultra",
-      "teren"
-    ],
-    "popis": "Trailový beh v malebnom rozprávkovom prostredí Hájneho grúňa na upätí pohoria Poľana. Pripravili sme pre Vás trať 8,6 km s prevýšením 440m plnú nadherných technických chodníkov, horských luk a očarujucich výhladov na hrebeň Nízkych tatier. Miesto kon"
-  },
-  {
     "nazov": "1. kolo TIPOS pohár v letnom biatlone 2025",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2025&SelectedMonth=6",
@@ -14683,26 +14600,6 @@
       "beh"
     ],
     "popis": ""
-  },
-  {
-    "nazov": "Jarný lesný beh v Michalovej XI ročník",
-    "zdroj": "registrujsa.sk",
-    "url": "https://www.registrujsa.sk/mich25",
-    "datum": "2025-05-31",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh",
-      "teren"
-    ],
-    "popis": "Už XI. ročník populárneho Lesného behu v Michalovej, s online registráciou veverkovask"
   },
   {
     "nazov": "Memoriál Jozefa Gabčíka 2025",
@@ -29585,25 +29482,6 @@
     "popis": ""
   },
   {
-    "nazov": "Večerný beh obcou Veľké Uherce",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/vecerny-beh-velke-uherce-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Veľké Uherce",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Horský beh Smolník",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/horsky-beh-smolnik-beh-hrebenom-volovskych-vrchov-2026",
@@ -30040,25 +29918,6 @@
     "popis": ""
   },
   {
-    "nazov": "Katarínsky večerný beh",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/katarinsky-vecerny-beh-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Dolný Kubín",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "GoBala Pól&Maratón",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/gobala-polmaraton-2026",
@@ -30180,6 +30039,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Kozárovce",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Katarínsky večerný beh",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/katarinsky-vecerny-beh-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Dolný Kubín",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -30378,6 +30256,25 @@
     "start_cas": "",
     "organizator": "",
     "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Adventná výzva",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/adventna-vyzva-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
       "beh"
     ],
     "popis": ""
@@ -30840,6 +30737,25 @@
     "popis": ""
   },
   {
+    "nazov": "Silvestrovský beh",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/silvestrovsky-beh-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Humenné",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Silvestrovský beh na tartane – Memoriál Pavla Rajca",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/silvestrovsky-beh-na-tartane-2026",
@@ -30974,25 +30890,6 @@
     "popis": ""
   },
   {
-    "nazov": "Silvestrovský beh",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/silvestrovsky-beh-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Humenné",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Horovská desiatka",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/horovska-desiatka-2026",
@@ -31018,6 +30915,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Senica",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Zoborský silvestrovský beh profesora Ladislava Korčeka®",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/zoborsky-silvestrovsky-beh-profesora-ladislava-korceka-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nitra",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -31180,6 +31096,25 @@
     "popis": ""
   },
   {
+    "nazov": "23. ročník Biela Stopa Frička",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/23-rocnik-biela-stopa-fricka-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Aupark Tower Run",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/aupark-tower-run-2027",
@@ -31252,6 +31187,25 @@
     "tagy": [
       "neznama_dlzka",
       "kros"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Pieniny Winter Run",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/pieniny-winter-run-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Červený Kláštor",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
     ],
     "popis": ""
   },
@@ -31636,6 +31590,25 @@
     "popis": ""
   },
   {
+    "nazov": "Pusťák ULTRA 50",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/pustak-ultra-50-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Zvolen",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "ultra"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Demänovský Štvanec",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/demanovsky-stvanec-2027",
@@ -31816,6 +31789,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Valčianska dolina Spartan Trifecta Weekend",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/valcianska-dolina-spartan-trifecta-weekend-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Valča",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -32415,6 +32407,25 @@
     "popis": ""
   },
   {
+    "nazov": "Madonan Race EXTREME",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/madonan-race-extreme-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Kľačany",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Kľačianska desiatka",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/klacianska-desiatka-2027",
@@ -32554,6 +32565,25 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Bratislava",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Večerný beh obcou Veľké Uherce",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/vecerny-beh-velke-uherce-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Veľké Uherce",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -41639,6 +41669,25 @@
     "popis": ""
   },
   {
+    "nazov": "Nitrianska bežecká liga – 6. kolo",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/nitrianska-bezecka-liga-nitra-2026",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nitra",
+    "kraj": "",
+    "dlzka": "",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "neznama_dlzka",
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Trenčianska bežecká liga – 4. kolo",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/trencianska-bezecka-liga-2026",
@@ -42234,25 +42283,6 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Topoľčany",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Nitrianska bežecká liga – 6. kolo",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/nitrianska-bezecka-liga-nitra-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nitra",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -44170,25 +44200,6 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Bratislava",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Valčianska dolina Spartan Trifecta Weekend",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/valcianska-dolina-spartan-trifecta-weekend-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Valča",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
@@ -47374,25 +47385,6 @@
     "datum_do": "",
     "krajina": "Slovensko",
     "mesto": "Zemplínska Široká",
-    "kraj": "",
-    "dlzka": "",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Pieniny Winter Run",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/pieniny-winter-run-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Červený Kláštor",
     "kraj": "",
     "dlzka": "",
     "povrch": "",
