@@ -2557,24 +2557,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Červené Pečky",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-cervene-cervene-pecky-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Červené Pečky",
-    "kraj": "Středočeský kraj",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Neratovice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-neratovice-2027/",
@@ -2584,6 +2566,24 @@
     "mesto": "Neratovice",
     "kraj": "Středočeský kraj",
     "dlzka": "6 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Červené Pečky",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-cervene-cervene-pecky-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Červené Pečky",
+    "kraj": "Středočeský kraj",
+    "dlzka": "5 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -10826,276 +10826,6 @@
     "popis": ""
   },
   {
-    "nazov": "Sametový běh",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sametovy-beh-odolena-voda-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Odolena Voda",
-    "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Večerní běh městem Čelákovice - memoriál Rudolfa Vichery",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/vecerni-beh-mestem-celakovice-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Čelákovice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "6.5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Krosová 12°",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/krosova-12--velesin-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Velešín",
-    "kraj": "Jihočeský kraj",
-    "dlzka": "12 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "kros"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh 17. listopadu Kadaň",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-17-listopadu-kadan-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Kadaň",
-    "kraj": "Ústecký kraj",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Velká cena 17. listopadu v běhu na 5000 m",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/velka-cena-17-listopadu-decin-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Děčín",
-    "kraj": "Ústecký kraj",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Sametový běh 17.11.",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/sametovy-beh-17-11--ceska-lipa-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Česká Lípa",
-    "kraj": "Liberecký kraj",
-    "dlzka": "1.71 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh městem Hradec Králové",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-mestem-hradec-kralove-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Hradec Králové",
-    "kraj": "Královéhradecký kraj",
-    "dlzka": "9.7 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh 17. listopadu Polička",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-17-listopadu-policka-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Polička",
-    "kraj": "Pardubický kraj",
-    "dlzka": "6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Podzimní cross - Běh 17. listopadu",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/podzimni-cross-beh-borice-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Bořice",
-    "kraj": "Pardubický kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh 17. listopadu - Vejvanovice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-17-listopadu--hrochuv-tynec-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Hrochův Týnec",
-    "kraj": "Pardubický kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Čachoťák",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/cachotak-chotebor-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Chotěboř",
-    "kraj": "Kraj Vysočina",
-    "dlzka": "14 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh o pohár Jehnic",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-o-pohar-jehnic-mokra-hora-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Mokrá Hora",
-    "kraj": "Jihomoravský kraj",
-    "dlzka": "11 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh 17. listopadu Přerov",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-17-listopadu-prerov-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Přerov",
-    "kraj": "Olomoucký kraj",
-    "dlzka": "11.9 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh 17. listopadu",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-17-listopadu-hrabova-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Hrabová",
-    "kraj": "Moravskoslezský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Běh kolem koupaliště",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/beh-kolem-koupaliste-koprivnice-2026/",
-    "datum": "2026-11-17",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Kopřivnice",
-    "kraj": "Moravskoslezský kraj",
-    "dlzka": "5 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Dubnická hodinovka 2026",
     "zdroj": "hrdosport.sk",
     "url": "https://www.hrdosport.sk/Events?SelectedYear=2026&SelectedMonth=6",
@@ -13479,25 +13209,6 @@
     "organizator": "",
     "tagy": [
       "beh"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Pavúčik hodinovka a 12 minútovka",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/pavucik-hodinovka-a-12-minutovka-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Levice",
-    "kraj": "",
-    "dlzka": "hodinovka",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "neznama_dlzka",
-      "casova"
     ],
     "popis": ""
   },
