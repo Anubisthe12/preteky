@@ -2503,24 +2503,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Horoměřice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-horomerice-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Horoměřice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "7 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Kunice",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-kunice-2027/",
@@ -2530,6 +2512,24 @@
     "mesto": "Kunice",
     "kraj": "Středočeský kraj",
     "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Horoměřice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-horomerice-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Horoměřice",
+    "kraj": "Středočeský kraj",
+    "dlzka": "7 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2557,24 +2557,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Neratovice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-neratovice-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Neratovice",
-    "kraj": "Středočeský kraj",
-    "dlzka": "6 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Červené Pečky",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-cervene-cervene-pecky-2027/",
@@ -2584,6 +2566,24 @@
     "mesto": "Červené Pečky",
     "kraj": "Středočeský kraj",
     "dlzka": "5 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Neratovice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-neratovice-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Neratovice",
+    "kraj": "Středočeský kraj",
+    "dlzka": "6 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -2755,24 +2755,6 @@
     "popis": ""
   },
   {
-    "nazov": "Olympijský běh – Lovosice",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-lovosice-2027/",
-    "datum": "2027-06-23",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Lovosice",
-    "kraj": "Ústecký kraj",
-    "dlzka": "8 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Olympijský běh – Louny",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/olympijsky-beh-louny-dobromerice-2027/",
@@ -2782,6 +2764,24 @@
     "mesto": "Dobroměřice",
     "kraj": "Ústecký kraj",
     "dlzka": "4 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Olympijský běh – Lovosice",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/olympijsky-beh-lovosice-2027/",
+    "datum": "2027-06-23",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Lovosice",
+    "kraj": "Ústecký kraj",
+    "dlzka": "8 km",
     "povrch": "",
     "start_cas": "",
     "organizator": "",
@@ -3820,24 +3820,6 @@
     "popis": ""
   },
   {
-    "nazov": "Zahořanská 10",
-    "zdroj": "bezeckyzavod.cz",
-    "url": "https://www.bezeckyzavod.cz/zahoranska-10-zahorany-2027/",
-    "datum": "2027-05-30",
-    "datum_do": "",
-    "krajina": "Česká republika",
-    "mesto": "Zahořany",
-    "kraj": "Středočeský kraj",
-    "dlzka": "10 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "beh"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Babický Trail 1/4 Maraton",
     "zdroj": "bezeckyzavod.cz",
     "url": "https://www.bezeckyzavod.cz/babicky-trail-1-4-maraton-babice-2027/",
@@ -3853,6 +3835,24 @@
     "tagy": [
       "ultra",
       "teren"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Zahořanská 10",
+    "zdroj": "bezeckyzavod.cz",
+    "url": "https://www.bezeckyzavod.cz/zahoranska-10-zahorany-2027/",
+    "datum": "2027-05-30",
+    "datum_do": "",
+    "krajina": "Česká republika",
+    "mesto": "Zahořany",
+    "kraj": "Středočeský kraj",
+    "dlzka": "10 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "beh"
     ],
     "popis": ""
   },
@@ -11689,6 +11689,42 @@
     "popis": ""
   },
   {
+    "nazov": "Lugera Trenčiansky polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/lugera-trenciansky-polmaraton-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Trenčín",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
+    "nazov": "Oktoberfest Run Nitra: Polmaratón",
+    "zdroj": "vsetkybehy.sk",
+    "url": "https://vsetkybehy.sk/podujatie/oktoberfest-run-nitra-polmaraton-2027",
+    "datum": "",
+    "datum_do": "",
+    "krajina": "Slovensko",
+    "mesto": "Nitra",
+    "kraj": "",
+    "dlzka": "42,2 km",
+    "povrch": "",
+    "start_cas": "",
+    "organizator": "",
+    "tagy": [
+      "maraton"
+    ],
+    "popis": ""
+  },
+  {
     "nazov": "Kľačianska desiatka",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/klacianska-desiatka-2027",
@@ -12141,24 +12177,6 @@
     "popis": ""
   },
   {
-    "nazov": "Oktoberfest Run Nitra: Polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/oktoberfest-run-nitra-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Nitra",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton"
-    ],
-    "popis": ""
-  },
-  {
     "nazov": "Dobšinská desiatka",
     "zdroj": "vsetkybehy.sk",
     "url": "https://vsetkybehy.sk/podujatie/dobsinska-desiatka-2026",
@@ -12209,24 +12227,6 @@
     "organizator": "",
     "tagy": [
       "kros"
-    ],
-    "popis": ""
-  },
-  {
-    "nazov": "Lugera Trenčiansky polmaratón",
-    "zdroj": "vsetkybehy.sk",
-    "url": "https://vsetkybehy.sk/podujatie/lugera-trenciansky-polmaraton-2026",
-    "datum": "",
-    "datum_do": "",
-    "krajina": "Slovensko",
-    "mesto": "Trenčín",
-    "kraj": "",
-    "dlzka": "42,2 km",
-    "povrch": "",
-    "start_cas": "",
-    "organizator": "",
-    "tagy": [
-      "maraton"
     ],
     "popis": ""
   },
